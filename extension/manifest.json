@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "JobOps Autofill",
+  "version": "0.1.0",
+  "description": "Fills job application forms from a JobOps pack.json. Never submits — you review and click.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": [
+    "https://boards.greenhouse.io/*",
+    "https://*.greenhouse.io/*",
+    "https://jobs.lever.co/*",
+    "https://jobs.ashbyhq.com/*",
+    "https://apply.workable.com/*",
+    "https://*.workatastartup.com/*",
+    "https://wellfound.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "JobOps Autofill"
+  },
+  "icons": {}
+}

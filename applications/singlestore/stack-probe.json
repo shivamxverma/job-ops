@@ -1,0 +1,908 @@
+{
+  "domain": "singlestore.com",
+  "slug": "singlestore",
+  "probedAt": "2026-10-06T13:38:59.584Z",
+  "liveHosts": [
+    {
+      "host": "singlestore.com",
+      "status": 206,
+      "finalUrl": "https://www.singlestore.com/",
+      "csp": [
+        "singlestore.com",
+        "contentstack.com"
+      ],
+      "headers": {
+        "cache-control": "public, must-revalidate, max-age=0",
+        "connection": "keep-alive",
+        "content-length": "2049",
+        "content-range": "bytes 0-2048/1326786",
+        "content-security-policy": "frame-ancestors https://*.singlestore.com https://*.contentstack.com;",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 06 Oct 2026 13:38:11 GMT",
+        "etag": "\"5102e893168cb8383fefb38c3da1639d\"",
+        "last-modified": "Tue, 06 Oct 2026 13:37:25 GMT",
+        "server": "CloudFront",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "via": "1.1 e4257444e1baa2e44ac1a48dd385109c.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "HCSpHggx2QCr3v9rYhu-b5YMXnviNJJ_otzuoCA5zIXH9q-8RoXSZg==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "www.singlestore.com",
+      "status": 200,
+      "finalUrl": "https://www.singlestore.com/",
+      "csp": [
+        "singlestore.com",
+        "contentstack.com"
+      ],
+      "headers": {
+        "cache-control": "public, must-revalidate, max-age=0",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "frame-ancestors https://*.singlestore.com https://*.contentstack.com;",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 06 Oct 2026 13:38:03 GMT",
+        "etag": "W/\"5102e893168cb8383fefb38c3da1639d\"",
+        "last-modified": "Tue, 06 Oct 2026 13:37:25 GMT",
+        "server": "CloudFront",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "via": "1.1 2fdab31714a9ba8fc39c70a3c382663c.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "2bo5_RUtoXydNETs4AHaSm3z2bDnAwzDDZVj10TicZOCkJj-OdtYiQ==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "api.singlestore.com",
+      "status": 404,
+      "finalUrl": "https://api.singlestore.com/",
+      "csp": [],
+      "headers": {
+        "content-length": "19",
+        "content-type": "text/plain",
+        "date": "Tue, 06 Oct 2026 13:38:11 GMT",
+        "server": "envoy",
+        "x-envoy-upstream-service-time": "0"
+      }
+    },
+    {
+      "host": "docs.singlestore.com",
+      "status": 200,
+      "finalUrl": "https://docs.singlestore.com/",
+      "csp": [
+        "demandbase.com",
+        "ketchjs.com",
+        "ketchcdn.com",
+        "cdn.mxpnl.com",
+        "cdn.usefathom.com",
+        "js.intercomcdn.com",
+        "www.google-analytics.com",
+        "www.googletagmanager.com",
+        "singlestore.com"
+      ],
+      "headers": {
+        "cache-control": "max-age=1, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; media-src 'self' * data: blob:; font-src * data:; connect-src 'self' wss://* https://*; script-src 'self' https://*.doubleclick.net https://*.facebook.net https://*.demandbase.com https://*.cloudflare.com https://*.ketchjs.com https://*.ketchcdn.com https://cdn.mxpnl.com https://cdn.segment.com https://cdn.segment.io https://cdn.usefathom.com https://js.intercomcdn.com https://*.stripe.com https://widget.intercom.io https://www.google-analytics.com https://www.googletagmanager.com https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ 'unsafe-inline'; style-src 'self' 'unsafe-inline'; object-src 'none'; frame-src 'self' https://*.singlestore.com https://*.stripe.com https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha/; frame-ancestors 'self' https://*.singlestore.com; img-src 'self' blob: data: *; worker-src 'self' blob:;",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 06 Oct 2026 13:38:06 GMT",
+        "etag": "W/\"79ef403ff0fe029152d24007087f523b\"",
+        "last-modified": "Fri, 02 Oct 2026 22:31:15 GMT",
+        "referrer-policy": "same-origin",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "Accept-Encoding",
+        "via": "1.1 9f9a8a4ccc654a74f06f14d3b5f5e3d0.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "zjCZPwiw-jVFd9u4eqDvSMeF8PXikWSgAva0kNF6laFDZgyawMAEnw==",
+        "x-amz-cf-pop": "BLR50-P3",
+        "x-cache": "RefreshHit from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "status.singlestore.com",
+      "status": 206,
+      "finalUrl": "https://status.singlestore.com/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "age": "316",
+        "connection": "keep-alive",
+        "content-length": "2049",
+        "content-range": "bytes 0-2048/154230",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 06 Oct 2026 13:38:11 GMT",
+        "etag": "W/\"25a76-GpM5xHUhbEnB4nIGYHST6/fxXxM\"",
+        "vary": "Accept-Encoding",
+        "via": "1.1 4f394bb2485ab8cd24ff0ea2fe25855e.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "XEowtJmNHt8ZlDjUcHwRuXlu3MdQC0c_z4FF2dw4x21kFoXuVdRXHQ==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Miss from cloudfront",
+        "x-response-time": "80.394ms",
+        "x-status-page-id": "5f75344c593ae004ba02aaa6",
+        "x-varnish": "2231714195 2215988844"
+      }
+    },
+    {
+      "host": "portal.singlestore.com",
+      "status": 206,
+      "finalUrl": "https://portal.singlestore.com/",
+      "csp": [
+        "svc.singlestore.com",
+        "aws-virginia-nb2.svc.singlestore.com",
+        "aws-mumbai-novaprd1.svc.singlestore.com",
+        "aws-london-novaprd1.svc.singlestore.com",
+        "aws-virginia-novaprd1.svc.singlestore.com",
+        "aws-oregon-novaprd1.svc.singlestore.com",
+        "demandbase.com",
+        "ketchjs.com",
+        "ketchcdn.com",
+        "cdn.mxpnl.com",
+        "js.intercomcdn.com",
+        "www.google-analytics.com",
+        "www.googletagmanager.com",
+        "cdn.heapanalytics.com",
+        "heapanalytics.com",
+        "singlestore.com",
+        "calendly.com"
+      ],
+      "headers": {
+        "cache-control": "max-age=0,no-cache,must-revalidate",
+        "connection": "keep-alive",
+        "content-length": "2049",
+        "content-range": "bytes 0-2048/2155",
+        "content-security-policy": "default-src 'self'; media-src 'self' * data: blob:; font-src * data:; connect-src 'self' wss: https://* http://127.0.0.1:* https://*.svc.singlestore.com:30081 https://*.aws-virginia-nb2.svc.singlestore.com:8000 http://*.aws-virginia-nb2.svc.singlestore.com:8000 https://*.aws-mumbai-novaprd1.svc.singlestore.com:8000 http://*.aws-mumbai-novaprd1.svc.singlestore.com:8000 https://*.aws-london-novaprd1.svc.singlestore.com:8000 http://*.aws-london-novaprd1.svc.singlestore.com:8000 https://*.aws-virginia-novaprd1.svc.singlestore.com:8000 http://*.aws-virginia-novaprd1.svc.singlestore.com:8000 https://*.aws-oregon-novaprd1.svc.singlestore.com:8000 http://*.aws-oregon-novaprd1.svc.singlestore.com:8000; script-src 'self' https://*.doubleclick.net https://*.facebook.net https://*.demandbase.com https://*.cloudflare.com https://*.ketchjs.com https://*.ketchcdn.com https://cdn.mxpnl.com https://cdn.segment.com https://js.intercomcdn.com https://*.stripe.com https://widget.intercom.io https://www.google-analytics.com https://www.googletagmanager.com https://*.svc.singlestore.com https://*.posthog.com https://cdn.heapanalytics.com https://heapanalytics.com 'unsafe-inline' 'unsafe-eval'; style-src https://heapanalytics.com 'self' 'unsafe-inline'; object-src https://heapanalytics.com 'none'; frame-src 'self' https://*.singlestore.com https://*.singlestore.com:8000 http://*.singlestore.com:8000 https://*.svc.singlestore.com:30081 https://*.svc.singlestore.com:30084 https://*.stripe.com https://calendly.com https://www.youtube.com; img-src 'self' * data: blob:; worker-src 'self' blob:;",
+        "content-type": "text/html",
+        "date": "Tue, 06 Oct 2026 13:38:11 GMT",
+        "etag": "\"38c390a31678351a915cf8e7489d6b30\"",
+        "last-modified": "Mon, 05 Oct 2026 19:13:27 GMT",
+        "referrer-policy": "same-origin",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "via": "1.1 f0baf1369e301dc8f36cd909a541181e.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "5TazyntgcV9bJZy-_cmficjQ19XFgEGSnYbI5iq-YWwZFoPfAzIfeg==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "auth.singlestore.com",
+      "status": 404,
+      "finalUrl": "https://auth.singlestore.com/",
+      "csp": [],
+      "headers": {
+        "connection": "keep-alive",
+        "content-length": "146",
+        "content-type": "text/html",
+        "date": "Tue, 06 Oct 2026 13:38:11 GMT",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "via": "1.1 f3dc6fc64e96a255d97dbbe41714bc1c.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "Pxwm1NzZOix0pGpSubmhUY8_FlS2sWKBUqY5TOXLVLtRZQaSTsXG2A==",
+        "x-amz-cf-pop": "BLR50-P3",
+        "x-cache": "Error from cloudfront"
+      }
+    },
+    {
+      "host": "blog.singlestore.com",
+      "status": 206,
+      "finalUrl": "https://www.singlestore.com/blog/",
+      "csp": [
+        "singlestore.com",
+        "contentstack.com"
+      ],
+      "headers": {
+        "cache-control": "public, must-revalidate, max-age=0",
+        "connection": "keep-alive",
+        "content-length": "2049",
+        "content-range": "bytes 0-2048/1087833",
+        "content-security-policy": "frame-ancestors https://*.singlestore.com https://*.contentstack.com;",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 06 Oct 2026 13:38:14 GMT",
+        "etag": "\"6e643560fc4f7d381ee5a66ed71c1788\"",
+        "last-modified": "Tue, 06 Oct 2026 13:37:17 GMT",
+        "server": "CloudFront",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "via": "1.1 9b626a64a51376c0dd1f017c25a0dfa6.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "vC9m10OZg2orF7Woyz5BxOcpNV9OZmMHRl74cnW5kwh4wGpUHuJrkw==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "developers.singlestore.com",
+      "status": 206,
+      "finalUrl": "https://www.singlestore.com/developers/",
+      "csp": [
+        "singlestore.com",
+        "contentstack.com"
+      ],
+      "headers": {
+        "cache-control": "public, must-revalidate, max-age=0",
+        "connection": "keep-alive",
+        "content-length": "2049",
+        "content-range": "bytes 0-2048/1102263",
+        "content-security-policy": "frame-ancestors https://*.singlestore.com https://*.contentstack.com;",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 06 Oct 2026 13:38:12 GMT",
+        "etag": "\"41575dcbc65fcb1990032299fbfa8000\"",
+        "last-modified": "Tue, 06 Oct 2026 13:37:19 GMT",
+        "server": "CloudFront",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "via": "1.1 9a5f7993ae8aa6b11950605aada73158.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "-bm1SWxw3bmpemPY1e8jNtUEk71SHctRJNqpAWOkZYnYvEfrMqVz_A==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "demandbase.com",
+      "status": 403,
+      "finalUrl": "https://demandbase.com/",
+      "csp": [],
+      "headers": {
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cf-mitigated": "challenge",
+        "cf-ray": "a46510bfba220f3f-BOM",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'none'; script-src 'nonce-gNJBbZkU2y1L0MBV3cfyqZ' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'",
+        "content-type": "text/html; charset=UTF-8",
+        "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "cross-origin-embedder-policy": "require-corp",
+        "cross-origin-opener-policy": "same-origin",
+        "cross-origin-resource-policy": "same-origin",
+        "date": "Tue, 06 Oct 2026 13:38:15 GMT",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+        "origin-agent-cluster": "?1",
+        "permissions-policy": "accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*",
+        "referrer-policy": "same-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=t4r%2BeEgt45I4x2O884bOc6oR3O7zrTFYOefrT%2FMN7AL82ll%2BnSUzbZlPUVS2oiSrIcNE%2FIa1S5%2BfdhTJ3BbEjfSRJEfkm1M9v6L9L0D6aLAXFV%2B3TpsWx2i0D0Rlo0QW\"}]}",
+        "server": "cloudflare",
+        "server-timing": "chlray;desc=\"a46510bfba220f3f\"",
+        "set-cookie": "__cf_bm=4mSPuEtZLNOK7Z6dXsUO2WwKi5cQKoSkXDhaZekW7l8-1791293895.630954-1.0.1.1-o3_7Ism0j7MpjiFNqH3kI43wuYEc.4lIPxgUBLUC5SHZEdTwXytQGwr_nkO78AT.KMDm43_MeWb36a8ROwDUGKUPELx0pRosd8iJILas6NAn7ttar1j3NmgMP2MIAYCy; HttpOnly; SameSite=None; Secure; Path=/; Domain=demandbase.com; Expires=Tue, 06 Oct 2026 14:08:15 GMT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "ketchcdn.com",
+      "status": 200,
+      "finalUrl": "https://ketchcdn.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "public, max-age=604800, stale-while-revalidate=86400",
+        "connection": "close",
+        "content-length": "2",
+        "content-type": "text/plain",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Tue, 06 Oct 2026 13:38:17 GMT",
+        "permissions-policy": "accelerometer=(), autoplay=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=(), xr-spatial-tracking=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "request-id": "646773c3-b72c-4245-b6ad-661d883dd096",
+        "retry-after": "0",
+        "strict-transport-security": "max-age=31557600; includeSubDomains; preload",
+        "via": "1.1 varnish",
+        "x-cache": "MISS",
+        "x-cache-hits": "0",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "deny",
+        "x-permitted-cross-domain-policies": "none",
+        "x-request-id": "646773c3-b72c-4245-b6ad-661d883dd096",
+        "x-served-by": "cache-lax-kwhp1940057-LAX",
+        "x-timer": "S1791293898.911799,VS0,VE3"
+      }
+    },
+    {
+      "host": "cdn.mxpnl.com",
+      "status": 404,
+      "finalUrl": "https://cdn.mxpnl.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "public,no-cache",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "1221",
+        "content-type": "text/html",
+        "date": "Tue, 06 Oct 2026 13:38:17 GMT",
+        "etag": "\"f9f58399fa813f4ae071179e8e53da6b\"",
+        "expires": "Wed, 06 Oct 2027 13:38:17 GMT",
+        "last-modified": "Fri, 13 Mar 2026 20:29:29 GMT",
+        "server": "UploadServer",
+        "vary": "Accept-Encoding",
+        "x-goog-generation": "1773433769200222",
+        "x-goog-hash": "crc32c=Yygr6A==, md5=+fWDmfqBP0rgcReejlPaaw==",
+        "x-goog-metageneration": "1",
+        "x-goog-storage-class": "MULTI_REGIONAL",
+        "x-goog-stored-content-encoding": "gzip",
+        "x-goog-stored-content-length": "1221",
+        "x-guploader-uploadid": "AP6rU81GUlHd7J1rOZQat8Qrd-SytKoB7fBsGr2oWx2ce_2Bg1wFfz-vlZEM3OIwKw9XrE_tRLvC3N0"
+      }
+    },
+    {
+      "host": "cdn.usefathom.com",
+      "status": 206,
+      "finalUrl": "https://usefathom.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "29083",
+        "cache-control": "public, max-age=0, s-maxage=31536000, stale-while-revalidate=60",
+        "content-disposition": "inline",
+        "content-length": "2049",
+        "content-range": "bytes 0-2048/126324",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Tue, 06 Oct 2026 13:38:27 GMT",
+        "etag": "\"5d4211fb738c76e51ab1ab604e70661a\"",
+        "last-modified": "Tue, 06 Oct 2026 05:33:44 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::d6rtm-1791293907652-04e790175e57"
+      }
+    },
+    {
+      "host": "js.intercomcdn.com",
+      "status": 200,
+      "finalUrl": "https://js.intercomcdn.com/",
+      "csp": [],
+      "headers": {
+        "age": "85519",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "close",
+        "content-type": "application/xml",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Mon, 05 Oct 2026 13:52:59 GMT",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Origin",
+        "via": "1.1 757eaeb1fb5967d84424b75db965388c.cloudfront.net (CloudFront)",
+        "x-amz-bucket-region": "us-east-1",
+        "x-amz-cf-id": "WClAx-GHEyTt9Qzx7Eq55-yEwsZC8xISI3jLpdime6DSjz_NimRP9w==",
+        "x-amz-cf-pop": "BLR50-P2",
+        "x-cache": "Hit from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "www.google-analytics.com",
+      "status": 206,
+      "finalUrl": "https://marketingplatform.google.com/about/analytics/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache, must-revalidate",
+        "content-length": "2049",
+        "content-range": "bytes 0-2048/118475",
+        "content-security-policy": "script-src  'nonce--s96FkwXTezXGKgoZyiCQw' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/marketing_platform; base-uri 'self'",
+        "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/marketing_platform",
+        "content-type": "text/html",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=\"uxe-owners-acl/marketing_platform\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Tue, 06 Oct 2026 13:38:29 GMT",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "last-modified": "Mon, 25 Aug 2025 05:38:00 GMT",
+        "pragma": "no-cache",
+        "report-to": "{\"group\":\"uxe-owners-acl/marketing_platform\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/uxe-owners-acl/marketing_platform\"}]}",
+        "server": "sffe",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "status": 404,
+      "finalUrl": "https://www.googletagmanager.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1561",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Tue, 06 Oct 2026 13:38:17 GMT",
+        "server": "Google Tag Manager",
+        "x-xss-protection": "0"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [
+    "svc.singlestore.com",
+    "aws-virginia-nb2.svc.singlestore.com",
+    "aws-mumbai-novaprd1.svc.singlestore.com",
+    "aws-london-novaprd1.svc.singlestore.com",
+    "aws-virginia-novaprd1.svc.singlestore.com",
+    "aws-oregon-novaprd1.svc.singlestore.com"
+  ],
+  "embeddedVendorHosts": [
+    "contentstack.com",
+    "demandbase.com",
+    "ketchjs.com",
+    "ketchcdn.com",
+    "cdn.mxpnl.com",
+    "cdn.usefathom.com",
+    "js.intercomcdn.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com",
+    "cdn.heapanalytics.com",
+    "heapanalytics.com",
+    "calendly.com"
+  ],
+  "stack": [
+    {
+      "tech": "AWS CloudFront",
+      "kind": "cdn",
+      "seenOn": [
+        "singlestore.com",
+        "www.singlestore.com",
+        "docs.singlestore.com",
+        "status.singlestore.com",
+        "portal.singlestore.com",
+        "auth.singlestore.com",
+        "blog.singlestore.com",
+        "developers.singlestore.com",
+        "js.intercomcdn.com"
+      ],
+      "evidence": [
+        "x-amz-cf-id: HCSpHggx2QCr3v9rYhu-b5YMXnviNJJ_otzuoCA5zIXH9q-8RoXSZg==",
+        "x-amz-cf-id: 2bo5_RUtoXydNETs4AHaSm3z2bDnAwzDDZVj10TicZOCkJj-OdtYiQ==",
+        "x-amz-cf-id: zjCZPwiw-jVFd9u4eqDvSMeF8PXikWSgAva0kNF6laFDZgyawMAEnw==",
+        "x-amz-cf-id: XEowtJmNHt8ZlDjUcHwRuXlu3MdQC0c_z4FF2dw4x21kFoXuVdRXHQ==",
+        "x-amz-cf-id: 5TazyntgcV9bJZy-_cmficjQ19XFgEGSnYbI5iq-YWwZFoPfAzIfeg==",
+        "x-amz-cf-id: Pxwm1NzZOix0pGpSubmhUY8_FlS2sWKBUqY5TOXLVLtRZQaSTsXG2A==",
+        "x-amz-cf-id: vC9m10OZg2orF7Woyz5BxOcpNV9OZmMHRl74cnW5kwh4wGpUHuJrkw==",
+        "x-amz-cf-id: -bm1SWxw3bmpemPY1e8jNtUEk71SHctRJNqpAWOkZYnYvEfrMqVz_A==",
+        "x-amz-cf-id: WClAx-GHEyTt9Qzx7Eq55-yEwsZC8xISI3jLpdime6DSjz_NimRP9w=="
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "demandbase.com",
+        "demandbase.com"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a46510bfba220f3f-BOM"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Fastly",
+      "kind": "cdn",
+      "seenOn": [
+        "ketchcdn.com"
+      ],
+      "evidence": [
+        "x-served-by: cache-lax-kwhp1940057-LAX"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "cdn.usefathom.com"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "cdn.usefathom.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::d6rtm-1791293907652-04e790175e57"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "cdn.usefathom.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::d6rtm-1791293907652-04e790175e57"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Envoy (service mesh / Istio)",
+      "kind": "infra",
+      "seenOn": [
+        "api.singlestore.com"
+      ],
+      "evidence": [
+        "x-envoy-upstream-service-time: 0"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "request tracing",
+      "kind": "infra",
+      "seenOn": [
+        "ketchcdn.com"
+      ],
+      "evidence": [
+        "x-request-id: 646773c3-b72c-4245-b6ad-661d883dd096"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "auth.singlestore.com",
+        "ketchcdn.com",
+        "cdn.usefathom.com",
+        "js.intercomcdn.com"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://singlestore.com/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# SingleStore\n\n> SingleStore is a distributed SQL database for real-time AI and analytics, unifying transactions, analytics, vector search, and full-text search in one engine.\n\n## Product\n\n- [AI Features](https://www.singlestore.com/ai/): Overview of SingleStore's AI capabilities including vector search, AI functions, LLM integration, and real-time data access for AI applications.\n- [Product Overview](https://www.singlestore.com/product-overview/): Detailed breakdown of SingleStore's architecture, core capabilities, and differentiated features versus traditional databases.\n- [Ultra-Fast Queries](https://www.singlestore.com/platform/ultra-fast-queries/): How SingleStore achieves sub-second qu"
+    },
+    {
+      "url": "https://singlestore.com/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\nDisallow: /assets/\nDisallow: /_redirects.json\nDisallow: /_ab_tests.json\nSitemap: https://www.singlestore.com/sitemap-index.xml\nHost: https://www.singlestore.com\n"
+    },
+    {
+      "url": "https://www.singlestore.com/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# SingleStore\n\n> SingleStore is a distributed SQL database for real-time AI and analytics, unifying transactions, analytics, vector search, and full-text search in one engine.\n\n## Product\n\n- [AI Features](https://www.singlestore.com/ai/): Overview of SingleStore's AI capabilities including vector search, AI functions, LLM integration, and real-time data access for AI applications.\n- [Product Overview](https://www.singlestore.com/product-overview/): Detailed breakdown of SingleStore's architecture, core capabilities, and differentiated features versus traditional databases.\n- [Ultra-Fast Queries](https://www.singlestore.com/platform/ultra-fast-queries/): How SingleStore achieves sub-second qu"
+    },
+    {
+      "url": "https://www.singlestore.com/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\nDisallow: /assets/\nDisallow: /_redirects.json\nDisallow: /_ab_tests.json\nSitemap: https://www.singlestore.com/sitemap-index.xml\nHost: https://www.singlestore.com\n"
+    },
+    {
+      "url": "https://docs.singlestore.com/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nDisallow: /assets/\nDisallow: /redirects/\nSitemap: https://docs.singlestore.com/sitemap-index.xml\nHost: https://docs.singlestore.com\n"
+    },
+    {
+      "url": "https://docs.singlestore.com/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "## About SingleStore\n\n> SingleStore Inc. is a technology company offering a unified database platform designed for high-performance, real-time data processing. Our SingleStore database combines transactional and analytical capabilities in a modern relational architecture, supporting both cloud and on-premises deployments. By leveraging in-memory processing and scalable infrastructure, it enables rapid data ingestion and fast SQL analytics across diverse applications—including transactional systems, machine learning, and streaming analytics. Optimized for low latency, high throughput, and simplified operations, SingleStore provides built-in support for complex queries, distributed data storag"
+    },
+    {
+      "url": "https://www.google-analytics.com/robots.txt",
+      "status": 206,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nDisallow: /ga_exp.js\nDisallow: /siteopt.js\nDisallow: /config.js\n"
+    }
+  ],
+  "dns": [
+    {
+      "host": "singlestore.com",
+      "a": [
+        "99.86.182.9",
+        "99.86.182.12",
+        "99.86.182.67",
+        "99.86.182.109"
+      ],
+      "mx": [
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com"
+      ],
+      "txt": [
+        "docusign=24ed2c7e-3e7a-40d8-bc24-6c16b5fce23f",
+        "ethiack-verification=4890f631984474c0a08b694fe3e877e41b89601857ea22d7e552b89c8bcee9305556f1221cb2443aaae41de39aa5703974fa74d0374ecf1f0487e5b13bd02ffc",
+        "google-site-verification=AkoA5bGMxaCHvJ9brDdsUZOHnVzB_9CPEO3frXQI3_A",
+        "google-site-verification=CVozQLoTMjidIfYI3NeCYAMn16buJbsG82G3_UW-Uf8",
+        "google-site-verification=_QIa40u473HvsED1GhXZ1J1GXVsw9QVHt9jIT-xXHzA",
+        "google-site-verification=aDPfLcSftibOG6LOav6uIC5FvHhNbNCqN5waL3TTL_s",
+        "h1-domain-verification=iYSpRodVzkQpDUVPh1dHGLPfNucNutPTbykVEg8V33Sz1TMS",
+        "https://issues.sonatype.org/browse/OSSRH-63368",
+        "mgverify=e1666ed967c6480a9805aa5d550619f02e7918f82d59b75356a3a7263c481744",
+        "mixpanel-domain-verify=6573f06c-56ac-41f9-9f49-c4b192068e11",
+        "mongodb-site-verification=4PBi8maArw2nvtY1J69M8LgQtGPNx5hj",
+        "reachdesk-verification=RMte3w1KL7udO3VMDmRIu6X4nDM6tlFbEbQ9ZLivWgK1IJBW7eL2jVnzjY1KG6ya",
+        "stripe-verification=D24B5E4A619EBBB138AF9208551870A818E85D7D54E114E5171FADF628B4C643",
+        "v=spf1 include:%{i}._ip.%{h}._ehlo.%{d}._spf.vali.email ~all",
+        "MS=ms53273796",
+        "OSSRH-63368",
+        "ZOOM_verify_4ZD9XiYoR0KqgMeZzN2wDw",
+        "asv=41ad5e8c40adcf0edc9c1b52d6e4f206",
+        "atlassian-domain-verification=tFuuwcbpOdBqziToh5APwSMbw7dVt1yK+R6X00kUl8sb+6bc4vIJa9XGCG7SQY/M",
+        "cloudflare_dashboard_sso=141ed881f97993e234e0f4ed6a360389",
+        "cursor-domain-verification-nz84n8=V0azc4YPAABci6zWayrFBMIf2"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "Stripe",
+        "Atlassian / Statuspage",
+        "Cloudflare"
+      ]
+    },
+    {
+      "host": "contentstack.com",
+      "a": [
+        "151.101.194.137",
+        "151.101.66.137",
+        "151.101.2.137",
+        "151.101.130.137"
+      ],
+      "mx": [
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com"
+      ],
+      "txt": [
+        "loaderio=0023314dcd842c076e0fe009c3f2ef55",
+        "loaderio=015e8e248d3661b241a68aebe0e97c5e",
+        "loaderio=0580ec2354a5bdd18fc28309f039571f",
+        "loaderio=12168e7682a87254df82fdbf522576f3",
+        "loaderio=1434f8f8f1cc320a736a33f9a78a2c15",
+        "loaderio=163d6dc5bcc2a0384b666f7342ed4152",
+        "loaderio=2c03cb9b5c57cd9e0ff6f1599029fb2e",
+        "loaderio=2f5526c786ea639d2dd9c097cc648390",
+        "loaderio=52f178e20df836e952be42ba49f70a91",
+        "loaderio=5300721011fd5a250f49ed22f5c32f65",
+        "loaderio=5894cb1a58e8d298e492b6cec868d721",
+        "loaderio=6539c373d925fe4fe40e43f2d818add7",
+        "loaderio=672dd95b2d374a697f294fe07ee880aa",
+        "loaderio=695702ef70281ccbb1accd617b8a95a9",
+        "loaderio=7e61757b78bd5e6026bad9df898b1134",
+        "loaderio=80eb7f8bae7ba6a2d37b26b29ee621ce",
+        "loaderio=8a74dee68a421c7f4eee58253e0aedfa",
+        "loaderio=8f9d89e87091384a5bfb882f526f2ab9",
+        "loaderio=9f1b1f1f43ae07d50b7248602f2b8950",
+        "loaderio=a4cda23c33a002c543b0e0928e2c08c7",
+        "loaderio=a63f31a64fd7c4192ff73461e5183f06",
+        "loaderio=bff2e0442ca6322d5e6b00243aa44530",
+        "loaderio=c04c3b2b1c8495fa47a7dfee245a5d7c",
+        "loaderio=c3287247c939624e35a21d5c81814545",
+        "loaderio=c9813637c0f31b847bfe1eba2766d912",
+        "loaderio=d078d544ad08e854f3d84cd582c09e46",
+        "loaderio=dab1a84332a5127c38ff2589d7007771",
+        "loaderio=e744e883a12b233aa2789f2517df8967",
+        "loaderio=f23684edfd44b0c921ab7e398fc98378",
+        "loaderio=f31947517a162048e1887425a0f9930e",
+        "loom-verification=1582781166",
+        "mongodb-site-verification=4FGoSLsfrq4RjemhRhqsH7Q7dmV57Jkc",
+        "onetrust-domain-verification=fe0046d1f24d49e9a1ead1edb766cc08",
+        "openai-domain-verification=dv-Ay61lyKtnKDc0higX8GhCz3n",
+        "status-page-domain-verification=cd7x43j184dq",
+        "status-page-domain-verification=tk5pzy8mq3fn",
+        "stripe-verification=5df2938d48bbaf1ff16bf4afa914cc85da053fd572bd5d3c535495ecff2b1546",
+        "stripe-verification=A16AA71B3D098F3457C5FD9D8B4494C19E13A2F9377D702BA11B04851EDF67FD",
+        "stripe-verification=c3b572a417889749d406760778e28e96d1eb82f4f07e77b2bbb4a4acd358286d",
+        "v=spf1 include:_spf.mlsend.com include:_spf.google.com include:mktomail.com  include:_spf.salesforce.com include:stspg-customer.com include:spf.mandrillapp.com ip4:208.86.168.7 ip4:135.84.68.123 ip4:206.152.14.54 ip4:135.84.79.54 ~all",
+        "whimsical=fe841fd343a314e799d6dacaf1cd65c6d9864a38",
+        "2CFCF86A2D",
+        "57410a1d8c953bd528e6846ca7f1053a9f56e2ac97d44c6de6d4aaf4e3595e2e",
+        "MS=ms73293232",
+        "Y02fCM6P5+j1hOZsUjNb+TaX2DJlAN+s5HODKfM+/EA=",
+        "_globalsign-domain-verification=B57sRQpmte4G4w-gavZbVNmmNsMxGp5kcL19UP2599",
+        "_globalsign-domain-verification=uJqsSX1GhpaZSFMhWB8VnlSbH-6c3GbKG4zsuqlwcx",
+        "adobe-idp-site-verification=b3ed81a022197777abde802313c9f77d4e415e309b86d5c4e3691d152c5fb447",
+        "anthropic-domain-verification-qxnthq=cVbCIppClhy8DRsuJ6XzwQWPM",
+        "apple-domain-verification=LaYjooa7nNXaUnqV",
+        "atlassian-domain-verification=xSnbCKSJnMN5Kocs3sb9ay8FsNCqmHZvoWwMHMM3zpSI5DLOQXhxtyLztExr2WHF",
+        "atlassian-sending-domain-verification=d67e5dba-3b8e-4a52-a65a-0e80e3139501",
+        "box-domain-verification=7d3951242cd0f1dbe626ede3d28fb077c90e5fb489c467f0e40bf3171dfa239d",
+        "brevo-code:f8df235febd437d383f33c5da7bd395c",
+        "cursor-domain-verification-c4z85v=cAEONNs6Tv4YRuqig8qIB6x2c",
+        "docusign=3c953c04-c5c8-4c75-ad37-66de17c32f19",
+        "docusign=ef962342-e887-465b-8e2e-bf13df6e8091",
+        "drift-domain-verification=118c63ec24e1807863331e0fa3647fa0e94a150ab4a8e39ca84e9323b7c9ef40",
+        "figma-domain-verification=10530207d8a773acca60ff5eba3ef247053b670cf16027f1cbb72676decb5db0-1762946473",
+        "google-site-verification=4ZyvQrRLNRfEHFyODIxyWwUUfcDq4LVbJBAxRLduFQM",
+        "google-site-verification=FdDF8s1Ba9pCuD9jnIa5suBqCCtNqC8gHgj-z8-ITEI",
+        "google-site-verification=I7GxM2jF2u-TEsJnsJIQKx-Grj1QcXlfRMz74GarREA",
+        "google-site-verification=OIVSBw3a5yQGZ4r3DICTyM4FWSPC3qyGehTyd1SHXsY",
+        "google-site-verification=V4ZR_Hid8NL0W28kzM3iiOVEgQW5XmMkNv2sQ9WTogU",
+        "google-site-verification=gr0KUXOvbjVrmFsRzvR1wU3BoqXjAFUnz0ihBy-f8BI",
+        "google-site-verification=sEtYg_6YwtjdsEle7YTGNAT2AjvPWBSRoEjJpxk5Wjc",
+        "google-site-verification=yTLyb2U__HplqKXqC9TRl1Bg1Nu_JWBfTYO6lRdJYSc"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "Stripe",
+        "Atlassian / Statuspage",
+        "Salesforce",
+        "LLM vendor domain verification"
+      ]
+    },
+    {
+      "host": "demandbase.com",
+      "a": [
+        "162.159.134.42"
+      ],
+      "mx": [
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com"
+      ],
+      "txt": [
+        "pendo-domain-verification=C2dAEB9b6BulnIQ8HBNOKWr8ly8",
+        "smartsheet-site-validation=qvNNmaFJFhHnE-X4_uKjkmjAcdfWraC6",
+        "v=spf1 include:_u.demandbase.com._spf.smart.ondmarc.com ~all",
+        "ZOOM_verify_c5R_BLbkTnWKHIFi35qPCg",
+        "_gitlab-pages-verification-code.demandbase.com TXT gitlab-pages-verification-code=a3d31d2955e72b9d1d821344de43852b",
+        "adobe-idp-site-verification=bf0fe29604ee8d721cdbc881b34152a180a8dcc8a0e4031768b89ee5a14dbcdf",
+        "amazonses:EAbcUvul47hqobUFMrboFvYH4qjb2rJ0MdLR49B2eP4=",
+        "amazonses:INrc/g5B46e9wG7qdU22JHAJl8UeXH7k9tnuh2kZv1o=",
+        "amazonses:OJYC5AU7A8k5+XaWrGYkCkpUVYe95vMENQq1tpq05/I=",
+        "amazonses:ahu590xufXKbVvrCP5am8wmzDFMlTuqooTAnaoh3s10=",
+        "anthropic-domain-verification-ej42sg=TUDNbqUhNwsOy5XPcQ2ErwgqO",
+        "apple-domain-verification=hpvWNXjO9ljSn7Fn",
+        "atlassian-domain-verification=1CyP5DQ9j1ZsuFQD6nfB5QwgrENCdSifg7p2APQqsPVKcpAiOIWEE7Znf6//IazP",
+        "atlassian-domain-verification=4hL3C/2KdjWN63vlkoMvKUf6/Ab8ROvAZubtur7Ch1dQZAIEXE4BECZ6lpxqonCr",
+        "atlassian-domain-verification=aJnBo2BYuD9sSgTwGQrfS1KPNcm3lt7Phmps0OofguVn+D1AyWpaICQwsms4ELUw",
+        "atlassian-domain-verification=fiCNbaV8zgNmV8IYyAlV/yOPopte6x2PvrTWcEXW99xuqTeeDyPKsu5yL9fQtwOO",
+        "bugcrowd-verification=db697d5ac2db6b8cac5f2df781899830",
+        "canva-site-verification=a5zW4ycv922wcrymrt4DJg",
+        "cursor-domain-verification-nphn8q=jw0mUZjDzzMJglQtNNkepoZCH",
+        "docker-verification=d149c8e9-9fab-4742-b925-43f49145a6b9",
+        "docusign=55b3b588-29b3-40bd-b472-b85a814c51f0",
+        "google-site-verification=19gnM1ADE2T09O0o2DIeAWPnlmB_Wc6aSmr6nVsOcZs",
+        "google-site-verification=1upTmQHEN8sqiiIiZ5EAjP0L6vvX97jRmxne5Htavmw",
+        "google-site-verification=41qlEeQy0rnTEfvMa-xX3GLkHmjhg6PBKxRdqN9VSjc",
+        "google-site-verification=CuTf1NI2EWWvxOA-Nkyeiz4AfLOcD-WKPBTUwj5RQNk",
+        "google-site-verification=EZ5ZzR-iSn5zE_qaNhgXmICLC8Mu0UJjYE_IjC6U5x0",
+        "google-site-verification=FkRK_KDPPQWRzC80HCoeeWZn_B1nRmjJuOfyJbOkpvU",
+        "google-site-verification=I4PpVfsEbslAv7Ky8kiW3wtFvaCljB__bTKM_u9hamQ",
+        "google-site-verification=VvigqnAUI3GSiFNaGtcMRTXvbvXLgXgSOlv2kZhFV4o",
+        "google-site-verification=q4gQvgey5G2Wi3wGnkcIiXS3tG-36kxQCkCm_Iiqy_c",
+        "google-site-verification=uWjrnCV4dk6AUgYLHqwh1GpvZo7LRYFi18EyV5R9xIY",
+        "google-site-verification=w4tyfXLwBuHe4rYDNxJoYJXTiE9_y4vo943bMkNIAKE",
+        "hubspot-developer-verification=MGMwYmQ2OTYtNTA4Yy00NWI2LTg0MzctNTRmMWUyOTgzNzk1",
+        "intacct-esk=4FED1A50222DD94FE053ED06A8C0E14D",
+        "mgverify=29798a5bc0c01eac19459f3ea2ba57d51df300678d44f4ef5ca0c18f62b740eb",
+        "mgverify=f427f8cbe695c905b845fe2138c446b5c589bc53d85293b00f6a3b4d66b649a3",
+        "miro-verification=acb9bfd88cb99aaf0f9db7d438a06bcebc731e01",
+        "onetrust-domain-verification=7c91754c0ba342ffa2ebead2454a98e4",
+        "openai-domain-verification=dv-3x4B27YLvYQGIEYHGzP6VpPy"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "AWS SES",
+        "Atlassian / Statuspage",
+        "HubSpot",
+        "LLM vendor domain verification"
+      ]
+    },
+    {
+      "host": "ketchjs.com",
+      "txt": [
+        "v=spf1 -all"
+      ],
+      "vendors": [
+        "SPF/DMARC configured"
+      ]
+    },
+    {
+      "host": "ketchcdn.com",
+      "a": [
+        "199.232.197.91",
+        "199.232.193.91"
+      ],
+      "txt": [
+        "v=spf1 -all"
+      ],
+      "vendors": [
+        "SPF/DMARC configured"
+      ]
+    }
+  ],
+  "ats": [
+    {
+      "ats": "Greenhouse",
+      "url": "https://boards-api.greenhouse.io/v1/boards/singlestore/jobs?content=true",
+      "openRoles": 43,
+      "bytes": 301001
+    }
+  ],
+  "appStore": {
+    "query": "singlestore",
+    "results": [
+      {
+        "name": "SingleStore",
+        "seller": "Naman Saggu",
+        "updated": "2026-07-07T15:59:14Z"
+      },
+      {
+        "name": "ЛЭТУАЛЬ: косметика, парфюмерия",
+        "seller": "ALKOR I KO, OOO",
+        "updated": "2026-10-06T06:31:22Z"
+      },
+      {
+        "name": "The Container Store",
+        "seller": "The Container Store, INC",
+        "updated": "2026-04-14T22:11:24Z"
+      },
+      {
+        "name": "myShopi – leaflets & promos",
+        "seller": "jafolders BV",
+        "updated": "2026-09-30T08:25:43Z"
+      },
+      {
+        "name": "TeemDrop",
+        "seller": "Huilian Co. Limited",
+        "updated": "2026-09-19T04:20:02Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

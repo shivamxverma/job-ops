@@ -1,0 +1,52 @@
+dashboard.html
+
+# GitHub issue-state cache for scripts/lib/state.mjs — derived, regenerate any time with
+# `node scripts/reconcile.mjs --refresh`. Untracked on purpose: the scout workflow does a bare
+# `git add inbox/`, and a cache written from the Actions runner's gh context would churn here.
+inbox/.issues.json
+
+# /job-video showcase media — copied from the portfolio repo, not duplicated in git
+
+video
+.env
+
+# application videos — large, kept local only, never pushed
+applications/**/*.mp4
+
+# mock-interview audio — local rehearsal recordings, never pushed
+applications/**/mock/*.webm
+applications/**/mock/*.wav
+
+# action-board local check state (not shared)
+inbox/.actions-state.json
+inbox/intents.json
+
+# live-session bridge — a running session's pid/heartbeat and its pending button presses.
+# Machine-local and worthless anywhere else; a committed session.json would make every clone
+# claim a session is listening.
+control/session.json
+control/queue.json
+
+# macOS Finder droppings — three of these were tracked until 2026-09-05, all swept in by a
+# blanket `git add -A` backup commit (builder-ops F13).
+.DS_Store
+**/.DS_Store
+
+# Harsh Kasana's archived pipeline (moved 2026-09-28). Never pushed to Shivam's GitHub: it is the
+# previous owner's private job search. Kept on disk only (see CLAUDE.md, Ownership).
+_archive-harsh/
+
+# Shivam's knowledge base is its own private repo (shivamxverma/founder-outreach-ai).
+self-profile/
+
+node_modules/
+
+# (rules below kept from when the archive was tracked)
+_archive-harsh/**/*.mp4
+_archive-harsh/**/mock/*.webm
+_archive-harsh/**/mock/*.wav
+_archive-harsh/inbox/.actions-state.json
+_archive-harsh/inbox/.issues.json
+_archive-harsh/inbox/intents.json
+# a nested git repo (Shivam's Category Labs artifact); its files stay in history at applications/category-labs/artifact
+_archive-harsh/applications/category-labs/artifact/

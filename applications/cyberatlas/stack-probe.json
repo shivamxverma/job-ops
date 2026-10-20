@@ -1,0 +1,126 @@
+{
+  "domain": "cyberatlas.ai",
+  "slug": "cyberatlas",
+  "probedAt": "2026-09-28T19:01:22.273Z",
+  "liveHosts": [
+    {
+      "host": "cyberatlas.ai",
+      "status": 200,
+      "finalUrl": "https://cyberatlas.ai/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a424fed38da6b235-LHR",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Mon, 28 Sep 2026 19:01:13 GMT",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4DDQfGpo2WqCrn3c1LtlQcqKWgRQD5ibhwfz%2BHnNSJlnJqyjFTSIk44JxpYO1efvc0m8q4VHg65ZaTM7S%2BWRhEGpCx%2B9VOO5%2B%2B9w3nVT6sYFcbhhiED1YUI%2FONn1DT%2BH4QGPAn3%2BZ57YB8SQ\"}]}",
+        "server": "cloudflare",
+        "vary": "Accept-Encoding, Cookie",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "cyberatlas.ai",
+        "cyberatlas.ai"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a424fed38da6b235-LHR"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://cyberatlas.ai/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# CyberAtlas\n\n> CyberAtlas maps the internet's attack surface at scale: billions of subdomains,\n> hundreds of millions of registrable domains, plus IPs, technologies and CVEs.\n\n## Finder — subdomain finder & wildcard search\n\nCyberAtlas Finder is a free, web-based subdomain finder over an index of billions\nof subdomains that grows daily. It is faster and broader than CLI tools like\nSubfinder, Amass, Findomain or crt.sh because it answers from a pre-built index\ninstead of assembling an OSINT pipeline per query.\n\nWhat it does:\n- Enter any domain (e.g. stripe.com) to list every subdomain we've observed.\n- Search wildcard / substring patterns across the whole internet in milliseconds:\n  *admin*  "
+    },
+    {
+      "url": "https://cyberatlas.ai/robots.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "# https://cyberatlas.ai/robots.txt\n# Everything not listed below is crawlable. The public surface is the\n# landing page, the Finder subdomain tool, the API docs and the bulletin\n# viewer; the rest of the app is session- or key-gated.\n# AI / LLM guide: https://cyberatlas.ai/llms.txt\n\nSitemap: https://cyberatlas.ai/sitemap.xml\n\nUser-agent: *\n\n# Public Finder tool + its machine-readable API guide are explicitly crawlable.\nAllow: /finder\nAllow: /finder/llm.txt\nAllow: /llms.txt\n# Technology fingerprint pages (subdomain-exposure stats per open-source tool)\nAllow: /technologies\nAllow: /technology\n\n# Copy-experiment duplicates of the landing page (/hero … /hero20 serve the\n# same content as /). Keep"
+    },
+    {
+      "url": "https://cyberatlas.ai/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://cyberatlas.ai/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>\n  <url><loc>https://cyberatlas.ai/finder</loc><changefreq>daily</changefreq><priority>0.9</priority></url>\n  <url><loc>https://cyberatlas.ai/finder/about</loc><changefreq>daily</changefreq><priority>0.8</priority></url>\n  <url><loc>https://cyberatlas.ai/top-domains</loc><changefreq>daily</changefreq><priority>0.7</priority></url>\n  <url><loc>https://cyberatlas.ai/finder/llm.txt</loc><changefreq>daily</changefreq><priority>0.6</priority></url>\n  <url><loc>https://cyberatlas.ai/api</loc><changefr"
+    }
+  ],
+  "dns": [
+    {
+      "host": "cyberatlas.ai",
+      "a": [
+        "104.21.93.143",
+        "172.67.211.25"
+      ],
+      "mx": [
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com"
+      ],
+      "txt": [
+        "v=spf1 include:_spf.google.com ~all",
+        "google-site-verification=v2NZVBWuPFvukJJcKBV8knXP9hlxxyKNqorL4axQHdE"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "cyberatlas",
+    "results": [
+      {
+        "name": "Hackers - Join the Cyberwar!",
+        "seller": "Trickster Arts s.r.o.",
+        "updated": "2020-10-19T01:31:48Z"
+      },
+      {
+        "name": "Cyberika: Action Adventure RPG",
+        "seller": "BRICKWORKS GAMES LTD",
+        "updated": "2026-07-10T09:47:30Z"
+      },
+      {
+        "name": "Nexus: Nebula Echoes",
+        "seller": "MAGIC NETWORK LTD.",
+        "updated": "2026-05-01T12:29:09Z"
+      },
+      {
+        "name": "Yotta 2026",
+        "seller": "DATA CENTRE DYNAMICS LTD",
+        "updated": "2026-09-05T20:18:00Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "company": "openalex",
+  "role": "Software Engineer",
+  "generated": "2026-09-29",
+  "apply_url": "https://openalex.org/jobs/software-engineer",
+  "identity": {
+    "first_name": "Shivam",
+    "last_name": "Verma",
+    "full_name": "Shivam Kumar Verma",
+    "email": "shivam.verma.dev00@gmail.com",
+    "phone": "+91 91356 68614",
+    "location": "India",
+    "city": "Warisaliganj, Bihar",
+    "country": "India",
+    "linkedin": "https://www.linkedin.com/in/shivamv99/",
+    "github": "https://github.com/shivamxverma",
+    "portfolio": "https://www.shivamworks.dev/",
+    "twitter": ""
+  },
+  "resume_file": null,
+  "education": [
+    {
+      "institution": "Indian Institute of Information Technology, Nagpur",
+      "degree": "Bachelor's",
+      "field": "Computer Science and Engineering"
+    }
+  ],
+  "answers": [
+    {
+      "match": [
+        "^location"
+      ],
+      "text": "Nawada, Bihar, India"
+    },
+    {
+      "match": [
+        "linkedin"
+      ],
+      "text": "https://www.linkedin.com/in/shivamv99/"
+    },
+    {
+      "match": [
+        "github"
+      ],
+      "text": "https://github.com/shivamxverma"
+    },
+    {
+      "match": [
+        "resume",
+        "markdown or plain text"
+      ],
+      "text": "# Shivam Kumar Verma\n\n> +91 91356 68614 | shivam.verma.dev00@gmail.com | [LinkedIn](https://www.linkedin.com/in/shivamv99/) | [GitHub](https://github.com/shivamxverma) | [Portfolio](https://www.shivamworks.dev/)\n\n## Education\n\n### Indian Institute of Information Technology, Nagpur @ November 2022 – May 2026\n*B.Tech in Computer Science and Engineering* @ *Nagpur, Maharashtra*\n\n## Experience\n\n### poiro.com @ July 2026 – Present\n*Fullstack Developer* @ *Python, FastAPI, PostgreSQL, Cloudflare R2, TypeScript*\n- **Storage Integrity and Deduplication:** Engineered storage-verified **SHA-256** deduplication in **Python/FastAPI** with a **PostgreSQL** uniqueness guarantee and client-side preflight, preventing duplicate **Cloudflare R2** writes under concurrent uploads without trusting client-supplied hashes.\n- **Asset Data Model and APIs:** Built the data model, services, and APIs for the asset layer behind AI-generation surfaces; fixed reference-integrity defects that hid nested folders and AI-lineage assets, and replaced depth-dependent tree traversal with a **single SQL aggregation query**.\n- **Codebase Reliability:** Cleared approximately **1,041 Ruff findings across 7 Python trees**, made lint/format checks blocking in CI and pre-push, and added dynamic package discovery so new packages are covered automatically.\n\n### klimb.io @ November 2025 – March 2026\n*Full Stack Developer Intern* @ *Node.js, TypeScript, PostgreSQL, Redis, AWS (S3, EC2)*\n- **Usage Metering and Credit Ledger:** Designed a PostgreSQL-backed usage-metering and credit ledger across **6+ AI features**, replacing binary feature flags with an auditable per-feature consumption record for finance.\n- **Query Performance:** Rewrote slow **SQL** queries and restructured recruiter-dashboard data access, reducing p95 latency and memory overhead under concurrent load.\n- **Session Isolation:** Developed backend services for a **3+ stage** AI interview platform with automated proctoring and strict candidate-level data isolation across concurrent live sessions.\n\n## Projects\n\n### Hireflow | [GitHub](https://github.com/shivamxverma/hireflow) | *TypeScript, BullMQ, Redis, PostgreSQL, Gemini, Playwright*\n- **Multi-Source Ingestion and Dedup:** Created an ingestion pipeline over **4 sources** (LinkedIn, Wellfound, YC, Telegram via GramJS) that parses stack and seniority with **Gemini** and drops cross-source duplicates with **SHA-256 fingerprints** of normalised title, company and description.\n- **LLM Output Validation:** Implemented a validator that rejects any GPT-4o-mini rewritten skill not present in the candidate's real profile, so the model's output cannot invent data, with each stage on its own **BullMQ** queue so one blocked source never stalls the rest.\n\n### Storix | [GitHub](https://github.com/shivamxverma/Storix) | [Live](https://async-doc.vercel.app) | *Python, FastAPI, Celery, Redis, PostgreSQL, AWS S3*\n- **Async PDF Extraction Pipeline:** Architected a **FastAPI** upload path that hands PDF extraction to **Celery** workers off the request path, relaying each stage's progress through Redis pub/sub to the client over WebSockets.\n\n### Yuvro | [GitHub](https://github.com/shivamxverma/yuvro) | [Demo](https://drive.google.com/file/d/1Tb_NXvNCp8AcG48K_PUl4GhvSY1ZqiAY/view?usp=sharing) | *Python, FastAPI, PostgreSQL, Kubernetes, AWS S3*\n- **Content-Addressed Storage:** Deduplicated workspace files with **SHA-256 content-addressed S3 storage** with template manifests and garbage collection, and modeled the file tree as a self-referential PostgreSQL table indexed on **3 composite keys** for fast lookups.\n\n### CodeSM | [GitHub](https://github.com/shivamxverma/CodeSM) | [Live](https://code-sm.vercel.app/) | *Node.js, BullMQ, Redis, PostgreSQL, Docker*\n- **Sandboxed Execution Engine:** Shipped a BullMQ + Redis pipeline that grades untrusted code in **6 languages** inside **Docker** with CPU, memory, network and timeout limits, fetching S3 test data one case at a time to bound per-job memory.\n\n## Technical Skills\n\n**Data Systems:** SQL, PostgreSQL, Redis, MongoDB, Prisma, Cloudflare R2, AWS S3, data pipelines, ETL, deduplication, content-addressed storage\n**Backend & APIs:** Python, FastAPI, Node.js, Express.js, REST APIs, WebSockets, Celery, BullMQ, distributed job processing\n**Infrastructure & Runtimes:** Docker, Kubernetes, Linux, Nginx, AWS (EC2, S3), CI/CD, Git\n**Languages & Automation:** Python, TypeScript, JavaScript, C++, LLM integration (Gemini, GPT-4o-mini), Playwright, Ruff\n\n## Achievements\n\n- **Competitive Programming:** **Top 5% globally** on [LeetCode](https://leetcode.com/u/MahavirCoder/) (**1800+ rating**, 800+ problems solved) · **3-star** on [CodeChef](https://www.codechef.com/users/mahavir99).\n- **Tantrafiesta 2024:** **3rd rank** at IIIT Nagpur's hackathon."
+    },
+    {
+      "match": [
+        "why do you want to work here",
+        "why.*(company|us|here)"
+      ],
+      "text": "I read your code before writing this. openalex-api-proxy, the Worker in front of api.openalex.org, is the part I keep going back to. Every request gets priced by endpoint class, counted in a Durable Object, refunded if the upstream call fails, and the prepaid part gets settled into Postgres later. That's a credit ledger. I built one at klimb.io across 6+ AI features, in plain Postgres, and yours is the harder version of the same thing: the counting happens at the edge and the money lives somewhere else.\n\nThat's the pattern I noticed across the repos. The problems I like are the ones where the data has to stay right while a lot is moving: the same entity arriving from different sources, a hash deciding what changed, a balance that has to add up. At poiro.com I built SHA-256 dedup for our asset storage where the server verifies the content itself and a database uniqueness constraint backs it, because an application-level check races under concurrent uploads. Reading walden's notes on content hashes re-stamping tens of millions of works was the same idea at a scale I haven't worked at yet, and that's the point.\n\nThe other reason is how you work. \"Notice what's missing, propose it, build it, ship it, and answer the tickets about it\" is the job I want. I'd rather do that where the output is used by a billion API calls a month than on a feature nobody measures.\n\nAnd the mission is simple enough that I don't need to dress it up. An open index of research, free to anyone, including a student in India who can't pay for Scopus."
+    },
+    {
+      "match": [
+        "first week"
+      ],
+      "text": "Mostly read, trace and ask, and ship one small thing so I learn the release path for real.\n\nDays one and two: I'd take a batch of API support tickets and trace each one through the Worker, the RateLimiter Durable Object and Elasticsearch. Your job page says the hard technical questions land on whoever understands the system, so I'd rather start understanding it through real user problems than through a tour. The 429 path looks like a good place to start. There's already special handling because the app shows the daily-credit modal on a 429 that didn't spend any credits, which tells me users are confused about limits.\n\nDay three: I'd write down how credits flow from charge to refund to the Postgres writeback, and bring two questions to whoever owns the proxy. First, `writebackOnetimeCredits` claims and zeroes the Durable Object's consumed count before the UPDATE runs inside `waitUntil`, so what happens if the isolate dies between the two? Second, refunds go to the daily pool first, so does a request charged at 23:59 UTC and refunded after midnight come off the new day's count? Both might be accepted trade-offs. I'd want to know which before touching anything, and I'd want a small reconciliation check (Durable Object consumption vs. database balance) either way.\n\nDays four and five: one messy-data fix through the nightly. Something small from the queue, like an affiliation string or name normalisation. Before shipping I'd estimate how many works get a new content hash against the Guardrails line, because a small entity change can hold up the whole publish. Getting one change through End 2 End without tripping it would teach me more about walden than a week of reading.\n\nBy Friday I'd want: a few tickets closed, a short written map of the credit path with those two questions answered, and one change live in the data."
+    },
+    {
+      "match": [
+        "coolest thing",
+        "ever built",
+        "proudest|impressive|project"
+      ],
+      "text": "CodeSM, a code execution engine that runs untrusted submissions in C, C++, Java, Go, Python and JavaScript without taking the host down. It's live at code-sm.vercel.app.\n\nThe hard part isn't running code, it's running code that's trying to hurt you. Fork bombs, infinite loops, network calls, huge outputs. Each submission runs in Docker with CPU, memory, process, network, filesystem, timeout and output limits, and grading happens on a BullMQ + Redis queue so the API returns as soon as the submission is saved, with retries when a job fails.\n\nThe decision I'm happiest with was not doing the obvious thing. A fresh container per submission is the easy design, but cold starts were the cost. So I reuse persistent containers, and fetched test data from S3 one case at a time with early exit on the first failing case, which keeps per-job memory bounded no matter how big the test set is.\n\nA close second is Hireflow, because it's closer to your data problems. It pulls job listings from LinkedIn, Wellfound, YC and Telegram, and the same job shows up in several places with different titles and formatting. I dedupe them with SHA-256 fingerprints of the normalised title, company and description. It also uses an LLM to rewrite resume bullets, with a validator that rejects any skill the model adds that isn't in the real profile. I didn't trust the model to not make things up, so I made it unable to."
+    },
+    {
+      "match": [
+        "anything else",
+        "additional information"
+      ],
+      "text": "Being straight about experience: about 8 months professional (a 5-month internship at klimb.io, then full-time at poiro.com since July 2026). I haven't used Spark, Databricks or Elasticsearch, and I haven't worked at your data scale. Python, SQL/Postgres and pipelines are what I use every day, and I learn a system fastest by reading its code, which is how I wrote the answers above. I'm based in India."
+    },
+    {
+      "match": [
+        "sponsor",
+        "visa",
+        "work authoriz"
+      ],
+      "text": "I'm an Indian citizen working remotely from India, so no sponsorship is needed for a remote role."
+    },
+    {
+      "match": [
+        "start date",
+        "available"
+      ],
+      "text": "TODO(shivam): depends on poiro.com notice period"
+    },
+    {
+      "match": [
+        "salary",
+        "compensation"
+      ],
+      "text": "TODO(shivam)"
+    }
+  ],
+  "notes_for_shivam": [
+    "Create an OpenAlex account first (log in at openalex.org) and set your NAME in account settings: the form pulls name + email from the account and blocks you otherwise. Use shivam.verma.dev00@gmail.com, not your poiro.com address.",
+    "ONE-SHOT: applications cannot be edited after submit. Read all three answers aloud and rewrite anything that does not sound like you before you click.",
+    "Resume is a PASTE field (Markdown or plain text), not an upload. The pack pastes applications/openalex/resume.md. resume.pdf is only for your records.",
+    "Education is a repeatable row with a degree dropdown: pick Bachelor's. The extension may not drive the dropdown; set it by hand.",
+    "Location: the pack uses 'Nawada, Bihar, India'. Change it if you prefer just 'India'.",
+    "Optional, your call: one line in 3.1 about how you actually work with coding agents. Their JD says agents write all their code; I removed a sentence about your workflow because it is not in facts.yaml. If it is true, add it in your own words.",
+    "The form does not ask salary, start date or visa; those pack entries are fallbacks only. Salary and start date are TODO(shivam) in facts.yaml.",
+    "Nothing is submitted for you. The extension fills; you review every field and click Submit application."
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "domain": "openalex.org",
+  "slug": "openalex",
+  "probedAt": "2026-09-29T14:26:01.147Z",
+  "liveHosts": [
+    {
+      "host": "openalex.org",
+      "status": 403,
+      "finalUrl": "https://openalex.org/",
+      "csp": [],
+      "headers": {
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "cf-mitigated": "challenge",
+        "cf-ray": "a42ba8dabd6929b7-HYD",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'none'; script-src 'nonce-vZR6Y3qZzivF6NbZXpmqBI' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'",
+        "content-type": "text/html; charset=UTF-8",
+        "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "cross-origin-embedder-policy": "require-corp",
+        "cross-origin-opener-policy": "same-origin",
+        "cross-origin-resource-policy": "same-origin",
+        "date": "Tue, 29 Sep 2026 14:25:51 GMT",
+        "origin-agent-cluster": "?1",
+        "permissions-policy": "accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*",
+        "referrer-policy": "same-origin",
+        "server": "cloudflare",
+        "server-timing": "chlray;desc=\"a42ba8dabd6929b7\"",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "www.openalex.org",
+      "status": 403,
+      "finalUrl": "https://openalex.org/",
+      "csp": [],
+      "headers": {
+        "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "cf-mitigated": "challenge",
+        "cf-ray": "a42ba8e90a9679e7-HYD",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'none'; script-src 'nonce-tjQg782RKdLRDrlWIiyTHt' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'",
+        "content-type": "text/html; charset=UTF-8",
+        "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+        "cross-origin-embedder-policy": "require-corp",
+        "cross-origin-opener-policy": "same-origin",
+        "cross-origin-resource-policy": "same-origin",
+        "date": "Tue, 29 Sep 2026 14:25:54 GMT",
+        "origin-agent-cluster": "?1",
+        "permissions-policy": "accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*",
+        "referrer-policy": "same-origin",
+        "server": "cloudflare",
+        "server-timing": "chlray;desc=\"a42ba8e90a9679e7\"",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "api.openalex.org",
+      "status": 200,
+      "finalUrl": "https://api.openalex.org/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-headers": "Accept, Accept-Language, Accept-Encoding, Authorization, Content-Type, X-OpenAlex-UI",
+        "access-control-allow-methods": "GET, HEAD, POST, OPTIONS",
+        "access-control-allow-origin": "*",
+        "access-control-expose-headers": "Cache-Control, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Onetime-Remaining, X-RateLimit-Credits-Used, X-RateLimit-Credits-Required, X-RateLimit-Reset, X-RateLimit-Limit-USD, X-RateLimit-Remaining-USD, X-RateLimit-Prepaid-Remaining-USD, X-RateLimit-Cost-USD, X-RateLimit-Cost-Required-USD, Retry-After",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a42ba8dbafee380b-MAA",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "application/json",
+        "date": "Tue, 29 Sep 2026 14:25:53 GMT",
+        "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+        "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=cuY8OS7tzf91ioU2mw648bCjJoIa2o5a3o7NzgolkyI%3D\\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\\u0026ts=1790691952\"}],\"max_age\":3600}",
+        "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=cuY8OS7tzf91ioU2mw648bCjJoIa2o5a3o7NzgolkyI%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1790691952\"",
+        "server": "cloudflare",
+        "via": "1.1 heroku-router",
+        "x-ratelimit-cost-usd": "0.0001",
+        "x-ratelimit-credits-used": "1",
+        "x-ratelimit-limit": "1000",
+        "x-ratelimit-limit-usd": "0.1",
+        "x-ratelimit-onetime-remaining": "0",
+        "x-ratelimit-prepaid-remaining-usd": "0",
+        "x-ratelimit-remaining": "999",
+        "x-ratelimit-remaining-usd": "0.0999",
+        "x-ratelimit-reset": "34447"
+      }
+    },
+    {
+      "host": "docs.openalex.org",
+      "status": 200,
+      "finalUrl": "https://help.openalex.org/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a42ba8e86dae8135-MAA",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:25:54 GMT",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=u6t9WdN9HIGibr7lj46sOzNZlsCSZnbJw2Nyb8ZXlDQsKpEwq9UhcZ8Gmvmx42dCj4JSxZEZlON5ee0sYAY4c27VhopnLNoiuiuOJMBbw6Tu77ulqOQy3BmerAmnQvY7%2FFgNcbnpnoms3z1L5eVM8w%3D%3D\"}]}",
+        "server": "cloudflare",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "status.openalex.org",
+      "status": 200,
+      "finalUrl": "https://status.openalex.org/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=60, no-cache, private",
+        "connection": "close",
+        "content-security-policy": "default-src 'self' https: data: blob: 'unsafe-inline' 'unsafe-eval'; upgrade-insecure-requests",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:25:53 GMT",
+        "permissions-policy": "geolocation=(),midi=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "t7V4jQnscewsFDBEEI5sGTKU7xxxk00mzTDmZdri=eyJpdiI6IkVUcVZZeCtTWFBxampjZWlTZlB2eVE9PSIsInZhbHVlIjoiczBMVXdFQmFyNUtRSWZPT2kyekpkbi9ObHdpK0hXYUhlRDNZeDhuN2NZM2lGREJLYWUzQjZRdVNNYXVqRXF0ZXlaNS9GVVlrRVVQcTJSWnFQUFcwMmhJRkNnMVhDN2N3bHJiTStnbEhiSERzSXo3Z2tuN3FQZE5kQWFhYXNTQ2hZZGo4czFRQU1tclJVT0ROYXhkNnJEYUkzSkVndHpLemxVTEc3RXpoWFBMUnZkc1ZLbTRQR2lIZnFWSzhDckNXb2NFMnpRQVVQSkRIZGEzMjVmR0ZZVWNHd0xLdUNTOTBqWWNWMi9ESE4zN3BBV3lIcGUvY0Z1S3p2Mno0TlRwNjlpWTRySzgxSkIyVVdNeTlyZStxYVE9PSIsIm1hYyI6IjMwNGZiOGJlMDI5ZTkwNTJiZDY2MWFjOTNhZDZkY2Q3OTYxNGMxZjczNmExZmQ2ZGYyNjNlZGYwNDUxZTRkYTIiLCJ0YWciOiIifQ%3D%3D; expires=Tue, 06 Oct 2026 14:25:53 GMT; Max-Age=604800; path=/; secure; httponly; samesite=lax",
+        "strict-transport-security": "max-age=31536000; preload",
+        "via": "0.0 Caddy",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "blog.openalex.org",
+      "status": 200,
+      "finalUrl": "https://blog.openalex.org/",
+      "csp": [],
+      "headers": {
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "connection": "Upgrade, close",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Tue, 29 Sep 2026 14:25:54 GMT",
+        "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "host-header": "c2hhcmVkLmJsdWVob3N0LmNvbQ==",
+        "link": "<https://blog.openalex.org/wp-json/>; rel=\"https://api.w.org/\"",
+        "pragma": "no-cache",
+        "server": "Apache",
+        "set-cookie": "PHPSESSID=b594bb0d7cb444f281c814ae59e4c061; path=/",
+        "upgrade": "h2,h2c",
+        "vary": "accept,content-type"
+      }
+    },
+    {
+      "host": "staging.openalex.org",
+      "status": 503,
+      "finalUrl": "https://staging.openalex.org/",
+      "csp": [],
+      "headers": {
+        "cache-control": "no-cache, no-store",
+        "connection": "close",
+        "content-length": "572",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:25:54 GMT",
+        "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+        "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XmTtgSv9TgBny4xCC6TQ5YbLtzgqTNKXGkuoGaGcTeQ%3D\\u0026sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d\\u0026ts=1790691954\"}],\"max_age\":3600}",
+        "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XmTtgSv9TgBny4xCC6TQ5YbLtzgqTNKXGkuoGaGcTeQ%3D&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&ts=1790691954\"",
+        "server": "Heroku",
+        "via": "1.1 heroku-router"
+      }
+    },
+    {
+      "host": "help.openalex.org",
+      "status": 200,
+      "finalUrl": "https://help.openalex.org/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a42ba8e82b793b17-MAA",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:25:53 GMT",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pTBdp5hyGg%2BGwri9YP7%2FQyM13Q%2BOA229S6LzcU4dDSjsWwa1sHqRBxBgWWZVjWb5Ph9lniZ9XFHRfelWqi32YbJVGwLcUN3dOSm0WYlwKuNPttq1L3QFbzL467hWpLrFUlDYLr3%2BqqEV1oXA%2B5QdUg%3D%3D\"}]}",
+        "server": "cloudflare",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "developers.openalex.org",
+      "status": 200,
+      "finalUrl": "https://help.openalex.org/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a42ba8ecbaf57c1e-MAA",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:25:54 GMT",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=I0QbhKCMjbdYx1pL2hcdX81d%2Fpc4vMr5%2Bf98GW0kFT0qJ3w3A8zuTBkqt6OqB6WuZgo5cN5gL4vTtI8pL%2B%2FipZaPemlGB%2BbHBvArGm2G8ReMysZIx%2Fb0Ue4kqL1eSRaEMJj2VrAMknjiLvrQY0ya8g%3D%3D\"}]}",
+        "server": "cloudflare",
+        "x-content-type-options": "nosniff"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "openalex.org",
+        "openalex.org",
+        "www.openalex.org",
+        "www.openalex.org",
+        "api.openalex.org",
+        "api.openalex.org",
+        "docs.openalex.org",
+        "docs.openalex.org",
+        "help.openalex.org",
+        "help.openalex.org",
+        "developers.openalex.org",
+        "developers.openalex.org"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a42ba8dabd6929b7-HYD",
+        "cf-ray: a42ba8e90a9679e7-HYD",
+        "cf-ray: a42ba8dbafee380b-MAA",
+        "cf-ray: a42ba8e86dae8135-MAA",
+        "cf-ray: a42ba8e82b793b17-MAA",
+        "cf-ray: a42ba8ecbaf57c1e-MAA"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "application-level rate limiting",
+      "kind": "infra",
+      "seenOn": [
+        "api.openalex.org"
+      ],
+      "evidence": [
+        "x-ratelimit-limit: 1000"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://openalex.org/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=UTF-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n"
+    },
+    {
+      "url": "https://www.openalex.org/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=UTF-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n"
+    },
+    {
+      "url": "https://api.openalex.org/robots.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n"
+    },
+    {
+      "url": "https://docs.openalex.org/sitemap.xml",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<!DOCTYPE html><html lang=\"en\" data-astro-cid-hkbrpulz><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon.svg\"><link rel=\"icon\" type=\"image/png\" href=\"/favicon.png\"><link rel=\"apple-touch-icon\" href=\"/favicon.png\"><title>OpenAlex Help Center</title><meta name=\"description\" content=\"Help, documentation, API reference, and tutorials for OpenAlex, the open catalog of the global research system.\"><link rel=\"canonical\" href=\"https://help.openalex.org/\"><link rel=\"stylesheet\" href=\"/_astro/Base.BfIoc8yE.css\"><style>.wrap[data-astro-cid-lcdefpme].home{max-width:46rem;margin:0 auto;padding-top:2.5rem}.h"
+    },
+    {
+      "url": "https://developers.openalex.org/openapi.json",
+      "status": 200,
+      "contentType": "application/json",
+      "why": "the public API surface, in full",
+      "preview": "{\n  \"openapi\": \"3.1.0\",\n  \"info\": {\n    \"title\": \"OpenAlex API\",\n    \"description\": \"The OpenAlex API provides access to a comprehensive catalog of scholarly works, authors, sources, institutions, topics, keywords, publishers, and funders. OpenAlex indexes over 250 million scholarly works.\",\n    \"version\": \"1.0.0\",\n    \"contact\": {\n      \"name\": \"OpenAlex Support\",\n      \"email\": \"support@openalex.org\",\n      \"url\": \"https://openalex.org\"\n    },\n    \"license\": {\n      \"name\": \"CC0\",\n      \"url\": \"https://creativecommons.org/publicdomain/zero/1.0/\"\n    }\n  },\n  \"servers\": [\n    {\n      \"url\": \"https://api.openalex.org\",\n      \"description\": \"OpenAlex Production API\"\n    }\n  ],\n  \"security\": ["
+    },
+    {
+      "url": "https://developers.openalex.org/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# OpenAlex Help\n\n> Unified help, documentation, API reference, and tutorials for OpenAlex,\n> the open catalog of the global research system.\n\nEvery page on this site has a raw-markdown sibling: append `.md` to its path.\n\nNew here? Start with the [Quickstart](https://help.openalex.org/quickstart/): get real data out of\nOpenAlex in five minutes ([markdown](https://help.openalex.org/quickstart.md)).\n\nField and vocabulary semantics (what each entity is, where its records come from,\nwhat every attribute means, controlled-vocabulary definitions) are canonical under\n`/data/` — e.g. the works field dictionary at `/data/works/` and work types\nat `/data/work-types/`. The `/access/` pages cover access "
+    }
+  ],
+  "dns": [
+    {
+      "host": "openalex.org",
+      "txt": [
+        "google-site-verification=jKpiKFDnjm5idqlvLRY6IcEQlGhKRDp2evcIjhN-nFo",
+        "v=MCPv1; k=ed25519; p=eD7D553rxLmt6R00DusrFtLfqnXZ9+fRzsMo00+zty4=",
+        "v=spf1 include:_spf.google.com include:mail.zendesk.com ~all"
+      ],
+      "a": [
+        "104.20.26.229",
+        "172.66.159.136"
+      ],
+      "mx": [
+        "alt4.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "Zendesk"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "openalex",
+    "results": [
+      {
+        "name": "Open Access Helper",
+        "seller": "Claus Wolf",
+        "updated": "2026-08-25T13:13:05Z"
+      },
+      {
+        "name": "ZiNote: Research Paper Reader",
+        "seller": "小双 王",
+        "updated": "2026-07-09T01:29:01Z"
+      },
+      {
+        "name": "Arthrex Events App",
+        "seller": "Arthrex, Inc.",
+        "updated": "2026-09-25T15:02:53Z"
+      },
+      {
+        "name": "ORTEX - Stock Market Analytics",
+        "seller": "ORTEX TECHNOLOGIES LTD",
+        "updated": "2026-05-12T12:37:51Z"
+      },
+      {
+        "name": "VolFix.NET",
+        "seller": "VOLFIX LIMITED",
+        "updated": "2026-09-19T00:53:58Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

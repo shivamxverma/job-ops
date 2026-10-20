@@ -1,0 +1,249 @@
+{
+  "domain": "interviewresources.app",
+  "slug": "interview-resources",
+  "probedAt": "2026-09-28T18:42:55.724Z",
+  "liveHosts": [
+    {
+      "host": "interviewresources.app",
+      "status": 200,
+      "finalUrl": "https://www.interviewresources.app/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "2402567",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-length": "262355",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Mon, 28 Sep 2026 18:42:53 GMT",
+        "etag": "\"f7b15ea38fc67e9441fe9bd2313debdd\"",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::8tk55-1790620973003-600c724fb4b0"
+      }
+    },
+    {
+      "host": "www.interviewresources.app",
+      "status": 200,
+      "finalUrl": "https://www.interviewresources.app/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "2402565",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-length": "262355",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Mon, 28 Sep 2026 18:42:50 GMT",
+        "etag": "\"f7b15ea38fc67e9441fe9bd2313debdd\"",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::jvw9x-1790620969743-b544e7507a7a"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Next.js (prerendered route)",
+      "kind": "framework",
+      "seenOn": [
+        "interviewresources.app",
+        "www.interviewresources.app"
+      ],
+      "evidence": [
+        "x-nextjs-prerender: 1"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js App Router (React Server Components)",
+      "kind": "framework",
+      "seenOn": [
+        "interviewresources.app",
+        "www.interviewresources.app"
+      ],
+      "evidence": [
+        "vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "interviewresources.app",
+        "www.interviewresources.app"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "interviewresources.app",
+        "www.interviewresources.app"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::8tk55-1790620973003-600c724fb4b0",
+        "x-vercel-id: bom1::jvw9x-1790620969743-b544e7507a7a"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "interviewresources.app",
+        "www.interviewresources.app"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::8tk55-1790620973003-600c724fb4b0",
+        "x-vercel-id: bom1::jvw9x-1790620969743-b544e7507a7a"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "interviewresources.app",
+        "www.interviewresources.app"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://interviewresources.app/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /api/\nDisallow: /admin\n\nUser-Agent: GPTBot\nUser-Agent: OAI-SearchBot\nUser-Agent: ChatGPT-User\nUser-Agent: ClaudeBot\nUser-Agent: Claude-SearchBot\nUser-Agent: PerplexityBot\nUser-Agent: Google-Extended\nUser-Agent: Bingbot\nAllow: /\nDisallow: /api/\nDisallow: /admin\n\nHost: https://www.interviewresources.app\nSitemap: https://www.interviewresources.app/sitemap.xml\n"
+    },
+    {
+      "url": "https://interviewresources.app/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://www.interviewresources.app/</loc>\n<lastmod>2026-07-25T00:00:00.000Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://www.interviewresources.app/pricing</loc>\n<lastmod>2026-07-25T00:00:00.000Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://www.interviewresources.app/about</loc>\n<lastmod>2026-07-25T00:00:00.000Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.6</priority>\n</url>\n<url>\n<loc>https://www.interviewresources.app/interview-questions</loc>\n<lastmod>2026-07-25T00:00:00.000Z"
+    },
+    {
+      "url": "https://interviewresources.app/.well-known/security.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "Contact: mailto:security@interviewresources.app\nCanonical: https://www.interviewresources.app/.well-known/security.txt\nPolicy: https://www.interviewresources.app/security\nPreferred-Languages: en\nExpires: 2027-07-24T00:00:00.000Z\n"
+    },
+    {
+      "url": "https://www.interviewresources.app/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /api/\nDisallow: /admin\n\nUser-Agent: GPTBot\nUser-Agent: OAI-SearchBot\nUser-Agent: ChatGPT-User\nUser-Agent: ClaudeBot\nUser-Agent: Claude-SearchBot\nUser-Agent: PerplexityBot\nUser-Agent: Google-Extended\nUser-Agent: Bingbot\nAllow: /\nDisallow: /api/\nDisallow: /admin\n\nHost: https://www.interviewresources.app\nSitemap: https://www.interviewresources.app/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.interviewresources.app/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://www.interviewresources.app/</loc>\n<lastmod>2026-07-25T00:00:00.000Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://www.interviewresources.app/pricing</loc>\n<lastmod>2026-07-25T00:00:00.000Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://www.interviewresources.app/about</loc>\n<lastmod>2026-07-25T00:00:00.000Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.6</priority>\n</url>\n<url>\n<loc>https://www.interviewresources.app/interview-questions</loc>\n<lastmod>2026-07-25T00:00:00.000Z"
+    },
+    {
+      "url": "https://www.interviewresources.app/.well-known/security.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "Contact: mailto:security@interviewresources.app\nCanonical: https://www.interviewresources.app/.well-known/security.txt\nPolicy: https://www.interviewresources.app/security\nPreferred-Languages: en\nExpires: 2027-07-24T00:00:00.000Z\n"
+    }
+  ],
+  "dns": [
+    {
+      "host": "interviewresources.app",
+      "a": [
+        "216.198.79.1"
+      ],
+      "txt": [
+        "v=spf1 include:spf.improvmx.com ~all",
+        "google-site-verification=CXp6kuG9XnTjcGixIDLH11eMsq10oRnSN_3sIH5U9QM"
+      ],
+      "mx": [
+        "mx2.improvmx.com",
+        "mx1.improvmx.com"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "interviewresources",
+    "results": [
+      {
+        "name": "HireVue for Candidates",
+        "seller": "Hirevue Inc.",
+        "updated": "2024-09-24T08:47:13Z"
+      },
+      {
+        "name": "Thalamus",
+        "seller": "SJ Medconnect, Inc.",
+        "updated": "2026-09-17T20:36:14Z"
+      },
+      {
+        "name": "Interview Pilot: AI Copilot",
+        "seller": "Liberace AI",
+        "updated": "2026-09-27T22:35:31Z"
+      },
+      {
+        "name": "LinkedIn Recruiter",
+        "seller": "LinkedIn Corporation",
+        "updated": "2026-08-28T17:15:57Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

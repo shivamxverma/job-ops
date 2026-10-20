@@ -1,0 +1,238 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{anyfontsize}
+\input{glyphtounicode}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[
+  letterpaper,
+  left=0.40in,
+  right=0.40in,
+  top=0.30in,
+  bottom=0.10in,
+  noheadfoot,
+]{geometry}
+
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{black}{HTML}{130810}
+\definecolor{darkcolor}{HTML}{0F4539}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{0pt}
+\linespread{0.97}
+
+\titleformat{\section}{%
+  \vspace{0pt}\color{cvblue}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{cvblue}\titlerule\vspace{0pt}]
+\titlespacing*{\section}{0pt}{1pt}{2pt}
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{\item{\normalsize#1}}
+
+\newcommand{\resumeSubheading}[4]{%
+  \item
+    \begin{tabular*}{\linewidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \small \textcolor{SlateGrey}{#2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-4pt}%
+}
+
+\newcommand{\resumeExperienceEntry}[4]{%
+  \item
+  \begin{tabularx}{\linewidth}[t]{@{}Xr@{}}
+    \small\textbf{#1} & \small \textcolor{SlateGrey}{#2} \\
+    \small #3 & \\
+  \end{tabularx}\vspace{4pt}%
+}
+
+\newcommand{\resumeProjectEntry}[4]{%
+  \item
+  \begin{tabularx}{\linewidth}[t]{@{}Xr@{}}
+    \small\textbf{\href{#2}{\underline{#1}}} & \small \href{#3}{\underline{Live Link}} \\
+    \small #4 & \\
+  \end{tabularx}\vspace{4pt}%
+}
+
+\newcommand{\resumeProjectPlainEntry}[2]{%
+  \item
+  \small\textbf{#1}\\
+  \small #2\vspace{4pt}%
+}
+
+\newcommand{\resumeSubHeadingListStart}{%
+  \begin{itemize}[
+    leftmargin=0in,
+    label={},
+    noitemsep,
+    topsep=0pt,
+    parsep=0pt,
+    partopsep=0pt,
+    itemsep=0pt,
+  ]%
+}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{1pt}}
+
+\newcommand{\resumeItemListStart}{%
+  \begin{itemize}[
+    leftmargin=0.18in,
+    label={\small$\bullet$},
+    noitemsep,
+    topsep=0pt,
+    parsep=0pt,
+    partopsep=0pt,
+    itemsep=0pt,
+  ]%
+}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{1pt}}
+
+\newcommand{\resumeItemListSpacedStart}{%
+  \begin{itemize}[
+    leftmargin=0.18in,
+    label={\small$\bullet$},
+    topsep=2pt,
+    parsep=0pt,
+    partopsep=0pt,
+    itemsep=3pt,
+  ]%
+}
+\newcommand{\resumeItemListSpacedEnd}{\end{itemize}\vspace{2pt}}
+
+\begin{document}
+\pagestyle{empty}
+
+\noindent
+\begin{minipage}[t]{\linewidth}
+  \vspace{0pt}
+  \centering
+  {\fontsize{19}{21}\selectfont\bfseries\textcolor{cvblue}{Shivam Kumar Verma}}\\[2pt]
+  {\small
+  \href{tel:+919135668614}{\underline{+91-9135668614}}
+  \hspace{10pt}
+  \href{mailto:shivam0xverma@gmail.com}{\underline{shivam0xverma@gmail.com}}
+  \hspace{10pt}
+  \href{https://www.linkedin.com/in/shivamv99/}{\underline{LinkedIn}}
+  \hspace{10pt}
+  \href{https://github.com/shivamxverma}{\underline{GitHub}}
+  \hspace{10pt}
+  \href{https://www.shivamworks.dev/}{\underline{Portfolio}}}
+\end{minipage}
+
+\vspace{2pt}
+
+\section{Experience}
+\resumeSubHeadingListStart
+
+\resumeExperienceEntry
+  {Fullstack Developer Intern -- \href{https://poiro.com}{\underline{poiro.com}}}
+  {Jul 2026 -- Present}
+  {Python $\cdot$ FastAPI $\cdot$ MongoDB $\cdot$ Redis $\cdot$ Celery $\cdot$ Next.js $\cdot$ TypeScript $\cdot$ Cloudflare R2 $\cdot$ Turborepo}
+  {}
+
+\resumeItemListSpacedStart
+  % TODO: workflows run per week, avg nodes per workflow, number of node types
+  \resumeItem{\textbf{DAG Workflow Engine:} Built the node and group system behind the AI workflow builder: each workflow is a DAG of generation steps passing typed outputs to the next, and groups bundle steps into reusable sub-workflows that run as one unit.}
+  % TODO: assets migrated, % of uploads blocked as duplicates
+  \resumeItem{\textbf{Digital Asset Service:} Designed the data model and APIs for one shared asset service that replaced separate storage in 3 apps, and migrated all existing assets into it; added folders, reusable prompt Elements, and upload-time duplicate blocking with pHash and dHash image similarity.}
+  % TODO: cache hit rate or API calls saved
+  \resumeItem{\textbf{Provider Adapter Layer:} Integrated Pixabay, Unsplash, and Pinterest behind one common adapter interface, with per-org Redis caching to avoid repeat API calls and spend caps to stop runaway provider costs.}
+\resumeItemListSpacedEnd
+
+\resumeExperienceEntry
+  {Full Stack Developer Intern -- \href{https://www.klimb.io}{\underline{klimb.io}}}
+  {Nov 2025 -- May 2026}
+  {TypeScript $\cdot$ Express.js $\cdot$ PostgreSQL $\cdot$ Redis $\cdot$ AWS $\cdot$ OpenAI Realtime}
+  {}
+
+\resumeItemListSpacedStart
+  % TODO: number of customer orgs billed (ask old manager)
+  \resumeItem{\textbf{Usage-Based Billing Ledger:} Replaced on/off feature flags with a credit ledger that meters each customer's usage of 6+ AI features, which made usage-based pricing possible.}
+  % TODO: candidates interviewed (ask old manager)
+  \resumeItem{\textbf{AI Interview Platform:} Built the backend for a 3-stage AI interview platform with automated proctoring; its live voice round on OpenAI Realtime asks questions drawn from the candidate's resume and scores the transcript.}
+\resumeItemListSpacedEnd
+
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectEntry
+  {Yuvro}
+  {https://github.com/shivamxverma/yuvro}
+  {https://drive.google.com/file/d/1Tb_NXvNCp8AcG48K_PUl4GhvSY1ZqiAY/view?usp=sharing}
+  {Replit (Web IDE) $\cdot$ Python $\cdot$ FastAPI $\cdot$ PostgreSQL $\cdot$ Kubernetes $\cdot$ AWS S3 $\cdot$ WebSockets}
+\resumeItemListSpacedStart
+  % TODO: storage saved (%) across N template projects
+  \resumeItem{\textbf{Content-Addressed Storage:} Stores each file once by its content hash, so identical files across projects are never duplicated, with a scheduled garbage collector that deletes files no project references.}
+  % TODO: median cold start (open project -> ready terminal)
+  \resumeItem{\textbf{Per-Project Containers on Kubernetes:} Starts an isolated container for each project on demand, with a live WebSocket terminal, file editor, app preview, and database browser, so user code never runs on the main servers.}
+\resumeItemListSpacedEnd
+
+\resumeProjectEntry
+  {CodeSM}
+  {https://github.com/shivamxverma/CodeSM}
+  {https://code-sm.vercel.app/}
+  {Code Platform $\cdot$ Node.js $\cdot$ Express.js $\cdot$ BullMQ $\cdot$ Redis $\cdot$ PostgreSQL/Drizzle $\cdot$ Docker $\cdot$ AWS S3}
+\resumeItemListSpacedStart
+  % TODO: attack cases blocked (e.g. 5/5)
+  \resumeItem{\textbf{Sandboxed Code Execution:} Runs every submission in a locked-down container with no network, a read-only filesystem, and CPU, memory, and time limits, so infinite loops, fork bombs, and network calls stay contained.}
+  % TODO: p95 grading time at N concurrent submissions (k6)
+  \resumeItem{\textbf{Async Grading Queue:} Moved grading onto BullMQ workers so the API responds instantly; each submission reuses one container across its test cases and stops at the first failed test.}
+\resumeItemListSpacedEnd
+
+\resumeProjectPlainEntry
+  {\href{https://github.com/shivamxverma/DeepDoc}{\underline{DeepDoc}}}
+  {RAG $\cdot$ Next.js $\cdot$ TypeScript $\cdot$ Azure OpenAI $\cdot$ Pinecone $\cdot$ PostgreSQL/Drizzle $\cdot$ Vercel Blob}
+\resumeItemListSpacedStart
+  \resumeItem{\textbf{RAG Pipeline:} Splits each PDF into section-aware chunks by topic, searches only that document's vectors, and rewrites follow-up questions using chat history so they retrieve the right sections.}
+  % TODO: recall@5 before -> after, tokens per answer cut (after building the eval set)
+  \resumeItem{\textbf{Retrieval Ranking and Tuning:} Ranks matches by score, drops weak and duplicate chunks, and packs the best into a token budget; tuned these settings across 100+ configurations and fixed a bug that returned empty results for every query.}
+\resumeItemListSpacedEnd
+
+\resumeSubHeadingListEnd
+
+\section{Skills}
+\begin{itemize}[
+  leftmargin=0.12in,
+  label={},
+  topsep=2pt,
+  parsep=0pt,
+  partopsep=0pt,
+  itemsep=3pt,
+]
+\small\item \textbf{Languages:} C++, Python, TypeScript, SQL
+\small\item \textbf{Backend:} FastAPI, Node.js, Express.js, REST APIs, WebSockets, Celery, BullMQ
+\small\item \textbf{Data \& Infrastructure:} PostgreSQL, MongoDB, Redis, Pinecone, Docker, Kubernetes, AWS (EC2, S3)
+\small\item \textbf{AI Engineering:} RAG, embeddings and vector search, query rewriting, LLM evaluation
+\small\item \textbf{Frontend \& Tooling:} React, Next.js, Git, Linux, CI pipelines
+\end{itemize}
+\vspace{-4pt}
+
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Indian Institute of Information Technology Nagpur}{Nagpur, Maharashtra}
+    {B.Tech in Computer Science and Engineering}{Nov 2022 -- May 2026}
+\resumeSubHeadingListEnd
+
+\section{Achievements}
+\resumeItemListStart
+  \resumeItem{\textbf{Competitive Programming:} \textbf{Top 5\% globally} on \href{https://leetcode.com/u/MahavirCoder/}{\underline{LeetCode}} (\textbf{1800+ rating}, 800+ problems solved) $\cdot$ \textbf{3-star} on \href{https://www.codechef.com/users/mahavir99}{\underline{CodeChef}} (1700+) $\cdot$ Pupil on Codeforces.}
+\resumeItemListEnd
+
+\end{document}

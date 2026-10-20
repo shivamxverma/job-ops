@@ -1,0 +1,47 @@
+{
+  "pulled": "2026-10-06",
+  "scanned": 354,
+  "survived": 5,
+  "hits": [
+    {
+      "id": 114411,
+      "grade": "D",
+      "score": 32,
+      "company": "Numeral",
+      "batch": "W23",
+      "title": "Software Engineer (Platform)",
+      "location": "San Francisco, CA, US / New York, NY, US / Remote",
+      "visa": "Will sponsor",
+      "minExperience": "3+ years",
+      "salaryRange": "$180K - $300K",
+      "equityRange": "",
+      "skills": [],
+      "oneLiner": "The AI-native sales tax solution.",
+      "createdAt": "about 12 hours",
+      "lastActive": null,
+      "teamSize": 110,
+      "stage": "Growth",
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Finance",
+        "Compliance",
+        "E-commerce"
+      ],
+      "website": "https://www.numeral.com/",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/numeral/jobs/AN4bV6V-software-engineer-platform",
+      "companyUrl": "https://www.ycombinator.com/companies/numeral",
+      "why": [
+        "stack (weak): full stack, platform",
+        "110-person team",
+        "story fit (AI vocab only): ai",
+        "remote",
+        "will sponsor",
+        "3+ years stated (stretch)",
+        "posted about 12 hours ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

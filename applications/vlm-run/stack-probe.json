@@ -1,0 +1,585 @@
+{
+  "domain": "vlm.run",
+  "slug": "vlm-run",
+  "probedAt": "2026-09-29T14:36:45.698Z",
+  "liveHosts": [
+    {
+      "host": "vlm.run",
+      "status": 200,
+      "finalUrl": "https://vlm.run/",
+      "csp": [],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:36:31 GMT",
+        "link": "</llms.txt>; rel=\"llms-txt\", </llms-full.txt>; rel=\"llms-full-txt\", </_next/static/media/797e433ab948586e-s.p.29207c2f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/STKBureauSerif_Bold_Trial-s.p.c27beddf.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/STKBureauSerif_Book_Italic_Trial-s.p.70d14807.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/STKBureauSerif_Book_Trial-s.p.b334dfd8.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/STKBureauSerif_Medium_Trial-s.p.aa3ae6af.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/STKBureauSerif_SemiBold_Trial-s.p.d84ab951.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/aeonikpro_regular-s.p.2b4706af.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/hero/orbit/01-robot.jpg>; rel=preload; as=\"image\", </images/hero/orbit/02-statement.jpg>; rel=preload; as=\"image\", </images/hero/orbit/03-tennis.jpg>; rel=preload; as=\"image\", </images/hero/orbit/05-street.jpg>; rel=preload; as=\"image\", </images/hero/orbit/04-referral.jpg>; rel=preload; as=\"image\", </images/hero/orbit/07-boat.jpg>; rel=preload; as=\"image\", </images/hero/orbit/08-warehouse.jpg>; rel=preload; as=\"image\", </images/hero/orbit/06-freight.jpg>; rel=preload; as=\"image\", </images/hero/orbit/09-detect.jpg>; rel=preload; as=\"image\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-llms-txt": "/llms.txt",
+        "x-matched-path": "/",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::9bzst-1790692591620-773df10f8f86"
+      }
+    },
+    {
+      "host": "www.vlm.run",
+      "status": 200,
+      "finalUrl": "https://vlm.run/",
+      "csp": [],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:36:34 GMT",
+        "link": "</llms.txt>; rel=\"llms-txt\", </llms-full.txt>; rel=\"llms-full-txt\", </_next/static/media/797e433ab948586e-s.p.29207c2f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/STKBureauSerif_Bold_Trial-s.p.c27beddf.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/STKBureauSerif_Book_Italic_Trial-s.p.70d14807.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/STKBureauSerif_Book_Trial-s.p.b334dfd8.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/STKBureauSerif_Medium_Trial-s.p.aa3ae6af.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/STKBureauSerif_SemiBold_Trial-s.p.d84ab951.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/aeonikpro_regular-s.p.2b4706af.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/hero/orbit/01-robot.jpg>; rel=preload; as=\"image\", </images/hero/orbit/02-statement.jpg>; rel=preload; as=\"image\", </images/hero/orbit/03-tennis.jpg>; rel=preload; as=\"image\", </images/hero/orbit/05-street.jpg>; rel=preload; as=\"image\", </images/hero/orbit/04-referral.jpg>; rel=preload; as=\"image\", </images/hero/orbit/07-boat.jpg>; rel=preload; as=\"image\", </images/hero/orbit/08-warehouse.jpg>; rel=preload; as=\"image\", </images/hero/orbit/06-freight.jpg>; rel=preload; as=\"image\", </images/hero/orbit/09-detect.jpg>; rel=preload; as=\"image\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-llms-txt": "/llms.txt",
+        "x-matched-path": "/",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::7tv5c-1790692594796-566ee80a9055"
+      }
+    },
+    {
+      "host": "app.vlm.run",
+      "status": 200,
+      "finalUrl": "https://app.vlm.run/sign-in",
+      "csp": [],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "frame-ancestors 'self'; script-src 'self' 'nonce-66e024a8a0834b5eac2ddd0bd4170d15' 'unsafe-inline' 'wasm-unsafe-eval' 'unsafe-eval' https://*.clerk.com https://*.clerk.accounts.dev https://*.clerk.services https://clerk.vlm.run https: data:; frame-src 'self' https://*.clerk.com https://*.clerk.accounts.dev https://*.clerk.services https://clerk.vlm.run https: blob: data:; connect-src 'self' https://*.clerk.com https://*.clerk.accounts.dev https://*.clerk.services https://clerk.vlm.run https: http: wss: ws: data: blob:; worker-src 'self' blob: https: data:; img-src 'self' https: http: data: blob:; style-src 'self' 'unsafe-inline' https: data:; font-src 'self' https: data:",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:36:35 GMT",
+        "link": "</_next/static/media/0f6d8a9ea9457c5d-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/25df6fc3fae31ad9-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/2c0cba033d89f707-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/43c4253ff97db1bd-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/4ff48e1acc89a600-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch",
+        "x-clerk-auth-reason": "session-token-and-uat-missing",
+        "x-clerk-auth-status": "signed-out",
+        "x-matched-path": "/sign-in/[[...sign-in]]",
+        "x-nonce": "66e024a8a0834b5eac2ddd0bd4170d15",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::stnrh-1790692594946-44939ae2d5f4"
+      }
+    },
+    {
+      "host": "api.vlm.run",
+      "status": 405,
+      "finalUrl": "https://api.vlm.run/",
+      "csp": [],
+      "headers": {
+        "allow": "GET",
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "31",
+        "content-type": "application/json",
+        "date": "Tue, 29 Sep 2026 14:36:33 GMT",
+        "modal-function-call-id": "fc-01M3PSH3RFBT0NW7TBMC1HVM0X",
+        "vary": "accept-encoding"
+      }
+    },
+    {
+      "host": "docs.vlm.run",
+      "status": 200,
+      "finalUrl": "https://docs.vlm.run/introduction",
+      "csp": [
+        "dashboard.mintlify.com",
+        "app.mintlify.com"
+      ],
+      "headers": {
+        "age": "58034",
+        "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
+        "cf-cache-status": "HIT",
+        "cf-ray": "a42bb88d5942edf5-BOM",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "worker-src 'self' blob:; object-src 'none'; base-uri 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://dashboard.mintlify.com https://app.mintlify.com; form-action 'self'; default-src 'self' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; media-src 'self' data: blob: https:; frame-src 'self' blob: https:; connect-src 'self' data: https: wss:;",
+        "content-security-policy-report-only": "default-src 'self' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; media-src 'self' data: blob: https:; frame-src 'self' blob: https:; connect-src 'self' data: https: wss:; worker-src 'self' blob:; object-src 'none'; report-uri /_mintlify/api/csp-report; report-to mintlify-csp;",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:36:34 GMT",
+        "etag": "W/\"1vupjuyxlc81l0\"",
+        "expires": "0",
+        "link": "</llms.txt>; rel=\"llms-txt\", </llms-full.txt>; rel=\"llms-full-txt\", </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"mcp-server-card\", </.well-known/agent-card.json>; rel=\"agent-card\", </.well-known/agent-skills/index.json>; rel=\"agent-skills\"",
+        "pragma": "no-cache",
+        "reporting-endpoints": "mintlify-csp=\"/_mintlify/api/csp-report\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, accept-encoding, Accept, User-Agent",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-llms-txt": "/llms.txt",
+        "x-matched-path": "/_sites/[subdomain]/[[...slug]]",
+        "x-mint-proxy-version": "1.0.0-prod",
+        "x-mintlify-client-version": "0.0.3704",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "60",
+        "x-served-version": "dpl_Ho9ervNewT2mACrUoYbN7qri7kim",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1:iad1::iad1::fmxkd-1790692594756-1e3b4ac42a5c",
+        "x-vercel-project-id": "prj_NdMUpHpUIb41Po1H8c6hrChv2bgr",
+        "x-version": "dpl_Ho9ervNewT2mACrUoYbN7qri7kim"
+      }
+    },
+    {
+      "host": "status.vlm.run",
+      "status": 200,
+      "finalUrl": "https://status.vlm.run/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "max-age=0, public, s-maxage=3, stale-while-revalidate=60",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "20",
+        "content-security-policy": "base-uri *; frame-ancestors *; connect-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; child-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; frame-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; media-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; font-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; form-action *; style-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; script-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; worker-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; img-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; default-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-embedder-policy-report-only": "require-corp; report-uri https://in.logs.betterstack.com?source_token=xkTaXFmvkxhd18ZziZ7mH8V2",
+        "cross-origin-opener-policy-report-only": "same-origin; report-uri https://in.logs.betterstack.com?source_token=xkTaXFmvkxhd18ZziZ7mH8V2",
+        "date": "Tue, 29 Sep 2026 14:36:34 GMT",
+        "feature-policy": "accelerometer 'none'; autoplay 'self' https://www.youtube.com; camera 'none'; encrypted-media 'none'; fullscreen 'self' https://www.youtube.com; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture *; usb 'none'",
+        "link": "<https://status.vlm.run/assets/public_status_pages-82691908.css>; rel=preload; as=style; nopush,<https://status.vlm.run/overview>; rel=preload; as=fetch; crossorigin=anonymous,<https://status.vlm.run/scheduled-maintenances>; rel=preload; as=fetch; crossorigin=anonymous,<https://status.vlm.run/sections>; rel=preload; as=fetch; crossorigin=anonymous,<https://status.vlm.run/updates>; rel=preload; as=fetch; crossorigin=anonymous",
+        "permissions-policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=*, usb=()",
+        "ratelimit-policy": "1000; w=60",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=63113904; includeSubDomains; preload",
+        "vary": "Accept, Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-permitted-cross-domain-policies": "none",
+        "x-request-id": "3b30b7e6-9da5-4ede-867c-99a759af5946",
+        "x-runtime": "0.233907",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "dev.vlm.run",
+      "status": 405,
+      "finalUrl": "https://dev.vlm.run/",
+      "csp": [],
+      "headers": {
+        "allow": "GET",
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "31",
+        "content-type": "application/json",
+        "date": "Tue, 29 Sep 2026 14:36:34 GMT",
+        "modal-function-call-id": "fc-01M3PSH4T80RKD7CT8XBASJ6DY",
+        "vary": "accept-encoding"
+      }
+    },
+    {
+      "host": "dashboard.mintlify.com",
+      "status": 200,
+      "finalUrl": "https://app.mintlify.com/login",
+      "csp": [],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:36:36 GMT",
+        "link": "</_next/static/media/InterVariable-s.p.2c0y96ae70xfx.woff2?dpl=dpl_DUcRCLf9QpL38QEHdFCrbUNha91v>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/InterVariable_Italic-s.p.1x53smi1ekt97.woff2?dpl=dpl_DUcRCLf9QpL38QEHdFCrbUNha91v>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/PaperMono_Variable-s.p.2dukcgesa8trk.woff2?dpl=dpl_DUcRCLf9QpL38QEHdFCrbUNha91v>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/login",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::8fmmg-1790692596541-936961b527ef"
+      }
+    },
+    {
+      "host": "app.mintlify.com",
+      "status": 200,
+      "finalUrl": "https://app.mintlify.com/login",
+      "csp": [],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 29 Sep 2026 14:36:36 GMT",
+        "link": "</_next/static/media/InterVariable-s.p.2c0y96ae70xfx.woff2?dpl=dpl_DUcRCLf9QpL38QEHdFCrbUNha91v>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/InterVariable_Italic-s.p.1x53smi1ekt97.woff2?dpl=dpl_DUcRCLf9QpL38QEHdFCrbUNha91v>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/PaperMono_Variable-s.p.2dukcgesa8trk.woff2?dpl=dpl_DUcRCLf9QpL38QEHdFCrbUNha91v>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/login",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::5jhv2-1790692596285-7a1993cf389d"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [
+    "dashboard.mintlify.com",
+    "app.mintlify.com"
+  ],
+  "stack": [
+    {
+      "tech": "Clerk (auth)",
+      "kind": "auth",
+      "seenOn": [
+        "app.vlm.run",
+        "app.vlm.run"
+      ],
+      "evidence": [
+        "x-clerk-auth-reason: session-token-and-uat-missing",
+        "x-clerk-auth-status: signed-out"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Clerk instance looks like production",
+      "kind": "auth",
+      "note": "dev-browser-missing = a development instance; session-token-and-uat-missing = production",
+      "seenOn": [
+        "app.vlm.run"
+      ],
+      "evidence": [
+        "x-clerk-auth-reason: session-token-and-uat-missing"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "docs.vlm.run"
+      ],
+      "evidence": [
+        "cf-ray: a42bb88d5942edf5-BOM"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Next.js",
+      "kind": "framework",
+      "seenOn": [
+        "vlm.run",
+        "www.vlm.run",
+        "app.vlm.run",
+        "dashboard.mintlify.com",
+        "app.mintlify.com"
+      ],
+      "evidence": [
+        "x-powered-by: Next.js"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js App Router (React Server Components)",
+      "kind": "framework",
+      "seenOn": [
+        "vlm.run",
+        "www.vlm.run",
+        "app.vlm.run",
+        "docs.vlm.run",
+        "dashboard.mintlify.com",
+        "app.mintlify.com"
+      ],
+      "evidence": [
+        "vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch",
+        "vary: rsc, accept-encoding, Accept, User-Agent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js (prerendered route)",
+      "kind": "framework",
+      "seenOn": [
+        "docs.vlm.run"
+      ],
+      "evidence": [
+        "x-nextjs-prerender: 1"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Rails",
+      "kind": "framework",
+      "seenOn": [
+        "status.vlm.run"
+      ],
+      "evidence": [
+        "x-runtime: 0.233907"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "vlm.run",
+        "www.vlm.run",
+        "app.vlm.run",
+        "docs.vlm.run",
+        "dashboard.mintlify.com",
+        "app.mintlify.com"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "vlm.run",
+        "www.vlm.run",
+        "app.vlm.run",
+        "docs.vlm.run",
+        "dashboard.mintlify.com",
+        "app.mintlify.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::iad1::9bzst-1790692591620-773df10f8f86",
+        "x-vercel-id: bom1::iad1::7tv5c-1790692594796-566ee80a9055",
+        "x-vercel-id: bom1::iad1::stnrh-1790692594946-44939ae2d5f4",
+        "x-vercel-id: bom1:iad1::iad1::fmxkd-1790692594756-1e3b4ac42a5c",
+        "x-vercel-id: bom1::iad1::8fmmg-1790692596541-936961b527ef",
+        "x-vercel-id: bom1::iad1::5jhv2-1790692596285-7a1993cf389d"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel functions run in iad1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "vlm.run",
+        "www.vlm.run",
+        "app.vlm.run",
+        "docs.vlm.run",
+        "dashboard.mintlify.com",
+        "app.mintlify.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::iad1::9bzst-1790692591620-773df10f8f86",
+        "x-vercel-id: bom1::iad1::7tv5c-1790692594796-566ee80a9055",
+        "x-vercel-id: bom1::iad1::stnrh-1790692594946-44939ae2d5f4",
+        "x-vercel-id: bom1:iad1::iad1::fmxkd-1790692594756-1e3b4ac42a5c",
+        "x-vercel-id: bom1::iad1::8fmmg-1790692596541-936961b527ef",
+        "x-vercel-id: bom1::iad1::5jhv2-1790692596285-7a1993cf389d"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "request tracing",
+      "kind": "infra",
+      "seenOn": [
+        "status.vlm.run"
+      ],
+      "evidence": [
+        "x-request-id: 3b30b7e6-9da5-4ede-867c-99a759af5946"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "vlm.run",
+        "www.vlm.run",
+        "dashboard.mintlify.com",
+        "app.mintlify.com"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://vlm.run/robots.txt",
+      "status": 206,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: GPTBot\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: ChatGPT-User\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: OAI-SearchBot\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: ClaudeBot\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: anthropic-ai\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: PerplexityBot\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: Google-Extended\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: Applebot-Extended\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: Bytespider\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: "
+    },
+    {
+      "url": "https://vlm.run/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://vlm.run</loc>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://vlm.run/product</loc>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://vlm.run/orion</loc>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://vlm.run/gateway</loc>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://vlm.run/gateway/models</loc>\n<changefreq>monthly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://vlm.run/gateway/models/frontier-models</loc>\n<changefreq>"
+    },
+    {
+      "url": "https://vlm.run/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# VLM Run\n\n> The unified gateway for document, image, and video AI. Open-weight vision models behind one OpenAI-compatible API — Orion, our visual agent, sees, reasons, and acts when you need more than raw models.\n\nKey terms: Visual Intelligence, Vision-Language Model, VLM, Orion, Visual Agent, Document OCR, Structured Output, Visual Grounding, HIPAA, SOC 2, Computer Vision, Multimodal AI, Visual ETL, API\n\n## Product\n\n- [Homepage](https://vlm.run): The unified gateway for document, image, and video AI. Open-weight vision models behind one OpenAI-compatible API.\n- [Product](https://vlm.run/product): Build, run, and operate visual AI across images, documents, and video with production-grade ac"
+    },
+    {
+      "url": "https://www.vlm.run/robots.txt",
+      "status": 206,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: GPTBot\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: ChatGPT-User\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: OAI-SearchBot\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: ClaudeBot\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: anthropic-ai\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: PerplexityBot\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: Google-Extended\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: Applebot-Extended\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: Bytespider\nAllow: /\nDisallow: /studio/\nDisallow: /api/\n\nUser-Agent: "
+    },
+    {
+      "url": "https://www.vlm.run/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://vlm.run</loc>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://vlm.run/product</loc>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://vlm.run/orion</loc>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://vlm.run/gateway</loc>\n<changefreq>monthly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://vlm.run/gateway/models</loc>\n<changefreq>monthly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://vlm.run/gateway/models/frontier-models</loc>\n<changefreq>"
+    },
+    {
+      "url": "https://www.vlm.run/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# VLM Run\n\n> The unified gateway for document, image, and video AI. Open-weight vision models behind one OpenAI-compatible API — Orion, our visual agent, sees, reasons, and acts when you need more than raw models.\n\nKey terms: Visual Intelligence, Vision-Language Model, VLM, Orion, Visual Agent, Document OCR, Structured Output, Visual Grounding, HIPAA, SOC 2, Computer Vision, Multimodal AI, Visual ETL, API\n\n## Product\n\n- [Homepage](https://vlm.run): The unified gateway for document, image, and video AI. Open-weight vision models behind one OpenAI-compatible API.\n- [Product](https://vlm.run/product): Build, run, and operate visual AI across images, documents, and video with production-grade ac"
+    },
+    {
+      "url": "https://api.vlm.run/openapi.json",
+      "status": 200,
+      "contentType": "application/json",
+      "why": "the public API surface, in full",
+      "preview": "{\"openapi\":\"3.1.0\",\"info\":{\"title\":\"VLM Run Unified Server\",\"description\":\"Unified server for VLM Run Agent and API\",\"termsOfService\":\"https://vlm.run/terms-of-service\",\"contact\":{\"name\":\"VLM Run Support Team\",\"url\":\"https://vlm.run/\",\"email\":\"support@vlm.run\"},\"version\":\"2026-05-19.0\"},\"paths\":{\"/v1/openai/models\":{\"get\":{\"tags\":[\"chat\"],\"summary\":\"Models\",\"description\":\"List all available models.\",\"operationId\":\"models_v1_openai_models_get\",\"responses\":{\"200\":{\"description\":\"Successful Response\",\"content\":{\"application/json\":{\"schema\":{\"$ref\":\"#/components/schemas/Model\"}}}}},\"security\":[{\"HTTPBearer\":[]}]}},\"/v1/openai/models/{model}\":{\"get\":{\"tags\":[\"chat\"],\"summary\":\"Model Info\",\"descri"
+    },
+    {
+      "url": "https://docs.vlm.run/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# VLM Run\n\n> Documentation for VLM Run, the unified gateway for visual intelligence. Understand, reason over, and act on images, video, and documents with a single API.\n\n- [Introduction](https://docs.vlm.run/introduction.md): Extract JSON from images, videos, and documents with a unified API.\n- [Ways to Use VLM Run](https://docs.vlm.run/ways-to-use-vlm-run.md): The four entry points into VLM Run (Requests, Executions, Chat Completions API, and Chat UI) and when to reach for each.\n- [Structured Responses](https://docs.vlm.run/capabilities/structured-responses.md): Extract JSON from images, videos, and documents with type-safety.\n- [Supported Domains](https://docs.vlm.run/hub.md): Pre-built sc"
+    },
+    {
+      "url": "https://docs.vlm.run/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nContent-Signal: ai-train=yes, search=yes, ai-input=yes\nDisallow: /cdn-cgi/\nAllow: /_next/image\nDisallow: /_next/\nSitemap: https://docs.vlm.run/sitemap.xml"
+    },
+    {
+      "url": "https://docs.vlm.run/sitemap.xml",
+      "status": 200,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:news=\"http://www.google.com/schemas/sitemap-news/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" xmlns:image=\"http://www.google.com/schemas/sitemap-image/1.1\" xmlns:video=\"http://www.google.com/schemas/sitemap-video/1.1\">\n    \n  <url>\n    <loc>https://docs.vlm.run/FAQ</loc>\n    <lastmod>2026-01-28T21:34:40.092Z</lastmod>\n  </url>\n\n  <url>\n    <loc>https://docs.vlm.run/agents/artifacts</loc>\n    <lastmod>2026-08-10T21:14:45.416Z</lastmod>\n  </url>\n\n  <url>\n    <loc>https://docs.vlm.run/agents/capabilities/document/layout-understanding</loc>\n    <lastmod>2026-05-22T20:05:46.804Z</lastmod>\n "
+    }
+  ],
+  "dns": [
+    {
+      "host": "vlm.run",
+      "a": [
+        "216.150.1.1"
+      ],
+      "txt": [
+        "rippling-domain-verification=272bc8c629e96ff4",
+        "linkedin-site-verification=787afede-4f9b-49b1-9de2-faba04121a34",
+        "google-site-verification=_4LM0toMT6NziYH6NWFp_YL7Kei2Ek0vhYnZ0P3udps",
+        "v=spf1 include:_spf.google.com -all"
+      ],
+      "mx": [
+        "smtp.google.com"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    },
+    {
+      "host": "dashboard.mintlify.com",
+      "a": [
+        "76.76.21.93",
+        "66.33.60.194"
+      ],
+      "txt": [],
+      "cname": [
+        "cname.vercel-dns.com"
+      ],
+      "mx": [],
+      "vendors": [
+        "Vercel"
+      ]
+    },
+    {
+      "host": "app.mintlify.com",
+      "a": [
+        "76.76.21.22",
+        "66.33.60.129"
+      ],
+      "cname": [
+        "32d5f2b975ee0bd6.vercel-dns-0.com"
+      ],
+      "txt": [],
+      "mx": [],
+      "vendors": [
+        "Vercel"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "vlm",
+    "results": [
+      {
+        "name": "VPN - Super Unlimited Proxy",
+        "seller": "Mobile Jump Pte Ltd",
+        "updated": "2026-09-28T08:44:33Z"
+      },
+      {
+        "name": "VLC media player",
+        "seller": "VideoLAN",
+        "updated": "2026-04-24T04:45:38Z"
+      },
+      {
+        "name": "VPN Proxy Master - Super VPN",
+        "seller": "All Connected Co., Ltd",
+        "updated": "2026-09-19T16:38:28Z"
+      },
+      {
+        "name": "myVLM Card",
+        "seller": "SM SEAMLESS DIGITAL LIMITED",
+        "updated": "2026-08-02T16:09:21Z"
+      },
+      {
+        "name": "Larva VPN - Hide your IP",
+        "seller": "Unikel Gobal Ltd.",
+        "updated": "2026-09-24T00:15:35Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

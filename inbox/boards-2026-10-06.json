@@ -1,0 +1,121 @@
+{
+  "pulled": "2026-10-06",
+  "scanned": 162,
+  "survived": 28,
+  "hits": [
+    {
+      "id": "rmv:2091149",
+      "grade": "B",
+      "score": 63,
+      "source": "remotive.com",
+      "kind": "remote",
+      "company": "CodeForAI",
+      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+      "posted": "2026-10-05T05:15:43",
+      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "api",
+        "backend",
+        "C",
+        "C#",
+        "C++",
+        "fullstack",
+        "go",
+        "java"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "c++",
+          "full-stack",
+          "full stack",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "reachable: restrictions include India",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+      "grade": "D",
+      "score": 39,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "STEUART NUTRITION",
+      "title": "Software Developer AI Coding",
+      "url": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+      "posted": "Wed, 23 Sep 2026 15:03:18 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6433/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> Minnesota <br /><strong>URL:</strong> <a href=\"https://www.steuartnutrition.com/\">https://www.steuartnutrition.com/</a> </p> <p><strong>About us</strong></p> <p>Steuart Nutrition is a GMP-certified contract manufacturer making powders, liquids, capsules and stick packs for growing wellness brands. We run on Extreme Ownership, clear communication and fast turnaround, and we want a developer who works the same way.</p> <p><strong>The role</strong></p> <p>We're hiring a remote developer to own the customization of our training app. You'll learn the platform quickly, then build what our teams need to train and onboard people. Over time you'll also take on other internal tools and automations. AI-assisted development is central to how we work, so we want someone who uses AI tools to write and ship better code faster.</p> <p><strong>What you'll do</strong></p> <ul> <li>Learn our training app inside and out, then customize and extend it</li> <li>Build features, integrations and automations with AI coding tools like Claude, Cursor, Copilot and Grok</li> <li>Turn rough requests from the plant and office teams into working solutions</li> <li>Document your work so others can use it and maintain it</li> <li>Give regular, clear progress updates</li> </ul> <p><strong>What we're looking for</strong></p> <ul> <li>3+ years of professional software development</li> <li>Strong, proven skill with AI-assisted coding: you know how to prompt, check and fix AI-generated code</li> <li>A track record of quickly learning unfamiliar platforms and codebases</li> <li>Experience with APIs, web apps and integrations (JavaScript/TypeScript or Python preferred)</li> <li>Excellent written English and consistent communication</li> <li>Able to overlap at least 4 hours a day with US Eastern Time</li> <li>Bonus: experience with LMS or training platforms, or with manufacturing or regulated industries</li> </ul> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding\">https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "rok:1137465",
+      "grade": "D",
+      "score": 35,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "RedMimicry",
+      "title": "Platform and Integration Engineer Security Telemetry",
+      "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
+      "posted": "2026-10-05T13:00:02+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "golang",
+        "infosec",
+        "engineer",
+        "part time"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, remote",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    }
+  ]
+}

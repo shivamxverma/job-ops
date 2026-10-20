@@ -1,0 +1,157 @@
+{
+  "domain": "trackerbot.me",
+  "slug": "trackerbot",
+  "probedAt": "2026-10-04T17:49:19.786Z",
+  "liveHosts": [
+    {
+      "host": "www.trackerbot.me",
+      "status": 200,
+      "finalUrl": "https://www.trackerbot.me/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "age": "262849",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-language": "fr-FR",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Sun, 04 Oct 2026 17:48:33 GMT",
+        "etag": "W/\"8a16e95b33bf7335869c13447acde044\"",
+        "glb-x-seen-by": "bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=",
+        "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+        "server": "Pepyaka",
+        "server-timing": "cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_ireland-phy_g",
+        "set-cookie": "ssr-caching=cache#desc=hit#varnish=hit_miss#dc#desc=fastly_ireland-phy_g; max-age=20",
+        "strict-transport-security": "max-age=31556952",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "via": "1.1 google",
+        "x-cache": "MISS",
+        "x-cache-status": "HIT",
+        "x-content-type-options": "nosniff",
+        "x-seen-by": "yvSunuo/8ld62ehjr5B7kA==,W1c2/pqHBqplxcWufHCkILxkNjrXdwdgtu6E0yACibU=,7U7NzZSqfMgd9YnjHLtUa7xkNjrXdwdgtu6E0yACibU=,Ua1iSBCTq7qSXjmRCGE1N9spKLuaSaw0aGhUVS6UZ8DK0lEEADD+PF4rGmFRFJuIcHiHUYyEsNaO1DY5SvLvVFGtYkgQk6u6kl45kQhhNTcui9T69820yNLMF2NoeRWO,2d58ifebGbosy5xc+FRalgXABIT1QETxqyOy/YM2BkAboK49ukl3xT5emzOA1iMccHiHUYyEsNaO1DY5SvLvVG9mfA2tzhINGqiKpRL3zpk=,2UNV7KOq4oGjA5+PKsX47NG8IlQNaFL1aVi0EO+plYAqUshVO4awhZVCZMTGn/DQ",
+        "x-served-by": "cache-bom-vanm7210053-BOM",
+        "x-wix-cache-control": "public, max-age=604800",
+        "x-wix-request-id": "1791136113.376352227581458",
+        "x-wix-surrogate-control": "stale-while-revalidate=86400"
+      }
+    },
+    {
+      "host": "blog.trackerbot.me",
+      "status": 200,
+      "finalUrl": "https://blog.trackerbot.me/",
+      "csp": [],
+      "headers": {
+        "connection": "keep-alive",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Sun, 04 Oct 2026 17:48:45 GMT",
+        "host-header": "6b7412fb82ca5edfd0917e3957f05d89",
+        "link": "<https://blog.trackerbot.me/wp-json/>; rel=\"https://api.w.org/\", <https://blog.trackerbot.me/wp-json/wp/v2/pages/9013>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://blog.trackerbot.me/>; rel=shortlink",
+        "server": "nginx",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding",
+        "x-cache-enabled": "True",
+        "x-httpd": "1",
+        "x-proxy-cache": "MISS",
+        "x-proxy-cache-info": "0 NC:000000 UP:"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Fastly",
+      "kind": "cdn",
+      "seenOn": [
+        "www.trackerbot.me"
+      ],
+      "evidence": [
+        "x-served-by: cache-bom-vanm7210053-BOM"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "nginx",
+      "kind": "hosting",
+      "seenOn": [
+        "blog.trackerbot.me"
+      ],
+      "evidence": [
+        "server: nginx"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "www.trackerbot.me"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://www.trackerbot.me/sitemap.xml",
+      "status": 206,
+      "contentType": "text/xml; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" generatedBy=\"WIX\">\n<sitemap>\n<loc>https://www.trackerbot.me/store-products-sitemap.xml</loc>\n<lastmod>2026-07-21</lastmod>\n</sitemap>\n<sitemap>\n<loc>https://www.trackerbot.me/store-categories-sitemap.xml</loc>\n<lastmod>2026-07-21</lastmod>\n</sitemap>\n<sitemap>\n<loc>https://www.trackerbot.me/pages-sitemap.xml</loc>\n<lastmod>2026-09-29</lastmod>\n</sitemap>\n</sitemapindex>"
+    },
+    {
+      "url": "https://www.trackerbot.me/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\nDisallow: *?lightbox=\n\n# Optimization for Google Ads Bot\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AdsBot-Google\nDisallow: /_partials*\nDisallow: /pro-gallery-webapp/v1/galleries/*\n\n# Block PetalBot\nUser-agent: PetalBot\nDisallow: /\n\n# Crawl delay for overly enthusiastic bots\nUser-agent: dotbot\nCrawl-delay: 10\nUser-agent: AhrefsBot\nCrawl-delay: 10\n\nSitemap: https://www.trackerbot.me/sitemap.xml\n\n# Auto generated, go to SEO Tools > Robots.txt Editor to change this"
+    },
+    {
+      "url": "https://www.trackerbot.me/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Trackerbot\n> Trackerbot offers automated solutions for Amazon and eBay sellers, focusing on uploading tracking numbers, monitoring shipment statuses, and fulfilling orders efficiently. The site outlines its terms and conditions, including account requirements, service modifications, and liability limitations. It also details its privacy policy, emphasizing the secure handling of user data, particularly information accessed through Google APIs, and clarifies data usage and sharing practices. Various pricing plans are available to suit different seller needs, with options for monthly or yearly billing.\n\n## Homepage link\n- [home](https://www.trackerbot.me/)\n\n## AI Agent Access\n\nThis site is p"
+    }
+  ],
+  "dns": [
+    {
+      "host": "trackerbot.me",
+      "a": [
+        "185.230.63.107"
+      ],
+      "mx": [
+        "smtp.google.com"
+      ],
+      "txt": [
+        "google-site-verification=UJBK0CFbaRroqDeRaAJ6qSuOWv2ejcCxbIvEQQzzGGg",
+        "v=spf1 include:_spf.google.com include:dc-3cb1d11d42._spfm.trackerbot.me ~all",
+        "google-site-verification=MqZxqIE6j9rm-k3Loj2MyK8tgPT8xGCNL-612Nc6vqA",
+        "google-site-verification=WEE8486L_vnHgkQ-ypNDtVpV8wsy77w8rhm4NWMHZTU",
+        "google-site-verification=1oytjiYhO3QI6Xf-MQu-qDrNOW-NEWR8j5GFhyEQ_aE",
+        "google-site-verification=mMD2-awypsdU5yZuvZIol9fgvM-974SkTmLHwctpdBI",
+        "google-site-verification=jpVHfK4fiuPt9blBwzo51Vrq49_Let3vDa39XKgAAjc",
+        "tiktok-developers-site-verification=DkZOYJyqlC5wVJGzuFn5BQkayYzuFuVn"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": null,
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

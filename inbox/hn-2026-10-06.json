@@ -1,0 +1,220 @@
+{
+  "thread": "Ask HN: Who is hiring? (October 2026)",
+  "threadId": "49922569",
+  "pulled": "2026-10-06",
+  "hits": [
+    {
+      "id": "49976350",
+      "author": "comograph",
+      "created": "2026-10-06T10:01:29Z",
+      "url": "https://news.ycombinator.com/item?id=49976350",
+      "matched": {
+        "strong": [
+          "developer tools"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Comograph | Go-To-Market (GTM) Specialist | Remote (Global / US/EU/Africa time zones welcome) | Full-time / Contract About Comograph: We are building an enginee",
+      "text": "Comograph | Go-To-Market (GTM) Specialist | Remote (Global / US/EU/Africa time zones welcome) | Full-time / Contract About Comograph: We are building an engineering recruitment and skill verification platform focused on evidence-based hiring through task-based evaluations. We help tech teams eliminate resume noise and evaluate software engineers on real-world coding and architectural capabilities. The Role: We are looking for a hands-on Go-To-Market (GTM) Specialist / Growth Lead to own our early customer acquisition strategy, lead generation, outbound sales pipelines, and position Comograph in front of engineering leaders and talent acquisition teams. What You&#x27;ll Do: Design and execute outbound B2B sales sequences targeting Engineering Managers, CTOs, and Technical Recruiters. Build growth loops across developer communities, LinkedIn, and cold outbound channels. Own early-stage sales discovery calls, demos, and customer onboarding feedback loops. Craft compelling content, case studies, and messaging around evidence-based technical hiring. What We’re Looking For: Experience in B2B SaaS growth, outbound sales, or GTM strategy (experience in Developer Tools, HR Tech, or Recruiting SaaS is a huge plus). Strong understanding of tech hiring pain points and developer workflows. Comfortable with modern growth/sales stacks (CRM, email automation, LinkedIn outreach). Self-starter who thrives in an early-stage, fast-paced setup. How to Apply: Email your CV/LinkedIn and a brief note on how you’d approach GTM for a tech platform to ceo@comograph.com with the subject: GTM Specialist - Your Name."
+    },
+    {
+      "id": "49974107",
+      "author": "philippemnoel",
+      "created": "2026-10-06T04:17:56Z",
+      "url": "https://news.ycombinator.com/item?id=49974107",
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "distributed systems",
+          "postgres"
+        ],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "ParadeDB (YC S23, https://paradedb.com ) | Database Internals Engineers, Platform Engineers | Remote or hybrid in San Francisco | Full-time ParadeDB is a Postgr",
+      "text": "ParadeDB (YC S23, https://paradedb.com ) | Database Internals Engineers, Platform Engineers | Remote or hybrid in San Francisco | Full-time ParadeDB is a Postgres extension that delivers state-of-the-art search in Postgres. Our customers, including Alibaba Cloud, BILT Rewards, Modern Treasury (YC S18), and many others, rely on us to deliver the performance and feature set of dedicated vector databases/Elasticsearch natively in Postgres, simplifying their stack and day-to-day operations. If you like systems, this might be for you. We&#x27;re a team of 10, a Series A company based in SF but distributed across North America. We&#x27;re hiring for database internals work (e.g., building the database in Rust) and distributed systems work (e.g., building the database-as-a-service platform in Go). We&#x27;re open-source at https://github.com/paradedb/paradedb . Our technical blog: https://www.paradedb.com/blog More info on roles: https://paradedb.notion.site/"
+    },
+    {
+      "id": "49972097",
+      "author": "lizwoodfieldta",
+      "created": "2026-10-05T23:19:50Z",
+      "url": "https://news.ycombinator.com/item?id=49972097",
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "postgresql",
+          "redis",
+          "kafka",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "firstLine": "SentiLink | https://www.sentilink.com/ | Engineering & Data Science | REMOTE, HYBRID, and ONSITE (UNITED STATES ONLY) | Full Time Primarily hiring in the U.S. f",
+      "text": "SentiLink | https://www.sentilink.com/ | Engineering & Data Science | REMOTE, HYBRID, and ONSITE (UNITED STATES ONLY) | Full Time Primarily hiring in the U.S. for more senior level roles. We’re hiring across Engineering (Primarily Backend/Data Platform) and Data Science / ML roles. Hiring at Manager/Director level as well as Senior IC levels. We’re language-agnostic and hire for fundamentals. Across the team you’ll see: • Python, Go, Rust, Scala • PostgreSQL, Snowflake • Kafka, Redis • Terraform, Kubernetes • ML: XGBoost, PyTorch, Feature stores, real-time scoring pipelines If you love solving complex distributed systems challenges, building customer-facing ML products, or working on detection systems that must be both high-precision and low-latency, you’ll fit right in. Roles are here: https://jobs.ashbyhq.com/sentilink?utm_source=hacker_news If you have questions, feel free to reach out directly at liz.woodfield at sentilink dot com. At SentiLink, we stop identity fraud at scale. Our products protect banks, fintechs, marketplaces, and leading financial institutions from synthetic identity fraud, identity theft, and emerging threat. We analyze millions of applications while keeping real users moving fast. We’ve seen tremendous traction and are growing extremely quickly. Our real-time APIs have helped verify hundreds of millions of identities, starting with financial services and rapidly expanding into new markets. SentiLink is backed by world-class investors including Craft Ventures, Andreessen Horowitz, NYCA, and Max Levchin. SentiLink supports a variety of ways to work, ranging from fully remote to in-office. We operate as a digital-first company with strong collaboration across the U.S. and India. We maintain physical offices in Austin, San Francisco, New York City, Seattle, Los Angeles, and Chicago in the U.S. If you’re located near one of these offices, we would love for you to spend time in the office regularly. Some roles are hybrid or in-office by design. We’re a small, high-impact team solving one of the most interesting and adversarial problems in fintech: how do you build systems that reliably determine whether a real human is on the other side of a financial transaction?"
+    },
+    {
+      "id": "49965012",
+      "author": "luxor_recru_it",
+      "created": "2026-10-05T14:00:02Z",
+      "url": "https://news.ycombinator.com/item?id=49965012",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "infra",
+          "platform",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Tenki Cloud by Luxor Tech | San Francisco, CA | Founding Sales | Full-time | SF-based preferred | https://tenki.cloud/ We&#x27;re building Tenki, Luxor&#x27;s c",
+      "text": "Tenki Cloud by Luxor Tech | San Francisco, CA | Founding Sales | Full-time | SF-based preferred | https://tenki.cloud/ We&#x27;re building Tenki, Luxor&#x27;s compute platform for developers and AI agents: faster, cheaper GitHub Actions runners, code-review agents, and isolated sandboxes where agents run code. Next up: agent workflows and CPU/GPU compute. Tenki was built by the founding team behind Luxor Technology, a leading provider of Bitcoin mining and AI infrastructure. Teams like Anchor, Omnara, and Naive already rely on it, and MAU has grown ~3.5x since April. We&#x27;re building the infrastructure layer for the next generation of AI companies, and we want Tenki to be the go-to platform for AI teams worldwide. Now we need someone to sell it. You&#x27;ve sold technical products to technical buyers and can talk CI pipelines and infra costs without hiding behind a sales engineer. Dev tools or cloud infra experience is a big plus. What you&#x27;ll do: - Own the full cycle, from prospecting to close to expansion - Turn self-serve signups into revenue - Work closely with engineering and product, and bring customer feedback into the roadmap - Build the playbook from scratch - Show up at SF meetups, hackathons, and dev events You&#x27;d be the first sales hire on a small, technical team. No playbook yet, full ownership. Apply: https://jobs.ashbyhq.com/luxor/8d215a01-8cac-4b0e-add6-507db..."
+    },
+    {
+      "id": "49964448",
+      "author": "meetalbert",
+      "created": "2026-10-05T13:15:08Z",
+      "url": "https://news.ycombinator.com/item?id=49964448",
+      "matched": {
+        "strong": [
+          "postgres"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "ALBERT | REMOTE ALMOST ANYWHERE IN THE WORLD| Hiring principal and distinguished engineers to build net new products | up to ~ $750k Hiring: exceptional consume",
+      "text": "ALBERT | REMOTE ALMOST ANYWHERE IN THE WORLD| Hiring principal and distinguished engineers to build net new products | up to ~ $750k Hiring: exceptional consumer product engineers at Albert. We&#x27;re a consumer fintech with 20M+ users who trust us to budget, save, invest, and bank in one place. Profitable for 4+ years. And as of today, our average employee tenure is 3.6 years, a number you almost never see in startup tech, and one we&#x27;re quietly proud of. People stay because the work is good, the people are sharp, and we&#x27;ve built something worth staying for. Now we&#x27;re building net-new consumer products from zero, and we&#x27;re looking for people who love to tinker and build stuff to ship them with us. The kind of person we&#x27;re looking for: • Top fraction of a percentile in craft, the kind of good that&#x27;s hard to fake • Builds for fun, not just for work. The kind who ships a working prototype over the weekend and can&#x27;t help themselves • Comfortable owning 0 to 1 consumer products end-to-end • Allergic to politics, theater, and bureaucracy What you get: • Remote, anywhere with reasonable timezone overlap (and for someone truly exceptional, we&#x27;ll make async work) • Real scale from day one (20M+ users, real money, real consequences) • Compensation that beats the market. We pay well and we mean it. Base, discretionary year-end bonus, meaningful 401(k) match, and meaningful equity in a profitable, growing unicorn (the kind that&#x27;s actually worth something) • Platinum PPO health benefits with Blue Shield, top of the top of the line, covering your entire family • A mission worth your time: make money simple, so people spend less time managing it and keep more of it • Small senior-heavy teams, direct ownership, no layers • Forthcoming with the business metrics that matter, so you always know how the company is actually doing • The startup perks done right: catered lunches, wellness stipend, team offsites, casual dress. The stuff that compounds when you&#x27;re showing up engaged for years, not months • Profitable for 4+ years, so you build with conviction, not runway anxiety Stack: python, claude, postgres, react.js /react native If this is you, email us at recruiting@albert.com Also, we carefully review every application. If we think there may be a fit, we&#x27;ll reach out within a few business days. Either way, thank you for your interest in what we&#x27;re building and for taking the time to connect with us."
+    },
+    {
+      "id": "49964196",
+      "author": "mwapinska",
+      "created": "2026-10-05T12:51:37Z",
+      "url": "https://news.ycombinator.com/item?id=49964196",
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote incl. India/Asia"
+      },
+      "firstLine": "Senior Python Backend Engineer | REMOTE (EMEA/APAC) We&#x27;re looking for Python backend engineers to work on a trustless supercluster of performance-proofed G",
+      "text": "Senior Python Backend Engineer | REMOTE (EMEA/APAC) We&#x27;re looking for Python backend engineers to work on a trustless supercluster of performance-proofed GPU-enabled sandboxed docker container runners controlled by truly decentralized algorithms (not just PAXOS or RAFT). Wow, that was a mouthful... If you found it interesting, join Reef Technologies and tackle complex technical challenges like this on your own terms: - Contribute from wherever you like; we are fully remote - Set your own time commitment, as long as it&#x27;s at least 30h per week - See how we work in our handbook: github.com/reef-technologies/handbook - Influence the way we operate through our Sociocracy 3.0 decision-making process Salary on a B2B contract: - 45-70 USD or 180-280 PLN per hour - Flexible work schedule (as measured with a time tracker) - We automatically adjust rates based on inflation twice a year We&#x27;re looking for someone with 5+ years of programming experience, including at least a year with Python (including open-source and significant personal projects). So, what do you think? You don&#x27;t even need a CV; just go to https://careers.reef.pl/?utm_source=hackernews and shoot a few quick commands to apply. Edit: If you applied and haven&#x27;t heard back, please check the spam folder of the email associated with the GitHub account you used to apply — our replies sometimes end up there."
+    },
+    {
+      "id": "49962303",
+      "author": "moustafakhedr",
+      "created": "2026-10-05T08:54:10Z",
+      "url": "https://news.ycombinator.com/item?id=49962303",
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Elman (Deep Science Ventures) | Co-founder & CTO | London, UK-based preferred / REMOTE considered | Full-time | Pre-seed We&#x27;re building AI to predict clini",
+      "text": "Elman (Deep Science Ventures) | Co-founder & CTO | London, UK-based preferred / REMOTE considered | Full-time | Pre-seed We&#x27;re building AI to predict clinical trial and drug development outcomes, and quantify how much confidence those predictions deserve. By linking the evidence available at a decision to the judgement made and what happened next, we aim to learn which experimental findings predict outcomes in which therapeutic settings. The platform is already running, with work from an Allen Institute collaboration described in this preprint https://elman.ai/preprint . We want a hands-on technical co-founder to lead development, build the evaluation programme and hire the first technical team once funded. Benchmark design, applied statistics and production LLM systems. The modelling approach is open. Biology experience useful, not required. Founder equity. Role and application: https://elman.ai/hn"
+    },
+    {
+      "id": "49962075",
+      "author": "seharetimad",
+      "created": "2026-10-05T08:17:54Z",
+      "url": "https://news.ycombinator.com/item?id=49962075",
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "backend",
+          "infra",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Revieve Oy | Senior Product Engineer | REMOTE [Europe / (GMT+2)] | Contract, full-time | Revieve (Helsinki, with a US office and a team in Asia) builds AI, AR a",
+      "text": "Revieve Oy | Senior Product Engineer | REMOTE [Europe / (GMT+2)] | Contract, full-time | Revieve (Helsinki, with a US office and a team in Asia) builds AI, AR and computer-vision personalization for beauty brands and retailers: skin analysis, virtual try-on and product recommendations. We work with 120+ brands and retailers in 40+ countries, and our product reaches millions of end users. We&#x27;re a small team (30+ people, about a dozen engineers) spread across eight time zones, and we&#x27;ve reorganized around the idea that one builder with the right tools can do what a team used to. This role exists because we believe that. A typical week: a real customer problem lands in front of you with full context, and you decide what to build. Tuesday you sketch it in an AI design tool and prototype in Claude Code. Wednesday it&#x27;s on staging and you send the founders a Loom. Thursday it&#x27;s in production. About 1-2 hours of meetings a week, mostly async. No standups, no sprints, no PM or designer in the loop. What we&#x27;re looking for: - Public proof of building: repos, products or side projects we can click around - AI in production, with an opinion about agents, evals, latency and what fails - Fluency with agentic coding (Claude Code, Codex, MCP, custom harnesses) - Design taste: you can take an idea to a working interface without a designer - Generalist instincts: TypeScript/React up front, comfortable with backend integrations and infra - Clear written thinking: READMEs, PRs, post-mortems Process: intro call, then a paid build session where we work on a real problem together (that&#x27;s where the hire decision happens, for both sides), a short presentation to the team, then an offer. Perks: flexible hours, performance-based option plan, equipment budget, five weeks&#x27; vacation, paid parental leave. Details and apply: https://revieve.factorialhr.com/job_posting/senior-product-e... (please mention HN)"
+    },
+    {
+      "id": "49962002",
+      "author": "panchamkhaitan",
+      "created": "2026-10-05T08:08:30Z",
+      "url": "https://news.ycombinator.com/item?id=49962002",
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote incl. India/Asia"
+      },
+      "firstLine": "SingleStore | Software Engineer, AI Platform | Full Time, Remote India SingleStore is a distributed SQL database built for high-performance transactional and re",
+      "text": "SingleStore | Software Engineer, AI Platform | Full Time, Remote India SingleStore is a distributed SQL database built for high-performance transactional and real-time analytical workloads. As data systems evolve, we’re building the platform for AI applications that operate directly over enterprise data, including retrieval, reasoning, agent workflows, and intelligent automation. Our AI Platform team works at the intersection of distributed systems, cloud infrastructure, and applied AI. Some of the technical problems we’re working on include: - Agent runtimes, orchestration, and MCP-style tool integration - Retrieval/RAG pipelines, embeddings, and vector search - Model integrations, evaluation, and observability - Secure multi-tenant AI infrastructure - Reliability, latency, cost controls, and scaling AI systems in production Our stack includes Go, Python, Kubernetes, cloud infrastructure, distributed systems, APIs, and modern AI/ML tooling. We’re currently hiring a Software Engineer located in India to join the AI Platform team, along with several other roles across SingleStore. Careers page with all open positions: https://grnh.se/ipvpz7d61us | https://www.singlestore.com/careers/jobs/ If you want to learn more about the engineering work we do, check out https://www.singlestore.com/blog/category/engineering/ . Feel free to email me directly via pkhaitan at singlestore dot com."
+    }
+  ]
+}

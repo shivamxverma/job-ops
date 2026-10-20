@@ -1,0 +1,269 @@
+{
+  "generated": "2026-09-29",
+  "note": "The queue behind `node scripts/actions.mjs`. Skills write items here; the board renders them and writes the result back into the repo when every step of a card is checked. Keep `steps` to things SHIVAM does with his own hands — anything Claude does is not a step, it is a sentence in `background`.",
+  "items": [
+    {
+      "id": "singlestore-2026-10-06",
+      "kind": "lead",
+      "company": "SingleStore",
+      "grade": "B",
+      "title": "SingleStore: new-grad Software Engineer, India, no years bar, C++ + systems fundamentals",
+      "sub": "Distributed SQL database. University-grad seat (query optimiser, SIMD/LLVM codegen, fault tolerance). Dossier + tech-read done; resume not tailored yet. Likely office-based (Bangalore/Hyderabad/Pune), ~10-16L reported.",
+      "buttons": [
+        {
+          "label": "The job post",
+          "action": "open",
+          "target": "https://job-boards.greenhouse.io/singlestore/jobs/8212128"
+        },
+        {
+          "label": "Twin req: Database Engine, India",
+          "action": "open",
+          "target": "https://job-boards.greenhouse.io/singlestore/jobs/8000966"
+        },
+        {
+          "label": "Dossier + tech-read",
+          "action": "reveal",
+          "target": "applications/singlestore/dossier.md"
+        }
+      ],
+      "steps": [
+        "Decide: are you OK working from a SingleStore office in India (Bangalore/Hyderabad/Pune)? If not, tick everything and pass",
+        "Tell Claude roughly how much C/C++ you've actually written (CP only, or projects too)",
+        "Press Work it so Claude tailors the resume for this req"
+      ],
+      "background": "The HN post was for the AI Platform req (4+ years, mentoring), which is C. This new-grad req has no years bar and asks for C/C++, OS/concurrency, algorithms; your CSE degree (May 2026), LeetCode top 5% and CodeSM's sandboxed C/C++ runner carry it. Gap: no professional C++ or engine work. Channel is the Greenhouse form (resume, LinkedIn, website, optional cover letter). The HN poster is on another team, so the warmer path is an IIIT Nagpur alum at SingleStore via /network-scout, not checked yet. Two internals questions are in tech-read.md."
+    },
+    {
+      "id": "trackerbot-2026-10-04",
+      "kind": "lead",
+      "company": "Trackerbot",
+      "grade": "A",
+      "title": "Trackerbot: Node.js + Postgres, fully remote, €35-45k, email goes straight to the CTO",
+      "sub": "Profitable 3-person team in Sofia. Gmail draft and tailored CV (ATS 88) are ready; attach the PDF and send.",
+      "buttons": [
+        {
+          "label": "Open the Gmail draft",
+          "action": "open",
+          "target": "https://mail.google.com/mail/u/0/#drafts"
+        },
+        {
+          "label": "The HN post",
+          "action": "open",
+          "target": "https://news.ycombinator.com/item?id=49926228"
+        },
+        {
+          "label": "Email + CV folder",
+          "action": "reveal",
+          "target": "applications/trackerbot/outreach.md"
+        }
+      ],
+      "steps": [
+        "Read the draft to dobrev.d10@gmail.com and change anything that doesn't sound like you",
+        "Attach applications/trackerbot/resume.pdf",
+        "Send it"
+      ],
+      "background": "Their app is Express on Heroku with session affinity across 5+ web dynos, plus two Chrome extensions that upload trackings from the seller's browser in non-API mode. Worst public review: 50 orders not uploaded for five days. The email leads with that kind of silent stall and your CodeSM/Hireflow queue work, and names the gaps (no Chrome extension, no eBay/Amazon API). Two call questions are in outreach.md."
+    },
+    {
+      "id": "interview-resources-2026-09-29",
+      "kind": "lead",
+      "company": "Interview Resources",
+      "grade": "B",
+      "title": "Interview Resources: back-end AI engineer, remote, and their open problems are three things you've built",
+      "sub": "Solo founder, profitable, remote at $30k-$90k adjusted for location. The role is the research pipeline: move a multi-minute run off the request path, a credits ledger, LLM output that has to be correct. Storix, klimb.io and Hireflow. The catch: they ask for 4+ years. The message says so plainly.",
+      "buttons": [
+        {
+          "label": "The role + form",
+          "action": "open",
+          "target": "https://www.interviewresources.app/careers/full-stack-ai-engineer-backend"
+        },
+        {
+          "label": "Try the product ($1.49)",
+          "action": "open",
+          "target": "https://www.interviewresources.app/pricing"
+        },
+        {
+          "label": "Sayan on X (follow-up channel)",
+          "action": "open",
+          "target": "https://x.com/sayandedotcom"
+        },
+        {
+          "label": "The draft and the reasoning",
+          "action": "reveal",
+          "target": "applications/interview-resources/outreach.md"
+        }
+      ],
+      "steps": [
+        "Pick your expected salary and check your poiro.com notice period",
+        "Rewrite the draft message in your own words (he asks for human-written)",
+        "Paste it into the form and submit it yourself"
+      ],
+      "background": "Their public repo shows the whole research run executing inline in the POST route (maxDuration 300, SSE), a reserve/settle credit ledger with row locks and unique-ref idempotency, and a reaper route that claims to be run by Vercel Cron while vercel.json has no crons key. That last one is the question in the message: it can't be wrong, and only someone who read the code would ask it. Follow-up X DM for 2026-10-06 is drafted in outreach.md. Harsh (the repo's previous owner) applied here 2026-09-04; this is Shivam's own application."
+    },
+    {
+      "id": "cyberatlas-2026-09-29",
+      "kind": "lead",
+      "company": "CyberAtlas",
+      "grade": "A",
+      "title": "CyberAtlas: remote-worldwide backend + data pipelines on 2.5B domains, no years bar",
+      "sub": "Python/FastAPI, Redis, MongoDB/Postgres, Docker, all true for you. The email and a tailored CV (ATS 88) are ready; it needs one thing only you can do: their anti-bot Finder query.",
+      "buttons": [
+        {
+          "label": "Run a Finder query",
+          "action": "open",
+          "target": "https://cyberatlas.ai/finder"
+        },
+        {
+          "label": "The HN post",
+          "action": "open",
+          "target": "https://news.ycombinator.com/item?id=49523704"
+        },
+        {
+          "label": "Email + CV folder",
+          "action": "reveal",
+          "target": "applications/cyberatlas/outreach.md"
+        }
+      ],
+      "steps": [
+        "Run one query on Finder yourself and copy the query + first page of results",
+        "Paste both into the email in outreach.md, read it, cut anything you wouldn't say",
+        "Send from shivam.verma.dev00@gmail.com to atlas@cyberatlas.ai with resume.pdf attached"
+      ],
+      "background": "Their API headers show the architecture: exact-root queries page as a key-value range scan (kv: cursor), a *vpn*.io substring query reports a 54.6M-row scan of the whole .io partition and still answers in ~1.5s, and every query is metered against a daily domain budget. The email asks the one question that falls out of that. Gaps named plainly: no Go, no OpenSearch, nothing near billions of rows."
+    },
+    {
+      "id": "openalex-2026-09-29",
+      "kind": "lead",
+      "company": "OpenAlex",
+      "grade": "B",
+      "title": "OpenAlex: submit the Software Engineer form",
+      "sub": "Remote, $150-200k, no years bar. Resume + 3 answers + pack.json ready. One-shot form, so read before you click.",
+      "buttons": [
+        {
+          "label": "Open the form",
+          "action": "open",
+          "target": "https://openalex.org/jobs/software-engineer"
+        },
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/openalex/answers.md"
+        },
+        {
+          "label": "Folder",
+          "action": "reveal",
+          "target": "applications/openalex/pack.json"
+        }
+      ],
+      "steps": [
+        "Create an OpenAlex account with shivam.verma.dev00@gmail.com and set your name in settings",
+        "Read the 3 answers aloud in answers.md and fix anything that isn't you",
+        "Fill the form (extension or paste), set degree to Bachelor's, paste resume.md",
+        "Review every field and click Submit application"
+      ],
+      "background": "Their API front door is a Cloudflare Worker that prices each request in credits, counts it in a Durable Object and settles prepaid balances into Postgres, the same object as your klimb.io credit ledger. The first-week answer asks two questions verified in their source: the claim-then-UPDATE writeback inside waitUntil, and refunds after UTC midnight landing on the new day's counter. Gaps named plainly: Spark/Databricks, Elasticsearch, scale, ~8 months. Tracker already logged as sent (folder-complete rule); say 'hold' if you apply later."
+    },
+    {
+      "id": "serpapi-2026-09-29",
+      "kind": "action",
+      "company": "SerpApi",
+      "grade": "C",
+      "title": "Send the SerpApi application email",
+      "sub": "Junior Fullstack, worldwide, published address. Drafted only: the C lane isn't authorised to send for you yet.",
+      "buttons": [
+        {
+          "label": "Email draft",
+          "action": "reveal",
+          "target": "applications/serpapi/outreach.md"
+        },
+        {
+          "label": "The role",
+          "action": "open",
+          "target": "https://serpapi.com/careers/junior-fullstack-engineer"
+        }
+      ],
+      "links": [
+        {
+          "label": "Compose in Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox?compose=new"
+        }
+      ],
+      "steps": [
+        "Read the draft in outreach.md and cut anything you wouldn't say",
+        "Send it to careers@serpapi.com with applications/serpapi/resume.pdf attached"
+      ],
+      "background": "Stack is Ruby/Rails/MongoDB/JS on Linux+AWS; you have no Ruby, and the email says so. The seam is Hireflow: 4-source scraping + Playwright with stages on separate BullMQ queues so a bot-detection block doesn't stall the rest (their JD lists scraping and browser tech as a plus). Resume ~80 self-scored, one pass, Ruby/Rails honestly absent. Gmail prior-contact check could not run (Gmail connector not authenticated); no folder on disk. C lane: one touch, follow-up none.",
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "SerpApi"
+      }
+    },
+    {
+      "id": "vlm-run-2026-09-29",
+      "kind": "action",
+      "company": "VLM Run",
+      "grade": "C",
+      "title": "Send the VLM Run email",
+      "sub": "Founding Infra, email-only apply. Honest gap: no GPU work. Drafted, not sent.",
+      "buttons": [
+        {
+          "label": "Email draft",
+          "action": "reveal",
+          "target": "applications/vlm-run/outreach.md"
+        },
+        {
+          "label": "HN post",
+          "action": "open",
+          "target": "https://news.ycombinator.com/item?id=49541233"
+        }
+      ],
+      "links": [
+        {
+          "label": "Compose in Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox?compose=new"
+        }
+      ],
+      "steps": [
+        "Read the draft and decide if a founding infra seat with no GPU experience is worth one email",
+        "Send it to hiring@vlm.run with applications/vlm-run/resume.pdf attached"
+      ],
+      "background": "Only listing is the HN post (2026-09-02); no careers page or ATS board exists. Location and years unstated. They ask for GitHub + recent projects with docker, k8s, GPUs. You have Docker (CodeSM) and Kubernetes (Yuvro), no GPUs; the email says so and asks about model placement across cards instead of claiming anything. Resume is the base resume, not scored (JD too thin to score against). c-queue held it only because the lead had no link; the channel is published.",
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "VLM Run"
+      }
+    },
+    {
+      "id": "colonist-2026-09-29",
+      "kind": "action",
+      "company": "Colonist",
+      "grade": "C",
+      "title": "Colonist: answer 5 fields or pass",
+      "sub": "Ashby form needs a Colonist player profile, a game quiz, your AI numbers, salary, and a no-AI motivation line.",
+      "buttons": [
+        {
+          "label": "The form",
+          "action": "open",
+          "target": "https://jobs.ashbyhq.com/colonist/109d62c4-52f3-4980-9c49-d31773818736/application"
+        },
+        {
+          "label": "Raw material",
+          "action": "reveal",
+          "target": "applications/colonist/answers-raw-material.md"
+        }
+      ],
+      "tags": [
+        "account required",
+        "no-AI field"
+      ],
+      "steps": [
+        "Decide: do you actually play board games? If not, tick this and pass"
+      ],
+      "background": "Held by the C lane: required fields need a colonist.io account and profile URL, knowledge of the game (max players quiz), your own AI speed-up number and example, a salary in USD/month (TODO in facts.yaml), and a 200-char motivation marked 'Please don't use AI.' The 150-word 'something you built' answer is drafted in answers-raw-material.md. The seat is UI/React-heavy and asks for 'deep' full-stack experience, so it's a weak fit for your backend profile. If you do want it: open the form, use the raw material, and ask me for a full-stack resume first (none is tailored for Colonist yet).",
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "Colonist"
+      }
+    }
+  ]
+}

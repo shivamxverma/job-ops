@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <style>
+    body { font: 13px/1.4 -apple-system, sans-serif; width: 340px; padding: 12px; }
+    textarea { width: 100%; height: 140px; font: 11px monospace; box-sizing: border-box; }
+    button { margin-top: 8px; width: 100%; padding: 8px; font-weight: 600; cursor: pointer; }
+    #status { margin-top: 8px; white-space: pre-wrap; font-size: 12px; }
+    .ok { color: #0a7d33; } .warn { color: #b45309; } .err { color: #b91c1c; }
+    h3 { margin: 0 0 6px; }
+    .hint { color: #666; font-size: 11px; }
+  </style>
+</head>
+<body>
+  <h3>JobOps Autofill</h3>
+  <p class="hint">Paste pack.json (from applications/&lt;company&gt;/), then Fill. It never submits — review every field yourself.</p>
+  <textarea id="pack" placeholder='{"company": ..., "identity": ..., "answers": [...]}'></textarea>
+  <button id="save">Load pack</button>
+  <button id="fill">Fill this page</button>
+  <div id="status"></div>
+  <script src="popup.js"></script>
+</body>
+</html>

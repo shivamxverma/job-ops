@@ -1,0 +1,169 @@
+{
+  "pulled": "2026-09-29",
+  "windowDays": 30,
+  "scanned": 23,
+  "hits": [
+    {
+      "id": "49814780",
+      "grade": "F",
+      "score": 80,
+      "company": "QuestDB (YC S20)",
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "jobUrl": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "linux",
+          "c++",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "fully distributed"
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "story fit (ingestion, ai, agents)",
+        "geo: open",
+        "non-engineering seat",
+        "non-eng title: Sales Engineer"
+      ],
+      "source": "hn-jobs-external",
+      "hnUrl": "https://news.ycombinator.com/item?id=49814780",
+      "hnPosted": "2026-09-23T12:01:04Z",
+      "excerpt": "Pre-Sales Engineer, North America | Careers at QuestDB | QuestDB Product Compare Developers Enterprise Docs 10.0.1 | 17.3k Roadmap Search Download Open main menu Pre-Sales Engineer, North America About QuestDB QuestDB is the low-latency time-series database on open formats. It ingests millions of events per second, computes on live data in milliseconds, and keeps years of history queryable: one SQ"
+    },
+    {
+      "id": "49708774",
+      "grade": "F",
+      "score": 70,
+      "company": "Lingo.dev (YC F24)",
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "jobUrl": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "matched": {
+        "strong": [
+          "developer tools",
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "why": [
+        "stack: developer tools, llm",
+        "story fit (developer tools, ai, llm)",
+        "geo: unknown",
+        "non-engineering seat",
+        "non-eng title: content engineer"
+      ],
+      "source": "hn-jobs-external",
+      "hnUrl": "https://news.ycombinator.com/item?id=49708774",
+      "hnPosted": "2026-09-15T07:00:30Z",
+      "excerpt": "Senior Content Engineer · Lingo.dev Docs Customers Pricing Enterprise Careers Hiring! Platform Talk to sales Sign in Create an account All open positions Senior Content Engineer Type Full-time Workplace Remote Apply for this role About Lingo.dev Lingo.dev is the localization engineering platform where teams measure translation quality, translate with LLMs, and proofread with native speakers. Lingo"
+    },
+    {
+      "id": "49542486",
+      "grade": "C",
+      "score": 47,
+      "company": "Nango (YC W23)",
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "jobUrl": "https://nango.dev/careers",
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "platform",
+          "real-time",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "why": [
+        "stack: rag",
+        "story fit (ai, ai agent, agents)",
+        "geo: unknown"
+      ],
+      "source": "hn-jobs-external",
+      "hnUrl": "https://news.ycombinator.com/item?id=49542486",
+      "hnPosted": "2026-09-02T21:00:04Z",
+      "excerpt": "tag is parsed. Two tags cover both CORS-tagged and non-CORS fetches. --> Careers | Nango Platform Authorization Auth Auth for 1,000+ APIs AI agents MCP & Tools 7,000+ tools, one server Triggers Real-time events, any API Context Sync Live context for your RAG Product integrations Data Sync Your data, always in sync Webhooks Webhooks, verified and routed Request Proxy One proxy, 1,000+ APIs Unified "
+    },
+    {
+      "id": "49556922",
+      "grade": "F",
+      "score": 37,
+      "company": "Tasklet (YC P26)",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "jobUrl": "https://tasklet.ai/careers/customer-success-engineer",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "ai agent"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "why": [
+        "stack (weak): platform, automation, ai agent",
+        "story fit (ai, ai agent, agents)",
+        "geo: unknown",
+        "non-engineering seat",
+        "non-eng title: Customer Success Engineer"
+      ],
+      "source": "hn-jobs-external",
+      "hnUrl": "https://news.ycombinator.com/item?id=49556922",
+      "hnPosted": "2026-09-03T21:01:10Z",
+      "excerpt": "Customer Success Engineer — Careers at Tasklet Tasklet Learn Guide Use Cases Customer Stories Trust & Security Careers Pricing Changelog Blog Log in Sign up Go to app Learn Guide Use Cases Customer Stories Trust & Security Careers Pricing Changelog Blog Log in ← All open roles Customer Success Customer Success Engineer Help customers succeed, solve their hardest problems, and use automation to mak"
+    },
+    {
+      "id": "49500471",
+      "grade": "F",
+      "score": 25,
+      "company": "Artie (YC S23)",
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "jobUrl": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "platform",
+          "real-time"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "why": [
+        "stack (weak): aws, platform, real-time",
+        "geo: unknown"
+      ],
+      "source": "hn-jobs-external",
+      "hnUrl": "https://news.ycombinator.com/item?id=49500471",
+      "hnPosted": "2026-08-30T17:01:56Z",
+      "excerpt": "Careers | Artie Start for free Product Connectors Pricing Customers Compare Artie vs. Fivetran Artie vs. Fivetran HVR Artie vs. AWS DMS Artie vs. Debezium Artie vs. Confluent Resources About us Careers Blog Glossary MCP The Data Almanac Documentation Book a demo Login Start for free Open roles Join us in building the future of real-time data streaming. We&#x27;re looking for exceptional people who"
+    }
+  ]
+}

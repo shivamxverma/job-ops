@@ -298,87 +298,93 @@
       "kind": "lead",
       "company": "vvd",
       "grade": "B",
-      "title": "vvd: Junior Product Engineer, remote, explicitly junior",
-      "sub": "Wants a junior who already ships side projects; EU/NA time zones, you cover NA hours",
+      "title": "vvd: apply (9 games + consent are yours)",
+      "sub": "Junior, remote, Next.js/TS/Postgres. Resume + answers ready.",
       "links": [
         {
-          "label": "Role page",
-          "url": "https://vvd.com/careers/junior-product-engineer"
+          "label": "Role + Apply",
+          "url": "https://vvd.world/careers/junior-product-engineer"
         },
         {
-          "label": "HN post",
-          "url": "https://news.ycombinator.com/item?id=50013152"
+          "label": "my9games",
+          "url": "https://my9games.net/en/edit"
         },
         {
-          "label": "Careers",
-          "url": "https://vvd.world/careers"
+          "label": "application.md",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/vvd/application.md"
         }
       ],
       "steps": [
-        "Passing on this one"
+        "Make your 9-games link at my9games.net/en/edit",
+        "Fill the form from application.md, attach resume.pdf, tick consent, submit",
+        "Tell Claude it is submitted"
       ],
-      "background": "To work it, say \"work vvd\" in chat. Worldbuilding/storytelling platform. Seat fit is strong (junior, remote, no country listed), domain fit is weak and the stack is unstated beyond Postgres, so lead with shipped side projects: DeepDoc (RAG + eval harness), CodeSM (live), Yuvro. Applies via the role page form.",
+      "background": "Folder: applications/vvd. The form asks for a my9games.net share link (nine games you love), which is personal, so it is yours. No AI restriction on this form.",
       "onDone": {
-        "markProcessed": "skip",
+        "markProcessed": "done",
         "slug": "vvd"
-      }
+      },
+      "buttons": [
+        {
+          "label": "Show resume.pdf",
+          "action": "reveal",
+          "target": "applications/vvd/resume.pdf"
+        }
+      ]
     },
     {
       "id": "hunar-signal",
       "kind": "signal",
       "company": "Hunar",
       "grade": "A",
-      "title": "Hunar.AI raised Rs 40 Cr: voice AI agents for hiring, Bengaluru",
-      "sub": "Series A (Blume) for the same thing you built at klimb: AI voice interviews. Reach the founder before a posting exists",
+      "title": "Hunar.AI: connect with co-founder Shantanu",
+      "sub": "Raised Rs 40 Cr yesterday, posted a backend role today (4-6 yrs). Founder note beats Easy Apply here.",
       "links": [
         {
-          "label": "Inc42 article",
-          "url": "https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/"
-        },
-        {
-          "label": "Website",
-          "url": "https://hunar.ai"
-        },
-        {
-          "label": "Hunar people (find Shantanu)",
+          "label": "Hunar people",
           "url": "https://www.linkedin.com/company/hunar-ai/people/"
+        },
+        {
+          "label": "The posting",
+          "url": "https://www.linkedin.com/jobs/view/4479964555/"
+        },
+        {
+          "label": "outreach.md",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/hunar/outreach.md"
         }
       ],
       "steps": [
-        "Send the connection invite to Shantanu (note in inbox/replies.md)",
-        "Passing on this one"
+        "Open Hunar People, find Shantanu Bhattacharyya, click Connect + Add a note (text in outreach.md)",
+        "Tell Claude it is sent (row moves to awaiting-connection)"
       ],
-      "background": "Hunar.AI (Bengaluru, founded 2022) builds conversational voice agents for frontline hiring, onboarding, training and retention in 20+ Indian languages. Rs 40 Cr Series A led by Blume Ventures; funds go to AI infrastructure and product. Founders: Krishna Khandelwal (CEO), Shantanu Bhattacharyya. Bengaluru is your onsite city. To work it, say \"work Hunar\": research + tech-read, check LinkedIn for IIIT Nagpur alumni there (network-scout), then a founder DM/email built on the klimb.io voice interview round and credit ledger. Signal, not a posting: the ask is a conversation, not an application. LinkedIn lens 2 (2026-10-20): 51-200 people, 11 engineers, 19 in Bengaluru; co-founder Shantanu Bhattacharyya and Founding Engineer Urvashi Soni are both 2nd-degree. Invite note + stage-2 ask drafted in inbox/replies.md."
+      "background": "Signal A that became a posting the next day. Posting: Back End Developer, Bengaluru hybrid, 4-6 yrs, Python Django/FastAPI, 100+ applicants. Stage-2 ask (send after he accepts) is in outreach.md and says the experience gap upfront. Backup contact: Urvashi Soni (Founding Engineer). One person at a time."
     },
     {
       "id": "optexity-lead",
       "kind": "lead",
       "company": "Optexity",
       "grade": "B",
-      "title": "Optexity: Founding SWE, Bengaluru, Rs 20-40 LPA",
-      "sub": "Browser automation that turns portals without APIs into APIs = Hireflow. Posting unverified (aggregator only)",
+      "title": "Optexity: connect with co-founder Shivam Goyal",
+      "sub": "API over healthcare portals with no API = Hireflow in a new domain. Both founders say hiring.",
       "links": [
+        {
+          "label": "Optexity people",
+          "url": "https://www.linkedin.com/company/optexity/people/"
+        },
+        {
+          "label": "outreach.md",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/optexity/outreach.md"
+        },
         {
           "label": "Website",
           "url": "https://www.optexity.com"
-        },
-        {
-          "label": "LinkedIn company",
-          "url": "https://www.linkedin.com/company/optexity/"
-        },
-        {
-          "label": "Aggregator apply link",
-          "url": "https://lnkd.in/ghC6WVSG"
         }
       ],
       "steps": [
-        "Passing on this one"
+        "Open Optexity People, find Shivam Goyal, Connect + Add a note (text in outreach.md)",
+        "Tell Claude it is sent"
       ],
-      "background": "Say \"work Optexity\" to run research + founder outreach. L2: role seen only on HireDoor; their LinkedIn says no jobs, SF HQ, 2-10 people, M raised, careers Notion page deleted. Ask 2+ yrs (stretch). Best move is a founder DM leading with Hireflow (Playwright applies across LinkedIn/Wellfound/YC, queue-isolated so a bot block in one stage does not stall the rest).",
-      "onDone": {
-        "markProcessed": "skip",
-        "slug": "Optexity"
-      }
+      "background": "The Bengaluru founding-engineer post (Rs 20-40 LPA, 2+ yrs) is only on the HireDoor aggregator and not on their LinkedIn, so the stage-2 ask says so and asks if it is stale. Backup contact: Sankalp Garg. Internals questions in dossier.md."
     },
     {
       "id": "alumni-invites-2026-10-20",

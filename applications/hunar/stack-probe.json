@@ -1,0 +1,254 @@
+{
+  "domain": "hunar.ai",
+  "slug": "hunar",
+  "probedAt": "2026-10-20T12:34:18.155Z",
+  "liveHosts": [
+    {
+      "host": "hunar.ai",
+      "status": 200,
+      "finalUrl": "https://hunar.ai/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "921057",
+        "content-type": "text/html",
+        "date": "Tue, 20 Oct 2026 12:34:04 GMT",
+        "etag": "\"88b419d93b53d12346d9325f5465e619\"",
+        "framer-site-id": "4c72017e933e1fcdb4a9e54ed03bb6e615f66a9fe616af58a4f1ca148b1b3c5d",
+        "last-modified": "Mon, 19 Oct 2026 11:57:10 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "Framer/24ab00f",
+        "server-timing": "region;desc=\"ap-south-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"caadd68\", route;dur=1;desc=\"id=augiA20Il&locale=default\", country;desc=\"IN\", ss-only-routes",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "www.hunar.ai",
+      "status": 200,
+      "finalUrl": "https://hunar.ai/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "921057",
+        "content-type": "text/html",
+        "date": "Tue, 20 Oct 2026 12:34:07 GMT",
+        "etag": "\"88b419d93b53d12346d9325f5465e619\"",
+        "framer-site-id": "4c72017e933e1fcdb4a9e54ed03bb6e615f66a9fe616af58a4f1ca148b1b3c5d",
+        "last-modified": "Mon, 19 Oct 2026 11:57:10 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "Framer/24ab00f",
+        "server-timing": "region;desc=\"ap-south-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"5b2dd9e\", route;dur=1;desc=\"id=augiA20Il&locale=default\", country;desc=\"IN\", ss-only-routes",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "api.hunar.ai",
+      "status": 404,
+      "finalUrl": "https://api.hunar.ai/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-language": "en-us",
+        "content-type": "application/json",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Tue, 20 Oct 2026 12:34:05 GMT",
+        "referrer-policy": "same-origin",
+        "server": "Google Frontend",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding,Accept-Language, Origin",
+        "via": "1.1 google",
+        "x-cloud-trace-context": "9cc9a15d066325d59843468b6039baed",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY"
+      }
+    },
+    {
+      "host": "status.hunar.ai",
+      "status": 200,
+      "finalUrl": "https://status.hunar.ai/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-length": "889",
+        "content-type": "text/html",
+        "date": "Tue, 20 Oct 2026 12:34:06 GMT",
+        "server": "Google Frontend",
+        "vary": "Accept-Encoding",
+        "via": "1.1 google",
+        "x-cloud-trace-context": "bb1dc38572f27d04b709a09ed6159734;o=1"
+      }
+    },
+    {
+      "host": "dev.hunar.ai",
+      "status": 200,
+      "finalUrl": "https://dev.hunar.ai/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "age": "0",
+        "cache-control": "public,max-age=0,must-revalidate",
+        "cache-status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-length": "1009",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Tue, 20 Oct 2026 12:34:08 GMT",
+        "etag": "\"9d05c05dfbafcf32eb7c97457c6fe240-ssl-df\"",
+        "server": "Netlify",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "x-nf-request-id": "01M5CMW1C9GM6NTNXGYBX6S4FR"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Google Cloud",
+      "kind": "hosting",
+      "seenOn": [
+        "api.hunar.ai",
+        "status.hunar.ai"
+      ],
+      "evidence": [
+        "server: Google Frontend"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "hunar.ai",
+        "www.hunar.ai",
+        "dev.hunar.ai"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://hunar.ai/sitemap.xml",
+      "status": 200,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url><loc>https://hunar.ai/</loc></url>\n<url><loc>https://hunar.ai/integrations/popular</loc></url>\n<url><loc>https://hunar.ai/integrations/n8n</loc></url>\n<url><loc>https://hunar.ai/integrations/make</loc></url>\n<url><loc>https://hunar.ai/integrations/zapier</loc></url>\n<url><loc>https://hunar.ai/integrations/sheets</loc></url>\n<url><loc>https://hunar.ai/integrations/notion</loc></url>\n<url><loc>https://hunar.ai/integrations/slack</loc></url>\n<url><loc>https://hunar.ai/solutions/hiring</loc></url>\n<url><loc>https://hunar.ai/solutions/onboarding-and-retention</loc></url>\n<url><loc>https://huna"
+    },
+    {
+      "url": "https://hunar.ai/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://hunar.ai/sitemap.xml"
+    },
+    {
+      "url": "https://hunar.ai/llms.txt",
+      "status": 206,
+      "contentType": "text/plain;charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Hunar.ai - AI Voice Calling and HR Automation Platform\n\n## Company Overview\nHunar.ai is a leading voice AI and HR automation company based in India that specializes in AI-powered workforce management solutions for frontline workers. The company provides AI calling agents and comprehensive HR automation tools designed specifically for high-volume hiring and employee management.\n\n## Core Products and Services\n\n### 1. AI Voice Calling Agents\n- Multilingual AI HRs: AI agents that conduct voice calls in multiple Indian languages including Hindi, English, Tamil, Telugu, Kannada, Marathi, Gujarati, Malayalam, Bengali\n- 24x7 Availability: AI agents work round the clock for candidate engagement\n- S"
+    },
+    {
+      "url": "https://www.hunar.ai/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://hunar.ai/sitemap.xml"
+    },
+    {
+      "url": "https://www.hunar.ai/sitemap.xml",
+      "status": 200,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url><loc>https://hunar.ai/</loc></url>\n<url><loc>https://hunar.ai/integrations/popular</loc></url>\n<url><loc>https://hunar.ai/integrations/n8n</loc></url>\n<url><loc>https://hunar.ai/integrations/make</loc></url>\n<url><loc>https://hunar.ai/integrations/zapier</loc></url>\n<url><loc>https://hunar.ai/integrations/sheets</loc></url>\n<url><loc>https://hunar.ai/integrations/notion</loc></url>\n<url><loc>https://hunar.ai/integrations/slack</loc></url>\n<url><loc>https://hunar.ai/solutions/hiring</loc></url>\n<url><loc>https://hunar.ai/solutions/onboarding-and-retention</loc></url>\n<url><loc>https://huna"
+    },
+    {
+      "url": "https://www.hunar.ai/llms.txt",
+      "status": 206,
+      "contentType": "text/plain;charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Hunar.ai - AI Voice Calling and HR Automation Platform\n\n## Company Overview\nHunar.ai is a leading voice AI and HR automation company based in India that specializes in AI-powered workforce management solutions for frontline workers. The company provides AI calling agents and comprehensive HR automation tools designed specifically for high-volume hiring and employee management.\n\n## Core Products and Services\n\n### 1. AI Voice Calling Agents\n- Multilingual AI HRs: AI agents that conduct voice calls in multiple Indian languages including Hindi, English, Tamil, Telugu, Kannada, Marathi, Gujarati, Malayalam, Bengali\n- 24x7 Availability: AI agents work round the clock for candidate engagement\n- S"
+    }
+  ],
+  "dns": [
+    {
+      "host": "hunar.ai",
+      "a": [
+        "31.43.160.6",
+        "31.43.161.6"
+      ],
+      "mx": [
+        "aspmx.l.google.com"
+      ],
+      "txt": [
+        "google-site-verification=vAhcNimx-QEyCrdcxaXlDbkP1akw8oygKgTqbo8rSMQ",
+        "v=spf1 include:_spf.google.com ~all",
+        "proxy-ssl.webflow.com.",
+        "google-site-verification=EOnY8FzM3xwdd3iV7OdcfxkrvFAlkjMRx5RY2CIKcRo",
+        "google-site-verification=1Ws2x4-Y7lS4hhHNyEDC99VpbrZUHR-AKu2QUxgRpHI",
+        "google-site-verification=UWowpt_n3TCfOqv4w7DMcX4EUPwI7jDgI8u5DwP1Ii0",
+        "google-site-verification=ncxlbBkTq16OGwImUGUCSMVKSNzpexrpnW3yKqNfp9I",
+        "google-site-verification=GDYP_rsd1MKVeVfPwSrdeIOp3Ek7s6VqevwwDlx1mVA"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "Webflow"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "hunar",
+    "results": [
+      {
+        "name": "Hunar Online Courses",
+        "seller": "hamstech online services priva te limited",
+        "updated": "2025-09-08T14:29:51Z"
+      },
+      {
+        "name": "Hunar.tj - услуги и мастера",
+        "seller": "Pixel, JDMM",
+        "updated": "2026-10-12T18:45:00Z"
+      },
+      {
+        "name": "Hunar – барои мутахассисон",
+        "seller": "Pixel, JDMM",
+        "updated": "2026-09-14T19:55:17Z"
+      },
+      {
+        "name": "Hunars.com",
+        "seller": "Muhammad Amer Shafique",
+        "updated": "2026-09-25T18:06:03Z"
+      },
+      {
+        "name": "ChaiXana",
+        "seller": "hunar khatab",
+        "updated": "2026-09-03T20:41:04Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

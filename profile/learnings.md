@@ -1253,3 +1253,11 @@ The mechanism worth remembering: **LinkedIn's own message search returns no resu
 demonstrably exist**, so a search that finds nothing is not evidence of absence and must never be
 used as one. Only opening the thread counts. 26 rows were closed as `ghosted` in the same pass, each
 checked against a real send record rather than against the tracker's claim about itself.
+
+## Form policy (2026-10-20, LiveKit) — "don't use AI assistance" fields are Shivam's, full stop
+- LiveKit's Ashby form puts a notice above its two engineering questions: "for the application process,
+  we ask that you don't use AI assistance." The C lane already refuses fields like this; the A/B path
+  must too. **Fill the factual fields (name, email, resume, authorization, links), leave every field under
+  such a notice empty, and don't hand Shivam a draft to paste there either.** Dossier draft answers for
+  that company get a DO-NOT-PASTE banner. Track the row as `hold` (blocked on him), not `sent`.
+- Check for this before writing any form answers: it's a sentence on the form page, not in the JD.

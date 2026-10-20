@@ -1,0 +1,511 @@
+{
+  "domain": "livekit.io",
+  "slug": "livekit",
+  "probedAt": "2026-10-20T12:29:18.207Z",
+  "liveHosts": [
+    {
+      "host": "livekit.io",
+      "status": 200,
+      "finalUrl": "https://livekit.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "15046",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-length": "261101",
+        "content-security-policy": "frame-ancestors 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 20 Oct 2026 12:29:12 GMT",
+        "etag": "\"aa35c89950a99618408832b7c2605be8\"",
+        "permissions-policy": "camera=(self), microphone=(self), geolocation=(), interest-cohort=()",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::w6hg7-1792499352292-eb0bf79e8a16"
+      }
+    },
+    {
+      "host": "www.livekit.io",
+      "status": 200,
+      "finalUrl": "https://livekit.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "15046",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-length": "261101",
+        "content-security-policy": "frame-ancestors 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 20 Oct 2026 12:29:12 GMT",
+        "etag": "\"aa35c89950a99618408832b7c2605be8\"",
+        "permissions-policy": "camera=(self), microphone=(self), geolocation=(), interest-cohort=()",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::qk8mw-1792499352538-26ac9dbf74fc"
+      }
+    },
+    {
+      "host": "docs.livekit.io",
+      "status": 200,
+      "finalUrl": "https://docs.livekit.io/intro/overview/",
+      "csp": [],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "frame-ancestors 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 20 Oct 2026 12:29:12 GMT",
+        "link": "</intro/overview.md>; rel=\"alternate\"; type=\"text/markdown\", </llms.txt>; rel=\"describedby\", </llms.txt>; rel=\"llms-txt\", </_next/static/immutable/media/commit_mono_variable_font-s.p.2a97wx6gbmsh8.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/immutable/media/fa0520225c6f3d07-s.p.3tasb8qs95n_v.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+        "permissions-policy": "camera=(self), microphone=(self), geolocation=(), interest-cohort=()",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-llms-txt": "/llms.txt",
+        "x-matched-path": "/intro/overview",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::kb6k7-1792499352481-e7360e11d5df"
+      }
+    },
+    {
+      "host": "status.livekit.io",
+      "status": 200,
+      "finalUrl": "https://status.livekit.io/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "atl-request-id": "0adbf83d-de5f-46db-a78e-d4a543cd6977",
+        "atl-traceid": "0adbf83dde5f46dba78ed4a543cd6977",
+        "cache-control": "max-age=10, public, s-maxage=10, stale-while-revalidate=20, stale-if-error=3600",
+        "connection": "close",
+        "content-length": "0",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 20 Oct 2026 12:29:10 GMT",
+        "etag": "W/\"8bf4c0a227e0df02069f62f7096cf5b2\"",
+        "link": "<https://dka575ofm4ao0.cloudfront.net/assets/register_subscription_form-589b657fec607087fc5c740c568270907310bc4f6aaa20256e70f01b103025ca.js>; rel=preload; as=script; nopush,<https://dka575ofm4ao0.cloudfront.net/assets/status_common-36e1f93264b3b3c01ece0f57482daed320c8c89a71ce969a9b85f0a483eb2cfc.js>; rel=preload; as=script; nopush,<https://dka575ofm4ao0.cloudfront.net/packs/0.616b452dfc41077f3d42.css>; rel=preload; as=style; nopush,<https://dka575ofm4ao0.cloudfront.net/assets/status/status_manifest-bacce514623b1bcc6a34b048b079d9c748ed56fe60243e73a9493e7ffcbc7cdf.css>; rel=preload; as=style; nopush,<https://dka575ofm4ao0.cloudfront.net/assets/jquery-3.5.1.min-729e416557a365062a8a20f0562f18aa171da57298005d392312670c706c68de.js>; rel=preload; as=script; nopush,<https://dka575ofm4ao0.cloudfront.net/assets/status_manifest-b790849ccb41192b3f7d9c14d5a4a6d5142add81fc8522649ca5c82f6a1fbb0e.js>; rel=preload; as=script; nopush",
+        "nel": "{\"failure_fraction\": 0.01, \"include_subdomains\": true, \"max_age\": 600, \"report_to\": \"endpoint-1\"}",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"endpoints\": [{\"url\": \"https://dz8aopenkvv6s.cloudfront.net\"}], \"group\": \"endpoint-1\", \"include_subdomains\": true, \"max_age\": 600}",
+        "server": "AtlassianEdge",
+        "server-timing": "atl-edge;dur=382,atl-edge-internal;dur=2,atl-edge-upstream;dur=380,atl-edge-pop;desc=\"aws-us-east-1\"",
+        "strict-transport-security": "max-age=63072000; preload",
+        "vary": "Accept,Accept-Encoding",
+        "via": "1.1 a3fb484d1976725d16c101a322c16b38.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "aERF4T4wEVh3SQRNdE8wFUV1d6G1sxLMf_gP4r-3wB2DOrynfa7a7A==",
+        "x-amz-cf-pop": "MAA51-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-download-options": "noopen",
+        "x-permitted-cross-domain-policies": "none",
+        "x-pollinator-metadata-service": "status-page-web-pages",
+        "x-runtime": "0.299093",
+        "x-statuspage-skip-logging": "true",
+        "x-statuspage-version": "6eddd743db9c8229640761e98c30f46ffd691c44",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "blog.livekit.io",
+      "status": 200,
+      "finalUrl": "https://livekit.com/blog",
+      "csp": [],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "frame-ancestors 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 20 Oct 2026 12:29:12 GMT",
+        "link": "</_next/static/immutable/media/commit_mono_variable_font-s.p.2a97wx6gbmsh8.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/immutable/media/fa0520225c6f3d07-s.p.3tasb8qs95n_v.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/immutable/chunks/1jkk2_ymgks4e.css>; rel=preload; as=\"style\", </_next/static/immutable/chunks/2xomsiti37qz6.css>; rel=preload; as=\"style\"",
+        "permissions-policy": "camera=(self), microphone=(self), geolocation=(), interest-cohort=()",
+        "referrer-policy": "no-referrer-when-downgrade",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/blog",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::dlsqb-1792499352538-a6c8de1ce2b4"
+      }
+    },
+    {
+      "host": "staging.livekit.io",
+      "status": 530,
+      "finalUrl": "https://staging.livekit.io/",
+      "csp": [],
+      "headers": {
+        "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "cf-ray": "a4d806d67a2b570c-MAA",
+        "connection": "close",
+        "content-length": "8250",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Tue, 20 Oct 2026 12:29:12 GMT",
+        "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+        "referrer-policy": "same-origin",
+        "server": "cloudflare",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "AWS CloudFront",
+      "kind": "cdn",
+      "seenOn": [
+        "status.livekit.io"
+      ],
+      "evidence": [
+        "x-amz-cf-id: aERF4T4wEVh3SQRNdE8wFUV1d6G1sxLMf_gP4r-3wB2DOrynfa7a7A=="
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "staging.livekit.io",
+        "staging.livekit.io"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a4d806d67a2b570c-MAA"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js (prerendered route)",
+      "kind": "framework",
+      "seenOn": [
+        "livekit.io",
+        "www.livekit.io"
+      ],
+      "evidence": [
+        "x-nextjs-prerender: 1"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js App Router (React Server Components)",
+      "kind": "framework",
+      "seenOn": [
+        "livekit.io",
+        "www.livekit.io",
+        "docs.livekit.io",
+        "blog.livekit.io"
+      ],
+      "evidence": [
+        "vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js",
+      "kind": "framework",
+      "seenOn": [
+        "docs.livekit.io",
+        "blog.livekit.io"
+      ],
+      "evidence": [
+        "x-powered-by: Next.js"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Rails",
+      "kind": "framework",
+      "seenOn": [
+        "status.livekit.io"
+      ],
+      "evidence": [
+        "x-runtime: 0.299093"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "livekit.io",
+        "www.livekit.io",
+        "docs.livekit.io",
+        "blog.livekit.io"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "livekit.io",
+        "www.livekit.io",
+        "docs.livekit.io",
+        "blog.livekit.io"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::w6hg7-1792499352292-eb0bf79e8a16",
+        "x-vercel-id: bom1::qk8mw-1792499352538-26ac9dbf74fc",
+        "x-vercel-id: bom1::iad1::kb6k7-1792499352481-e7360e11d5df",
+        "x-vercel-id: bom1::iad1::dlsqb-1792499352538-a6c8de1ce2b4"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "livekit.io",
+        "www.livekit.io"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::w6hg7-1792499352292-eb0bf79e8a16",
+        "x-vercel-id: bom1::qk8mw-1792499352538-26ac9dbf74fc"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel functions run in iad1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "docs.livekit.io",
+        "blog.livekit.io"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::iad1::kb6k7-1792499352481-e7360e11d5df",
+        "x-vercel-id: bom1::iad1::dlsqb-1792499352538-a6c8de1ce2b4"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "status.livekit.io"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://livekit.io/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /contact-sales/thankyou\nDisallow: /hubspot-test\nDisallow: /benchmarks/workflow\n\nHost: https://livekit.com\nSitemap: https://livekit.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://livekit.io/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://livekit.com</loc>\n<lastmod>2026-10-20T08:17:50.241Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://livekit.com/pricing</loc>\n<changefreq>weekly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://livekit.com/pricing/inference</loc>\n<changefreq>monthly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://livekit.com/benchmarks/capabilities</loc>\n<changefreq>weekly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://livekit.com/benchmarks/latency</loc>\n<changefreq>weekly</changefreq>\n<priority>0.7</"
+    },
+    {
+      "url": "https://livekit.io/.well-known/security.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "# LiveKit security contacts and policy\n\n# Our security contact channels\nContact: mailto:security@livekit.io\n\n# OpenPGP key\nEncryption: https://livekit.com/.well-known/pgp-publickey.txt\n\n# Link to our vulnerability disclosure policy\nPolicy: https://livekit.com/security/policy\n\n# Languages that our team speaks and understands\nPreferred-Languages: en-US\n"
+    },
+    {
+      "url": "https://livekit.io/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# LiveKit docs\n\n> LiveKit is an open-source platform for building voice, video, and physical AI agents. It includes the Agents framework for Python and Node.js, realtime WebRTC infrastructure with SDKs for every platform, telephony, and LiveKit Cloud, the hosted commercial offering.\n\n## Instructions for AI agents\n\n- Append `.md` to any page URL for clean Markdown, or send an `Accept: text/markdown` header.\n- Append `/llms.txt` to any of the section URLs listed below for the full page index of that section.\n- To search the docs or fetch many pages at once, connect to the MCP server at https://docs.livekit.io/mcp.\n\n## Overview\n\nLiveKit is an open-source platform for building voice, video, and "
+    },
+    {
+      "url": "https://www.livekit.io/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://livekit.com</loc>\n<lastmod>2026-10-20T08:17:50.241Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://livekit.com/pricing</loc>\n<changefreq>weekly</changefreq>\n<priority>0.9</priority>\n</url>\n<url>\n<loc>https://livekit.com/pricing/inference</loc>\n<changefreq>monthly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://livekit.com/benchmarks/capabilities</loc>\n<changefreq>weekly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://livekit.com/benchmarks/latency</loc>\n<changefreq>weekly</changefreq>\n<priority>0.7</"
+    },
+    {
+      "url": "https://www.livekit.io/.well-known/security.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "# LiveKit security contacts and policy\n\n# Our security contact channels\nContact: mailto:security@livekit.io\n\n# OpenPGP key\nEncryption: https://livekit.com/.well-known/pgp-publickey.txt\n\n# Link to our vulnerability disclosure policy\nPolicy: https://livekit.com/security/policy\n\n# Languages that our team speaks and understands\nPreferred-Languages: en-US\n"
+    },
+    {
+      "url": "https://www.livekit.io/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# LiveKit docs\n\n> LiveKit is an open-source platform for building voice, video, and physical AI agents. It includes the Agents framework for Python and Node.js, realtime WebRTC infrastructure with SDKs for every platform, telephony, and LiveKit Cloud, the hosted commercial offering.\n\n## Instructions for AI agents\n\n- Append `.md` to any page URL for clean Markdown, or send an `Accept: text/markdown` header.\n- Append `/llms.txt` to any of the section URLs listed below for the full page index of that section.\n- To search the docs or fetch many pages at once, connect to the MCP server at https://docs.livekit.io/mcp.\n\n## Overview\n\nLiveKit is an open-source platform for building voice, video, and "
+    },
+    {
+      "url": "https://www.livekit.io/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /contact-sales/thankyou\nDisallow: /hubspot-test\nDisallow: /benchmarks/workflow\n\nHost: https://livekit.com\nSitemap: https://livekit.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://docs.livekit.io/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /styleguide\n\nHost: https://docs.livekit.io\nSitemap: https://docs.livekit.io/sitemap.xml\n"
+    },
+    {
+      "url": "https://docs.livekit.io/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# LiveKit docs\n\n> LiveKit is an open-source platform for building voice, video, and physical AI agents. It includes the Agents framework for Python and Node.js, realtime WebRTC infrastructure with SDKs for every platform, telephony, and LiveKit Cloud, the hosted commercial offering.\n\n## Instructions for AI agents\n\n- Append `.md` to any page URL for clean Markdown, or send an `Accept: text/markdown` header.\n- Append `/llms.txt` to any of the section URLs listed below for the full page index of that section.\n- To search the docs or fetch many pages at once, connect to the MCP server at https://docs.livekit.io/mcp.\n\n## Overview\n\nLiveKit is an open-source platform for building voice, video, and "
+    },
+    {
+      "url": "https://docs.livekit.io/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://docs.livekit.io/intro/</loc>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://docs.livekit.io/testing/overview/</loc>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://docs.livekit.io/intro/overview</loc>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://docs.livekit.io/intro/about</loc>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://docs.livekit.io/intro/coding-agents</loc>\n<changefreq>weekly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>ht"
+    }
+  ],
+  "dns": [
+    {
+      "host": "livekit.io",
+      "a": [
+        "104.18.9.14",
+        "104.18.8.14"
+      ],
+      "mx": [
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com"
+      ],
+      "txt": [
+        "stripe-verification=2563353A5C0D4683D3BCF0FFD72AC3C7D0FA2A78E5EF91B5BC1DD59D79C9BC99",
+        "v=spf1 include:_spf.google.com include:45605282.spf06.hubspotemail.net -all",
+        "MS=ms40687001",
+        "MS=ms51160118",
+        "ZOOM_verify_VarRSXUmpd4Hk7yMbn3O6z",
+        "anthropic-domain-verification-z2nwqb=s9q37FC2puhT3FmPtD99F7e8R",
+        "apple-domain-verification=amM8gRGcqAoFs5Co",
+        "atlassian-domain-verification=7pKbd/aHG5AVyt4zQGV7LZNFo4MLyGtc2UK14qM9LcDlxcH76OmoZ4zYRCODbRFQ",
+        "cloudflare_dashboard_sso=7dbc59e51196f09204594bb3de24bfaa",
+        "docker-verification=26b40a70-943f-427d-a15d-f303504e8d31",
+        "figma-domain-verification=db1c75e0c3820adcd7331e3eb61a4744c005d242e56b815466ef7cd2866db959-1739488219",
+        "google-site-verification=EqFZFDQva6zJEguNs6r6G5BeimTBgF7v5-2u-2htMgw",
+        "google-site-verification=HRYNoY0oqvElCERxJrH3XAbmVgAcZeeckrtDo7kxueo",
+        "hubspot-domain-verification=NjBkZWFhMDctZjY1ZC00Y2VhLWJjNGQtZDUwMTMwZDlmNDEw",
+        "lemlist-verif=749861a6",
+        "linear-domain-verification=ufvbs8a2hjvu",
+        "notion-domain-verification=8nR4Qe9Op9riCA48LJQaF3OR8iaa9mugJ43fbhRlZUu",
+        "omnissa-connect-verification-cc5d397a-02f5-4cba-abb9-151869f4ac97",
+        "openai-domain-verification=dv-dWCWNrsZH335gs5VglKhT6S8",
+        "pylon-domain-verification-5p69rg=kdlIEsCy5ryiEU44OzrOMPxWl",
+        "sentinelone-domain-verification=YOT7QfpqeLC4DbwAl5MCmQ5KUq7Hyw3oFB9rZCyb8sG",
+        "slack-domain-verification=Wbw0XEo3AIy2kluPbiL0K7YgutEgXIq40Y32rTnF"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "Stripe",
+        "Atlassian / Statuspage",
+        "Notion (hosted page)",
+        "HubSpot",
+        "Cloudflare",
+        "LLM vendor domain verification"
+      ]
+    }
+  ],
+  "ats": [
+    {
+      "ats": "Ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/livekit?includeCompensation=true",
+      "openRoles": 26,
+      "bytes": 313946
+    }
+  ],
+  "appStore": {
+    "query": "livekit",
+    "results": [
+      {
+        "name": "LiveKit",
+        "seller": "Philip Lindner",
+        "updated": "2025-10-08T17:36:23Z"
+      },
+      {
+        "name": "Kako: Live, Vídeo & Chat",
+        "seller": "KAKO TECHNOLOGY CO., LTD",
+        "updated": "2026-10-15T06:31:31Z"
+      },
+      {
+        "name": "LiveIntercom",
+        "seller": "Simone Montanari",
+        "updated": "2026-06-10T22:19:51Z"
+      },
+      {
+        "name": "HA LiveKit",
+        "seller": "Efe Erim",
+        "updated": "2026-08-17T15:56:52Z"
+      },
+      {
+        "name": "LiveKit - Live Photo Tools",
+        "seller": "东 杨",
+        "updated": "2026-10-16T21:59:09Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

@@ -1,0 +1,75 @@
+Software Engineer, Agents
+North America
+$135K – $300K • Offers Equity
+
+ABOUT LIVEKIT
+
+LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.
+
+
+
+
+ABOUT THIS ROLE
+
+We are looking for an exceptional engineer to join the Agents team and help shape the future of agentic computing. You'll work on the core abstractions and infrastructure that developers use to build sophisticated AI agents; from real-time voice and text interactions to durable workflows and agent-to-agent communication.
+
+
+
+
+WHAT YOU'LL DO
+
+ - Design and develop core functionality for the LiveKit Agents framework
+
+ - Help define the text modality of the framework, enabling agents to interact with users across channels such as SMS
+
+ - Design abstractions for stateful and durable agentic workflows, allowing agents to maintain state and coordinate work across interactions that may span minutes, hours, or longer
+
+ - Shape agent-to-agent communication and delegation patterns, enabling voice agents to hand off tasks, collaborate, and compose into more sophisticated systems
+
+ - Build simple, powerful developer APIs over complex distributed and real-time systems
+
+ - Iterate quickly based on feedback from our developer community
+
+ - Write clear documentation, examples, and reference implementations
+
+ - Work primarily with Python and TypeScript
+
+
+
+
+WHO YOU ARE
+
+ - Experienced building LLM-based applications and agentic systems
+
+ - Skilled at navigating complex systems and turning complexity into clean abstractions
+
+ - Comfortable reasoning about state, concurrency and asynchronous workflows
+
+ - Product-minded and excited about designing APIs and developer experiences
+
+ - Experience building developer tools, frameworks, or SDKs is a plus
+
+ - Interested in exploring emerging patterns in agent architecture rather than simply applying established ones
+
+ - Comfortable working collaboratively in a remote environment
+
+
+
+
+
+OUR COMMITMENT TO YOU
+
+ - An opportunity to build something truly impactful to the world
+
+ - Contribute to open source alongside world-class engineers
+
+ - Competitive salary and equity package
+
+ - Health, dental, and vision benefits
+
+ - Flexible vacation policy
+
+
+
+LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.
+

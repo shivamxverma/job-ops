@@ -44,14 +44,14 @@ Source for finding rows (verified 2026-07-30, 3,051 alumni, no profile visits ne
 
 Run 2026-10-20 (alumni tab, unfiltered list; the `?keywords=` param redirected to /alumni/ and did not apply, so no founder/CTO query ran this time). Grad years not shown on most cards: verify on the profile before sending. Mutual counts as shown.
 
-- **Harsh Lohiya** — Software Engineer @ Setu | IIITN'25 | 2nd° | 298 mutuals | state: queued | 2026-10-20 | fintech API infra in Bangalore, 2025 grad = fresh referral rights, most mutuals in the batch | linkedin.com/in/harsh-lohiya
-- **Abhay Ganvir** — Software Engineer @ Harness | IIITN'? | 2nd° | 248 mutuals | state: queued | 2026-10-20 | dev-tools/CI-CD platform, "scalable microservices": closest stack match | linkedin.com/in/abhayganvir
-- **Abhishek Padghan** — Software Engineer @ Motive | IIITN'? | 2nd° | 224 mutuals | state: queued | 2026-10-20 | product company, large backend/IoT data platform | linkedin.com/in/abhishek-padghan-2a6775170
-- **Smriti Singh** — Software Development @ Groww | IIITN'? | 2nd° | 279 mutuals | state: queued | 2026-10-20 | Bangalore fintech, big backend org | linkedin.com/in/smriti1510
-- **Deepesh Kurmi** — SWE II @ Google (ex-GeeksforGeeks) | IIITN'22 | 2nd° | 141 mutuals | state: queued | 2026-10-20 | card shows **Message, not Connect**: open profile, so skip stage 1 and send the ask directly | linkedin.com/in/deepesh-kurmi-5b9a931b4
-- **Shreyash Turkar** — Senior Software Engineer @ Rubrik (ex-Nutanix) | IIITN'? | 2nd° | 87 mutuals | state: queued | 2026-10-20 | infra/storage company; backup for this cycle (invite only, ask drafted on accept) | linkedin.com/in/turkarshreyash
-- **Nagendra Patel** — MTS @ Salesforce (ex-CleverTap) | IIITN'? | 2nd° | 336 mutuals | state: queued | 2026-10-20 | big-co, high mutuals; invite only this cycle | linkedin.com/in/nagendra-patel-262920175
-- **Jayvardhan Patil** — Sr. SDE @ Zscaler | IIITN'? | 2nd° | 165 mutuals | state: queued | 2026-10-20 | security infra; invite only this cycle | linkedin.com/in/jayvardhan-patil
+- **Harsh Lohiya** — Software Engineer @ Setu | IIITN'25 | 2nd° | 298 mutuals | state: invite-sent | 2026-10-20 | fintech API infra in Bangalore, 2025 grad = fresh referral rights, most mutuals in the batch | linkedin.com/in/harsh-lohiya
+- **Abhay Ganvir** — Software Engineer @ Harness | IIITN'? | 2nd° | 248 mutuals | state: invite-sent | 2026-10-20 | dev-tools/CI-CD platform, "scalable microservices": closest stack match | linkedin.com/in/abhayganvir
+- **Abhishek Padghan** — Software Engineer @ Motive | IIITN'? | 2nd° | 224 mutuals | state: invite-sent | 2026-10-20 | product company, large backend/IoT data platform | linkedin.com/in/abhishek-padghan-2a6775170
+- **Smriti Singh** — Software Development @ Groww | IIITN'? | 2nd° | 279 mutuals | state: invite-sent | 2026-10-20 | Bangalore fintech, big backend org | linkedin.com/in/smriti1510
+- **Deepesh Kurmi** — SWE II @ Google (ex-GeeksforGeeks) | IIITN'22 | 2nd° | 141 mutuals | state: ask-sent | 2026-10-20 | card shows **Message, not Connect**: open profile, so skip stage 1 and send the ask directly | linkedin.com/in/deepesh-kurmi-5b9a931b4
+- **Shreyash Turkar** — Senior Software Engineer @ Rubrik (ex-Nutanix) | IIITN'? | 2nd° | 87 mutuals | state: invite-sent | 2026-10-20 | infra/storage company; backup for this cycle (invite only, ask drafted on accept) | linkedin.com/in/turkarshreyash
+- **Nagendra Patel** — MTS @ Salesforce (ex-CleverTap) | IIITN'? | 2nd° | 336 mutuals | state: invite-sent | 2026-10-20 | big-co, high mutuals; invite only this cycle | linkedin.com/in/nagendra-patel-262920175
+- **Jayvardhan Patil** — Sr. SDE @ Zscaler | IIITN'? | 2nd° | 165 mutuals | state: invite-sent | 2026-10-20 | security infra; invite only this cycle | linkedin.com/in/jayvardhan-patil
 
 Not picked, for the record: Shyam Agarwal (Python/FastAPI/Postgres/Redis/Kafka backend, 234 mutuals) has no company in his headline, so check his profile and add him next run if he's at a product company. Dushyant Kore (AI Engineer, Secure Elements India, 361 mutuals) is a good AI-framing backup.
 

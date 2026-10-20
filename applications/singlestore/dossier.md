@@ -55,7 +55,7 @@ worth 10 minutes before an interview (run one query twice and look at `PROFILE` 
 - GitHub `singlestore-labs` top committers (s2-ktran, akwong-singlestore, tclendaniel-singlestore,
   kesmit13) work on SDKs/notebooks, not the engine. See `github-recon.md`.
 - **Common ground:** competitive programming (the JD's "firm grasp of algorithms"), CodeSM running
-  untrusted C/C++, and his poiro.com reliance on a database uniqueness constraint under concurrency.
+  untrusted C/C++, and his poiro.com dedup prototype (benchmarked 5 hashes; server re-verification plus a DB uniqueness index; not shipped, the team chose operation-key idempotency).
 
 ## Momentum (stage, raise, hiring signals)
 - Growth buyout led by **Vector Capital**, closed 2025-09-10, reported ~$500M; prior funding $558M
@@ -99,8 +99,7 @@ New-grad engine seat, so these are deliberately small and honest.
 ## Which Shivam framing wins here (backend-infra / full-stack / AI-workflow — pick from facts.yaml)
 **backend_framing, pushed toward systems fundamentals.** Lead with CodeSM (untrusted C/C++ under
 CPU/memory/process limits, container reuse instead of per-run cold start, bounded per-job memory),
-the poiro.com dedup (database uniqueness constraint so concurrent uploads can't race), the
-single-aggregation-query fix, and the competitive-programming line (LeetCode top 5%, 800+ problems).
+the poiro.com $graphLookup fix (one query instead of one per nesting level), and the competitive-programming line (LeetCode top 5%, 800+ problems).
 AI framing is wrong for this req; it belongs to the 4+ year AI Platform seat.
 **Honest gap:** C++ is in his skills list and CodeSM runs C++, but there is no professional C/C++ and
 no OS/engine-level project. Say so if asked; don't dress Chatterly or CodeSM up as engine work.
@@ -112,9 +111,10 @@ note. No em dashes; edit in his own words.
 - **Why SingleStore?**
   > Most databases make you pick: a row store for writes or a column store for scans. You put both
   > behind one table and then had to make unique keys and point lookups work on columnar data. That's
-  > the part I want to work on. At poiro.com I lean on a database uniqueness constraint so two
-  > concurrent uploads of the same file can't both land, and I've never had to think about how that
-  > guarantee gets built when the rows are spread across segments. I'd like to.
+  > the part I want to work on. At poiro.com I prototyped duplicate blocking on a database uniqueness
+  > index so two concurrent uploads of the same file couldn't both land (the team went with
+  > idempotency keys instead), and I never had to think about how that guarantee gets built when the
+  > rows are spread across segments. I'd like to.
 
 - **Why this role?**
   > It's C/C++ systems work with an algorithms bar, and that's where I'm strongest outside my day job:

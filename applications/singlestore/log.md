@@ -16,3 +16,4 @@
 - 2026-10-06 — wrote dossier.md, tech-read.md, new cluster note profile/domains/distributed-sql-engine.md
   (+ README row). No IIIT Nagpur alumni found by web search; LinkedIn alumni tab not checked.
   No resume, outreach, tracker or actions.json changes.
+- 2026-10-20 — tailor-resume for req 8212128 (systems framing; Education first for a university-grad seat). Round 1 ats-score 83 (4/10 bullets without a number, "algorithms" not searchable, Yuvro storage bullet off-target). Round 2: cut that bullet, added "Data Structures & Algorithms" to skills; 3/9 bullets without a number, no repeated verbs, one page verified from the render. Score ~86. Not claimed (not true): multithreading, fault tolerance, SIMD/LLVM, optimiser work. The dossier's "seam" (shipped poiro SHA-256 dedup) is false and was NOT used.

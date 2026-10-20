@@ -47,8 +47,8 @@ SIMD/LLVM codegen, optimiser search and costing.
   hence `ANALYZE` invalidation and the new time-based stats-cache invalidation.
 
 ## 4. The seam Shivam has already touched
-**The uniqueness guarantee, from the user side.** At poiro.com the asset dedup relies on a database
-uniqueness constraint so two concurrent uploads can't race past an application-level check
+**The uniqueness guarantee, from the user side.** At poiro.com Shivam prototyped asset dedup (NOT shipped: the team removed it for operation-key
+idempotency, corrected 2026-10-20) on a database uniqueness constraint so two concurrent uploads can't race past an application-level check
 (facts.yaml, poiro bullet 2; stories.md "never trust the client's hash"). He has *relied on* that
 guarantee; he has not built one. Adjacent, not the same, and it should be said that way.
 Second-order: CodeSM reuses containers instead of paying a cold start per submission, the same

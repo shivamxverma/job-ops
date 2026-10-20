@@ -1261,3 +1261,9 @@ checked against a real send record rather than against the tracker's claim about
   such a notice empty, and don't hand Shivam a draft to paste there either.** Dossier draft answers for
   that company get a DO-NOT-PASTE banner. Track the row as `hold` (blocked on him), not `sent`.
 - Check for this before writing any form answers: it's a sentence on the form page, not in the JD.
+
+## Channel calibration (LinkedIn invite notes, measured 2026-10-20)
+- **Free-account invite notes cap at 200 characters, not 300**, and LinkedIn showed **"3 personalized
+  invitations remaining for this month"** before the first one. network-scout's templates assume 300 and
+  were 229/262 chars, so both had to be trimmed live. Draft notes at ≤200, and spend the ~3 notes/month
+  on founders/hiring managers; alumni invites can go bare (shared college + mutuals carry them).

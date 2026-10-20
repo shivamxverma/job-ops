@@ -1,4 +1,4 @@
-# Hunar.AI — outreach (drafted 2026-10-20, nothing sent)
+# Hunar.AI — outreach (invite SENT 2026-10-20 by Claude on Shivam's OK; stage 2 not sent)
 
 Channel: LinkedIn. Target **Shantanu Bhattacharyya** (co-founder, 2nd°), find him at
 https://www.linkedin.com/company/hunar-ai/people/ . Backup (one at a time, not both): Urvashi Soni,
@@ -17,3 +17,7 @@ Why not Easy Apply: the posting asks 4–6 years and already has 100+ applicants
 
 ## Nudge (once, 7 days after he accepts, only if no reply)
 > Hey Shantanu, floating this back up in case it got buried. No worries at all if now isn't the time.
+
+## Sent log
+- 2026-10-20: connection invite sent with this note (trimmed to LinkedIn's 200-char free limit):
+  > Hi Shantanu, congrats on the Series A. I'm Shivam, an IIIT Nagpur backend engineer. At klimb.io I built the backend for an AI interview platform with a live voice round. Would love to connect.

@@ -7,7 +7,7 @@
       "kind": "lead",
       "company": "SingleStore",
       "grade": "B",
-      "title": "SingleStore: new-grad Software Engineer, India, no years bar, C++ + systems fundamentals",
+      "title": "SingleStore: click Submit (form refilled)",
       "sub": "Distributed SQL database. University-grad seat (query optimiser, SIMD/LLVM codegen, fault tolerance). Dossier + tech-read done; resume not tailored yet. Likely office-based (Bangalore/Hyderabad/Pune), ~10-16L reported.",
       "buttons": [
         {
@@ -27,9 +27,7 @@
         }
       ],
       "steps": [
-        "Decide: are you OK working from a SingleStore office in India (Bangalore/Hyderabad/Pune)? If not, tick everything and pass",
-        "Tell Claude roughly how much C/C++ you've actually written (CP only, or projects too)",
-        "Press Work it so Claude tailors the resume for this req"
+        "Click Submit application in the open SingleStore tab"
       ],
       "background": "The HN post was for the AI Platform req (4+ years, mentoring), which is C. This new-grad req has no years bar and asks for C/C++, OS/concurrency, algorithms; your CSE degree (May 2026), LeetCode top 5% and CodeSM's sandboxed C/C++ runner carry it. Gap: no professional C++ or engine work. Channel is the Greenhouse form (resume, LinkedIn, website, optional cover letter). The HN poster is on another team, so the warmer path is an IIIT Nagpur alum at SingleStore via /network-scout, not checked yet. Two internals questions are in tech-read.md."
     },
@@ -298,7 +296,7 @@
       "kind": "lead",
       "company": "vvd",
       "grade": "B",
-      "title": "vvd: apply (9 games + consent are yours)",
+      "title": "vvd: add 9 games + consent, then submit",
       "sub": "Junior, remote, Next.js/TS/Postgres. Resume + answers ready.",
       "links": [
         {
@@ -315,8 +313,9 @@
         }
       ],
       "steps": [
-        "Make your 9-games link at my9games.net/en/edit",
-        "Fill the form from application.md, attach resume.pdf, tick consent, submit",
+        "Make your link at my9games.net/en/edit and paste it in the open vvd tab",
+        "Tick the consent checkbox",
+        "Click Submit application",
         "Tell Claude it is submitted"
       ],
       "background": "Folder: applications/vvd. The form asks for a my9games.net share link (nine games you love), which is personal, so it is yours. No AI restriction on this form.",
@@ -337,7 +336,7 @@
       "kind": "signal",
       "company": "Hunar",
       "grade": "A",
-      "title": "Hunar.AI: connect with co-founder Shantanu",
+      "title": "Hunar: invite sent to Shantanu, waiting to accept",
       "sub": "Raised Rs 40 Cr yesterday, posted a backend role today (4-6 yrs). Founder note beats Easy Apply here.",
       "links": [
         {
@@ -354,17 +353,19 @@
         }
       ],
       "steps": [
-        "Open Hunar People, find Shantanu Bhattacharyya, click Connect + Add a note (text in outreach.md)",
-        "Tell Claude it is sent (row moves to awaiting-connection)"
+        "When Shantanu accepts, send the stage-2 ask from outreach.md (or tell Claude)"
       ],
-      "background": "Signal A that became a posting the next day. Posting: Back End Developer, Bengaluru hybrid, 4-6 yrs, Python Django/FastAPI, 100+ applicants. Stage-2 ask (send after he accepts) is in outreach.md and says the experience gap upfront. Backup contact: Urvashi Soni (Founding Engineer). One person at a time."
+      "background": "Signal A that became a posting the next day. Posting: Back End Developer, Bengaluru hybrid, 4-6 yrs, Python Django/FastAPI, 100+ applicants. Stage-2 ask (send after he accepts) is in outreach.md and says the experience gap upfront. Backup contact: Urvashi Soni (Founding Engineer). One person at a time.",
+      "tags": [
+        "connection not accepted"
+      ]
     },
     {
       "id": "optexity-lead",
       "kind": "lead",
       "company": "Optexity",
       "grade": "B",
-      "title": "Optexity: connect with co-founder Shivam Goyal",
+      "title": "Optexity: invite sent to Shivam Goyal, waiting to accept",
       "sub": "API over healthcare portals with no API = Hireflow in a new domain. Both founders say hiring.",
       "links": [
         {
@@ -381,10 +382,12 @@
         }
       ],
       "steps": [
-        "Open Optexity People, find Shivam Goyal, Connect + Add a note (text in outreach.md)",
-        "Tell Claude it is sent"
+        "When Shivam Goyal accepts, send the stage-2 ask from outreach.md (or tell Claude)"
       ],
-      "background": "The Bengaluru founding-engineer post (Rs 20-40 LPA, 2+ yrs) is only on the HireDoor aggregator and not on their LinkedIn, so the stage-2 ask says so and asks if it is stale. Backup contact: Sankalp Garg. Internals questions in dossier.md."
+      "background": "The Bengaluru founding-engineer post (Rs 20-40 LPA, 2+ yrs) is only on the HireDoor aggregator and not on their LinkedIn, so the stage-2 ask says so and asks if it is stale. Backup contact: Sankalp Garg. Internals questions in dossier.md.",
+      "tags": [
+        "connection not accepted"
+      ]
     },
     {
       "id": "alumni-invites-2026-10-20",

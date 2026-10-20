@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29",
+  "generated": "2026-10-20",
   "note": "The queue behind `node scripts/actions.mjs`. Skills write items here; the board renders them and writes the result back into the repo when every step of a card is checked. Keep `steps` to things SHIVAM does with his own hands — anything Claude does is not a step, it is a sentence in `background`.",
   "items": [
     {
@@ -264,6 +264,175 @@
         "markProcessed": "skip",
         "slug": "Colonist"
       }
+    },
+    {
+      "id": "livekit-lead",
+      "kind": "lead",
+      "company": "LiveKit",
+      "grade": "B",
+      "title": "LiveKit: Software Engineer, Agents, remote APJ, no years bar",
+      "sub": "Durable agent workflows + real-time voice infra; your klimb voice round on OpenAI Realtime is the proof",
+      "links": [
+        {
+          "label": "Posting (Ashby)",
+          "url": "https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb"
+        },
+        {
+          "label": "HN post",
+          "url": "https://news.ycombinator.com/item?id=49997244"
+        },
+        {
+          "label": "LiveKit Agents repo",
+          "url": "https://github.com/livekit/agents"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "To work it, say \"work LiveKit\" in chat: company-research, tech-read (their Agents framework is open source, so the tech-read can read real code), tailored resume in the AI framing, and an application. Remote across NAMER/EMEA/APJ, comp $135K-300K + equity, no years number stated but the band implies a high bar. Fit: klimb.io 3-stage AI interview backend with a live OpenAI Realtime voice round; poiro.com typed node/group DAG builder (stateful workflows); CodeSM/Hireflow queues. Gap: no production WebRTC at their scale, Python agents framework depth. Their Senior Product Engineer seat is 6+ years (skip).",
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "LiveKit"
+      }
+    },
+    {
+      "id": "vvd-lead",
+      "kind": "lead",
+      "company": "vvd",
+      "grade": "B",
+      "title": "vvd: Junior Product Engineer, remote, explicitly junior",
+      "sub": "Wants a junior who already ships side projects; EU/NA time zones, you cover NA hours",
+      "links": [
+        {
+          "label": "Role page",
+          "url": "https://vvd.com/careers/junior-product-engineer"
+        },
+        {
+          "label": "HN post",
+          "url": "https://news.ycombinator.com/item?id=50013152"
+        },
+        {
+          "label": "Careers",
+          "url": "https://vvd.world/careers"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "To work it, say \"work vvd\" in chat. Worldbuilding/storytelling platform. Seat fit is strong (junior, remote, no country listed), domain fit is weak and the stack is unstated beyond Postgres, so lead with shipped side projects: DeepDoc (RAG + eval harness), CodeSM (live), Yuvro. Applies via the role page form.",
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "vvd"
+      }
+    },
+    {
+      "id": "hunar-signal",
+      "kind": "signal",
+      "company": "Hunar",
+      "grade": "A",
+      "title": "Hunar.AI raised Rs 40 Cr: voice AI agents for hiring, Bengaluru",
+      "sub": "Series A (Blume) for the same thing you built at klimb: AI voice interviews. Reach the founder before a posting exists",
+      "links": [
+        {
+          "label": "Inc42 article",
+          "url": "https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/"
+        },
+        {
+          "label": "Website",
+          "url": "https://hunar.ai"
+        },
+        {
+          "label": "Hunar people (find Shantanu)",
+          "url": "https://www.linkedin.com/company/hunar-ai/people/"
+        }
+      ],
+      "steps": [
+        "Send the connection invite to Shantanu (note in inbox/replies.md)",
+        "Passing on this one"
+      ],
+      "background": "Hunar.AI (Bengaluru, founded 2022) builds conversational voice agents for frontline hiring, onboarding, training and retention in 20+ Indian languages. Rs 40 Cr Series A led by Blume Ventures; funds go to AI infrastructure and product. Founders: Krishna Khandelwal (CEO), Shantanu Bhattacharyya. Bengaluru is your onsite city. To work it, say \"work Hunar\": research + tech-read, check LinkedIn for IIIT Nagpur alumni there (network-scout), then a founder DM/email built on the klimb.io voice interview round and credit ledger. Signal, not a posting: the ask is a conversation, not an application. LinkedIn lens 2 (2026-10-20): 51-200 people, 11 engineers, 19 in Bengaluru; co-founder Shantanu Bhattacharyya and Founding Engineer Urvashi Soni are both 2nd-degree. Invite note + stage-2 ask drafted in inbox/replies.md."
+    },
+    {
+      "id": "optexity-lead",
+      "kind": "lead",
+      "company": "Optexity",
+      "grade": "B",
+      "title": "Optexity: Founding SWE, Bengaluru, Rs 20-40 LPA",
+      "sub": "Browser automation that turns portals without APIs into APIs = Hireflow. Posting unverified (aggregator only)",
+      "links": [
+        {
+          "label": "Website",
+          "url": "https://www.optexity.com"
+        },
+        {
+          "label": "LinkedIn company",
+          "url": "https://www.linkedin.com/company/optexity/"
+        },
+        {
+          "label": "Aggregator apply link",
+          "url": "https://lnkd.in/ghC6WVSG"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "Say \"work Optexity\" to run research + founder outreach. L2: role seen only on HireDoor; their LinkedIn says no jobs, SF HQ, 2-10 people, M raised, careers Notion page deleted. Ask 2+ yrs (stretch). Best move is a founder DM leading with Hireflow (Playwright applies across LinkedIn/Wellfound/YC, queue-isolated so a bot block in one stage does not stall the rest).",
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "Optexity"
+      }
+    },
+    {
+      "id": "alumni-invites-2026-10-20",
+      "kind": "network",
+      "company": "IIIT Nagpur alumni",
+      "grade": "A",
+      "title": "Send 8 alumni connection invites",
+      "sub": "Setu, Harness, Motive, Groww, Rubrik, Salesforce, Zscaler + a direct message to Deepesh at Google",
+      "links": [
+        {
+          "label": "Referral board",
+          "url": "file:///Users/shivamverma/Desktop/projects/job-ops/inbox/referrals.md"
+        },
+        {
+          "label": "Harsh Lohiya (Setu)",
+          "url": "https://www.linkedin.com/in/harsh-lohiya/"
+        },
+        {
+          "label": "Abhay Ganvir (Harness)",
+          "url": "https://www.linkedin.com/in/abhayganvir/"
+        },
+        {
+          "label": "Abhishek Padghan (Motive)",
+          "url": "https://www.linkedin.com/in/abhishek-padghan-2a6775170/"
+        },
+        {
+          "label": "Smriti Singh (Groww)",
+          "url": "https://www.linkedin.com/in/smriti1510/"
+        },
+        {
+          "label": "Deepesh Kurmi (Google, DM)",
+          "url": "https://www.linkedin.com/in/deepesh-kurmi-5b9a931b4/"
+        },
+        {
+          "label": "Shreyash Turkar (Rubrik)",
+          "url": "https://www.linkedin.com/in/turkarshreyash/"
+        },
+        {
+          "label": "Nagendra Patel (Salesforce)",
+          "url": "https://www.linkedin.com/in/nagendra-patel-262920175/"
+        },
+        {
+          "label": "Jayvardhan Patil (Zscaler)",
+          "url": "https://www.linkedin.com/in/jayvardhan-patil/"
+        }
+      ],
+      "steps": [
+        "Send the 7 connection invites (note text in inbox/referrals.md)",
+        "Send Deepesh the direct ask (his profile allows messages)",
+        "Tell Claude which ones you sent so the board states move to invite-sent"
+      ],
+      "background": "Alumni engine, lens 3. Stage-2 asks are already drafted in inbox/referrals.md, so when someone accepts it is a copy-paste. One per company; check grad year on each profile before sending (2021-2025 is the sweet spot). Nothing is sent for you."
     }
   ]
 }

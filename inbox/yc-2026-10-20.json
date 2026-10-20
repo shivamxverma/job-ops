@@ -1,0 +1,72 @@
+{
+  "pulled": "2026-10-20",
+  "scanned": 358,
+  "survived": 4,
+  "hits": [
+    {
+      "id": 117299,
+      "grade": "D",
+      "score": 37,
+      "company": "Solum Health",
+      "batch": "S22",
+      "title": "Founnding Forward Deployed Engineer (FDE) - Healthcare Operations",
+      "location": "San Francisco, CA, US / New York, NY, US / Remote",
+      "visa": "Will sponsor",
+      "minExperience": "3+ years",
+      "salaryRange": "$120 - $180",
+      "equityRange": "0.25% - 1.00%",
+      "skills": [],
+      "oneLiner": "AI Automation for Therapy Practices",
+      "createdAt": "2 days",
+      "lastActive": null,
+      "teamSize": 3,
+      "stage": "Early",
+      "tags": [],
+      "website": "https://www.getsolum.com/",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/solum-health/jobs/rt2Hgq1-founnding-forward-deployed-engineer-fde-healthcare-operations",
+      "companyUrl": "https://www.ycombinator.com/companies/solum-health",
+      "why": [
+        "3-person team",
+        "story fit (AI vocab only): ai",
+        "remote",
+        "will sponsor",
+        "3+ years stated (stretch)",
+        "posted 2 days ago"
+      ],
+      "source": "yc-grid"
+    },
+    {
+      "id": 112655,
+      "grade": "F",
+      "score": 5,
+      "company": "LightSprint",
+      "batch": "P26",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA, US / Remote (San Francisco, CA, US)",
+      "visa": "Will sponsor",
+      "minExperience": "3+ years",
+      "salaryRange": "$150K - $200K",
+      "equityRange": "",
+      "skills": [],
+      "oneLiner": "Software factory for product teams",
+      "createdAt": "21 days",
+      "lastActive": "8 days",
+      "teamSize": 3,
+      "stage": "Early",
+      "tags": [],
+      "website": "https://lightsprint.ai",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/lightsprint/jobs/XUrAD20-senior-software-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/lightsprint",
+      "why": [
+        "3-person team",
+        "remote",
+        "will sponsor",
+        "senior-titled",
+        "3+ years stated (stretch)"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

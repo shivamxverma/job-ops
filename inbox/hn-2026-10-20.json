@@ -1,0 +1,433 @@
+{
+  "thread": "Ask HN: Who is hiring? (October 2026)",
+  "threadId": "49922569",
+  "pulled": "2026-10-20",
+  "hits": [
+    {
+      "id": "50071142",
+      "author": "Estuary",
+      "created": "2026-10-13T13:09:40Z",
+      "url": "https://news.ycombinator.com/item?id=50071142",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Estuary | US-Based / Remote | Full-time – https://estuary.dev/ Estuary is a VC-backed, post–Series A startup powering right-time data replication and transform ",
+      "text": "Estuary | US-Based / Remote | Full-time – https://estuary.dev/ Estuary is a VC-backed, post–Series A startup powering right-time data replication and transform — from sub-second CDC replication to terabyte-scale OLAP data flows. We&#x27;re open-source, developer-first, and focused on making data movement radically simpler across both our Platform and Applications layers. We&#x27;re hiring for: Head of Engineering — Own the engineering function end-to-end as a partner to our founder CTO: strategy, people, delivery, and operations across a compact but high-leverage team. You&#x27;ll grow the leaders already running our teams, set technical strategy jointly with the CTO, and be accountable for what engineering ships and what it costs. Product Manager — Own product areas end-to-end, working closely with engineering and design to shape the roadmap and deliver a great developer experience. Engage with users, translate real-world use cases into product decisions, and help define how modern data infrastructure should feel to build with. Customer Success Manager — Own the post-sale relationship for our data engineering and platform customers as our first CS hire. You&#x27;ll build onboarding, account health monitoring, and the expansion playbook from scratch while staying technical enough to resolve most issues yourself. Technical Product Marketing Manager — Founding product marketing hire working closely with Estuary&#x27;s Head of Marketing and Developer Relations team. Help shape how we position and communicate the platform to technical audiences through product launches, messaging, technical content, demos, customer stories, and developer-facing campaigns. Senior Growth Marketer, Content & Video — Take the technical content our team already produces and multiply its reach: slicing long-form posts into social, video, and email, running our webinar program, and owning our social and lifecycle channels. You&#x27;re a hands-on writer, designer, and video editor who knows how to turn one strong piece into a dozen that actually get seen. Senior Compliance Engineer — Own our GDPR and PCI DSS programs while keeping our audited SOC 2 and HIPAA programs running smoothly, alongside hands-on ownership of identity, endpoint, and SaaS estate management. This is a governance-first role for someone who has run a compliance program end-to-end, not just contributed to one. What we&#x27;re looking for: People who care about building reliable, maintainable systems and processes and enjoy working with complex APIs, data flows, or customer relationships. We value curiosity, clear communication, and a willingness to learn. Bonus points for experience with CDC tools, open source contributions, or fast-paced startups. To apply: Email your resume to careers@estuary.dev"
+    },
+    {
+      "id": "50068986",
+      "author": "adi_singh_21",
+      "created": "2026-10-13T09:31:19Z",
+      "url": "https://news.ycombinator.com/item?id=50068986",
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "full-stack",
+          "automation",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "firstLine": "Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a small AI-focused development agency based",
+      "text": "Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a small AI-focused development agency based in Hyderabad, India. We build web apps (Next.js, React, Node), mobile apps (React Native/Expo) and AI automation (LLM integrations, RAG, document processing, n8n/Python workflows) for startups and small businesses. I&#x27;m the founder, an engineer with 7+ years in full-stack and AI, and I handle scoping and delivery. I&#x27;m looking for people anywhere in the world who can find and close clients in their own market. - 15% of project value on every client you close, paid within 14 days of client payment - 12 months of commission on repeat work from clients you bring - Commission-only, no base salary. Non-exclusive, so it works alongside your other work - You own the client relationship and negotiation; final quotes are approved by us Good fit: you know founders, SMBs or agencies that need software built, and you&#x27;ve sold software, dev or digital services before. Apply: https://www.irashtech.com/careers/business-development-manag... Or email hello@irashtech.com with a short note on one deal you&#x27;ve closed."
+    },
+    {
+      "id": "50066343",
+      "author": "ncaroyannis",
+      "created": "2026-10-13T03:40:30Z",
+      "url": "https://news.ycombinator.com/item?id=50066343",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email platform built for ",
+      "text": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email platform built for teams. We provide developers, designers, and operations with the tools they need to manage their product emails without needing development work. We&#x27;re currently looking for a capable iOS Engineer to join our team on a contract basis to start as we build out our mobile stack. The ideal candidate has 5+ years experience building iOS apps from zero to production (Swift, SwiftUI, UIKit, and modern iOS frameworks), and has worked in a startup environment in the past. Positive experience with AI coding tools is a plus. We&#x27;re based in Japan and have preference for someone who is already in the country, but we are also considering candidates on a similar timezone, or Pacific time. To apply, please contact jobs@sendery.co with your resume and github."
+    },
+    {
+      "id": "50063001",
+      "author": "lazyLambda_",
+      "created": "2026-10-12T21:00:23Z",
+      "url": "https://news.ycombinator.com/item?id=50063001",
+      "matched": {
+        "strong": [
+          "postgres",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Typify.dev ( https://typify.dev ) | AI Application Engineer + Product Engineer | San Francisco (hybrid / remote available) | VISA | $80-120K USD (Negotiable) | ",
+      "text": "Typify.dev ( https://typify.dev ) | AI Application Engineer + Product Engineer | San Francisco (hybrid / remote available) | VISA | $80-120K USD (Negotiable) | galen@typify.dev We&#x27;re Typify, an education company for engineers that teaches functional programming and system design before pairing them with projects & job prospects. We&#x27;re hiring for two roles: Both mid-senior, Angular + NestJS + Postgres. AI Application Engineer. Forward-deployed, ship LLM features close to real users, iterate on real usage, design guardrails and evals. RAG, agents, prompt and context engineering, tool orchestration. Bonus: conversational/voice AI, fine-tuning, healthcare AI, MCP. Product Engineer. Own features end to end, scope, build, ship, measure, iterate. Strong product sense, UX obsession for a sensitive health product. Bonus: consumer or health product experience, early-stage startup time. To apply: goto https://typify.dev/jobs/view/189 or https://typify.dev/jobs/view/188 . Just need your github and resume. More on how we think: github.com/TypifyDev, r/haskell (u/_lazyLambda), @SimpleHaskell on YouTube."
+    },
+    {
+      "id": "50059584",
+      "author": "StartupHakkJobs",
+      "created": "2026-10-12T17:17:48Z",
+      "url": "https://news.ycombinator.com/item?id=50059584",
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "react",
+          "full-stack",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "StartupHakk | AI Engineer Apprentice | Remote (UT or ID residents only) | Full-time | $7.25–$10/hr | startuphakk.com/jobs We are hiring military veterans (and t",
+      "text": "StartupHakk | AI Engineer Apprentice | Remote (UT or ID residents only) | Full-time | $7.25–$10/hr | startuphakk.com/jobs We are hiring military veterans (and transitioning service members) living in Utah or Idaho for a paid, 1-year registered remote apprenticeship program in full-stack web development and applied AI. What You&#x27;ll Do & Learn: Full-stack development: C# .NET, React.js, SQL, HTML/CSS, cloud platforms, and DevOps. Applied AI Engineering: Prompt engineering, LLM integration, running open-source models locally, and building AI features into web applications. 2,000 hours on-the-job learning + 144 hours structured instruction. Requirements: U.S. Military Veteran or transitioning service member residing in UT or ID. 18+ years old, HS diploma/GED, eligible to work in the U.S. Strong passion for tech and continuous learning. Progressive wage: $7.25/hr (first 1,000 hrs) -> $10.00/hr (second 1,000 hrs). Apply: Learn more and apply at https://startuphakk.com/jobs"
+    },
+    {
+      "id": "50025234",
+      "author": "lassiecoder",
+      "created": "2026-10-09T19:05:22Z",
+      "url": "https://news.ycombinator.com/item?id=50025234",
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "javascript",
+          "mongodb",
+          "aws",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "firstLine": "Location: Bangalore, India (IST, UTC+5:30) Remote: Yes Willing to relocate: No Technologies: React Native, React, Next.js, TypeScript, JavaScript, Astro, Expo, ",
+      "text": "Location: Bangalore, India (IST, UTC+5:30) Remote: Yes Willing to relocate: No Technologies: React Native, React, Next.js, TypeScript, JavaScript, Astro, Expo, Redux Toolkit, Zustand, React Query, Node.js, Express, MongoDB, Firebase, Jest, React Testing Library, GitHub Actions, Fastlane, AWS, Gemini API, Azure OpenAI, Claude Code, Cursor Résumé/CV: https://drive.google.com/file/d/1banj1xCIv-wA9n7xUG4vkelBbFu... Portfolio: https://lassiecoder.com/ GitHub: https://github.com/lassiecoder LinkedIn: https://www.linkedin.com/in/lassiecoder Email: hirepriyankasharma@gmail.com Mobile + web engineer with 6 years shipping consumer and fintech products end to end. Currently SDE2 at Zataverse (formerly Black Leaf Digital, LA-based, working async from India). Some things I&#x27;ve shipped: - Imaige ( https://imaige.io ): built the site from scratch, including auth, payment gateway integration and onboarding, improving checkout reliability - Socialaize and Staryo: OAuth/social sign-in, push notifications, production stability fixes - Adecco app (700K+ daily users): white-label onboarding and eKYC; automated releases with Fastlane + GitOps (60% faster) and PR checks with GitHub Actions (40% less review overhead) - Torum Pay: push notifications with deep linking, reworked state management and cut app crashes 30% - EduFund: KYC for Indian and US investment accounts, push notifications that lifted new-user activity 47% Also: author of \"AI + Gemini for Web Developers\" ( https://fable.co/book/x-9798231622320 ), and spoke at Microsoft Bangalore on taking Azure OpenAI integrations to production. Looking for: a remote React Native / frontend / product engineer role on a product-focused team, ideally where AI features are part of the product. Happy to own features end to end."
+    },
+    {
+      "id": "50013152",
+      "author": "vvdworld",
+      "created": "2026-10-08T22:14:32Z",
+      "url": "https://news.ycombinator.com/item?id=50013152",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote",
+          "junior"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "vvd | Worldbuilding and storytelling platform (Remote / EU/NA timezones) This role is for a junior dev who is already shipping stuff, working on side projects a",
+      "text": "vvd | Worldbuilding and storytelling platform (Remote / EU/NA timezones) This role is for a junior dev who is already shipping stuff, working on side projects and wants to get involved in fast growing creative start up. We&#x27;re an extremely dedicated team working across creative storytelling challenges and no, not an AI slop generator. vvd.world/careers ⬅ is our site"
+    },
+    {
+      "id": "50012248",
+      "author": "TPINA7",
+      "created": "2026-10-08T21:04:09Z",
+      "url": "https://news.ycombinator.com/item?id=50012248",
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "c++",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "OneChronos | Engineering Manager, Data Platform (NYC, Hybrid) · Software Engineer, Quality / SDET (Flexible/U.S. Remote) | Full-Time We’re a Series B trading te",
+      "text": "OneChronos | Engineering Manager, Data Platform (NYC, Hybrid) · Software Engineer, Quality / SDET (Flexible/U.S. Remote) | Full-Time We’re a Series B trading technology company reimagining how financial markets match buyers and sellers -- applying auction theory and innovative technologies to build fairer, more efficient trading infrastructure. Our production systems are written in Rust and execute billions of dollars in securities transactions daily. If you want to work on genuinely hard problems at the intersection of markets, mechanism design, and distributed systems, we’d love to talk. We’re hiring engineering talent companywide, with a current emphasis on these two roles: Engineering Manager, Data Platform -- Lead and grow our data engineering team while staying close to the code. You’ll own the roadmap for the pipelines, data services, orchestration, and platform infrastructure that power our analytics, and contribute to production systems alongside your team. 8+ years of software or data engineering experience, 2+ managing engineers. Strong Python, SQL, Rust, and TypeScript. Experience with workflow orchestration (Temporal, Airflow, Dagster or similar) and columnar formats (Parquet, Arrow). Financial markets or exchange experience a strong plus. NYC-based, hybrid. ESTIMATED COMPENSATION: $180,000--$250,000 depending on experience, with eligibility for a discretionary annual bonus. Software Engineer, Quality (SDET) -- Build the quality engineering function from the ground up. You’ll design and own automated test frameworks, CI/CD integrations, staging environments, and validation tooling that help engineers ship with confidence. Proficiency in a systems-level language (Rust, C++, Go, or Java) and Python required. Experience in low-latency or performance-sensitive environments a strong plus. Flexible/U.S. remote. ESTIMATED COMPENSATION: $150,000--$200,000 depending on experience, with eligibility for a discretionary annual bonus. CONTACT: careers@onechronos.com -- please send your resume and include the role name and “HackerNews” in the subject line (e.g. “Engineering Manager, Data Platform | HackerNews”)."
+    },
+    {
+      "id": "50004401",
+      "author": "SeemaOjin",
+      "created": "2026-10-08T11:10:20Z",
+      "url": "https://news.ycombinator.com/item?id=50004401",
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "distributed systems",
+          "typescript",
+          "docker"
+        ],
+        "weak": [
+          "aws",
+          "platform",
+          "real-time",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "fully distributed"
+      },
+      "firstLine": "Ojin | Lead Platform Engineer | HYBRID (Berlin) or REMOTE (CET ±2h) | Full-time Hi HN! I&#x27;m Seema, part of the team at Ojin, and we&#x27;re looking for our ",
+      "text": "Ojin | Lead Platform Engineer | HYBRID (Berlin) or REMOTE (CET ±2h) | Full-time Hi HN! I&#x27;m Seema, part of the team at Ojin, and we&#x27;re looking for our next Lead Platform Engineer. We build AI agents that look and sound human - real face, real voice, real-time conversation. The kind of thing that makes people ask if it&#x27;s actually live the first time they see it. Getting there means solving latency at a level most infrastructure can&#x27;t touch, running custom frontier models for lipsync and face generation, and orchestrating all of it live across a globally distributed GPU fabric we own and operate ourselves. This isn&#x27;t a role where you maintain what someone else built. The hard problems are still open: dynamic routing and load balancing across thousands of concurrent GPU servers spanning multiple clouds and regions, keeping latency low enough that conversation feels natural, and deployment pipelines that can keep up with a product that&#x27;s moving fast. You&#x27;d set the technical direction for all of it, working directly with the founders on a 15-person team. No layers between you and the decisions that matter. If you&#x27;ve worked on distributed systems at scale, care about how things are built and not just that they work, and want real ownership rather than a slice of someone else&#x27;s architecture — we&#x27;d love to hear from you. Stack: AWS, TypeScript or Go, Terraform/Pulumi/AWS CDK, Docker, serverless architectures. Looking for: 5+ years hands-on AWS in production, strong IaC, multi-cloud experience, low-latency systems, and startup experience. We&#x27;re not able to offer relocation or visa sponsorship. If you&#x27;re already in Berlin, this is a hybrid role. If you&#x27;re elsewhere, we&#x27;re open to fully remote within CET ±2h. Applications outside these criteria won&#x27;t be progressed. Apply or read more at https://ojin.ai and please mention you found us on Hacker News in your application. We&#x27;re also hiring across sales and marketing."
+    },
+    {
+      "id": "50003866",
+      "author": "wipaveeknecht",
+      "created": "2026-10-08T09:57:33Z",
+      "url": "https://news.ycombinator.com/item?id=50003866",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "linux",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "ChainSecurity | Blockchain Security Engineer | Full-time | INTERNS , HYBRID/REMOTE, Zurich, Switzerland | VISA possible (for an employment) | https://chainsecur",
+      "text": "ChainSecurity | Blockchain Security Engineer | Full-time | INTERNS , HYBRID/REMOTE, Zurich, Switzerland | VISA possible (for an employment) | https://chainsecurity.com/ ChainSecurity is a young and innovative cybersecurity company that operates in the blockchain and cryptocurrency space. Our mission is to make the blockchain space secure and trustworthy for people, companies, and governments alike. We are proud of our security experts from the renowned universities ETH Zurich, EPFL Lausanne and others. We are trusted by 100+ blockchain companies and established corporations with security audits and services. We have secured complex systems for top blockchain clients, such as decentralized finance (DeFi) projects, and multinational organizations, such as banks and industrial consortia. A ChainSecurity Auditor will review the most complex blockchain projects to find vulnerabilities which no-one else can. By using state of the art tools, expert knowledge and a deep understanding of the fundamentals, we secure projects handling billions, often forming the foundation in the new paradigm of an open financial system. Your Responsibilities: * Work directly with the developers of the most successful teams in the blockchain industry to audit their code and secure their products * Contribute to our security tools and create new ones in collaboration with our internal research team * Conduct security research and publish your findings Requirements: * Strong background in software engineering, focused on security relevant areas and most importantly being able to reason about complex code * Experience with penetration testing, vulnerability scanning, threat modeling or similar is a plus * Good knowledge of cryptography * Proficiency with Linux and Git * Good written communication skills * Fluent in OOP programming language Bonus Points: * Formal Verification, White Box, Vulnerability Scanning * Solid Blockchain Knowledge * Consensus Algorithms Join us here: https://www.chainsecurity.com/jobs/blockchain-security-engin... Questions about the role? Contact: jobs@chainsecurity.com"
+    },
+    {
+      "id": "50001801",
+      "author": "verobytes",
+      "created": "2026-10-08T04:23:58Z",
+      "url": "https://news.ycombinator.com/item?id=50001801",
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "linux",
+          "backend",
+          "infra",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "NetBird | Berlin, Germany (or remote, CET/CEST overlap) | Full-time https://netbird.io/careers NetBird is open source networking and access control WireGuard-ba",
+      "text": "NetBird | Berlin, Germany (or remote, CET/CEST overlap) | Full-time https://netbird.io/careers NetBird is open source networking and access control WireGuard-based overlay networks with zero-config peer-to-peer connectivity. Open source, built in Europe, used by thousands of teams worldwide. We&#x27;re a small and growing team going up against (and working with) the incumbents in network security. Post Series A. - Engineering Manager : You will take a huge part in leading and scaling our engineering org. Unblocking, scaling, hiring, you&#x27;ll still read code and hold technical opinions that impact the product. We&#x27;re not looking for a pure people manager. Networking/infra background is a plus. If you&#x27;ve scaled a team from 0 to 20+ and seen your product scale too, I&#x27;d love to talk to you. - Senior/Staff Backend Engineer (Go) : the control plane: peer coordination, policy and access control, multi-tenancy, and keeping it all fast as customer networks grow into the hundreds of thousands of peers. - Network / Client Engineer (Go) — the agent side: WireGuard, NAT traversal and hole punching, relays, DNS, and shipping one client across Linux, macOS, Windows, iOS and Android. If you enjoy debugging why one connection out of a thousand won&#x27;t go peer-to-peer, this is the role. - Solutions Engineer — technical, customer-facing, pre/post-sales. You&#x27;ll be the person who architects a rollout for a 500-person company&#x27;s network live on a call, and a great channel back into the roadmap. - Account Executives :) We have an office in Berlin and mostly work CET/CEST. We&#x27;d love to have you in the office with us, but if your experience is stellar we&#x27;re happy to hire remote. We&#x27;re scaling quickly, so this is a chance to join early and scale with us. Apply at https://netbird.io/careers , please mention you found us on Hacker News in your application."
+    },
+    {
+      "id": "49997244",
+      "author": "mcapistrano",
+      "created": "2026-10-07T18:55:51Z",
+      "url": "https://news.ycombinator.com/item?id=49997244",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "LiveKit| http://livekit.io/ | VoiceAI | webRTC | Remote | Full Time LiveKit is building the infrastructure layer for the voice-driven era of computing. Our plat",
+      "text": "LiveKit| http://livekit.io/ | VoiceAI | webRTC | Remote | Full Time LiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in production. Hiring: >> Product Engineer | NAMER, EMEA, APJ (Remote) or SF (Hybrid): https://jobs.ashbyhq.com/livekit/463e2769-bb85-4429-96a3-3a1... >> Forward Deployed Engineer | United States (Remote): https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682... >> Forward Deployed Engineer | United Kingdom (Remote): https://jobs.ashbyhq.com/livekit/2b51446f-f78f-41da-91f9-41d... >> Developer Success Engineer | United Kingdom (Remote): https://jobs.ashbyhq.com/livekit/5d4461df-f7b6-4f34-a084-5ab... >> Software Engineer, Agents | NAMER, EMEA, APJ (Remote) : https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e46... Co-founders: Russ d&#x27;Sa (CEO) https://www.linkedin.com/in/russelldsa/ & David Zhao (CTO) https://www.linkedin.com/in/davidzhao/ Check out our blog: https://livekit.com/blog Our other roles: https://jobs.ashbyhq.com/livekit?utm_source=1bpyr8q375"
+    },
+    {
+      "id": "49996914",
+      "author": "buoyanthiring",
+      "created": "2026-10-07T18:31:29Z",
+      "url": "https://news.ycombinator.com/item?id=49996914",
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes"
+        ],
+        "weak": [
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Buoyant | Senior Software Engineer – Kubernetes / Distributed Systems | REMOTE – US / Canada / Brazil / Europe (CET-compatible) | Full-time Buoyant is the compa",
+      "text": "Buoyant | Senior Software Engineer – Kubernetes / Distributed Systems | REMOTE – US / Canada / Brazil / Europe (CET-compatible) | Full-time Buoyant is the company behind Linkerd, the CNCF-graduated service mesh for Kubernetes. We’re a small, fully remote engineering team building a new cloud-native infrastructure product. We’re looking for a senior, self-directed engineer who has built production infrastructure software and is comfortable working deep in the Kubernetes ecosystem. Relevant experience may include Kubernetes APIs, controllers/operators, CRDs, reconciliation systems, distributed systems/control-plane engineering, Go and/or Rust, gRPC, networking, service mesh, security, identity, or other cloud infrastructure. This is a hands-on role with significant architectural ownership on a small engineering team. Location: Remote – US, Canada, South America, or Europe with Central European Time-compatible working hours. Interested? Email scott.deakin@buoyant.io with “HN – Buoyant Control Plane” in the subject and include your LinkedIn, GitHub, or résumé."
+    },
+    {
+      "id": "49995549",
+      "author": "RitaSand",
+      "created": "2026-10-07T16:59:27Z",
+      "url": "https://news.ycombinator.com/item?id=49995549",
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Mastra | AI Engineer | REMOTE (AMER or EMEA time zones) | Full-time Mastra is the open-source TypeScript framework for building AI agents (agents, workflows, me",
+      "text": "Mastra | AI Engineer | REMOTE (AMER or EMEA time zones) | Full-time Mastra is the open-source TypeScript framework for building AI agents (agents, workflows, memory, evals, tracing). From the team behind Gatsby, YC-backed, https://github.com/mastra-ai/mastra Why: We’re starting to build more and more agentic features into Mastra: Trace intelligence, and we’re working on various Agent Learning features to automatically self-improve agents (Autoevals + Suggestions, Rollouts). In addition, we’ve been increasingly running Mastra primitives like memory on industry-standard benchmarks and using the results to fine-tune configuration. You have: Shipped agents and agentic applications into production Tuned and tweaked them to improve accuracy You need to be able to benchmark your results against existing datasets, or intelligently creating Apply: { https://jobs.ashbyhq.com/mastra/531a3fe8-556f-4b83-bee7-2037... } We get back to everyone."
+    },
+    {
+      "id": "49986633",
+      "author": "christyfthk",
+      "created": "2026-10-07T01:12:38Z",
+      "url": "https://news.ycombinator.com/item?id=49986633",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "c++",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Flow Traders | Research Engineer | Hong Kong | Full Time | Visa | Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and inno",
+      "text": "Flow Traders | Research Engineer | Hong Kong | Full Time | Visa | Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hong Kong office. Join us build and scale the research framework behind our systematic trading models. You’ll work closely with Quantitative Researchers, drive end‑to‑end ML pipelines, and shape global standards for data‑driven model development. Research Engineers have joint responsibility for conducting research and delivering models. You’ll thrive if you have: - 8+ years in ML / Data Science / Research Engineering (Postdoc/Faculty can count towards this); - Strong Python and libraries such as Ray, numpy, PyTorch, and pandas; - Solid math/stats background; - Experience with modern dev practices & cloud technologies. If you&#x27;re interested, apply here: https://www.flowtraders.com/careers/job-description/7431246 Flow Traders | C++ Senior Software Engineer | Hong Kong | Full Time | Visa | Relocation We are looking for a Senior C++ Software Engineer, you&#x27;ll help design and optimize next-generation market data and execution platforms powering systematic trading across hundreds of venues. The role covers high performance market data ingestion and order execution, building and optimizing trading systems. To succeed you will need to have: - 5+ years of C++ experience in HFT/ financial sector -Strong knowledge in one or more APAC markets If you are interested, apply here: https://www.flowtraders.com/careers/job-description/8212740 Or if you&#x27;d like to see other roles at Flow Traders, please check our careers website: https://flowtraders.com/careers/"
+    },
+    {
+      "id": "49982648",
+      "author": "ajitgoel",
+      "created": "2026-10-06T19:06:35Z",
+      "url": "https://news.ycombinator.com/item?id=49982648",
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "platform",
+          "remote",
+          "new grad",
+          "early career"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Empower Pharmacy is hiring engineers to work on event-driven, distributed systems that actually run a real-world business (regulated pharma), not ad tech or yet",
+      "text": "Empower Pharmacy is hiring engineers to work on event-driven, distributed systems that actually run a real-world business (regulated pharma), not ad tech or yet another CRUD SaaS. We just filled one Staff Engineer role directly from my last LinkedIn post (thanks to everyone who shared/applied). Now we’re expanding the team: - 1 Staff Software Engineer - 4 Senior Software Engineers - 4 Software Engineers (new grad / early career) All roles are US-based (remote within the US). We’re a small team owning the core platforms that run manufacturing, operations, and logistics. A lot of the work is greenfield or foundational: distributed systems, workflow orchestration, reliability/observability, and making it all scale in a domain where correctness actually matters. Tech stack: Java / Spring Boot, React / Next.js, Azure (Service Bus, Kubernetes), SQL Server. Event-driven, service-oriented architecture at enterprise scale. We use AI-assisted development heavily in the workflow (not as a bolt-on), so if you already lean on tools like Copilot/LLMs, you’ll be at home. We’re setting up a round-robin “Virtual Interview Day” early next week so we can run both interview rounds in a single day for candidates who advance. The process is straightforward: practical discussions, system design, and code; no brainteasers. If you: - like thinking in terms of systems and failure modes, - are comfortable across the stack (or want to grow there), - and want your work to have direct impact on how a real business operates, then I’d like to talk. Job description and application: https://lnkd.in/g926gzEx If you’d rather skip the form, email me or DM me and include a GitHub/LinkedIn/resume and a short note on what you’ve built."
+    },
+    {
+      "id": "49980976",
+      "author": "Dsuniga14",
+      "created": "2026-10-06T16:43:59Z",
+      "url": "https://news.ycombinator.com/item?id=49980976",
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote incl. India/Asia"
+      },
+      "firstLine": "Oscilar.com | Sr/Staff Software Engineers, Data Scientist, FDE, PM| REMOTE (US/Canada/Brazil/Poland/UK/India) Full-time AI Risk Decisioning™ platform that helps",
+      "text": "Oscilar.com | Sr/Staff Software Engineers, Data Scientist, FDE, PM| REMOTE (US/Canada/Brazil/Poland/UK/India) Full-time AI Risk Decisioning™ platform that helps organizations manage onboarding, fraud, credit, and compliance risks Open roles: - Sr./Staff Analytics & Data Architecture Engineer (US/Canada) - Sr./Staff Java Backend Engineer (Brazil/Poland/India) - Staff Web SDK Engineer (US/Brazil/India/Canada/Poland/UK) - Data Scientist (US/Canada) - Machine Learning Engineer (US/Canada) - Forward Deployment Engineer (Brazil/US) - Product Manager AML (US/Canada) - Product Manager Device and Behavior (US/Canada) apply at: https://jobs.ashbyhq.com/oscilar?utm_source=HackerNews"
+    },
+    {
+      "id": "49980867",
+      "author": "kevinher",
+      "created": "2026-10-06T16:36:29Z",
+      "url": "https://news.ycombinator.com/item?id=49980867",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Purchasely | https://www.purchasely.com | Senior iOS SDK Engineer | Paris, France | REMOTE (France) | Full-time (CDI) | Fluent French and English required | [€6",
+      "text": "Purchasely | https://www.purchasely.com | Senior iOS SDK Engineer | Paris, France | REMOTE (France) | Full-time (CDI) | Fluent French and English required | [€60k-€70k + BSPCE] Purchasely is an in-app monetization platform: app teams design, launch and A/B test paywalls and onboarding screens without shipping an app update. Our SDKs (iOS, Android, Flutter, React Native, Cordova) are embedded in our customers&#x27; apps, so if our SDK crashes, someone else&#x27;s app crashes. Stability, binary size, backward compatibility and clean public APIs come first. You&#x27;ll be a hands-on engineer on a small mobile team, owning the native iOS SDK: [StoreKit 1/2, UIKit/SwiftUI rendering, public API design, release process]. You&#x27;ll also work directly with customers&#x27; engineering teams on tricky integrations, so you should enjoy reading other people&#x27;s code and explaining yours. We&#x27;re looking for [5+] years of iOS with strong Swift, ideally with experience shipping a library or SDK used by third parties. Fluent French is a must: the engineering team works in French daily. Professional English is a must: our customers are located worldwide and support is in English, we also have coworkers from all over the world. Process: no take-home. One 1h30 live technical session during the interview. Direct applicants only, no agencies. Details: https://purchasely.notion.site/Senior-iOS-SDK-Engineer-ee63d..."
+    },
+    {
+      "id": "49980680",
+      "author": "elianahammonds",
+      "created": "2026-10-06T16:20:19Z",
+      "url": "https://news.ycombinator.com/item?id=49980680",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Coder | https://coder.com/ | Multiple roles | Multiple locations | Full-time Coder is an AI software development company leading the future of autonomous coding",
+      "text": "Coder | https://coder.com/ | Multiple roles | Multiple locations | Full-time Coder is an AI software development company leading the future of autonomous coding. We empower teams to build software faster, more securely, and at scale through the collaboration of AI coding agents and human developers. Our mission is to make agentic AI a safe, trusted, and integral part of every software development lifecycle. Coder’s self-hosted Agentic Development Environment (ADE) is the foundation for deploying agentic AI in the enterprise. It provides a secure, standardized, and governed workspace to deploy autonomous coding agents alongside human developers, accelerating innovation while maintaining control and compliance. Coder&#x27;s isolated, policy-driven environments improve productivity, cut cloud costs, and reduce data risks. Developers transition to AI at their own pace using their own tools. Platform and security teams can govern, audit, and manage a great developer experience at scale. Check out our OSS product with 100k+ stars on GitHub! https://github.com/coder All positions are fully remote in the countries listed unless otherwise specified. [1]Customer Support Engineer • Poland • Full time [2]Senior Software Engineer (Multiple Teams, Europe) • United Kingdom; Ireland; Poland • Full time • [3]Senior Software Engineer (Multiple Teams, North America) • United States; Canada • Full time [4]Software Engineer (Enterprise Experience, Backend) • Europe • Full time [5]Software Engineering Manager (Agentic Engineering) • United Kingdom; Ireland; Poland • Full time [6]Software Engineering Manager (Core Workspaces) • United States; Canada • Full time [7]Staff Software Engineer (Agentic Engineering) • United Kingdom; Ireland; Poland • Full time [8]Staff Software Engineer (AI Governance) — Research & Development • United States • Full time"
+    }
+  ]
+}

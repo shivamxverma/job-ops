@@ -11,6 +11,11 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Hunar** — A | Mon, 19 Oct 2026 | Inc42: https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/ | why: hiring mention (hiring); sector: ai; funding: raises
+- [ ] **Jio Platforms** — C | Mon, 19 Oct 2026 | Inc42: https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/ | why: funding: raises
+- [ ] **Even Healthcare** — C | Mon, 19 Oct 2026 | Inc42: https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/ | why: funding: raises; 📍 bengaluru; also: YourStory
+- [ ] **The Pant Project** — C | Mon, 19 Oct 2026 | Inc42: https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/ | why: funding: raises; also: YourStory
+
 - [ ] **Quantum computing and AI firm QpiAI** — B | Mon, 05 Oct 2026 | YourStory: https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital | why: sector: ai; funding: secures
 - [ ] **Exclusive: IPO-Bound StockGro** — C | Tue, 06 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-ahead-of-ipo-stockgro-looks-to-raise-%e2%82%b9110-cr-from-existing-backers/ | why: stage: late-stage; funding: raises
 - [ ] **Swara Baby Products** — C | Tue, 06 Oct 2026 | Inc42: https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/ | why: stage: late-stage; funding: secures

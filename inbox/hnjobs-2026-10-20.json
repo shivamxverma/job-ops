@@ -1,0 +1,68 @@
+{
+  "pulled": "2026-10-20",
+  "windowDays": 30,
+  "scanned": 13,
+  "hits": [
+    {
+      "id": "50078686",
+      "grade": "C",
+      "score": 50,
+      "company": "PostEra (YC W20)",
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "jobUrl": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "platform",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "why": [
+        "stack (weak): python, platform, pipeline",
+        "story fit (data pipeline, ai, agentic)",
+        "geo: unknown"
+      ],
+      "source": "hn-jobs-external",
+      "hnUrl": "https://news.ycombinator.com/item?id=50078686",
+      "hnPosted": "2026-10-13T21:01:12Z",
+      "excerpt": "PostEra - Machine Learning Researcher - Agentic Science Machine Learning Researcher - Agentic Science Remote Machine Learning / Full-time / Remote apply for this job PostEra is building an AI-first biotech. We use Proton, our AI platform for medicinal chemistry, to accelerate the discovery of new medicines for patients. PostEra is advancing an internal pipeline focused on Women's Health and Fertil"
+    },
+    {
+      "id": "50126774",
+      "grade": "C",
+      "score": 47,
+      "company": "Flexport",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "jobUrl": "https://www.flexport.com/company/careers/",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "real-time",
+          "automation",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "why": [
+        "stack (weak): platform, real-time, automation",
+        "story fit (ai)",
+        "geo: open"
+      ],
+      "source": "hn-jobs-external",
+      "hnUrl": "https://news.ycombinator.com/item?id=50126774",
+      "hnPosted": "2026-10-17T01:01:51Z",
+      "excerpt": "Careers at Flexport | Flexport Skip to main content TIME names the Flexport Customs Technology Suite Best Inventions of 2026 Sign in Forwarding Fulfillment English English 简体中文 繁體中文 Flexport Back Platform Flexport Platform Unify shipments, orders, and inventory in one AI-powered platform. Get real-time visibility, faster bookings, and automated customs brokerage in a single view. Flexport AI Our t"
+    }
+  ]
+}

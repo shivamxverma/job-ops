@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation** — C | Wed, 21 Oct 2026 | Inc42: https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/ | why: stage: late-stage; sector: ai; funding: raised
+
 - [ ] **Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team** — B | Wed, 21 Oct 2026 | Inc42: https://inc42.com/buzz/enterprise-ai-startup-auxoai-nets-20-7m-to-strengthen-its-fde-team/ | why: sector: ai; funding: raised
 
 - [ ] **Hunar.AI** — B | Tue, 20 Oct 2026 | YourStory: https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures | why: sector: ai; funding: raises

@@ -42,6 +42,19 @@ check("Senior AI Engineer -15",            delta("Senior AI Engineer"), -15);
 check("plain engineer 0",                  delta("Backend Software Engineer"), 0);
 check("new grad +8",                       delta("Software Engineer, New Grad"), 8);
 
+console.log("\nIndian ATS titles (2026-10-21 ats-scout run):");
+check("Member of Technical Staff is not Staff", delta("Member of Technical Staff - Platform Eng"), 0);
+check("Member Technical Staff variant 0",  delta("Member of the Technical Staff, Product Eng"), 0);
+check("'Member Technical Staff' (Composio) 0", delta("Member Technical Staff - Applied AI Engineer"), 0);
+check("SDE I +8 (Hevo)",                   delta("SDE I"), 8);
+check("SDE-1 +8",                          delta("SDE-1, Backend"), 8);
+check("Software Engineer I +8",            delta("Software Engineer I"), 8);
+check("Associate SDE +8",                  delta("Associate Software Development Engineer"), 8);
+check("SDE II stays 0",                    delta("SDE II"), 0);
+check("Software Engineer II stays 0",      delta("Software Engineer II"), 0);
+check("'Engineer In' is not level 1",      delta("Software Engineer In Test"), 0);
+check("Staff Engineer still -30",          delta("Staff Engineer"), -30);
+
 console.log("\nStated years are read from free text:");
 check("4+ years (Interview Resources)",    statedYears("Four or more years building backend systems in TypeScript or another strongly typed language"), 4);
 check("3+ years (Stable)",                 statedYears("3+ years of experience as a product engineer"), 3);

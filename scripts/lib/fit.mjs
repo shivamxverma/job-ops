@@ -16,7 +16,10 @@ const NON_ENG = /\b(pre-?sales( engineers?)?|sales engineers?|solutions? (archit
 const ENG_WORD = /\b(engineers?|engineering|eng|developers?|swe|sde|programmers?)\b/i;
 const TOP_SENIOR = /\b(chief|cto|vp|vice president|head of|director|principal|staff|distinguished|architect)\b/i;
 const SENIOR = /\b(senior|sr\.?|lead)\b/i;
-const JUNIOR = /\b(junior|jr\.?|new grad|graduate|entry[- ]level|early[- ]career|associate engineer)\b/i;
+// Level-1 titles from Indian ATS boards ("SDE I", "SDE-1", "Software Engineer I", "Associate
+// Software Development Engineer") are exactly his level; Hevo's "SDE I" graded C without them.
+// "SDE II" doesn't match: the trailing \b fails between the two I's.
+const JUNIOR = /\b(junior|jr\.?|new grad|graduate|entry[- ]level|early[- ]career|associate( software)?( development)? engineer|sde[- ]?(1|i)|(software|backend|frontend|full.?stack)( development)? engineer[- ]?(1|i))\b/i;
 
 const WORD_NUM = { one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8, nine: 9, ten: 10 };
 
@@ -50,9 +53,12 @@ export function seatFit({ title = "", text = "", minYears = null } = {}) {
     if (!ENG_WORD.test(rest)) return { delta: 0, reject: "non-engineering seat", why: [`non-eng title: ${title.match(NON_ENG)[0]}`] };
   }
 
-  if (TOP_SENIOR.test(title)) { delta -= 30; why.push(`${title.match(TOP_SENIOR)[0]}-level title`); }
-  else if (SENIOR.test(title)) { delta -= 15; why.push("senior-titled"); }
-  else if (JUNIOR.test(title)) { delta += 8; why.push("junior/new-grad seat"); }
+  // "Member of Technical Staff" is a plain IC title at many startups (Composio, DevRev), not
+  // Staff level, so it must not trip the "staff" dock.
+  const seat = title.replace(/\bmember (of )?(the )?technical staff\b/gi, "MTS");
+  if (TOP_SENIOR.test(seat)) { delta -= 30; why.push(`${seat.match(TOP_SENIOR)[0]}-level title`); }
+  else if (SENIOR.test(seat)) { delta -= 15; why.push("senior-titled"); }
+  else if (JUNIOR.test(seat)) { delta += 8; why.push("junior/new-grad seat"); }
 
   const years = minYears ?? statedYears(text);
   if (years !== null) {

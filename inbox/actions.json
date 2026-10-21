@@ -432,33 +432,37 @@
     },
     {
       "id": "sviam-lead",
-      "kind": "lead",
+      "kind": "action",
       "company": "SViam",
       "grade": "A",
-      "title": "SViam: Founding AI Engineer on an AI interviewer, remote Bengaluru, no years bar",
-      "sub": "They build Maya, a live spoken AI technical interviewer. That is your klimb.io work almost exactly. Applying starts with you taking 3 Maya mock interviews",
+      "title": "SViam (A): take 3 mock interviews with Maya, then tell Claude your 3 notes",
+      "sub": "Their AI interviewer is the same kind of product you built at klimb.io. Resume and email are ready; only the mocks and 3 lines of your feedback are left",
       "links": [
         {
-          "label": "Job post",
-          "url": "https://www.linkedin.com/jobs/view/4481588356/"
-        },
-        {
-          "label": "sviam.in (take the 3 mocks)",
+          "label": "Start practicing (sviam.in)",
           "url": "https://sviam.in"
         },
         {
-          "label": "Careers form",
-          "url": "https://sviam.in/careers/founding-ai-engineer"
+          "label": "Worksheet + email",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/sviam/outreach.md"
         }
       ],
       "steps": [
-        "Passing on this one"
+        "Take 3 mock interviews with Maya and note: one sharp follow-up, one off moment, what the scorecard cites",
+        "Tell Claude “SViam mocks done” with your 3 notes (Claude drafts the email with resume attached)"
       ],
       "onDone": {
-        "markProcessed": "skip",
+        "markProcessed": "done",
         "slug": "SViam"
       },
-      "background": "L1: own LinkedIn job + site, backed by ElevenLabs Grants, Plaksha, NVIDIA Inception. Apply path: sign up as a candidate at sviam.in, take at least 3 mock interviews with Maya, email what worked / felt off / what you would build to vikas.kumar@sviam.in with resume + links, then the careers form. Only you can do the mocks. Say \"work SViam\" and Claude does the dossier, tech-read, tailored resume and a feedback-email skeleton you fill in after your mocks."
+      "background": "Email goes to vikas.kumar@sviam.in. Vikas built Maya and now works at The M.A.P. in NYC, but the 2026-10-21 posting still routes to him. Week-one pitch: tie every scorecard claim to the transcript span or code change behind it.",
+      "buttons": [
+        {
+          "label": "Open the SViam folder",
+          "action": "reveal",
+          "target": "applications/sviam"
+        }
+      ]
     },
     {
       "id": "zerogrunt-lead",
@@ -648,6 +652,40 @@
         "Open Gmail Drafts and send the 10 “Re:” follow-ups"
       ],
       "background": "Originals verified sent on Oct 15 with no replies. This is touch 2 of 2: if they stay silent until Oct 29, they go to ghosted. AiPrise’s mentions their live SWE I posting in Bangalore."
+    },
+    {
+      "id": "kulfi-lead",
+      "kind": "action",
+      "company": "Kulfi",
+      "grade": "A",
+      "title": "Kulfi: SWE I in Bengaluru, 0-1 yrs, ₹9-15 LPA + ESOPs, write 5 short answers yourself",
+      "sub": "Level, city and pay all fit. ~1M-user couples app, SPC-backed. The form asks you to write the answers yourself, so those are yours",
+      "links": [
+        {
+          "label": "Apply (Dover)",
+          "url": "https://app.dover.com/apply/kulfi/25724642-9216-4ad8-b0fd-fce0151eee35?rs=42706078"
+        },
+        {
+          "label": "Factual fields to paste",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/kulfi/application.md"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Open the Kulfi folder (resume.pdf)",
+          "action": "reveal",
+          "target": "applications/kulfi"
+        }
+      ],
+      "steps": [
+        "Write the 5 short answers yourself (clear and specific beats polished)",
+        "Paste the factual fields, add current city + CTC, attach resume.pdf, apply"
+      ],
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "Kulfi"
+      },
+      "background": "Do not call or WhatsApp anyone at Kulfi: their post says that gets you rejected. Interview loop: screening call, 75-min practical with AI tools allowed (disclosed), founder chat."
     }
   ]
 }

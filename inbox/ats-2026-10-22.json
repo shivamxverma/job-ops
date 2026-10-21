@@ -1,0 +1,2590 @@
+{
+  "pulled": "2026-10-22",
+  "scanned": 2778,
+  "survived": 219,
+  "hits": [
+    {
+      "id": "greenhouse:truefoundry:5373665008",
+      "grade": "F",
+      "score": 92,
+      "source": "greenhouse (seed list)",
+      "company": "Truefoundry",
+      "domain": "truefoundry.com",
+      "title": "Founding Support Engineer",
+      "url": "https://app.careerpuck.com/job-board/truefoundry/job/5373665008?gh_jid=5373665008",
+      "posted": "2026-07-29T07:37:37-04:00",
+      "location": "Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "infra",
+          "platform",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kubernetes, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "founding-eng seat",
+        "non-eng title: Support Engineer",
+        "non-engineering seat",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:plane:00beeb42-56c0-48ce-9082-9fba93836b54",
+      "grade": "B",
+      "score": 72,
+      "source": "ashby (seed list)",
+      "company": "Plane",
+      "domain": "plane.so",
+      "title": "Software Engineer, Backend (Python)",
+      "url": "https://jobs.ashbyhq.com/plane/00beeb42-56c0-48ce-9082-9fba93836b54",
+      "posted": "2026-07-14T14:15:28.442+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "node.js",
+          "fastapi",
+          "postgres",
+          "redis",
+          "kafka",
+          "kubernetes",
+          "message queue"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "aws",
+          "backend",
+          "platform",
+          "real-time",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: node.js, fastapi, postgres, redis",
+        "story fit: CodeSM/Yuvro/Storix (kafka, message queue)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:plane:b62a4d81-db95-40e8-9570-1a8efd9ec0b5",
+      "grade": "B",
+      "score": 72,
+      "source": "ashby (seed list)",
+      "company": "Plane",
+      "domain": "plane.so",
+      "title": "GTM Engineer",
+      "url": "https://jobs.ashbyhq.com/plane/b62a4d81-db95-40e8-9570-1a8efd9ec0b5",
+      "posted": "2026-07-29T09:15:03.933+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: docker, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6139498004",
+      "grade": "F",
+      "score": 72,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Solution Engineer : Mumbai",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6139498004",
+      "posted": "2026-08-19T04:42:42-04:00",
+      "location": "Mumbai, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, typescript, llm, rag",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "non-eng title: Solution Engineer",
+        "non-engineering seat",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:observeai:5432596008",
+      "grade": "B",
+      "score": 72,
+      "source": "greenhouse (seed list)",
+      "company": "Observe",
+      "domain": "observe.ai",
+      "title": "AI Agent Engineer",
+      "url": "https://www.observe.ai/position?gh_jid=5432596008",
+      "posted": "2026-09-23T06:13:40-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "platform",
+          "automation",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:hevodata:95ab9f01-3671-4073-9990-4418aecb24e7",
+      "grade": "B",
+      "score": 72,
+      "source": "lever (seed list)",
+      "company": "Hevodata",
+      "domain": "hevodata.com",
+      "title": "Business System Engineer",
+      "url": "https://jobs.lever.co/hevodata/95ab9f01-3671-4073-9990-4418aecb24e7",
+      "posted": "2026-09-17T10:29:13.314Z",
+      "location": "Bangalore, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:cardboard:71a37ec3-d1df-4769-b018-a1c8f986bc1f",
+      "grade": "B",
+      "score": 72,
+      "source": "ashby (YC Winter 2026)",
+      "company": "Cardboard",
+      "domain": "cardboard.ai",
+      "title": "Backend Engineer",
+      "url": "https://jobs.ashbyhq.com/cardboard/71a37ec3-d1df-4769-b018-a1c8f986bc1f",
+      "posted": "2026-08-13T08:11:17.881+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems",
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems, typescript",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:zeta:dad16204-8051-4517-9e50-966f329045b5",
+      "grade": "B",
+      "score": 67,
+      "source": "lever (seed list)",
+      "company": "Zeta",
+      "domain": "zeta.tech",
+      "title": "Cloud Network Engineer II",
+      "url": "https://jobs.lever.co/zeta/dad16204-8051-4517-9e50-966f329045b5",
+      "posted": "2026-08-26T08:13:46.874Z",
+      "location": "Hyderabad",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kubernetes",
+          "developer tools",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "cloudflare",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: kubernetes, developer tools, llm",
+        "story fit: CodeSM/Yuvro/Storix (developer tools)",
+        "2+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6151311004",
+      "grade": "F",
+      "score": 64,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Partner Solutions Engineer",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6151311004",
+      "posted": "2026-08-24T11:25:21-04:00",
+      "location": "USA Remote",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "docker",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "real-time",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, docker, kubernetes, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "non-eng title: Solutions Engineer",
+        "non-engineering seat",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:72783205-b637-4431-9a0e-676a8223b063",
+      "grade": "B",
+      "score": 62,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Performance Engineer, Kernels",
+      "url": "https://jobs.ashbyhq.com/sarvam/72783205-b637-4431-9a0e-676a8223b063",
+      "posted": "2026-08-10T06:26:37.057+00:00",
+      "location": "Bengaluru / Chennai",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "node"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:7d2faba2-21a1-4a8a-aff5-f708a6959195",
+      "grade": "B",
+      "score": 62,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Performance Engineer, Inference",
+      "url": "https://jobs.ashbyhq.com/sarvam/7d2faba2-21a1-4a8a-aff5-f708a6959195",
+      "posted": "2026-08-10T06:33:05.030+00:00",
+      "location": "Bengaluru / Chennai",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "node",
+          "c++",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:bolna:131e206f-3fd9-4905-9f4c-c3fdc4c32cc9",
+      "grade": "F",
+      "score": 62,
+      "source": "ashby (YC Fall 2025)",
+      "company": "Bolna AI",
+      "domain": "bolna.ai",
+      "title": "AI Solutions Engineer",
+      "url": "https://jobs.ashbyhq.com/bolna/131e206f-3fd9-4905-9f4c-c3fdc4c32cc9",
+      "posted": "2026-07-03T14:07:26.107+00:00",
+      "location": "Bengaluru / Delhi",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "non-eng title: Solutions Engineer",
+        "non-engineering seat",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:cloudsek:6210527004",
+      "grade": "B",
+      "score": 62,
+      "source": "greenhouse (seed list)",
+      "company": "Cloudsek",
+      "domain": "cloudsek.com",
+      "title": "Salesforce Developer",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6210527004",
+      "posted": "2026-09-29T08:07:15-04:00",
+      "location": "Bengaluru, Karnataka, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "sandbox"
+        ],
+        "weak": [
+          "aws",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: sandbox",
+        "story fit: CodeSM/Yuvro/Storix (sandbox)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:cardboard:744b9881-cf83-4b20-b6dd-5ef8e8082e62",
+      "grade": "B",
+      "score": 62,
+      "source": "ashby (YC Winter 2026)",
+      "company": "Cardboard",
+      "domain": "cardboard.ai",
+      "title": "Product Engineer (Fullstack)",
+      "url": "https://jobs.ashbyhq.com/cardboard/744b9881-cf83-4b20-b6dd-5ef8e8082e62",
+      "posted": "2026-08-26T18:44:09.204+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "real-time",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:cardboard:a18a5b6c-8b4a-4418-be14-55235744313f",
+      "grade": "B",
+      "score": 62,
+      "source": "ashby (YC Winter 2026)",
+      "company": "Cardboard",
+      "domain": "cardboard.ai",
+      "title": "Product Engineer (Mobile)",
+      "url": "https://jobs.ashbyhq.com/cardboard/a18a5b6c-8b4a-4418-be14-55235744313f",
+      "posted": "2026-10-03T08:27:06.524+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "react",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:fampay:01750a61-a53b-433f-8d8c-bfb5a18417f8",
+      "grade": "B",
+      "score": 62,
+      "source": "lever (YC Summer 2019)",
+      "company": "FamPay",
+      "domain": "fampay.in",
+      "title": "Data Engineer (SDE 2)",
+      "url": "https://jobs.lever.co/fampay/01750a61-a53b-433f-8d8c-bfb5a18417f8",
+      "posted": "2026-08-21T06:36:41.969Z",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "real-time",
+          "etl"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:hevodata:bfdebed3-3762-4854-a1e9-01bda6bebe09",
+      "grade": "C",
+      "score": 61,
+      "source": "lever (seed list)",
+      "company": "Hevodata",
+      "domain": "hevodata.com",
+      "title": "Senior Customer Experience Engineer",
+      "url": "https://jobs.lever.co/hevodata/bfdebed3-3762-4854-a1e9-01bda6bebe09",
+      "posted": "2026-09-25T08:22:07.057Z",
+      "location": "Pune, Maharashtra",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "postgresql"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "etl",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, postgresql",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "0-1 years ok",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:coursera:6145774004",
+      "grade": "C",
+      "score": 61,
+      "source": "greenhouse (seed list)",
+      "company": "Coursera",
+      "domain": "coursera.org",
+      "title": "Senior Software Engineer, Applied AI and Customer Solutions",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6145774004",
+      "posted": "2026-08-20T09:54:38-04:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "postgres",
+          "kafka",
+          "docker",
+          "kubernetes",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "agentic",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: typescript, postgres, kafka, docker",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "0-1 years ok",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:plane:65c21968-e0e5-4245-824f-9f1039162b7d",
+      "grade": "C",
+      "score": 57,
+      "source": "ashby (seed list)",
+      "company": "Plane",
+      "domain": "plane.so",
+      "title": "Senior Software Engineer, Quality Engineering",
+      "url": "https://jobs.ashbyhq.com/plane/65c21968-e0e5-4245-824f-9f1039162b7d",
+      "posted": "2026-07-14T14:15:37.869+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgres",
+          "redis",
+          "kubernetes",
+          "websocket",
+          "playwright"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "aws",
+          "platform",
+          "real-time",
+          "automation",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgres, redis",
+        "story fit: Hireflow/klimb.io AI metering (playwright)",
+        "senior-titled",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:e9fb1269-fc4b-4879-aa35-0b75a8c83611",
+      "grade": "C",
+      "score": 57,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "ML Engineer (Training Infra), Foundational Models",
+      "url": "https://jobs.ashbyhq.com/sarvam/e9fb1269-fc4b-4879-aa35-0b75a8c83611",
+      "posted": "2026-10-07T10:30:03.130+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes"
+        ],
+        "weak": [
+          "node",
+          "full-stack",
+          "infra",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:e1dd678f-6e25-48b4-82d8-a1a7d10a78d6",
+      "grade": "C",
+      "score": 57,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Infrastructure SRE - HPC",
+      "url": "https://jobs.ashbyhq.com/sarvam/e1dd678f-6e25-48b4-82d8-a1a7d10a78d6",
+      "posted": "2026-06-26T09:18:02.474+00:00",
+      "location": "Bengaluru / Chennai",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kubernetes",
+          "k8s"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "full-stack",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: kubernetes, k8s",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:0371342b-5cb8-487b-9310-4d0eb5b37f47",
+      "grade": "C",
+      "score": 57,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Software Engineer - Model API Platform",
+      "url": "https://jobs.ashbyhq.com/sarvam/0371342b-5cb8-487b-9310-4d0eb5b37f47",
+      "posted": "2026-10-13T07:12:53.480+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "fastapi",
+          "postgresql",
+          "redis",
+          "kubernetes",
+          "websocket",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: fastapi, postgresql, redis, kubernetes",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "4+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:mindtickle:864ac315-d7c5-4cd5-ab44-0e33d08f48f1",
+      "grade": "C",
+      "score": 57,
+      "source": "lever (seed list)",
+      "company": "Mindtickle",
+      "domain": "mindtickle.com",
+      "title": "AI Product Engineer",
+      "url": "https://jobs.lever.co/mindtickle/864ac315-d7c5-4cd5-ab44-0e33d08f48f1",
+      "posted": "2026-09-09T08:59:48.738Z",
+      "location": "Pune, Maharashtra / Bengaluru, Karnataka",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "fastapi",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: fastapi, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:coursera:6212857004",
+      "grade": "C",
+      "score": 57,
+      "source": "greenhouse (seed list)",
+      "company": "Coursera",
+      "domain": "coursera.org",
+      "title": "LLMops Engineer",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6212857004",
+      "posted": "2026-10-06T03:30:13-04:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "docker",
+          "kubernetes",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, docker, kubernetes, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "4+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:SigNoz:f4273207-6f44-40cc-81b0-b1d8b288dc45",
+      "grade": "C",
+      "score": 57,
+      "source": "ashby (seed list)",
+      "company": "Signoz",
+      "domain": "signoz.io",
+      "title": "Senior AI GTM Engineer",
+      "url": "https://jobs.ashbyhq.com/SigNoz/f4273207-6f44-40cc-81b0-b1d8b288dc45",
+      "posted": "2026-07-20T06:14:10.999+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "developer tools",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: typescript, developer tools, llm",
+        "story fit: CodeSM/Yuvro/Storix (developer tools)",
+        "senior-titled",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:cloudsek:6139513004",
+      "grade": "C",
+      "score": 57,
+      "source": "greenhouse (seed list)",
+      "company": "Cloudsek",
+      "domain": "cloudsek.com",
+      "title": "SDE - 3 - Frontend",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6139513004",
+      "posted": "2026-08-10T05:28:15-04:00",
+      "location": "Bengaluru, Karnataka, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "javascript",
+          "ci/cd",
+          "backend",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "agentic",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:cardboard:2aa3c489-f09e-4b92-b338-67dc86feec7d",
+      "grade": "C",
+      "score": 57,
+      "source": "ashby (YC Winter 2026)",
+      "company": "Cardboard",
+      "domain": "cardboard.ai",
+      "title": "Senior Applied ML Engineer, Evals & Data",
+      "url": "https://jobs.ashbyhq.com/cardboard/2aa3c489-f09e-4b92-b338-67dc86feec7d",
+      "posted": "2026-08-15T11:14:50.917+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, typescript, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:hevodata:993a3ed3-3014-432f-b0f4-28d300d58d9a",
+      "grade": "C",
+      "score": 55,
+      "source": "lever (seed list)",
+      "company": "Hevodata",
+      "domain": "hevodata.com",
+      "title": "Associate Software Development Engineer (SDE) Intern",
+      "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
+      "posted": "2026-09-21T08:05:56.138Z",
+      "location": "Bangalore, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "junior/new-grad seat",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:hevodata:6cbbe304-e065-4711-bf3e-756795d2bc2a",
+      "grade": "C",
+      "score": 55,
+      "source": "lever (seed list)",
+      "company": "Hevodata",
+      "domain": "hevodata.com",
+      "title": "SDE I",
+      "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a",
+      "posted": "2026-07-27T06:58:22.493Z",
+      "location": "Bangalore, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "junior/new-grad seat",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:composio:a4046674-59ee-41fd-9045-2a7058a467e1",
+      "grade": "C",
+      "score": 52,
+      "source": "ashby (seed list)",
+      "company": "Composio",
+      "domain": "composio.dev",
+      "title": "Member Technical Staff - Applied AI Engineer (US Timing) ",
+      "url": "https://jobs.ashbyhq.com/composio/a4046674-59ee-41fd-9045-2a7058a467e1",
+      "posted": "2026-09-07T16:17:36.658+00:00",
+      "location": "Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "postgres"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, postgres",
+        "2+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:zeta:e21ca17d-7bf2-4781-94bb-bcfc8943aae0",
+      "grade": "C",
+      "score": 52,
+      "source": "lever (seed list)",
+      "company": "Zeta",
+      "domain": "zeta.tech",
+      "title": "Product Security Engineer II",
+      "url": "https://jobs.lever.co/zeta/e21ca17d-7bf2-4781-94bb-bcfc8943aae0",
+      "posted": "2026-07-21T11:10:26.543Z",
+      "location": "Hyderabad",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "postgresql",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "cloudflare",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: postgresql, docker, kubernetes",
+        "2+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:d2d593e6-be5a-4431-b1fa-86f18d1c7edf",
+      "grade": "C",
+      "score": 47,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "DevOps Engineer",
+      "url": "https://jobs.ashbyhq.com/sarvam/d2d593e6-be5a-4431-b1fa-86f18d1c7edf",
+      "posted": "2026-08-28T06:52:14.577+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:36f89b00-2010-4d23-aae3-17a2f53d9eaa",
+      "grade": "C",
+      "score": 47,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Agent Engineer",
+      "url": "https://jobs.ashbyhq.com/sarvam/36f89b00-2010-4d23-aae3-17a2f53d9eaa",
+      "posted": "2026-08-20T06:30:48.859+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "full-stack",
+          "backend",
+          "platform",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:hevodata:96993ebc-609a-4733-84cd-e1a0c3e69fda",
+      "grade": "C",
+      "score": 47,
+      "source": "lever (seed list)",
+      "company": "Hevodata",
+      "domain": "hevodata.com",
+      "title": "Associate Customer Experience Engineer",
+      "url": "https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda",
+      "posted": "2026-09-25T08:16:49.362Z",
+      "location": "Pune, Maharashtra",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "postgresql"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "etl",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: postgresql",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:fampay:9b8d4eaa-cd29-4aec-8dcc-a33fd78d5657",
+      "grade": "C",
+      "score": 47,
+      "source": "lever (YC Summer 2019)",
+      "company": "FamPay",
+      "domain": "fampay.in",
+      "title": "SDE 2 Infra",
+      "url": "https://jobs.lever.co/fampay/9b8d4eaa-cd29-4aec-8dcc-a33fd78d5657",
+      "posted": "2026-10-01T06:54:56.766Z",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "linux",
+          "ci/cd",
+          "infra",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6180279004",
+      "grade": "D",
+      "score": 42,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6180279004",
+      "posted": "2026-09-03T02:30:34-04:00",
+      "location": "Delhi, NCR",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6196802004",
+      "grade": "D",
+      "score": 42,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Forward Deployed Engineer {Chennai}",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6196802004",
+      "posted": "2026-09-17T09:28:57-04:00",
+      "location": "Chennai, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6196801004",
+      "grade": "D",
+      "score": 42,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Forward Deployed Engineer {Mumbai}",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6196801004",
+      "posted": "2026-09-17T09:28:34-04:00",
+      "location": "Mumbai, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6114345004",
+      "grade": "D",
+      "score": 42,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Quality Engineer – Automation & AI",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6114345004",
+      "posted": "2026-07-15T02:05:31-04:00",
+      "location": "Bangalore, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm",
+          "playwright"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm, playwright",
+        "story fit: Hireflow/klimb.io AI metering (llm, playwright)",
+        "7+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:SigNoz:bb540719-7344-4e98-88b9-92446d58f437",
+      "grade": "D",
+      "score": 42,
+      "source": "ashby (seed list)",
+      "company": "Signoz",
+      "domain": "signoz.io",
+      "title": "Senior Software Engineer - Frontend",
+      "url": "https://jobs.ashbyhq.com/SigNoz/bb540719-7344-4e98-88b9-92446d58f437",
+      "posted": "2026-07-21T12:02:23.088+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, typescript",
+        "senior-titled",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:meesho:d2f50690-efbf-45c6-8985-1494901725e6",
+      "grade": "D",
+      "score": 42,
+      "source": "lever (seed list)",
+      "company": "Meesho",
+      "domain": "meesho.com",
+      "title": "Security Engineer III",
+      "url": "https://jobs.lever.co/meesho/d2f50690-efbf-45c6-8985-1494901725e6",
+      "posted": "2026-10-07T06:09:14.247Z",
+      "location": "Bangalore, Karnataka",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "node.js",
+          "docker",
+          "kubernetes",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: node.js, docker, kubernetes, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:mindtickle:d62b36db-b088-48c7-a606-4ed458e30208",
+      "grade": "D",
+      "score": 37,
+      "source": "lever (seed list)",
+      "company": "Mindtickle",
+      "domain": "mindtickle.com",
+      "title": "Security and Automation Engineer",
+      "url": "https://jobs.lever.co/mindtickle/d62b36db-b088-48c7-a606-4ed458e30208",
+      "posted": "2026-08-21T13:36:26.910Z",
+      "location": "Pune, Maharashtra",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): python, ci/cd, platform",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24",
+      "grade": "D",
+      "score": 37,
+      "source": "lever (YC Summer 2019)",
+      "company": "FamPay",
+      "domain": "fampay.in",
+      "title": "Security Engineer Intern",
+      "url": "https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24",
+      "posted": "2026-09-23T12:29:36.957Z",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): python, javascript, aws",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:hevodata:272ae17d-2b06-4b62-b596-e3687b0f744d",
+      "grade": "D",
+      "score": 33,
+      "source": "lever (seed list)",
+      "company": "Hevodata",
+      "domain": "hevodata.com",
+      "title": "Staff Platform Engineer",
+      "url": "https://jobs.lever.co/hevodata/272ae17d-2b06-4b62-b596-e3687b0f744d",
+      "posted": "2026-10-15T10:50:27.972Z",
+      "location": "Bangalore, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, kubernetes",
+        "Staff-level title",
+        "reachable: India-based",
+        "posted 6d ago"
+      ]
+    },
+    {
+      "id": "greenhouse:zenoti:8004593003",
+      "grade": "D",
+      "score": 32,
+      "source": "greenhouse (seed list)",
+      "company": "Zenoti",
+      "domain": "zenoti.com",
+      "title": "Lead Reliability Engineer - Network and Security",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004593003",
+      "posted": "2026-10-09T07:34:35-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "senior-titled",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:zeta:f140e9d7-8d0c-4e24-bace-8568385b6f5c",
+      "grade": "D",
+      "score": 32,
+      "source": "lever (seed list)",
+      "company": "Zeta",
+      "domain": "zeta.tech",
+      "title": "SIEM & SecOps Engineer II",
+      "url": "https://jobs.lever.co/zeta/f140e9d7-8d0c-4e24-bace-8568385b6f5c",
+      "posted": "2026-07-24T14:43:33.334Z",
+      "location": "Hyderabad",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "s3",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation",
+          "etl",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "4+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:mindtickle:b6e024c2-42c2-463c-8bc8-ca0aa0826845",
+      "grade": "D",
+      "score": 32,
+      "source": "lever (seed list)",
+      "company": "Mindtickle",
+      "domain": "mindtickle.com",
+      "title": "Software Engineer, Business Systems",
+      "url": "https://jobs.lever.co/mindtickle/b6e024c2-42c2-463c-8bc8-ca0aa0826845",
+      "posted": "2026-09-09T10:54:49.990Z",
+      "location": "Pune, Maharashtra",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "etl",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): python, aws, ci/cd",
+        "2+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:hevodata:d257fbd4-a19d-4960-859a-f872c61dfc86",
+      "grade": "F",
+      "score": 28,
+      "source": "lever (seed list)",
+      "company": "Hevodata",
+      "domain": "hevodata.com",
+      "title": "Senior Compliance Engineer",
+      "url": "https://jobs.lever.co/hevodata/d257fbd4-a19d-4960-859a-f872c61dfc86",
+      "posted": "2026-10-14T11:50:07.667Z",
+      "location": "Bangalore, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, platform, automation",
+        "senior-titled",
+        "reachable: India-based",
+        "posted 7d ago"
+      ]
+    },
+    {
+      "id": "ashby:plane:674d263d-08a5-4d9e-bcc8-8cf41b6aefc0",
+      "grade": "F",
+      "score": 27,
+      "source": "ashby (seed list)",
+      "company": "Plane",
+      "domain": "plane.so",
+      "title": "Principal Engineer, DevOps",
+      "url": "https://jobs.ashbyhq.com/plane/674d263d-08a5-4d9e-bcc8-8cf41b6aefc0",
+      "posted": "2026-09-07T15:18:02.723+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "postgres",
+          "redis",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "nginx",
+          "ci/cd",
+          "platform",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: postgres, redis, docker, kubernetes",
+        "Principal-level title",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:fcb15601-6440-41f7-aa79-b9992057a4b2",
+      "grade": "F",
+      "score": 27,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Platform Engineer - AI Infrastructure",
+      "url": "https://jobs.ashbyhq.com/sarvam/fcb15601-6440-41f7-aa79-b9992057a4b2",
+      "posted": "2026-06-29T08:51:22.501+00:00",
+      "location": "Bengaluru / Chennai",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "kubernetes"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "full-stack",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, kubernetes",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6147010004",
+      "grade": "F",
+      "score": 27,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Senior Software Engineer - Data Platform ",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6147010004",
+      "posted": "2026-08-23T23:30:00-04:00",
+      "location": "Chennai, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kafka"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "c++",
+          "platform",
+          "real-time",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kafka",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:zenoti:8004591003",
+      "grade": "F",
+      "score": 27,
+      "source": "greenhouse (seed list)",
+      "company": "Zenoti",
+      "domain": "zenoti.com",
+      "title": "Lead Site Reliability Engineer  -   Platform Engineering / SRE  ",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004591003",
+      "posted": "2026-10-09T07:34:12-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation",
+          "etl",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:zenoti:8004516003",
+      "grade": "F",
+      "score": 27,
+      "source": "greenhouse (seed list)",
+      "company": "Zenoti",
+      "domain": "zenoti.com",
+      "title": "Senior Software Engineer - Python, Data Engineering, AI",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004516003",
+      "posted": "2026-09-29T01:40:24-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kafka",
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "ci/cd",
+          "infra",
+          "platform",
+          "real-time",
+          "etl",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: kafka, docker, llm",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:zeta:803792f5-0e9c-45bc-82ce-c0a552ce0cf8",
+      "grade": "F",
+      "score": 27,
+      "source": "lever (seed list)",
+      "company": "Zeta",
+      "domain": "zeta.tech",
+      "title": "Lead Site Reliability Engineer",
+      "url": "https://jobs.lever.co/zeta/803792f5-0e9c-45bc-82ce-c0a552ce0cf8",
+      "posted": "2026-07-22T05:59:13.951Z",
+      "location": "Hyderabad/Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "postgres",
+          "k8s"
+        ],
+        "weak": [
+          "linux",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, postgres, k8s",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "workable:writesonic:B996242D1F",
+      "grade": "F",
+      "score": 27,
+      "source": "workable (YC Summer 2021)",
+      "company": "Writesonic",
+      "domain": "writesonic.com",
+      "title": "Senior Software Engineer (Frontend)",
+      "url": "https://apply.workable.com/j/B996242D1F",
+      "posted": "2026-06-23",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "python",
+          "javascript",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "2+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:SigNoz:d8fd6b52-8499-4dad-9903-f231e39c996d",
+      "grade": "F",
+      "score": 27,
+      "source": "ashby (seed list)",
+      "company": "Signoz",
+      "domain": "signoz.io",
+      "title": "Sr Backend Engineer - AI",
+      "url": "https://jobs.ashbyhq.com/SigNoz/d8fd6b52-8499-4dad-9903-f231e39c996d",
+      "posted": "2026-06-30T05:30:56.907+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "fastapi",
+          "kafka",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "infra",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, fastapi, kafka, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:mindtickle:3ce036e8-d4f9-4086-bec4-186676ea109e",
+      "grade": "F",
+      "score": 22,
+      "source": "lever (seed list)",
+      "company": "Mindtickle",
+      "domain": "mindtickle.com",
+      "title": "SME Engineer IT",
+      "url": "https://jobs.lever.co/mindtickle/3ce036e8-d4f9-4086-bec4-186676ea109e",
+      "posted": "2026-07-17T06:04:47.137Z",
+      "location": "Pune, Maharashtra",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, junior",
+        "4+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:coursera:6223129004",
+      "grade": "F",
+      "score": 18,
+      "source": "greenhouse (seed list)",
+      "company": "Coursera",
+      "domain": "coursera.org",
+      "title": "Enterprise Agentic AI Architect",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6223129004",
+      "posted": "2026-10-14T06:31:06-04:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "Architect-level title",
+        "12+ years stated",
+        "reachable: India-based",
+        "posted 7d ago"
+      ]
+    },
+    {
+      "id": "ashby:atlan:254c1250-953b-4323-8d18-9fe5e41d8d7d",
+      "grade": "F",
+      "score": 17,
+      "source": "ashby (seed list)",
+      "company": "Atlan",
+      "domain": "atlan.com",
+      "title": "Senior Security Engineer - Corporate Security",
+      "url": "https://jobs.ashbyhq.com/atlan/254c1250-953b-4323-8d18-9fe5e41d8d7d",
+      "posted": "2026-07-24T11:33:47.990+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:atlan:9ba81415-2033-4b72-af4a-d9d2f288abaa",
+      "grade": "F",
+      "score": 12,
+      "source": "ashby (seed list)",
+      "company": "Atlan",
+      "domain": "atlan.com",
+      "title": "Principal Software Engineer - Agent & App Platform",
+      "url": "https://jobs.ashbyhq.com/atlan/9ba81415-2033-4b72-af4a-d9d2f288abaa",
+      "posted": "2026-10-01T12:41:38.621+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kubernetes, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Principal-level title",
+        "14+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:d71ec2a3-3de6-4380-95f6-41cfc2bbdbf2",
+      "grade": "F",
+      "score": 12,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Staff Engineer - Systems Engineering",
+      "url": "https://jobs.ashbyhq.com/sarvam/d71ec2a3-3de6-4380-95f6-41cfc2bbdbf2",
+      "posted": "2026-10-06T06:01:20.525+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "fastapi",
+          "postgresql",
+          "redis",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "python",
+          "full-stack",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, fastapi, postgresql, redis",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "8+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:ae7aa8a8-1f60-45f2-ac9d-09b48d4adbef",
+      "grade": "F",
+      "score": 12,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Staff Engineer - Telephony",
+      "url": "https://jobs.ashbyhq.com/sarvam/ae7aa8a8-1f60-45f2-ac9d-09b48d4adbef",
+      "posted": "2026-10-06T06:09:12.911+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "fastapi",
+          "postgresql",
+          "redis",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "python",
+          "full-stack",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, fastapi, postgresql, redis",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "8+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6196803004",
+      "grade": "F",
+      "score": 12,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Forward Deployed Architect { Mumbai}",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6196803004",
+      "posted": "2026-09-17T09:29:15-04:00",
+      "location": "Mumbai, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "Architect-level title",
+        "7+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:devrev:6196804004",
+      "grade": "F",
+      "score": 12,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Forward Deployed Architect { Noida} ",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6196804004",
+      "posted": "2026-09-17T09:29:31-04:00",
+      "location": "Delhi, NCR",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "Architect-level title",
+        "7+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:100ms:2548ba0b-7690-4c7d-aad7-86bd1501fefd",
+      "grade": "F",
+      "score": 12,
+      "source": "lever (seed list)",
+      "company": "100ms",
+      "domain": "100ms.live",
+      "title": "Software Engineer Architect – AI Agents (Healthcare)",
+      "url": "https://jobs.lever.co/100ms/2548ba0b-7690-4c7d-aad7-86bd1501fefd",
+      "posted": "2026-08-21T13:01:00.936Z",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "aws",
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kubernetes, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Architect-level title",
+        "10+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:zenoti:8004504003",
+      "grade": "F",
+      "score": 7,
+      "source": "greenhouse (seed list)",
+      "company": "Zenoti",
+      "domain": "zenoti.com",
+      "title": "Senior Software Engineer - .NET + AI",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004504003",
+      "posted": "2026-09-29T01:40:22-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "aws",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): react, aws, platform",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:zenoti:8004492003",
+      "grade": "F",
+      "score": 7,
+      "source": "greenhouse (seed list)",
+      "company": "Zenoti",
+      "domain": "zenoti.com",
+      "title": "Senior Software Engineer - .NET + AI",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004492003",
+      "posted": "2026-09-29T01:39:51-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "aws",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): react, aws, platform",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:zenoti:8004499003",
+      "grade": "F",
+      "score": 7,
+      "source": "greenhouse (seed list)",
+      "company": "Zenoti",
+      "domain": "zenoti.com",
+      "title": "Senior Software Engineer - .NET + AI",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8004499003",
+      "posted": "2026-09-29T01:40:19-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "aws",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): react, aws, platform",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:plane:5cae06c2-53ea-4494-af77-183ffb7ba7c0",
+      "grade": "F",
+      "score": -3,
+      "source": "ashby (seed list)",
+      "company": "Plane",
+      "domain": "plane.so",
+      "title": "Principal Engineer, Frontend",
+      "url": "https://jobs.ashbyhq.com/plane/5cae06c2-53ea-4494-af77-183ffb7ba7c0",
+      "posted": "2026-09-07T15:06:07.621+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "typescript",
+          "postgres",
+          "redis",
+          "websocket"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "backend",
+          "platform",
+          "real-time",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, typescript, postgres, redis",
+        "Principal-level title",
+        "10+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:b60ac66f-a2d7-4354-b67a-aa0de5ad7e3e",
+      "grade": "F",
+      "score": -3,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Staff Software Engineer - Frontend",
+      "url": "https://jobs.ashbyhq.com/sarvam/b60ac66f-a2d7-4354-b67a-aa0de5ad7e3e",
+      "posted": "2026-09-15T09:07:02.853+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "websocket"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "javascript",
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack: typescript, websocket",
+        "Staff-level title",
+        "8+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:zenoti:7825552003",
+      "grade": "F",
+      "score": -8,
+      "source": "greenhouse (seed list)",
+      "company": "Zenoti",
+      "domain": "zenoti.com",
+      "title": "Lead Engineer - Full Stack (AI)",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7825552003",
+      "posted": "2026-08-07T02:14:55-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "aws",
+          "full stack",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): react, aws, full stack",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:observeai:5153312008",
+      "grade": "F",
+      "score": -23,
+      "source": "greenhouse (seed list)",
+      "company": "Observe",
+      "domain": "observe.ai",
+      "title": "Staff Infrastructure Security Engineer",
+      "url": "https://www.observe.ai/position?gh_jid=5153312008",
+      "posted": "2026-08-12T11:03:26-04:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "platform",
+          "ai agent",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, platform, ai agent",
+        "Staff-level title",
+        "9+ years stated",
+        "reachable: India-based"
+      ]
+    }
+  ]
+}

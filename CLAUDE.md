@@ -176,12 +176,25 @@ honest sample the system will ever have for "what converts".
   rules. Reading and drafting only; **never send, never delete, never modify his mail.**
 - **`node scripts/scout-all.mjs` — the morning run.** "Let's start all the scouts" means
   **all** of them, and `/all-scouts` is the skill that enforces it: this script covers the
-  five scriptable channels (HN thread, HN job stories, remote boards, YC, funding
-  signals) in ~40s, then
+  six scriptable channels (HN thread, HN job stories, remote boards, YC, Indian startup
+  boards, funding signals) in about a minute, then
   prints the three browser channels (`/x-scout`, `/linkedin-scout`, `/network-scout`) as an
   explicit checklist. **Never report a run as done while a channel is unrun** — say which one
   and why. A partial run is fine; a partial run reported as complete is not. Fault-tolerant:
   one dead source never kills the rest.
+- **`node scripts/ats-scout.mjs` — the India channel** (`--rediscover`, `--ignore-seen`,
+  `--all`, `--discover-only`, `--only a.com,b.com`). Added 2026-10-21 because every other
+  scripted source is US-centric while the winnable seats are at Indian startups, which post on
+  their own ATS. Companies = `scripts/data/india-startups.txt` (hand list, add freely) + every
+  active YC company listing India. For each it opens the site and careers page, follows the link
+  to its Greenhouse / Lever / Ashby / Workable board, and confirms it via that ATS's JSON API;
+  when the careers page renders client-side it tries the company name as the slug, and accepts
+  that board only if its postings name the company **and** one is in India (the same-name trap).
+  Registry cached 30 days in `inbox/.ats-registry.json` (unreachable sites are never cached).
+  Keka, Darwinbox, Zoho Recruit, Freshteam, Workday are detected but not read yet, and the run
+  prints their count so the gap stays visible. Job platforms (Weekday, Apna) are excluded: their
+  boards carry clients' roles. Scoring is `lib/board-score.mjs`, shared with board-scout. First
+  run: 279 companies, 24 readable boards, 514 roles, 62 past the filters.
 - `node scripts/board-scout.mjs` — **the remote-first channel** (`--crypto`, `--all`,
   `--ignore-seen`). Default sources: RemoteOK, Remotive, Himalayas, WeWorkRemotely.
   cryptocurrencyjobs.co is **opt-in only** (`--crypto`): it was built for the previous owner's

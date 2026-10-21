@@ -26,7 +26,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { reachability } from "./lib/reachability.mjs";
 import { matchKeywords } from "./lib/keywords.mjs";
-import { seatFit, grade as gradeOf } from "./lib/fit.mjs";
+import { scorePosting, isEngTitle } from "./lib/board-score.mjs";
 import { today } from "./lib/today.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -202,15 +202,13 @@ console.log(`Unique postings: ${all.length}`);
 const rejects = { stale: 0, keywords: 0, blocked: 0, nonEng: 0 };
 const blockedBy = {};
 // RemoteOK and WWR are general boards, so most of what they return is not an engineering
-// role at all. Title-based, because a JD body mentions "engineering" even for a PM req.
-const NON_ENG = /\b(designer|design|marketing|sales|recruit\w*|customer (support|success)|community manager|content writer|copywriter|account (executive|manager)|social media|non.tech|product manager|project manager|program manager|chief of staff|video editor|editor|analyst|accountant|hr\b|people ops|operations manager|business development|partnerships?|writer|translator|tutor|teacher|virtual assistant|bookkeep\w*|paralegal|nurse|therapist)\b/i;
-const ENG_HINT = /\b(engineer|developer|programmer|swe|sde|architect|devops|sre|full.?stack|backend|back.end|frontend|front.end|cto|technical lead)\b/i;
+// role at all. The title test lives in lib/board-score.mjs (isEngTitle).
 
 const live = all.filter((j) => {
   const age = days(j.posted);
   if (age !== null && age > MAX_AGE_DAYS) { rejects.stale++; return false; }
   // A title has to look like an engineering role AND not look like a non-eng one.
-  if (!ENG_HINT.test(j.title) || NON_ENG.test(j.title)) { rejects.nonEng++; return false; }
+  if (!isEngTitle(j.title)) { rejects.nonEng++; return false; }
 
   const { strong, weak } = matchKeywords(j.text);
   if (strong.length < 1 && weak.length < 2) { rejects.keywords++; return false; }
@@ -243,43 +241,15 @@ const hits = [];
 
 for (const j of live) {
   if (!IGNORE_SEEN && seen[j.id]) continue;
-  let score = 0;
-  const why = [];
   const { _strong: strong, _weak: weak, _reach: reach } = j;
-
-  // stack 35
-  if (strong.length >= 2) { score += 35; why.push(`stack: ${strong.slice(0, 4).join(", ")}`); }
-  else if (strong.length === 1) { score += 25; why.push(`stack: ${strong[0]}`); }
-  else { score += 15; why.push(`stack (weak): ${weak.slice(0, 3).join(", ")}`); }
-
-  // story 25 — derived from the boundary-matched keywords, never from a fresh substring
-  // regex over the body (that is how an Android role scored as a DeFi story fit).
-  const INFRA = ["code execution", "sandbox", "developer tools", "devtools", "kafka", "bullmq", "celery", "job queue", "message queue", "distributed systems"];
-  const AGENT = ["ai agent", "agentic", "llm", "rag", "playwright"];
-  const infraHit = strong.filter((k) => INFRA.includes(k));
-  const agentHit = strong.filter((k) => AGENT.includes(k));
-  if (infraHit.length) { score += 25; why.push(`story fit: CodeSM/Yuvro/Storix (${infraHit.join(", ")})`); }
-  else if (agentHit.length) { score += 25; why.push(`story fit: Hireflow/klimb.io AI metering (${agentHit.join(", ")})`); }
-  else if (weak.length >= 2) score += 10;
-
-  // stage 25 — founding seats and small teams are where a projects-over-years bar exists
-  if (/founding|first engineer|early engineer|founding engineer/i.test(j.title)) {
-    score += 20; why.push("founding-eng seat");
-  }
-  const seat = seatFit({ title: j.title, text: j.text ?? "" });
-  score += seat.delta; why.push(...seat.why);
-  if (seat.reject) why.push(seat.reject);
-
-  // practicals 15 — reachability is the whole point of this scout, so it scores
-  if (reach.status === "open") { score += 12; why.push(`reachable: ${reach.reason}`); }
-  else { score += 4; why.push("location not stated (ask before investing)"); }
-  // Only a genuinely crypto-native board earns this, and RemoteOK only when the posting
+  // Scoring lives in lib/board-score.mjs, shared with ats-scout.mjs.
+  // Only a genuinely crypto-native board earns the bonus, and RemoteOK only when the posting
   // itself is crypto — it is a general board that merely carries some web3 roles.
-  if (j.source === "cryptocurrencyjobs.co") { score += 6; why.push("crypto-native board"); }
-  const age = days(j.posted);
-  if (age !== null && age <= 7) { score += 6; why.push(`posted ${age}d ago`); }
-
-  const grade = seat.reject ? "F" : gradeOf(score);
+  const crypto = j.source === "cryptocurrencyjobs.co";
+  const { score, grade, why } = scorePosting({
+    title: j.title, text: j.text ?? "", matched: { strong, weak }, reach, ageDays: days(j.posted),
+    bonus: crypto ? 6 : 0, bonusWhy: crypto ? "crypto-native board" : "",
+  });
   hits.push({
     id: j.id, grade, score, source: j.source, kind: j.kind,
     company: j.company, title: j.title, url: j.url, posted: j.posted,

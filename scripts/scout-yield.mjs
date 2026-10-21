@@ -51,6 +51,7 @@ const CHANNELS = {
   hnjobs: { label: "HN job stories", graded: true, note: "tags=job front-page posts, continuous" },
   boards: { label: "Crypto/remote boards", graded: true, note: "5 boards; saturates fast, watch scanned not new" },
   yc: { label: "YC job grid", graded: true, note: "public grid, visa + ghost-job filtered" },
+  ats: { label: "Indian startup boards", graded: true, note: "company ATS boards; coverage grows with scripts/data/india-startups.txt" },
 };
 
 const rows = [];

@@ -30,6 +30,7 @@ const SCOUTS = [
   { name: "HN job stories", script: "hn-jobs.mjs", args: [], why: "hn.algolia.com tags=job — the front-page 'X (YC W22) Is Hiring' posts, a separate corpus from the monthly thread" },
   { name: "Remote boards", script: "board-scout.mjs", args: [], why: "4 sources: RemoteOK, Remotive, Himalayas, WWR (crypto board is opt-in: --crypto)" },
   { name: "YC job grid", script: "yc-scout.mjs", args: QUICK ? [] : ["--fresh"], why: "public grid, visa + ghost-job filtered" },
+  { name: "Indian startup boards", script: "ats-scout.mjs", args: [], why: "Greenhouse/Lever/Ashby/Workable boards of Indian startups + YC India (seed list in scripts/data/)" },
   { name: "Funding signals", script: "signal-scout.mjs", args: [], why: "Inc42/YourStory/Blume, ahead of any posting" },
 ];
 

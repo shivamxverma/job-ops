@@ -70,6 +70,8 @@ export const ALIASES = {
   // company; the batch suffix and the .ai in the slug normalise apart. Added 2026-08-16.
   gooseworksycw23: "gooseworksai",
   gooseworks: "gooseworksai",
+  // Tracker row is "Specific Labs (YC F25)", folder is `specific-labs/`. Added 2026-10-21.
+  specificlabsycf25: "specificlabs",
   // Folder is `ao-agents/`, tracker row is "AO (Agent Orchestrator)" (the product name; the
   // GitHub org is `Untrivial-ai`). Nothing about the display name normalises to the slug.
   // Added 2026-08-23.

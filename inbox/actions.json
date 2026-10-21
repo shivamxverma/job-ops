@@ -435,7 +435,7 @@
       "kind": "action",
       "company": "SViam",
       "grade": "A",
-      "title": "SViam (A): take 3 mock interviews with Maya, then tell Claude your 3 notes",
+      "title": "SViam: send Claude your 3 notes from the Maya mocks",
       "sub": "Their AI interviewer is the same kind of product you built at klimb.io. Resume and email are ready; only the mocks and 3 lines of your feedback are left",
       "links": [
         {
@@ -448,8 +448,7 @@
         }
       ],
       "steps": [
-        "Take 3 mock interviews with Maya and note: one sharp follow-up, one off moment, what the scorecard cites",
-        "Tell Claude “SViam mocks done” with your 3 notes (Claude drafts the email with resume attached)"
+        "Tell Claude: one sharp follow-up, one off moment, what the scorecard cited"
       ],
       "onDone": {
         "markProcessed": "done",
@@ -463,103 +462,6 @@
           "target": "applications/sviam"
         }
       ]
-    },
-    {
-      "id": "zerogrunt-lead",
-      "kind": "action",
-      "company": "Zerogrunt AI",
-      "grade": "A",
-      "title": "ZeroGrunt AI: press Send on the founding-engineer email (draft complete, resume attached)",
-      "sub": "Both founders posted yesterday asking for an email about something you are proud of building. Draft is in Gmail: attach resume.pdf, then send",
-      "links": [
-        {
-          "label": "Open the Gmail draft",
-          "url": "https://mail.google.com/mail/u/0/#drafts"
-        },
-        {
-          "label": "Saurav’s hiring post (LinkedIn search)",
-          "url": "https://www.linkedin.com/search/results/content/?keywords=ZeroGrunt%20founding%20engineer"
-        }
-      ],
-      "steps": [
-        "Open the Gmail draft (resume.pdf already attached) and press Send"
-      ],
-      "onDone": {
-        "markProcessed": "done",
-        "slug": "Zerogrunt AI"
-      },
-      "background": "To saurav@zerogrunt.ai (CTO), cc ravi@zerogrunt.ai (CEO). Opens on Saurav’s own question 4 (how to measure whether the agent is getting better) with the DeepDoc eval harness. Ravi asked for no LinkedIn DMs. Fallback after a week: Vraj Talati, their founding PM, is your 1st-degree connection.",
-      "buttons": [
-        {
-          "label": "Open the ZeroGrunt folder (resume.pdf)",
-          "action": "reveal",
-          "target": "applications/zerogrunt-ai"
-        }
-      ]
-    },
-    {
-      "id": "answerthis-lead",
-      "kind": "action",
-      "company": "AnswerThis",
-      "grade": "A",
-      "title": "AnswerThis (YC): apply on Work at a Startup + DM Ayush",
-      "sub": "Everything is written. Uses 1 of your 5 YC applications this week. Hook: Ayush’s own post on duplicate study reports",
-      "links": [
-        {
-          "label": "YC job (Apply to role)",
-          "url": "https://www.ycombinator.com/companies/answerthis/jobs/GQBe22o-product-engineer-full-time-remote-india"
-        },
-        {
-          "label": "Ayush on LinkedIn",
-          "url": "https://www.linkedin.com/in/ayush4921/"
-        },
-        {
-          "label": "Messages to paste",
-          "url": "file:///Users/shivamverma/projects/job-ops/applications/answerthis/outreach.md"
-        }
-      ],
-      "steps": [
-        "Apply on Work at a Startup with message 1 from outreach.md",
-        "Send Ayush the LinkedIn DM (message 2)"
-      ],
-      "onDone": {
-        "markProcessed": "done",
-        "slug": "AnswerThis"
-      },
-      "background": "Dossier, tech-read, tailored resume (ATS ~90) in applications/answerthis/. No email is published anywhere, so the YC application is the official channel. If both go quiet for a week, ask Devaansh Bhandari (1st°, mutual) for an intro.",
-      "buttons": [
-        {
-          "label": "Open the AnswerThis folder",
-          "action": "reveal",
-          "target": "applications/answerthis"
-        }
-      ]
-    },
-    {
-      "id": "jumbo-lead",
-      "kind": "lead",
-      "company": "Jumbo Homes",
-      "grade": "B",
-      "title": "Jumbo Homes: product engineer in Bengaluru, \"DM us\" from the company account",
-      "sub": "Sold ₹200 Cr of homes in Bangalore, rebuilding how people buy them. Work with the founders. DM is drafted",
-      "links": [
-        {
-          "label": "Their X post",
-          "url": "https://x.com/Jumbohomes_/status/2112446911060058170"
-        },
-        {
-          "label": "X messages",
-          "url": "https://x.com/messages"
-        }
-      ],
-      "steps": [
-        "Passing on this one"
-      ],
-      "onDone": {
-        "markProcessed": "skip",
-        "slug": "Jumbo Homes"
-      },
-      "background": "Found on X, posted 2026-10-20 by @Jumbohomes_ itself. DM text is in inbox/replies.md under Jumbo Homes. Send it yourself, or say \"work Jumbo\" for research first."
     },
     {
       "id": "hevo-lead",
@@ -597,95 +499,6 @@
           "target": "applications/hevo-data"
         }
       ]
-    },
-    {
-      "id": "cardboard-lead",
-      "kind": "action",
-      "company": "Cardboard",
-      "grade": "A",
-      "title": "Cardboard (YC W26): form is filled in Chrome, review and click Submit",
-      "sub": "Their 3 ownership areas (credits never charged twice, self-recovering jobs, cost) match your ledger, Storix and CodeSM. One answer is your opinion: confirm it",
-      "links": [
-        {
-          "label": "Application form",
-          "url": "https://jobs.ashbyhq.com/cardboard/71a37ec3-d1df-4769-b018-a1c8f986bc1f/application"
-        },
-        {
-          "label": "Answers to paste",
-          "url": "file:///Users/shivamverma/projects/job-ops/applications/cardboard/application.md"
-        }
-      ],
-      "steps": [
-        "Review the filled form in Chrome (the BullMQ answer is your opinion) and click Submit Application"
-      ],
-      "onDone": {
-        "markProcessed": "done",
-        "slug": "Cardboard"
-      },
-      "background": "Onsite Bengaluru, full-time, founding-team equity. Founders: Saksham Aggarwal (CEO), Ishan Sharma (CTO, 4.5 yrs at HackerRank). Gap to be honest about: FFmpeg/codecs (their bonus).",
-      "buttons": [
-        {
-          "label": "Open the Cardboard folder (resume.pdf)",
-          "action": "reveal",
-          "target": "applications/cardboard"
-        }
-      ]
-    },
-    {
-      "id": "followups-2026-10-22",
-      "kind": "action",
-      "company": "10 companies (Oct 15 batch)",
-      "grade": "B",
-      "title": "Send 10 follow-up emails (all drafted in Gmail, as replies in their threads)",
-      "sub": "Corgi, Aglide, Legora, Lamb Labs, AiPrise, Zudo, GoGoGrandparent, Freya, Yondu, Polymath. Each adds one new proof point",
-      "links": [
-        {
-          "label": "Gmail drafts",
-          "url": "https://mail.google.com/mail/u/0/#drafts"
-        },
-        {
-          "label": "What each one says",
-          "url": "file:///Users/shivamverma/projects/job-ops/inbox/followups-2026-10-22.md"
-        }
-      ],
-      "steps": [
-        "Open Gmail Drafts and send the 10 “Re:” follow-ups"
-      ],
-      "background": "Originals verified sent on Oct 15 with no replies. This is touch 2 of 2: if they stay silent until Oct 29, they go to ghosted. AiPrise’s mentions their live SWE I posting in Bangalore."
-    },
-    {
-      "id": "kulfi-lead",
-      "kind": "action",
-      "company": "Kulfi",
-      "grade": "A",
-      "title": "Kulfi: SWE I in Bengaluru, 0-1 yrs, ₹9-15 LPA + ESOPs, write 5 short answers yourself",
-      "sub": "Level, city and pay all fit. ~1M-user couples app, SPC-backed. The form asks you to write the answers yourself, so those are yours",
-      "links": [
-        {
-          "label": "Apply (Dover)",
-          "url": "https://app.dover.com/apply/kulfi/25724642-9216-4ad8-b0fd-fce0151eee35?rs=42706078"
-        },
-        {
-          "label": "Factual fields to paste",
-          "url": "file:///Users/shivamverma/projects/job-ops/applications/kulfi/application.md"
-        }
-      ],
-      "buttons": [
-        {
-          "label": "Open the Kulfi folder (resume.pdf)",
-          "action": "reveal",
-          "target": "applications/kulfi"
-        }
-      ],
-      "steps": [
-        "Write the 5 short answers yourself (clear and specific beats polished)",
-        "Paste the factual fields, add current city + CTC, attach resume.pdf, apply"
-      ],
-      "onDone": {
-        "markProcessed": "done",
-        "slug": "Kulfi"
-      },
-      "background": "Do not call or WhatsApp anyone at Kulfi: their post says that gets you rejected. Interview loop: screening call, 75-min practical with AI tools allowed (disclosed), founder chat."
     }
   ]
 }

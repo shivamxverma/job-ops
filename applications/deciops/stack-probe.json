@@ -1,0 +1,144 @@
+{
+  "domain": "deciops.ai",
+  "slug": "deciops",
+  "probedAt": "2026-10-20T18:27:52.909Z",
+  "liveHosts": [
+    {
+      "host": "deciops.ai",
+      "status": 200,
+      "finalUrl": "https://www.deciops.ai/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "age": "23891",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 20 Oct 2026 18:27:49 GMT",
+        "etag": "W/\"96d3abecff565905ec118818abce4852\"",
+        "last-modified": "Tue, 20 Oct 2026 11:49:37 GMT",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::85gj4-1792520869268-22ace88b6ebc"
+      }
+    },
+    {
+      "host": "www.deciops.ai",
+      "status": 200,
+      "finalUrl": "https://www.deciops.ai/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "age": "23891",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 20 Oct 2026 18:27:49 GMT",
+        "etag": "W/\"96d3abecff565905ec118818abce4852\"",
+        "last-modified": "Tue, 20 Oct 2026 11:49:37 GMT",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::vqfct-1792520869048-816a0568e8ef"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "deciops.ai",
+        "www.deciops.ai"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "deciops.ai",
+        "www.deciops.ai"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::85gj4-1792520869268-22ace88b6ebc",
+        "x-vercel-id: bom1::vqfct-1792520869048-816a0568e8ef"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "deciops.ai",
+        "www.deciops.ai"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::85gj4-1792520869268-22ace88b6ebc",
+        "x-vercel-id: bom1::vqfct-1792520869048-816a0568e8ef"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "deciops.ai",
+        "www.deciops.ai"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [],
+  "dns": [
+    {
+      "host": "deciops.ai",
+      "a": [
+        "216.198.79.1"
+      ],
+      "mx": [
+        "alt2.aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt1.aspmx.l.google.com"
+      ],
+      "txt": [
+        "google-site-verification=OGmeSPnr6cKhIwfXlxSqW8HwrmyjlkrOA0Nd8fmitHc",
+        "v=spf1 include:_spf.google.com ~all"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "deciops",
+    "results": []
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

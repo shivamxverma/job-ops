@@ -1,7 +1,26 @@
 {
-  "generated": "2026-10-20",
+  "generated": "2026-10-21T03:44:08.904Z",
   "note": "The queue behind `node scripts/actions.mjs`. Skills write items here; the board renders them and writes the result back into the repo when every step of a card is checked. Keep `steps` to things SHIVAM does with his own hands — anything Claude does is not a step, it is a sentence in `background`.",
   "items": [
+    {
+      "id": "deciops-screening",
+      "kind": "action",
+      "company": "DeciOps",
+      "grade": "B",
+      "title": "DeciOps founder is screening you: reply sent, wait for his response",
+      "sub": "Laxmipat asked 7 questions; your answers + resume went out Oct 22 00:07. Q7 says you are in Bengaluru, Q6 says Bihar: be ready to clarify",
+      "links": [
+        {
+          "label": "The thread",
+          "url": "https://mail.google.com/mail/u/0/#search/from%3Afounder%40deciops.ai"
+        }
+      ],
+      "steps": [
+        "If he asks for a call, prep with applications/deciops/tech-read.md (2 questions in §4)",
+        "If silent by Oct 27, send a one-line nudge"
+      ],
+      "background": "First real founder reply in this pipeline for Shivam. The first email lacked the resume and had mangled links, which is what his ‘not multiple links’ line was about; the reply fixed both."
+    },
     {
       "id": "singlestore-2026-10-06",
       "kind": "lead",
@@ -390,56 +409,245 @@
       ]
     },
     {
-      "id": "alumni-invites-2026-10-20",
+      "id": "alumni-bhavesh-dm-2026-10-21",
       "kind": "network",
-      "company": "IIIT Nagpur alumni",
+      "company": "Thine / Merlin AI",
       "grade": "A",
-      "title": "Send 8 alumni connection invites",
-      "sub": "Setu, Harness, Motive, Groww, Rubrik, Salesforce, Zscaler + a direct message to Deepesh at Google",
+      "title": "DM Bhavesh Chaudhari (founding engineer, Thine + Merlin AI)",
+      "sub": "IIIT Nagpur senior, his profile takes messages. 15 other alumni invites are pending; asks are pre-written for when they accept",
       "links": [
         {
-          "label": "Referral board",
-          "url": "file:///Users/shivamverma/Desktop/projects/job-ops/inbox/referrals.md"
+          "label": "Bhavesh on LinkedIn",
+          "url": "https://www.linkedin.com/in/bhaveyx/"
         },
         {
-          "label": "Harsh Lohiya (Setu)",
-          "url": "https://www.linkedin.com/in/harsh-lohiya/"
-        },
-        {
-          "label": "Abhay Ganvir (Harness)",
-          "url": "https://www.linkedin.com/in/abhayganvir/"
-        },
-        {
-          "label": "Abhishek Padghan (Motive)",
-          "url": "https://www.linkedin.com/in/abhishek-padghan-2a6775170/"
-        },
-        {
-          "label": "Smriti Singh (Groww)",
-          "url": "https://www.linkedin.com/in/smriti1510/"
-        },
-        {
-          "label": "Deepesh Kurmi (Google, DM)",
-          "url": "https://www.linkedin.com/in/deepesh-kurmi-5b9a931b4/"
-        },
-        {
-          "label": "Shreyash Turkar (Rubrik)",
-          "url": "https://www.linkedin.com/in/turkarshreyash/"
-        },
-        {
-          "label": "Nagendra Patel (Salesforce)",
-          "url": "https://www.linkedin.com/in/nagendra-patel-262920175/"
-        },
-        {
-          "label": "Jayvardhan Patil (Zscaler)",
-          "url": "https://www.linkedin.com/in/jayvardhan-patil/"
+          "label": "Referral board (message text)",
+          "url": "file:///Users/shivamverma/projects/job-ops/inbox/referrals.md"
         }
       ],
       "steps": [
-        "Send the 7 connection invites (note text in inbox/referrals.md)",
-        "Send Deepesh the direct ask (his profile allows messages)",
-        "Tell Claude which ones you sent so the board states move to invite-sent"
+        "Send Bhavesh the DM from inbox/referrals.md (Stage 2 asks, run 2026-10-21)"
       ],
-      "background": "Alumni engine, lens 3. Stage-2 asks are already drafted in inbox/referrals.md, so when someone accepts it is a copy-paste. One per company; check grad year on each profile before sending (2021-2025 is the sweet spot). Nothing is sent for you."
+      "background": "Alumni engine, lens 3. 2026-10-21 batch: 7 bare invites sent by Claude on your go-ahead (Drongo AI, Moveworks, Nvidia, Walmart, Rakuten, Secure Elements, Goldman Sachs). Yesterday’s 8 have not accepted yet. When anyone accepts, their ask is already drafted in referrals.md. Nothing is sent for you."
+    },
+    {
+      "id": "sviam-lead",
+      "kind": "lead",
+      "company": "SViam",
+      "grade": "A",
+      "title": "SViam: Founding AI Engineer on an AI interviewer, remote Bengaluru, no years bar",
+      "sub": "They build Maya, a live spoken AI technical interviewer. That is your klimb.io work almost exactly. Applying starts with you taking 3 Maya mock interviews",
+      "links": [
+        {
+          "label": "Job post",
+          "url": "https://www.linkedin.com/jobs/view/4481588356/"
+        },
+        {
+          "label": "sviam.in (take the 3 mocks)",
+          "url": "https://sviam.in"
+        },
+        {
+          "label": "Careers form",
+          "url": "https://sviam.in/careers/founding-ai-engineer"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "SViam"
+      },
+      "background": "L1: own LinkedIn job + site, backed by ElevenLabs Grants, Plaksha, NVIDIA Inception. Apply path: sign up as a candidate at sviam.in, take at least 3 mock interviews with Maya, email what worked / felt off / what you would build to vikas.kumar@sviam.in with resume + links, then the careers form. Only you can do the mocks. Say \"work SViam\" and Claude does the dossier, tech-read, tailored resume and a feedback-email skeleton you fill in after your mocks."
+    },
+    {
+      "id": "zerogrunt-lead",
+      "kind": "action",
+      "company": "Zerogrunt AI",
+      "grade": "A",
+      "title": "ZeroGrunt AI: press Send on the founding-engineer email (draft complete, resume attached)",
+      "sub": "Both founders posted yesterday asking for an email about something you are proud of building. Draft is in Gmail: attach resume.pdf, then send",
+      "links": [
+        {
+          "label": "Open the Gmail draft",
+          "url": "https://mail.google.com/mail/u/0/#drafts"
+        },
+        {
+          "label": "Saurav’s hiring post (LinkedIn search)",
+          "url": "https://www.linkedin.com/search/results/content/?keywords=ZeroGrunt%20founding%20engineer"
+        }
+      ],
+      "steps": [
+        "Open the Gmail draft (resume.pdf already attached) and press Send"
+      ],
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "Zerogrunt AI"
+      },
+      "background": "To saurav@zerogrunt.ai (CTO), cc ravi@zerogrunt.ai (CEO). Opens on Saurav’s own question 4 (how to measure whether the agent is getting better) with the DeepDoc eval harness. Ravi asked for no LinkedIn DMs. Fallback after a week: Vraj Talati, their founding PM, is your 1st-degree connection.",
+      "buttons": [
+        {
+          "label": "Open the ZeroGrunt folder (resume.pdf)",
+          "action": "reveal",
+          "target": "applications/zerogrunt-ai"
+        }
+      ]
+    },
+    {
+      "id": "answerthis-lead",
+      "kind": "action",
+      "company": "AnswerThis",
+      "grade": "A",
+      "title": "AnswerThis (YC): apply on Work at a Startup + DM Ayush",
+      "sub": "Everything is written. Uses 1 of your 5 YC applications this week. Hook: Ayush’s own post on duplicate study reports",
+      "links": [
+        {
+          "label": "YC job (Apply to role)",
+          "url": "https://www.ycombinator.com/companies/answerthis/jobs/GQBe22o-product-engineer-full-time-remote-india"
+        },
+        {
+          "label": "Ayush on LinkedIn",
+          "url": "https://www.linkedin.com/in/ayush4921/"
+        },
+        {
+          "label": "Messages to paste",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/answerthis/outreach.md"
+        }
+      ],
+      "steps": [
+        "Apply on Work at a Startup with message 1 from outreach.md",
+        "Send Ayush the LinkedIn DM (message 2)"
+      ],
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "AnswerThis"
+      },
+      "background": "Dossier, tech-read, tailored resume (ATS ~90) in applications/answerthis/. No email is published anywhere, so the YC application is the official channel. If both go quiet for a week, ask Devaansh Bhandari (1st°, mutual) for an intro.",
+      "buttons": [
+        {
+          "label": "Open the AnswerThis folder",
+          "action": "reveal",
+          "target": "applications/answerthis"
+        }
+      ]
+    },
+    {
+      "id": "jumbo-lead",
+      "kind": "lead",
+      "company": "Jumbo Homes",
+      "grade": "B",
+      "title": "Jumbo Homes: product engineer in Bengaluru, \"DM us\" from the company account",
+      "sub": "Sold ₹200 Cr of homes in Bangalore, rebuilding how people buy them. Work with the founders. DM is drafted",
+      "links": [
+        {
+          "label": "Their X post",
+          "url": "https://x.com/Jumbohomes_/status/2112446911060058170"
+        },
+        {
+          "label": "X messages",
+          "url": "https://x.com/messages"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "Jumbo Homes"
+      },
+      "background": "Found on X, posted 2026-10-20 by @Jumbohomes_ itself. DM text is in inbox/replies.md under Jumbo Homes. Send it yourself, or say \"work Jumbo\" for research first."
+    },
+    {
+      "id": "hevo-lead",
+      "kind": "action",
+      "company": "Hevo Data",
+      "grade": "A",
+      "title": "Hevo Data SDE I: ask Samyak (IIIT Nagpur, SDE 1 at Hevo) for a referral",
+      "sub": "Referral ask sent to Samyak (SDE 1 at Hevo, IIIT Nagpur) on Oct 21. Resume ready (ATS 91). Lever form is the fallback",
+      "links": [
+        {
+          "label": "Referral DM text",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/hevo-data/outreach.md"
+        },
+        {
+          "label": "Job post (Lever)",
+          "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a"
+        },
+        {
+          "label": "Lever apply form",
+          "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a/apply"
+        }
+      ],
+      "steps": [
+        "If Samyak hasn’t replied by Oct 23: submit the Lever form with applications/hevo-data/resume.pdf"
+      ],
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "Hevo Data"
+      },
+      "background": "Dossier, tech-read and a tailored resume (ATS 91, one page) are in applications/hevo-data/. The Lever form has no text questions: resume, name, email, phone, location, current company (poiro.com), LinkedIn, captcha. Location field: leave blank unless you are in Bangalore.",
+      "buttons": [
+        {
+          "label": "Open the Hevo folder",
+          "action": "reveal",
+          "target": "applications/hevo-data"
+        }
+      ]
+    },
+    {
+      "id": "cardboard-lead",
+      "kind": "action",
+      "company": "Cardboard",
+      "grade": "A",
+      "title": "Cardboard (YC W26): form is filled in Chrome, review and click Submit",
+      "sub": "Their 3 ownership areas (credits never charged twice, self-recovering jobs, cost) match your ledger, Storix and CodeSM. One answer is your opinion: confirm it",
+      "links": [
+        {
+          "label": "Application form",
+          "url": "https://jobs.ashbyhq.com/cardboard/71a37ec3-d1df-4769-b018-a1c8f986bc1f/application"
+        },
+        {
+          "label": "Answers to paste",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/cardboard/application.md"
+        }
+      ],
+      "steps": [
+        "Review the filled form in Chrome (the BullMQ answer is your opinion) and click Submit Application"
+      ],
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "Cardboard"
+      },
+      "background": "Onsite Bengaluru, full-time, founding-team equity. Founders: Saksham Aggarwal (CEO), Ishan Sharma (CTO, 4.5 yrs at HackerRank). Gap to be honest about: FFmpeg/codecs (their bonus).",
+      "buttons": [
+        {
+          "label": "Open the Cardboard folder (resume.pdf)",
+          "action": "reveal",
+          "target": "applications/cardboard"
+        }
+      ]
+    },
+    {
+      "id": "followups-2026-10-22",
+      "kind": "action",
+      "company": "10 companies (Oct 15 batch)",
+      "grade": "B",
+      "title": "Send 10 follow-up emails (all drafted in Gmail, as replies in their threads)",
+      "sub": "Corgi, Aglide, Legora, Lamb Labs, AiPrise, Zudo, GoGoGrandparent, Freya, Yondu, Polymath. Each adds one new proof point",
+      "links": [
+        {
+          "label": "Gmail drafts",
+          "url": "https://mail.google.com/mail/u/0/#drafts"
+        },
+        {
+          "label": "What each one says",
+          "url": "file:///Users/shivamverma/projects/job-ops/inbox/followups-2026-10-22.md"
+        }
+      ],
+      "steps": [
+        "Open Gmail Drafts and send the 10 “Re:” follow-ups"
+      ],
+      "background": "Originals verified sent on Oct 15 with no replies. This is touch 2 of 2: if they stay silent until Oct 29, they go to ghosted. AiPrise’s mentions their live SWE I posting in Bangalore."
     }
   ]
 }

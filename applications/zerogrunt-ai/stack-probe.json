@@ -1,0 +1,284 @@
+{
+  "domain": "zerogrunt.ai",
+  "slug": "zerogrunt-ai",
+  "probedAt": "2026-10-21T18:13:40.266Z",
+  "liveHosts": [
+    {
+      "host": "zerogrunt.ai",
+      "status": 200,
+      "finalUrl": "https://www.zerogrunt.ai/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "HIT",
+        "cf-ray": "a4e23ca79e1cd25b-SIN",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html",
+        "date": "Wed, 21 Oct 2026 18:13:34 GMT",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=8viOHXjWSx3nghpHdeN5tuEKADFpK0IxRMiLogQISEre8NewjyqExJ%2BNPX%2Fx44u%2FehjV%2F9HoBqVvvVQwMvHXCk6Odi59FHVXqhbUVMW1rtkIKvQlHsEuQVrZOy27mRV0asZr\"}]}",
+        "server": "cloudflare"
+      }
+    },
+    {
+      "host": "www.zerogrunt.ai",
+      "status": 200,
+      "finalUrl": "https://www.zerogrunt.ai/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "HIT",
+        "cf-ray": "a4e23c924988403b-SIN",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html",
+        "date": "Wed, 21 Oct 2026 18:13:30 GMT",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mbr8Ka%2BxnviOrlXAAUJRmQ%2BRalH9BH1lxw5OTb%2Fty9RmikqYPjpSEiApeLzJoxEz5XiajDvQgPQB3ItNurk1GF9djmzBMjRG9%2B%2FNFtXZXlfsw3EaB%2F9deqYNZG2gJIaI6RHxZh%2Bvl9X%2FviNaFzId\"}]}",
+        "server": "cloudflare"
+      }
+    },
+    {
+      "host": "app.zerogrunt.ai",
+      "status": 200,
+      "finalUrl": "https://app.zerogrunt.ai/",
+      "csp": [
+        "zerogrunt.ai",
+        "view.officeapps.live.com"
+      ],
+      "headers": {
+        "accept-ranges": "bytes",
+        "age": "2925",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, s-maxage=31536000",
+        "connection": "close",
+        "content-length": "889",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://eu-assets.i.posthog.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data: https://cdn.jsdelivr.net; connect-src 'self' https://*.zerogrunt.ai https://*.posthog.com https://eu.i.posthog.com https://jacc-zoho-docs.s3.amazonaws.com https://cdn.jsdelivr.net; frame-src 'self' https://view.officeapps.live.com https://cdn.jsdelivr.net https://jacc-zoho-docs.s3.amazonaws.com;",
+        "content-type": "text/html",
+        "date": "Wed, 21 Oct 2026 17:24:45 GMT",
+        "etag": "\"fc4d85f0cc882dc9eedc3256c7dbf212\"",
+        "last-modified": "Wed, 21 Oct 2026 15:01:39 GMT",
+        "permissions-policy": "geolocation=(), camera=(), microphone=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "via": "1.1 a3fb484d1976725d16c101a322c16b38.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "4-gdbMj379sFW7eklls8brnPiyVoOeyNYM9zpFiq8kCm_cqsbnY-pw==",
+        "x-amz-cf-pop": "MAA51-P3",
+        "x-cache": "Hit from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "api.zerogrunt.ai",
+      "status": 405,
+      "finalUrl": "https://api.zerogrunt.ai/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-length": "31",
+        "content-security-policy": "default-src 'self'",
+        "content-type": "application/json",
+        "date": "Wed, 21 Oct 2026 18:13:30 GMT",
+        "permissions-policy": "geolocation=(), camera=(), microphone=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "envoy",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "x-content-type-options": "nosniff",
+        "x-envoy-upstream-service-time": "4",
+        "x-frame-options": "DENY",
+        "x-request-id": "ccd05029-9d78-49d2-a5d7-592070fd5317"
+      }
+    },
+    {
+      "host": "view.officeapps.live.com",
+      "status": 200,
+      "finalUrl": "https://m365.cloud.microsoft/",
+      "csp": [
+        "cdn.office.net",
+        "microsoft.com",
+        "res-dev.cdn.officeppe.net",
+        "www.microsoft.com",
+        "c.s-microsoft.com",
+        "browser.pipe.aria.microsoft.com",
+        "browser.events.data.microsoft.com",
+        "office.com",
+        "office.microsoft.com",
+        "consentreceiverfd-prod.azurefd.net",
+        "clarity.ms",
+        "turbo.microsoft.com",
+        "deeplinkservice.svc.cloud.microsoft",
+        "sdf.deferreddeeplinkservice.microsoft.com",
+        "config.edge.skype.com",
+        "admin.microsoft.com",
+        "config.centro.core.microsoft",
+        "mem.gfx.ms",
+        "js.monitor.azure.com",
+        "login.microsoftonline.com",
+        "login.live.com",
+        "amcdn.msftauth.net",
+        "amcdn.msauth.net",
+        "csp.microsoft.com"
+      ],
+      "headers": {
+        "cache-control": "public, max-age=300",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "69800",
+        "content-security-policy": "default-src 'self';base-uri 'self';script-src 'nonce-XrQghaTw0oYT0BS3Guj+8g==' 'strict-dynamic' 'report-sample' https:;report-to csp-endpoint;upgrade-insecure-requests;style-src 'self' 'report-sample' *.cdn.office.net *.microsoft.com res-dev.cdn.officeppe.net 'unsafe-inline' https://www.microsoft.com/;font-src 'self' data: *.cdn.office.net res-dev.cdn.officeppe.net data c.s-microsoft.com *.microsoft.com;connect-src 'self' https://browser.pipe.aria.microsoft.com https://browser.events.data.microsoft.com *.office.com *.office.microsoft.com *.cdn.office.net res-dev.cdn.officeppe.net https://consentreceiverfd-prod.azurefd.net https://*.clarity.ms/collect https://turbo.microsoft.com https://deeplinkservice.svc.cloud.microsoft https://sdf.deferreddeeplinkservice.microsoft.com https://config.edge.skype.com https://admin.microsoft.com https://config.centro.core.microsoft https://mem.gfx.ms https://js.monitor.azure.com data:;frame-src https://login.microsoftonline.com https://login.live.com mem.gfx.ms amcdn.msftauth.net amcdn.msauth.net;img-src * data: blob:;media-src 'self' *.cdn.office.net res-dev.cdn.officeppe.net;worker-src 'self' blob:;child-src 'self' blob:;report-uri https://csp.microsoft.com/report/Harmony-App-PROD;form-action https://login.microsoftonline.com;frame-ancestors 'self';",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 21 Oct 2026 18:13:34 GMT",
+        "nel": "{\"report_to\":\"NelOfficeHubUpload1\",\"max_age\":3600,\"failure_fraction\":1.0,\"success_fraction\":0.01}",
+        "pragma": "no-cache",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"NelOfficeHubUpload1\",\"max_age\":3600,\"endpoints\":[{\"url\":\"https://officehub.nel.measure.office.net/api/report?tenantId=unknown&destinationEndpoint=cin&frontEnd=AFD\"}]}, { \"group\": \"csp-endpoint\", \"max_age\": 86400, \"endpoints\": [{ \"url\": \"https://csp.microsoft.com/report/Harmony-App-PROD\" }]}",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-afd-rule": "ForwardToCosmicPRODRing",
+        "x-azure-ref-originshield": "Ref A: 2CBCC80950754E8ABA35C2CC1BE60F0D Ref B: BOM01EDGE0917 Ref C: 2026-10-21T18:10:20Z",
+        "x-cache": "TCP_HIT",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-msedge-ref": "Ref A: 9F4670A42DA84B53932CB9ADCEB5BF61 Ref B: MAA201060515035 Ref C: 2026-10-21T18:13:35Z",
+        "x-ua-compatible": "IE=edge,chrome=1",
+        "x-xss-protection": "1; mode=block"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [
+    "view.officeapps.live.com"
+  ],
+  "stack": [
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "zerogrunt.ai",
+        "zerogrunt.ai",
+        "www.zerogrunt.ai",
+        "www.zerogrunt.ai"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a4e23ca79e1cd25b-SIN",
+        "cf-ray: a4e23c924988403b-SIN"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "AWS CloudFront",
+      "kind": "cdn",
+      "seenOn": [
+        "app.zerogrunt.ai"
+      ],
+      "evidence": [
+        "x-amz-cf-id: 4-gdbMj379sFW7eklls8brnPiyVoOeyNYM9zpFiq8kCm_cqsbnY-pw=="
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Envoy (service mesh / Istio)",
+      "kind": "infra",
+      "seenOn": [
+        "api.zerogrunt.ai"
+      ],
+      "evidence": [
+        "x-envoy-upstream-service-time: 4"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "request tracing",
+      "kind": "infra",
+      "seenOn": [
+        "api.zerogrunt.ai"
+      ],
+      "evidence": [
+        "x-request-id: ccd05029-9d78-49d2-a5d7-592070fd5317"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://zerogrunt.ai/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://www.zerogrunt.ai/sitemap-index.xml\n"
+    },
+    {
+      "url": "https://www.zerogrunt.ai/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://www.zerogrunt.ai/sitemap-index.xml\n"
+    }
+  ],
+  "dns": [
+    {
+      "host": "zerogrunt.ai",
+      "a": [
+        "104.21.27.85",
+        "172.67.169.18"
+      ],
+      "txt": [
+        "v=spf1 include:_spf.google.com include:spf.mtasv.net ~all"
+      ],
+      "mx": [
+        "smtp.google.com"
+      ],
+      "vendors": [
+        "SPF/DMARC configured"
+      ]
+    },
+    {
+      "host": "view.officeapps.live.com",
+      "a": [
+        "52.108.8.12",
+        "52.108.9.12"
+      ],
+      "cname": [
+        "app-geo.wac.trafficmanager.net"
+      ],
+      "txt": [],
+      "mx": [],
+      "vendors": []
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "zerogrunt",
+    "results": [
+      {
+        "name": "Counter - Easy & Simple",
+        "seller": "Markus Wu",
+        "updated": "2021-01-21T02:51:49Z"
+      },
+      {
+        "name": "Counto: Calm Tally Counter",
+        "seller": "Ivan Konov",
+        "updated": "2026-09-26T15:05:31Z"
+      },
+      {
+        "name": "ZeroCounter",
+        "seller": "Min-young Yoo",
+        "updated": "2024-03-26T18:28:37Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

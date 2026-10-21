@@ -1,0 +1,2244 @@
+{
+  "supertokens.com": {
+    "name": "Supertokens",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:15:43.616Z"
+  },
+  "middleware.io": {
+    "name": "Middleware",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:19:17.071Z"
+  },
+  "tooljet.com": {
+    "name": "Tooljet",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:15:43.596Z"
+  },
+  "appsmith.com": {
+    "name": "Appsmith",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:19:17.275Z"
+  },
+  "hasura.io": {
+    "name": "Hasura",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:15:43.524Z"
+  },
+  "browserstack.com": {
+    "name": "Browserstack",
+    "source": "seed list",
+    "ats": "workday",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:15:53.549Z"
+  },
+  "plane.so": {
+    "name": "Plane",
+    "source": "seed list",
+    "ats": "ashby",
+    "slug": "plane",
+    "open": 33,
+    "guessed": true,
+    "checked": "2026-10-21T17:16:00.877Z"
+  },
+  "postman.com": {
+    "name": "Postman",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:15:58.142Z"
+  },
+  "frappe.io": {
+    "name": "Frappe",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:15:47.130Z"
+  },
+  "composio.dev": {
+    "name": "Composio",
+    "source": "seed list",
+    "ats": "ashby",
+    "slug": "composio",
+    "open": 30,
+    "checked": "2026-10-21T17:15:49.311Z"
+  },
+  "hoppscotch.io": {
+    "name": "Hoppscotch",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:19:17.803Z"
+  },
+  "atlan.com": {
+    "name": "Atlan",
+    "source": "seed list",
+    "ats": "ashby",
+    "slug": "atlan",
+    "open": 6,
+    "guessed": true,
+    "checked": "2026-10-21T17:15:47.901Z"
+  },
+  "setu.co": {
+    "name": "Setu",
+    "source": "seed list",
+    "ats": "turbohire",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:03.826Z"
+  },
+  "devrev.ai": {
+    "name": "Devrev",
+    "source": "seed list",
+    "ats": "greenhouse",
+    "slug": "devrev",
+    "open": 42,
+    "guessed": true,
+    "checked": "2026-10-21T17:15:50.862Z"
+  },
+  "chatwoot.com": {
+    "name": "Chatwoot",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:15:47.498Z"
+  },
+  "juspay.in": {
+    "name": "Juspay",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:15:58.670Z"
+  },
+  "signzy.com": {
+    "name": "Signzy",
+    "source": "seed list",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:01.604Z"
+  },
+  "m2pfintech.com": {
+    "name": "M2pfintech",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:04.208Z"
+  },
+  "hyperverge.co": {
+    "name": "Hyperverge",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:15.089Z"
+  },
+  "hevodata.com": {
+    "name": "Hevodata",
+    "source": "seed list",
+    "ats": "lever",
+    "slug": "hevodata",
+    "open": 53,
+    "guessed": true,
+    "checked": "2026-10-21T17:16:05.516Z"
+  },
+  "idfy.com": {
+    "name": "Idfy",
+    "source": "seed list",
+    "ats": "turbohire",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:14.390Z"
+  },
+  "sarvam.ai": {
+    "name": "Sarvam",
+    "source": "seed list",
+    "ats": "ashby",
+    "slug": "sarvam",
+    "open": 42,
+    "checked": "2026-10-21T17:16:05.092Z"
+  },
+  "perfios.com": {
+    "name": "Perfios",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:05.520Z"
+  },
+  "yellow.ai": {
+    "name": "Yellow",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:07.909Z"
+  },
+  "tartanhq.com": {
+    "name": "Tartanhq",
+    "source": "seed list",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:06.334Z"
+  },
+  "krutrim.com": {
+    "name": "Krutrim",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:54.770Z"
+  },
+  "pixis.ai": {
+    "name": "Pixis",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:17.823Z"
+  },
+  "observe.ai": {
+    "name": "Observe",
+    "source": "seed list",
+    "ats": "greenhouse",
+    "slug": "observeai",
+    "open": 9,
+    "checked": "2026-10-21T17:16:12.351Z"
+  },
+  "dubverse.ai": {
+    "name": "Dubverse",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:19.386Z"
+  },
+  "atomicwork.com": {
+    "name": "Atomicwork",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:18.382Z"
+  },
+  "spotdraft.com": {
+    "name": "Spotdraft",
+    "source": "seed list",
+    "ats": "ashby",
+    "slug": "spotdraft",
+    "open": 13,
+    "checked": "2026-10-21T17:16:15.004Z"
+  },
+  "gupshup.io": {
+    "name": "Gupshup",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:46.721Z"
+  },
+  "exotel.com": {
+    "name": "Exotel",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:17.023Z"
+  },
+  "lightspeed.ai": {
+    "name": "Lightspeed",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:17.782Z"
+  },
+  "neysa.ai": {
+    "name": "Neysa",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:18.959Z"
+  },
+  "smallest.ai": {
+    "name": "Smallest",
+    "source": "seed list",
+    "ats": "ashby",
+    "slug": "smallest",
+    "open": 1,
+    "checked": "2026-10-21T17:16:18.364Z"
+  },
+  "bolna.ai": {
+    "name": "Bolna AI",
+    "source": "YC Fall 2025",
+    "ats": "ashby",
+    "slug": "bolna",
+    "open": 7,
+    "checked": "2026-10-21T17:16:18.631Z"
+  },
+  "giga.ai": {
+    "name": "Giga",
+    "source": "seed list",
+    "ats": "ashby",
+    "slug": "gigaml",
+    "open": 33,
+    "checked": "2026-10-21T17:16:18.825Z"
+  },
+  "ema.co": {
+    "name": "Ema",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:20.477Z"
+  },
+  "freshworks.com": {
+    "name": "Freshworks",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:49.122Z"
+  },
+  "chargebee.com": {
+    "name": "Chargebee",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:25.126Z"
+  },
+  "rocketlane.com": {
+    "name": "Rocketlane",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:27.566Z"
+  },
+  "zluri.com": {
+    "name": "Zluri",
+    "source": "seed list",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:22.141Z"
+  },
+  "mindtickle.com": {
+    "name": "Mindtickle",
+    "source": "seed list",
+    "ats": "lever",
+    "slug": "mindtickle",
+    "open": 20,
+    "checked": "2026-10-21T17:16:25.773Z"
+  },
+  "whatfix.com": {
+    "name": "Whatfix",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:22.504Z"
+  },
+  "innovaccer.com": {
+    "name": "Innovaccer",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:26.866Z"
+  },
+  "moengage.com": {
+    "name": "Moengage",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:26.342Z"
+  },
+  "clevertap.com": {
+    "name": "Clevertap",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:26.828Z"
+  },
+  "webengage.com": {
+    "name": "Webengage",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:31.092Z"
+  },
+  "vwo.com": {
+    "name": "Vwo",
+    "source": "seed list",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:32.517Z"
+  },
+  "increff.com": {
+    "name": "Increff",
+    "source": "seed list",
+    "ats": "zoho-recruit",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:28.878Z"
+  },
+  "darwinbox.com": {
+    "name": "Darwinbox",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:27.876Z"
+  },
+  "signeasy.com": {
+    "name": "Signeasy",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:29.746Z"
+  },
+  "refrens.com": {
+    "name": "Refrens",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:28.873Z"
+  },
+  "fylehq.com": {
+    "name": "Fylehq",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:30.794Z"
+  },
+  "sprinklr.com": {
+    "name": "Sprinklr",
+    "source": "seed list",
+    "ats": "workday",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:36.383Z"
+  },
+  "capillarytech.com": {
+    "name": "Capillarytech",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:45.387Z"
+  },
+  "leadsquared.com": {
+    "name": "Leadsquared",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:31.972Z"
+  },
+  "wingify.com": {
+    "name": "Wingify",
+    "source": "seed list",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:37.860Z"
+  },
+  "kissflow.com": {
+    "name": "Kissflow",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:36.428Z"
+  },
+  "zenoti.com": {
+    "name": "Zenoti",
+    "source": "seed list",
+    "ats": "greenhouse",
+    "slug": "zenoti",
+    "open": 52,
+    "checked": "2026-10-21T17:16:36.831Z"
+  },
+  "facilio.com": {
+    "name": "Facilio",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:33.286Z"
+  },
+  "mykaarma.com": {
+    "name": "Mykaarma",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:34.700Z"
+  },
+  "servify.in": {
+    "name": "Servify",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:39.028Z"
+  },
+  "locus.sh": {
+    "name": "Locus",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:38.080Z"
+  },
+  "shipsy.io": {
+    "name": "Shipsy",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:36.758Z"
+  },
+  "razorpay.com": {
+    "name": "Razorpay",
+    "source": "YC Winter 2015",
+    "ats": "greenhouse",
+    "slug": "razorpaysoftwareprivatelimited",
+    "open": 26,
+    "checked": "2026-10-21T17:16:38.662Z"
+  },
+  "cred.club": {
+    "name": "Cred",
+    "source": "seed list",
+    "ats": "lever",
+    "slug": "cred",
+    "open": 9,
+    "checked": "2026-10-21T17:16:38.650Z"
+  },
+  "groww.in": {
+    "name": "Groww",
+    "source": "seed list",
+    "ats": "greenhouse",
+    "slug": "groww",
+    "open": 10,
+    "guessed": true,
+    "checked": "2026-10-21T17:16:38.113Z"
+  },
+  "zerodha.com": {
+    "name": "Zerodha",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:39.038Z"
+  },
+  "phonepe.com": {
+    "name": "Phonepe",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:39.914Z"
+  },
+  "cashfree.com": {
+    "name": "Cashfree Payments",
+    "source": "YC Summer 2017",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:43.838Z"
+  },
+  "smallcase.com": {
+    "name": "Smallcase",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:41.043Z"
+  },
+  "jupiter.money": {
+    "name": "Jupiter",
+    "source": "seed list",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:40.409Z"
+  },
+  "fi.money": {
+    "name": "Fi",
+    "source": "seed list",
+    "ats": "lever",
+    "slug": "epifi",
+    "open": 0,
+    "checked": "2026-10-21T17:16:40.124Z"
+  },
+  "uni.cards": {
+    "name": "Uni",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:48.262Z"
+  },
+  "sliceit.com": {
+    "name": "Sliceit",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:44.724Z"
+  },
+  "khatabook.com": {
+    "name": "Khatabook",
+    "source": "YC Summer 2018",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:10.831Z"
+  },
+  "okcredit.in": {
+    "name": "OkCredit",
+    "source": "YC Summer 2018",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:42.258Z"
+  },
+  "open.money": {
+    "name": "Open",
+    "source": "seed list",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:42.076Z"
+  },
+  "instamojo.com": {
+    "name": "Instamojo",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:43.369Z"
+  },
+  "coindcx.com": {
+    "name": "Coindcx",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:45.142Z"
+  },
+  "coinswitch.co": {
+    "name": "Coinswitch",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:44.063Z"
+  },
+  "acko.com": {
+    "name": "Acko",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:44.611Z"
+  },
+  "godigit.com": {
+    "name": "Godigit",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:45.031Z"
+  },
+  "policybazaar.com": {
+    "name": "Policybazaar",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:46.330Z"
+  },
+  "indmoney.com": {
+    "name": "Indmoney",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:45.310Z"
+  },
+  "kreditbee.in": {
+    "name": "Kreditbee",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:45.928Z"
+  },
+  "moneyview.in": {
+    "name": "Moneyview",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:45.518Z"
+  },
+  "fampay.in": {
+    "name": "FamPay",
+    "source": "YC Summer 2019",
+    "ats": "lever",
+    "slug": "fampay",
+    "open": 17,
+    "guessed": true,
+    "checked": "2026-10-21T17:16:46.943Z"
+  },
+  "myjar.app": {
+    "name": "Myjar",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:47.655Z"
+  },
+  "scapia.cards": {
+    "name": "Scapia",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:47.843Z"
+  },
+  "dhan.co": {
+    "name": "Dhan",
+    "source": "seed list",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:46.953Z"
+  },
+  "sensibull.com": {
+    "name": "Sensibull",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:47.233Z"
+  },
+  "meesho.com": {
+    "name": "Meesho",
+    "source": "seed list",
+    "ats": "lever",
+    "slug": "meesho",
+    "open": 59,
+    "guessed": true,
+    "checked": "2026-10-21T17:16:48.739Z"
+  },
+  "swiggy.com": {
+    "name": "Swiggy",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:46.403Z"
+  },
+  "zomato.com": {
+    "name": "Zomato",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:50.458Z"
+  },
+  "zeptonow.com": {
+    "name": "Zepto",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:55.592Z"
+  },
+  "urbancompany.com": {
+    "name": "Urbancompany",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:50.812Z"
+  },
+  "nykaa.com": {
+    "name": "Nykaa",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:50.470Z"
+  },
+  "lenskart.com": {
+    "name": "Lenskart",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:51.358Z"
+  },
+  "cars24.com": {
+    "name": "Cars24",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:52.118Z"
+  },
+  "spinny.com": {
+    "name": "Spinny",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:58.695Z"
+  },
+  "rapido.bike": {
+    "name": "Rapido",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:53.471Z"
+  },
+  "porter.in": {
+    "name": "Porter",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:53.171Z"
+  },
+  "shiprocket.in": {
+    "name": "Shiprocket",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:53.989Z"
+  },
+  "delhivery.com": {
+    "name": "Delhivery",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:58.416Z"
+  },
+  "blackbuck.com": {
+    "name": "Blackbuck",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:53.785Z"
+  },
+  "magicpin.in": {
+    "name": "Magicpin",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:59.215Z"
+  },
+  "parkplus.io": {
+    "name": "Parkplus",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:57.848Z"
+  },
+  "licious.in": {
+    "name": "Licious",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:59.809Z"
+  },
+  "dunzo.com": {
+    "name": "Dunzo",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:46.963Z"
+  },
+  "sharechat.com": {
+    "name": "Sharechat",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:59.255Z"
+  },
+  "pocketfm.com": {
+    "name": "Pocketfm",
+    "source": "seed list",
+    "ats": "lever",
+    "slug": "pocketfm",
+    "open": 9,
+    "guessed": true,
+    "checked": "2026-10-21T17:17:00.655Z"
+  },
+  "kukufm.com": {
+    "name": "Kukufm",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:01.653Z"
+  },
+  "inshorts.com": {
+    "name": "Inshorts",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:00.328Z"
+  },
+  "dream11.com": {
+    "name": "Dream11",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:01.549Z"
+  },
+  "games24x7.com": {
+    "name": "Games24x7",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:08.427Z"
+  },
+  "mpl.live": {
+    "name": "Mpl",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:02.905Z"
+  },
+  "unacademy.com": {
+    "name": "Unacademy",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:02.207Z"
+  },
+  "scaler.com": {
+    "name": "Scaler",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:05.360Z"
+  },
+  "pw.live": {
+    "name": "Pw",
+    "source": "seed list",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:03.292Z"
+  },
+  "classplus.co": {
+    "name": "Classplus",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:46.267Z"
+  },
+  "eightfold.ai": {
+    "name": "Eightfold",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:10.238Z"
+  },
+  "apna.co": {
+    "name": "Apna",
+    "source": "seed list",
+    "ats": "workable",
+    "slug": "apna",
+    "open": 147,
+    "checked": "2026-10-21T17:17:08.855Z"
+  },
+  "clear.in": {
+    "name": "Clear",
+    "source": "YC Summer 2014",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:10.266Z"
+  },
+  "dripcapital.com": {
+    "name": "Drip Capital",
+    "source": "YC Summer 2015",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:11.622Z"
+  },
+  "redcarpetup.com": {
+    "name": "RedCarpetUp",
+    "source": "YC Summer 2015",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:34:22.701Z"
+  },
+  "golorry.com": {
+    "name": "GoLorry",
+    "source": "YC Winter 2016",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:34:21.191Z"
+  },
+  "sanrights.org": {
+    "name": "Sanitation and Health Rights in India (SHRI)",
+    "source": "YC Winter 2016",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:14.026Z"
+  },
+  "bulkmro.com": {
+    "name": "Bulk MRO Industrial Supply",
+    "source": "YC Winter 2017",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:18.052Z"
+  },
+  "dabba.com": {
+    "name": "Wifi Dabba, Inc.",
+    "source": "YC Winter 2017",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:16.726Z"
+  },
+  "onefin.in": {
+    "name": "OneFin",
+    "source": "YC Winter 2017",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:14.515Z"
+  },
+  "dosteducation.com": {
+    "name": "Dost Education",
+    "source": "YC Winter 2017",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:14.853Z"
+  },
+  "algosurg.ai": {
+    "name": "AlgoSurg Inc",
+    "source": "YC Winter 2018",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:16.220Z"
+  },
+  "helloverify.ae": {
+    "name": "Helloverify",
+    "source": "YC Winter 2018",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:51.012Z"
+  },
+  "ziffyhomes.com": {
+    "name": "ZiffyHomes",
+    "source": "YC Summer 2018",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:19.341Z"
+  },
+  "swadesh.co": {
+    "name": "Swadesh",
+    "source": "YC Summer 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:19.335Z"
+  },
+  "skill-lync.com": {
+    "name": "Skill-lync",
+    "source": "YC Winter 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:22.343Z"
+  },
+  "mudrex.com": {
+    "name": "Mudrex",
+    "source": "YC Winter 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:22.068Z"
+  },
+  "acciojob.com": {
+    "name": "AccioJob",
+    "source": "YC Winter 2019",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:19.963Z"
+  },
+  "edyst.com": {
+    "name": "Edyst",
+    "source": "YC Winter 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:49.570Z"
+  },
+  "exlyapp.com": {
+    "name": "Exly",
+    "source": "YC Winter 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:23.640Z"
+  },
+  "cityfurnish.com": {
+    "name": "Cityfurnish",
+    "source": "YC Winter 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:21.235Z"
+  },
+  "getpulse.in": {
+    "name": "Pulse Active Stations Network",
+    "source": "YC Winter 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:23.281Z"
+  },
+  "getdockup.com": {
+    "name": "Dockup",
+    "source": "YC Winter 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:25.704Z"
+  },
+  "inito.com": {
+    "name": "Inito",
+    "source": "YC Winter 2019",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:24.984Z"
+  },
+  "taalifoods.com": {
+    "name": "Taali Inc",
+    "source": "YC Winter 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:34:08.216Z"
+  },
+  "getbinks.com": {
+    "name": "Binks",
+    "source": "YC Summer 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:26.255Z"
+  },
+  "getlokalapp.com": {
+    "name": "Lokal",
+    "source": "YC Summer 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:30.553Z"
+  },
+  "docvita.com": {
+    "name": "DocVita",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:29.122Z"
+  },
+  "vahan.ai": {
+    "name": "Vahan",
+    "source": "YC Summer 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:39.327Z"
+  },
+  "digi-prex.com": {
+    "name": "Digi-Prex",
+    "source": "YC Summer 2019",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:32.086Z"
+  },
+  "loophealth.com": {
+    "name": "Loop Health",
+    "source": "YC Winter 2020",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:31.230Z"
+  },
+  "getkosh.com": {
+    "name": "Kosh",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:31.143Z"
+  },
+  "stayqrious.com": {
+    "name": "StayQrious",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:33.976Z"
+  },
+  "urbankisaan.com": {
+    "name": "UrbanKisaan",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:34.033Z"
+  },
+  "farmtheory.in": {
+    "name": "farmtheory",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:32.748Z"
+  },
+  "tagmango.com": {
+    "name": "TagMango",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:33.021Z"
+  },
+  "morphlelabs.com": {
+    "name": "Morphle Labs",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:39.216Z"
+  },
+  "zeorouteplanner.com": {
+    "name": "Zeo Route Planner",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:47.333Z"
+  },
+  "hiration.com": {
+    "name": "Hiration",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:38.750Z"
+  },
+  "askanatomic.com": {
+    "name": "Anatomic",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:36.928Z"
+  },
+  "edurev.in": {
+    "name": "EduRev",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:36.483Z"
+  },
+  "spennyapp.com": {
+    "name": "Spenny",
+    "source": "YC Winter 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:41.157Z"
+  },
+  "volopay.com": {
+    "name": "Volopay",
+    "source": "YC Summer 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:41.637Z"
+  },
+  "explorex.co": {
+    "name": "Explorex",
+    "source": "YC Summer 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:39.613Z"
+  },
+  "farmako.ai": {
+    "name": "Farmako Healthcare",
+    "source": "YC Summer 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:43.226Z"
+  },
+  "cradlefinance.com": {
+    "name": "Cradle",
+    "source": "YC Summer 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:54.571Z"
+  },
+  "statiq.in": {
+    "name": "Statiq.",
+    "source": "YC Summer 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:52.943Z"
+  },
+  "wareiq.com": {
+    "name": "WareIQ",
+    "source": "YC Summer 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:40.870Z"
+  },
+  "decentro.tech": {
+    "name": "Decentro",
+    "source": "YC Summer 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:40.944Z"
+  },
+  "orangehealth.in": {
+    "name": "Orange Health Labs",
+    "source": "YC Summer 2020",
+    "ats": "darwinbox",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:48.143Z"
+  },
+  "medpiper.com": {
+    "name": "MedPiper Technologies, Inc",
+    "source": "YC Summer 2020",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:47.023Z"
+  },
+  "zuddl.com": {
+    "name": "Zuddl",
+    "source": "YC Summer 2020",
+    "ats": "keka",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:45.636Z"
+  },
+  "rocketsdr.ai": {
+    "name": "RocketSDR",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:43.618Z"
+  },
+  "gromo.in": {
+    "name": "GroMo",
+    "source": "YC Winter 2021",
+    "ats": "zoho-recruit",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:17:53.163Z"
+  },
+  "fluxauto.ai": {
+    "name": "Flux Auto",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:49.488Z"
+  },
+  "weekday.works": {
+    "name": "Weekday",
+    "source": "YC Winter 2021",
+    "ats": "workable",
+    "slug": "weekday-1",
+    "open": 1016,
+    "checked": "2026-10-21T17:17:49.774Z"
+  },
+  "cashbook.in": {
+    "name": "CashBook",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:48.500Z"
+  },
+  "bimaplan.co": {
+    "name": "Bimaplan",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:49.647Z"
+  },
+  "kodo.com": {
+    "name": "Kodo",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:49.946Z"
+  },
+  "gimbooks.com": {
+    "name": "GimBooks",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:51.367Z"
+  },
+  "zingbus.com": {
+    "name": "zingbus",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:56.902Z"
+  },
+  "veerahealth.com": {
+    "name": "Veera Health",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:56.049Z"
+  },
+  "codingal.com": {
+    "name": "Codingal",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:53.963Z"
+  },
+  "tilt.bike": {
+    "name": "Tilt",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:04.034Z"
+  },
+  "unschool.in": {
+    "name": "Unschool",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:58.846Z"
+  },
+  "zoko.io": {
+    "name": "ZOKO",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:56.527Z"
+  },
+  "reclaimprotocol.org": {
+    "name": "Reclaim Protocol",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:06.661Z"
+  },
+  "redcliffelabs.com": {
+    "name": "Redcliffe Lifetech",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:03.377Z"
+  },
+  "betterhalf.ai": {
+    "name": "Betterhalf",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:57.575Z"
+  },
+  "zealth-ai.com": {
+    "name": "Zealth",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:58.895Z"
+  },
+  "swadesiway.com": {
+    "name": "Swadesi Way",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:14.447Z"
+  },
+  "businessonbot.com": {
+    "name": "BusinessOnBot",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:00.266Z"
+  },
+  "voosh.ai": {
+    "name": "Voosh",
+    "source": "YC Winter 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:17:59.191Z"
+  },
+  "marketfeed.com": {
+    "name": "marketfeed",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:00.846Z"
+  },
+  "karboncard.com": {
+    "name": "Karbon Card",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:06.552Z"
+  },
+  "front.page": {
+    "name": "FrontPage",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:53.675Z"
+  },
+  "kalamlabs.in": {
+    "name": "Kalam Labs",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:14.875Z"
+  },
+  "koshex.com": {
+    "name": "Koshex",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:02.912Z"
+  },
+  "coulomb.ai": {
+    "name": "Coulomb AI",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:05.054Z"
+  },
+  "odwen.co.in": {
+    "name": "ODWEN",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:04.310Z"
+  },
+  "salarybook.co.in": {
+    "name": "SalaryBook",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:05.614Z"
+  },
+  "rivia.ai": {
+    "name": "Rivia.AI",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:12.519Z"
+  },
+  "advantageclub.co": {
+    "name": "Advantage Club",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:10.067Z"
+  },
+  "getswipe.in": {
+    "name": "Swipe",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:07.713Z"
+  },
+  "algouniversity.com": {
+    "name": "AlgoUniversity",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:08.654Z"
+  },
+  "neodocs.in": {
+    "name": "Neodocs",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:13.612Z"
+  },
+  "appx.co.in": {
+    "name": "AppX",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:08.991Z"
+  },
+  "ivy.homes": {
+    "name": "Ivy Homes",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:15.634Z"
+  },
+  "salarybox.in": {
+    "name": "SalaryBox",
+    "source": "YC Summer 2021",
+    "ats": "zoho-recruit",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:18:13.410Z"
+  },
+  "enerjazz.tech": {
+    "name": "Enerjazz",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:12.289Z"
+  },
+  "sparkstudio.co": {
+    "name": "Spark Studio",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:13.357Z"
+  },
+  "writesonic.com": {
+    "name": "Writesonic",
+    "source": "YC Summer 2021",
+    "ats": "workable",
+    "slug": "writesonic",
+    "open": 7,
+    "checked": "2026-10-21T17:18:16.312Z"
+  },
+  "infer.so": {
+    "name": "Infer",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:15.047Z"
+  },
+  "stownest.com": {
+    "name": "Stownest",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:14.742Z"
+  },
+  "novatr.com": {
+    "name": "Novatr",
+    "source": "YC Summer 2021",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:16.051Z"
+  },
+  "apollofirst.xyz": {
+    "name": "Apollo",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:18.395Z"
+  },
+  "inferedge.com": {
+    "name": "InferEdge",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:19.831Z"
+  },
+  "mysivi.ai": {
+    "name": "MySivi",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:52.889Z"
+  },
+  "fieldproxy.ai": {
+    "name": "Fieldproxy",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:17.371Z"
+  },
+  "rdash.io": {
+    "name": "RDash",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:54.262Z"
+  },
+  "nationalfinanceolympiad.com": {
+    "name": "National Finance Olympiad",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:18.920Z"
+  },
+  "redbrickai.com": {
+    "name": "RedBrick AI",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:21.450Z"
+  },
+  "play.google.com": {
+    "name": "RecordBook",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:20.078Z"
+  },
+  "salt.pe": {
+    "name": "SALT",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:22.866Z"
+  },
+  "imt.care": {
+    "name": "IMT Care",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:23.406Z"
+  },
+  "spadeworks.co": {
+    "name": "SpadeWorks",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:54.758Z"
+  },
+  "kaagaz.app": {
+    "name": "Kaagaz",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:20.080Z"
+  },
+  "paycrunch.in": {
+    "name": "PayCrunch",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:57.399Z"
+  },
+  "savein.money": {
+    "name": "SaveIN",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:55.871Z"
+  },
+  "materialdepot.in": {
+    "name": "Material Depot",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:58.440Z"
+  },
+  "betteropinions.in": {
+    "name": "Better Opinions",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": false,
+    "checked": "2026-10-21T18:33:57.533Z"
+  },
+  "gosats.io": {
+    "name": "GoSats",
+    "source": "YC Winter 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:24.532Z"
+  },
+  "clinikally.com": {
+    "name": "Clinikally",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:23.371Z"
+  },
+  "coupl.money": {
+    "name": "Coupl",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:23.113Z"
+  },
+  "craze.ai": {
+    "name": "Craze",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:24.854Z"
+  },
+  "ethosx.finance": {
+    "name": "EthosX",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:29.359Z"
+  },
+  "startraven.com": {
+    "name": "Raven",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:24.922Z"
+  },
+  "gullak.money": {
+    "name": "Gullak Money",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:30.875Z"
+  },
+  "slidely.ai": {
+    "name": "Slidely AI",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:27.703Z"
+  },
+  "100x.bot": {
+    "name": "100x",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:25.085Z"
+  },
+  "peoplebox.ai": {
+    "name": "Peoplebox.ai",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:33.105Z"
+  },
+  "mayalabs.io": {
+    "name": "Maya Labs",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:27.693Z"
+  },
+  "compup.io": {
+    "name": "CompUp",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:26.596Z"
+  },
+  "primevault.com": {
+    "name": "PrimeVault",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:27.814Z"
+  },
+  "algotest.in": {
+    "name": "AlgoTest",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:26.387Z"
+  },
+  "flatx.co": {
+    "name": "FlatX",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:29.068Z"
+  },
+  "landeed.com": {
+    "name": "Landeed",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:30.151Z"
+  },
+  "getcone.io": {
+    "name": "Cone",
+    "source": "YC Summer 2022",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:32.826Z"
+  },
+  "drdroid.io": {
+    "name": "DrDroid",
+    "source": "YC Winter 2023",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:31.904Z"
+  },
+  "floworks.ai": {
+    "name": "Floworks",
+    "source": "YC Winter 2023",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:34.448Z"
+  },
+  "clickpe.ai": {
+    "name": "ClickPe",
+    "source": "YC Winter 2023",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:30.549Z"
+  },
+  "superkalam.com": {
+    "name": "SuperKalam",
+    "source": "YC Winter 2023",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:31.976Z"
+  },
+  "clueso.io": {
+    "name": "Clueso",
+    "source": "YC Winter 2023",
+    "ats": "ashby",
+    "slug": "clueso",
+    "open": 3,
+    "guessed": true,
+    "checked": "2026-10-21T17:18:32.213Z"
+  },
+  "retape.ai": {
+    "name": "Retape",
+    "source": "YC Winter 2023",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:33.867Z"
+  },
+  "trysuperapi.com": {
+    "name": "SuperAPI",
+    "source": "YC Winter 2023",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:35.874Z"
+  },
+  "getcore.me": {
+    "name": "CORE",
+    "source": "YC Summer 2023",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:40.611Z"
+  },
+  "yenmo.in": {
+    "name": "Yenmo",
+    "source": "YC Winter 2024",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:33.415Z"
+  },
+  "infinityapp.in": {
+    "name": "Infinity",
+    "source": "YC Winter 2024",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:35.535Z"
+  },
+  "xpaycheckout.com": {
+    "name": "xPay",
+    "source": "YC Winter 2024",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:35.915Z"
+  },
+  "paasa.com": {
+    "name": "Paasa",
+    "source": "YC Summer 2024",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:34.712Z"
+  },
+  "surebright.com": {
+    "name": "SureBright",
+    "source": "YC Summer 2024",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:37.393Z"
+  },
+  "rowboatlabs.com": {
+    "name": "Rowboat Labs",
+    "source": "YC Summer 2024",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:39.086Z"
+  },
+  "optifye.ai": {
+    "name": "Optifye.ai",
+    "source": "YC Winter 2025",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:41.070Z"
+  },
+  "redapto.com": {
+    "name": "Redapto",
+    "source": "YC Fall 2025",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:37.316Z"
+  },
+  "perseus.computer": {
+    "name": "Perseus",
+    "source": "YC Fall 2025",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:27:52.456Z"
+  },
+  "cardboard.ai": {
+    "name": "Cardboard",
+    "source": "YC Winter 2026",
+    "ats": "ashby",
+    "slug": "cardboard",
+    "open": 7,
+    "checked": "2026-10-21T17:18:36.921Z"
+  },
+  "ressl.ai": {
+    "name": "Ressl AI",
+    "source": "YC Winter 2026",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:41.045Z"
+  },
+  "bentolabs.ai": {
+    "name": "BentoLabs AI",
+    "source": "YC Spring 2026",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:44.127Z"
+  },
+  "lab0.ai": {
+    "name": "Lab0",
+    "source": "YC Spring 2026",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:40.984Z"
+  },
+  "waybill.to": {
+    "name": "Waybill",
+    "source": "YC Summer 2026",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:39.685Z"
+  },
+  "kailashlabs.com": {
+    "name": "Kailash Labs",
+    "source": "YC Fall 2026",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:18:42.058Z"
+  },
+  "gnani.ai": {
+    "name": "Gnani",
+    "source": "seed list",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:10.345Z"
+  },
+  "uniphore.com": {
+    "name": "Uniphore",
+    "source": "seed list",
+    "ats": "workday",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:11.801Z"
+  },
+  "leena.ai": {
+    "name": "Leena AI",
+    "source": "YC Summer 2018",
+    "ats": null,
+    "slug": null,
+    "reachable": true,
+    "checked": "2026-10-21T17:16:12.771Z"
+  },
+  "zeta.tech": {
+    "name": "Zeta",
+    "source": "seed list",
+    "ats": "lever",
+    "slug": "zeta",
+    "open": 26,
+    "guessed": true,
+    "checked": "2026-10-21T17:16:04.132Z"
+  },
+  "haptik.ai": {
+    "name": "Haptik",
+    "source": "seed list",
+    "ats": "freshteam",
+    "slug": null,
+    "unread": true,
+    "checked": "2026-10-21T17:16:09.753Z"
+  }
+}

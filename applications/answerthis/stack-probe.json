@@ -1,0 +1,273 @@
+{
+  "domain": "answerthis.io",
+  "slug": "answerthis",
+  "probedAt": "2026-10-21T18:08:45.629Z",
+  "liveHosts": [
+    {
+      "host": "answerthis.io",
+      "status": 200,
+      "finalUrl": "https://answerthis.io/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Wed, 21 Oct 2026 18:08:31 GMT",
+        "etag": "W/\"5674a890d53c176f3944d1b9fdc24fae\"",
+        "framer-site-id": "45e1f96d9a4a0ddb2a130ae198010d2a0a753b5a6f7ea6f71aa0c7cd3cffbc48",
+        "last-modified": "Wed, 21 Oct 2026 17:14:57 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "nginx/1.24.0",
+        "server-timing": "region;desc=\"us-west-2\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"a223fd7\", route;dur=1;desc=\"id=LmMThTFZl&locale=default\", country;desc=\"IN\", ss-only-routes",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "www.answerthis.io",
+      "status": 200,
+      "finalUrl": "https://answerthis.io/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Wed, 21 Oct 2026 18:08:34 GMT",
+        "etag": "W/\"5674a890d53c176f3944d1b9fdc24fae\"",
+        "framer-site-id": "45e1f96d9a4a0ddb2a130ae198010d2a0a753b5a6f7ea6f71aa0c7cd3cffbc48",
+        "last-modified": "Wed, 21 Oct 2026 17:14:57 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "nginx/1.24.0",
+        "server-timing": "region;desc=\"us-west-2\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"7f7c4f9\", route;dur=1;desc=\"id=LmMThTFZl&locale=default\", country;desc=\"IN\", ss-only-routes",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "app.answerthis.io",
+      "status": 200,
+      "finalUrl": "https://app.answerthis.io/",
+      "csp": [],
+      "headers": {
+        "age": "17693",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public,max-age=10,s-maxage=86400",
+        "cf-cache-status": "HIT",
+        "cf-ray": "a4e235491f9d2127-MAA",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 21 Oct 2026 18:08:32 GMT",
+        "last-modified": "Tue, 20 Oct 2026 12:41:55 GMT",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=2qoBuZSVD2x5oLTwWM4BRuzGofZ6kOCfyr8D1ZBStRk-1792606112.1764786-1.0.1.1-e1sa9754xT23BKc62Aezl4rbKRVkQL498pKuJoc8Lz_MlU0YAXOD85YxykXx8XREm2th5hMqE2CWl3vSO_qO0__gIglBOOfQLD4fzkO.dc6hR7p_8gx8_pKHQB25Ixag; HttpOnly; SameSite=None; Secure; Path=/; Domain=app.answerthis.io; Expires=Wed, 21 Oct 2026 18:38:32 GMT",
+        "x-amz-request-id": "tx000002b210bf4e0ac835b-006ad8ba82-96cb79-nyc3f",
+        "x-do-app-origin": "a1bff4ea-6501-4c36-a345-8c25678349ed",
+        "x-do-orig-status": "200",
+        "x-do-static-catchall-document": "index.html",
+        "x-rgw-object-type": "Normal"
+      }
+    },
+    {
+      "host": "api.answerthis.io",
+      "status": 404,
+      "finalUrl": "https://api.answerthis.io/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-length": "146",
+        "content-type": "text/html",
+        "date": "Wed, 21 Oct 2026 18:08:31 GMT",
+        "strict-transport-security": "max-age=31536000; includeSubDomains"
+      }
+    },
+    {
+      "host": "staging.answerthis.io",
+      "status": 200,
+      "finalUrl": "https://staging.answerthis.io/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public,max-age=10,s-maxage=86400",
+        "cf-cache-status": "MISS",
+        "cf-ray": "a4e2354eaea87fd4-MAA",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 21 Oct 2026 18:08:33 GMT",
+        "last-modified": "Sun, 18 Oct 2026 15:44:50 GMT",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=NYHXF_n1mwv3R5zgkA5mv6weUA9LnDfaRYqT7esbH2Y-1792606113.0683143-1.0.1.1-uG9YJqKdd5_lOdxdEDsFJeqt11hj7ijgXUE5niuK3uch7vvR1ptCegZQCQRB0j2mqoip9Y6MsuQi09l_s7jLZUZbPaympJEpqo24FFZBWkSIjOQonKoiTYJHY8UlbMuw; HttpOnly; SameSite=None; Secure; Path=/; Domain=staging.answerthis.io; Expires=Wed, 21 Oct 2026 18:38:33 GMT",
+        "x-amz-request-id": "tx00000d74a3ba437fdd85f-006ad8ffa1-96cb79-nyc3f",
+        "x-do-app-origin": "1351ccef-ca04-4ada-966d-80ec18f2ce9d",
+        "x-do-orig-status": "200",
+        "x-do-static-catchall-document": "index.html",
+        "x-rgw-object-type": "Normal"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "app.answerthis.io",
+        "app.answerthis.io",
+        "staging.answerthis.io",
+        "staging.answerthis.io"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a4e235491f9d2127-MAA",
+        "cf-ray: a4e2354eaea87fd4-MAA"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "nginx",
+      "kind": "hosting",
+      "seenOn": [
+        "answerthis.io",
+        "www.answerthis.io"
+      ],
+      "evidence": [
+        "server: nginx/1.24.0"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "AWS (S3/API GW)",
+      "kind": "hosting",
+      "seenOn": [
+        "app.answerthis.io",
+        "staging.answerthis.io"
+      ],
+      "evidence": [
+        "x-amz-request-id: tx000002b210bf4e0ac835b-006ad8ba82-96cb79-nyc3f",
+        "x-amz-request-id: tx00000d74a3ba437fdd85f-006ad8ffa1-96cb79-nyc3f"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "answerthis.io",
+        "www.answerthis.io",
+        "api.answerthis.io"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://answerthis.io/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"><sitemap><loc>https://answerthis.io/landing-sitemap.xml</loc></sitemap><sitemap><loc>https://answerthis.io/framer-sitemap.xml</loc></sitemap><sitemap><loc>https://answerthis.io/shared-sitemap.xml</loc></sitemap><sitemap><loc>https://answerthis.io/questions-sitemap.xml</loc></sitemap><sitemap><loc>https://answerthis.io/researchers-sitemap.xml</loc></sitemap></sitemapindex>"
+    },
+    {
+      "url": "https://answerthis.io/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# AnswerThis\n\n> AnswerThis is an AI research platform for finding papers, exploring research questions, and writing with citations.\n\n## Published answers\n\nPublished answers at https://answerthis.io/shared/{slug} contain questions, answers, cited sources, and author information. Only answers their owners have made public belong in this collection.\n\n- [Published answer sitemap](https://answerthis.io/shared-sitemap.xml): Automatically updated list of public answer URLs.\n\n## Research and writing tools\n\n- [APA 7 Student Title Page Generator](https://answerthis.io/apa-title-page-generator): Format, preview and print a student paper title page from your details in the browser. Free and unlimited; n"
+    },
+    {
+      "url": "https://answerthis.io/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=UTF-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nUser-agent: OAI-SearchBot\nUser-agent: ChatGPT-User\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: ClaudeBot\nUser-agent: GPTBot\nAllow: /\nDisallow: /api/\nDisallow: /s/\n\nSitemap: https://answerthis.io/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.answerthis.io/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=UTF-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nUser-agent: OAI-SearchBot\nUser-agent: ChatGPT-User\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: ClaudeBot\nUser-agent: GPTBot\nAllow: /\nDisallow: /api/\nDisallow: /s/\n\nSitemap: https://answerthis.io/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.answerthis.io/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"><sitemap><loc>https://answerthis.io/landing-sitemap.xml</loc></sitemap><sitemap><loc>https://answerthis.io/framer-sitemap.xml</loc></sitemap><sitemap><loc>https://answerthis.io/shared-sitemap.xml</loc></sitemap><sitemap><loc>https://answerthis.io/questions-sitemap.xml</loc></sitemap><sitemap><loc>https://answerthis.io/researchers-sitemap.xml</loc></sitemap></sitemapindex>"
+    },
+    {
+      "url": "https://www.answerthis.io/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# AnswerThis\n\n> AnswerThis is an AI research platform for finding papers, exploring research questions, and writing with citations.\n\n## Published answers\n\nPublished answers at https://answerthis.io/shared/{slug} contain questions, answers, cited sources, and author information. Only answers their owners have made public belong in this collection.\n\n- [Published answer sitemap](https://answerthis.io/shared-sitemap.xml): Automatically updated list of public answer URLs.\n\n## Research and writing tools\n\n- [APA 7 Student Title Page Generator](https://answerthis.io/apa-title-page-generator): Format, preview and print a student paper title page from your details in the browser. Free and unlimited; n"
+    },
+    {
+      "url": "https://api.answerthis.io/api/health",
+      "status": 200,
+      "contentType": "application/json",
+      "why": "health endpoint, sometimes with version + dependencies",
+      "preview": "{\"app\":\"answerthis\",\"database\":\"healthy\",\"service\":\"main_api\",\"status\":\"healthy\",\"timestamp\":\"2026-10-21T18:08:35.370219+00:00\"}\n"
+    }
+  ],
+  "dns": [
+    {
+      "host": "answerthis.io",
+      "a": [
+        "137.184.239.118"
+      ],
+      "mx": [
+        "smtp.google.com"
+      ],
+      "txt": [
+        "brevo-code:5f111b91ae37fda11b87f5b7027a43f0",
+        "brevo-code:1118ca59f545889c784501e9d9521e88",
+        "Unj8YrtyvWQcd2TPEy3N6WBf",
+        "google-site-verification=hTR9Zzn__jtV1RkX709VQ_Epj7GBkyVJARdtvIp5Ggw",
+        "v=spf1 include:_spf.google.com ~all"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    }
+  ],
+  "ats": [
+    {
+      "ats": "Ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/answerthis?includeCompensation=true",
+      "openRoles": 2,
+      "bytes": 16042
+    }
+  ],
+  "appStore": {
+    "query": "answerthis",
+    "results": [
+      {
+        "name": "Answer This For Me AI",
+        "seller": "Selcuk Dolapci",
+        "updated": "2025-12-09T13:41:46Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

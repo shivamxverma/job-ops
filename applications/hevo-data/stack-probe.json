@@ -1,0 +1,386 @@
+{
+  "domain": "hevodata.com",
+  "slug": "hevo-data",
+  "probedAt": "2026-10-21T17:39:18.815Z",
+  "liveHosts": [
+    {
+      "host": "hevodata.com",
+      "status": 200,
+      "finalUrl": "https://hevodata.com/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "38047",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 21 Oct 2026 17:39:06 GMT",
+        "link": "<https://api-docs.hevodata.com>; rel=\"service-doc\", <https://docs.hevodata.com>; rel=\"describedby\", </llms.txt>; rel=\"describedby\"",
+        "permissions-policy": "autoplay=(self \"https://www.youtube.com\" \"https://player.vimeo.com\"), fullscreen=(self \"https://www.youtube.com\" \"https://player.vimeo.com\"), autoplay=(), camera=(), encrypted-media=(), geolocation=(), microphone=(), midi=(), payment=(), vr=(), sync-xhr=(), magnetometer=(), speaker=(), vibrate=()",
+        "server": "nginx",
+        "set-cookie": "csrftoken=GEdY6nv1jueNkKQT4aq8K9u6ayPV7mFoF2u0gle3tFReA7kogLF6UipbosQ0w46N; expires=Wed, 20 Oct 2027 17:39:06 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Cookie, Accept-Encoding, Origin",
+        "via": "1.1 a431d3ebf4d06dae3cea2e3fce17c54a.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "EUTNa-WmFnnf5ngO1mwwLLpHRB104E6aq2pZwQRMCoBmsyLcb33K8A==",
+        "x-amz-cf-pop": "MAA51-P2",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff, nosniff",
+        "x-frame-options": "DENY, DENY",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "www.hevodata.com",
+      "status": 200,
+      "finalUrl": "https://hevodata.com/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "38047",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 21 Oct 2026 17:39:08 GMT",
+        "link": "<https://api-docs.hevodata.com>; rel=\"service-doc\", <https://docs.hevodata.com>; rel=\"describedby\", </llms.txt>; rel=\"describedby\"",
+        "permissions-policy": "autoplay=(self \"https://www.youtube.com\" \"https://player.vimeo.com\"), fullscreen=(self \"https://www.youtube.com\" \"https://player.vimeo.com\"), autoplay=(), camera=(), encrypted-media=(), geolocation=(), microphone=(), midi=(), payment=(), vr=(), sync-xhr=(), magnetometer=(), speaker=(), vibrate=()",
+        "server": "nginx",
+        "set-cookie": "csrftoken=LC0VJlRwhb6qFgPh01nHfqMWc3m77IWnp1GU9StdKQDtVgKgqlXRUPpDST3Gtyai; expires=Wed, 20 Oct 2027 17:39:08 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Cookie, Accept-Encoding, Origin",
+        "via": "1.1 13b043a2bcb396a6ddc6a147f4288230.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "NzoweA0YncGHw3v6x0jAqb7VvHndlOCUmxKRNyrP1iSO2BoaVxMaqQ==",
+        "x-amz-cf-pop": "MAA51-P2",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff, nosniff",
+        "x-frame-options": "DENY, DENY",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "docs.hevodata.com",
+      "status": 200,
+      "finalUrl": "https://docs.hevodata.com/",
+      "csp": [],
+      "headers": {
+        "cache-control": "no-cache",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Wed, 21 Oct 2026 17:39:07 GMT",
+        "etag": "W/\"6ad6efb2-5460f\"",
+        "expires": "Wed, 21 Oct 2026 17:39:06 GMT",
+        "last-modified": "Tue, 20 Oct 2026 04:36:02 GMT",
+        "permissions-policy": "autoplay=(), camera=(), encrypted-media=(), geolocation=(), microphone=(), midi=(), payment=(), vr=(), sync-xhr=(), magnetometer=(), speaker=(), vibrate=()",
+        "server": "nginx",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "status.hevodata.com",
+      "status": 200,
+      "finalUrl": "https://status.hevodata.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "atl-request-id": "3f661543-1c07-4d87-b873-6abcd9bfc14f",
+        "atl-traceid": "3f6615431c074d87b8736abcd9bfc14f",
+        "cache-control": "max-age=10, public, s-maxage=10, stale-while-revalidate=20, stale-if-error=3600",
+        "connection": "close",
+        "content-length": "0",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 21 Oct 2026 17:39:07 GMT",
+        "etag": "W/\"43a2e44061ef7319bdff0cf5e44b677a\"",
+        "link": "<https://dka575ofm4ao0.cloudfront.net/assets/vendor/bowser-1643ca34a6d589b2d4d42163a891e4512d5d7657125e09bb5f3d44288114e6bd.js>; rel=preload; as=script; nopush,<https://dka575ofm4ao0.cloudfront.net/assets/register_subscription_form-589b657fec607087fc5c740c568270907310bc4f6aaa20256e70f01b103025ca.js>; rel=preload; as=script; nopush,<https://dka575ofm4ao0.cloudfront.net/assets/status_common-36e1f93264b3b3c01ece0f57482daed320c8c89a71ce969a9b85f0a483eb2cfc.js>; rel=preload; as=script; nopush,<https://dka575ofm4ao0.cloudfront.net/packs/0.616b452dfc41077f3d42.css>; rel=preload; as=style; nopush,<https://dka575ofm4ao0.cloudfront.net/assets/status/status_manifest-bacce514623b1bcc6a34b048b079d9c748ed56fe60243e73a9493e7ffcbc7cdf.css>; rel=preload; as=style; nopush,<https://dka575ofm4ao0.cloudfront.net/assets/jquery-3.5.1.min-729e416557a365062a8a20f0562f18aa171da57298005d392312670c706c68de.js>; rel=preload; as=script; nopush",
+        "nel": "{\"failure_fraction\": 0.01, \"include_subdomains\": true, \"max_age\": 600, \"report_to\": \"endpoint-1\"}",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"endpoints\": [{\"url\": \"https://dz8aopenkvv6s.cloudfront.net\"}], \"group\": \"endpoint-1\", \"include_subdomains\": true, \"max_age\": 600}",
+        "server": "AtlassianEdge",
+        "server-timing": "atl-edge;dur=547,atl-edge-internal;dur=2,atl-edge-upstream;dur=545,atl-edge-pop;desc=\"aws-us-east-1\"",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept,Accept-Encoding",
+        "via": "1.1 1b7edba95bede31db3b142ddef728c48.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "rOWINtOBQIv72UvOdKg2-wUfDjCQjRLTtm97kWYpxZ7fARmLiMLmUA==",
+        "x-amz-cf-pop": "MAA51-P1",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-download-options": "noopen",
+        "x-permitted-cross-domain-policies": "none",
+        "x-pollinator-metadata-service": "status-page-web-pages",
+        "x-runtime": "0.467094",
+        "x-statuspage-skip-logging": "true",
+        "x-statuspage-version": "90f34c970c3f8f133dc3242a101d85442bccd940",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "auth.hevodata.com",
+      "status": 200,
+      "finalUrl": "https://hevodata.com/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "38043",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Wed, 21 Oct 2026 17:39:08 GMT",
+        "link": "<https://api-docs.hevodata.com>; rel=\"service-doc\", <https://docs.hevodata.com>; rel=\"describedby\", </llms.txt>; rel=\"describedby\"",
+        "permissions-policy": "autoplay=(self \"https://www.youtube.com\" \"https://player.vimeo.com\"), fullscreen=(self \"https://www.youtube.com\" \"https://player.vimeo.com\"), autoplay=(), camera=(), encrypted-media=(), geolocation=(), microphone=(), midi=(), payment=(), vr=(), sync-xhr=(), magnetometer=(), speaker=(), vibrate=()",
+        "server": "nginx",
+        "set-cookie": "csrftoken=KhOQgjQqt9i1AONXD0FaCp0ghNlHWIMqmJvL1HMCBFOoYSZA0wfMZSG6CLn7u0Mr; expires=Wed, 20 Oct 2027 17:39:08 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Cookie, Accept-Encoding, Origin",
+        "via": "1.1 9a803fcb8affb1876f17edddcef9d21a.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "gUpORTsAXBud7wHOk-FbC9twRJBLfW9vK-0quXb2-R-xqys7iabfTw==",
+        "x-amz-cf-pop": "MAA51-P2",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff, nosniff",
+        "x-frame-options": "DENY, DENY",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "blog.hevodata.com",
+      "status": 200,
+      "finalUrl": "https://hevodata.com/blog/",
+      "csp": [],
+      "headers": {
+        "age": "111826",
+        "cache-control": "max-age=2592000, public, must-revalidate",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "41203",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Tue, 20 Oct 2026 10:35:22 GMT",
+        "expires": "Sat, 26 Jul 1997 05:00:00 GMT",
+        "link": "<https://hevodata.com/blog/wp-json/>; rel=\"https://api.w.org/\", <https://hevodata.com/blog/wp-json/wp/v2/pages/3702>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://hevodata.com/blog/>; rel=shortlink",
+        "server": "Apache/2.4.62 (Debian)",
+        "set-cookie": "wordpress_google_apps_login=5ac178a5e626b85873e0158d220a1b45; path=/; secure; HttpOnly",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Accept-Encoding",
+        "via": "1.1 808ffe66787dcfd9cbf28d5c9edff2be.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "Jjp8ybUPhAXNxSaDR9MhZGJVxd6Nd7LmNOxjUgnXskBW4-IfGRo9IA==",
+        "x-amz-cf-pop": "MAA51-P2",
+        "x-cache": "Hit from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-wordpress-cacheable": "1",
+        "x-xss-protection": "1; mode=block"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "AWS CloudFront",
+      "kind": "cdn",
+      "seenOn": [
+        "hevodata.com",
+        "www.hevodata.com",
+        "status.hevodata.com",
+        "auth.hevodata.com",
+        "blog.hevodata.com"
+      ],
+      "evidence": [
+        "x-amz-cf-id: EUTNa-WmFnnf5ngO1mwwLLpHRB104E6aq2pZwQRMCoBmsyLcb33K8A==",
+        "x-amz-cf-id: NzoweA0YncGHw3v6x0jAqb7VvHndlOCUmxKRNyrP1iSO2BoaVxMaqQ==",
+        "x-amz-cf-id: rOWINtOBQIv72UvOdKg2-wUfDjCQjRLTtm97kWYpxZ7fARmLiMLmUA==",
+        "x-amz-cf-id: gUpORTsAXBud7wHOk-FbC9twRJBLfW9vK-0quXb2-R-xqys7iabfTw==",
+        "x-amz-cf-id: Jjp8ybUPhAXNxSaDR9MhZGJVxd6Nd7LmNOxjUgnXskBW4-IfGRo9IA=="
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Rails",
+      "kind": "framework",
+      "seenOn": [
+        "status.hevodata.com"
+      ],
+      "evidence": [
+        "x-runtime: 0.467094"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "nginx",
+      "kind": "hosting",
+      "seenOn": [
+        "hevodata.com",
+        "www.hevodata.com",
+        "docs.hevodata.com",
+        "auth.hevodata.com"
+      ],
+      "evidence": [
+        "server: nginx"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "hevodata.com",
+        "www.hevodata.com",
+        "docs.hevodata.com",
+        "status.hevodata.com",
+        "auth.hevodata.com",
+        "blog.hevodata.com"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://hevodata.com/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "# Content Signals — https://contentsignals.org/\n# How this site's content may be used, stated separately from who may crawl it.\n# A declaration of preference, on the same footing as the crawl rules below.\n#   search=yes    may be indexed and shown as a link or snippet in search results\n#   ai-input=yes  may be read to answer a question now, with attribution\n#                 (AI Overviews, assistant browsing, RAG)\n#   ai-train=no   may NOT be used to train or fine-tune a model\n\n# Global rules for all user-agents\nUser-agent: *\nContent-Signal: search=yes, ai-input=yes, ai-train=yes\nAllow: /\n\n# Disallow specific URLs related to the \"blog\" and \"learn\" section\nDisallow: /wp-admin/  \nDisallow: /lo"
+    },
+    {
+      "url": "https://hevodata.com/.well-known/security.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "a security contact means someone owns it",
+      "preview": "Contact: mailto:security@hevodata.com\nPreferred-Languages: en\nHiring: https://hevodata.com/careers/\n"
+    },
+    {
+      "url": "https://hevodata.com/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Hevo Data \n# Hevo Data: Reliable and cost-effective ETL to load data into Snowflake, BigQuery, Databricks and Redshift.\n\n> Hevo is a USA-based data pipeline platform. Hevo is an reliable and cost effective alternative to tools like Fivetran, Airbyte, Stitch Data, Matillion and Rivery. \n\nKey terms: ETL, ELT, Data Pipeline, Data Pipelines, Snowflake ETL, Snowflake Data Integration, Change Data Capture Tool, BigQuery ETL, BigQuery Data Integration, Redshift ETL, Redshift Data Integration, Incremental Data Load to Warehouse\n\n## Comparisons\n\n- [Amazon Redshift vs Aurora: Comparison | Hevo](https://hevodata.com/blog/amazon-redshift-vs-aurora/)\n- [Amazon Redshift VS DynamoDB: 8 Key Differences in"
+    },
+    {
+      "url": "https://hevodata.com/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url><loc>https://hevodata.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata.com/data-integration-platform/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata.com/data-migration-software/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata.com/cloud-etl-tool/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata.com/streaming-elt/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata"
+    },
+    {
+      "url": "https://www.hevodata.com/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "# Content Signals — https://contentsignals.org/\n# How this site's content may be used, stated separately from who may crawl it.\n# A declaration of preference, on the same footing as the crawl rules below.\n#   search=yes    may be indexed and shown as a link or snippet in search results\n#   ai-input=yes  may be read to answer a question now, with attribution\n#                 (AI Overviews, assistant browsing, RAG)\n#   ai-train=no   may NOT be used to train or fine-tune a model\n\n# Global rules for all user-agents\nUser-agent: *\nContent-Signal: search=yes, ai-input=yes, ai-train=yes\nAllow: /\n\n# Disallow specific URLs related to the \"blog\" and \"learn\" section\nDisallow: /wp-admin/  \nDisallow: /lo"
+    },
+    {
+      "url": "https://www.hevodata.com/.well-known/security.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "a security contact means someone owns it",
+      "preview": "Contact: mailto:security@hevodata.com\nPreferred-Languages: en\nHiring: https://hevodata.com/careers/\n"
+    },
+    {
+      "url": "https://www.hevodata.com/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Hevo Data \n# Hevo Data: Reliable and cost-effective ETL to load data into Snowflake, BigQuery, Databricks and Redshift.\n\n> Hevo is a USA-based data pipeline platform. Hevo is an reliable and cost effective alternative to tools like Fivetran, Airbyte, Stitch Data, Matillion and Rivery. \n\nKey terms: ETL, ELT, Data Pipeline, Data Pipelines, Snowflake ETL, Snowflake Data Integration, Change Data Capture Tool, BigQuery ETL, BigQuery Data Integration, Redshift ETL, Redshift Data Integration, Incremental Data Load to Warehouse\n\n## Comparisons\n\n- [Amazon Redshift vs Aurora: Comparison | Hevo](https://hevodata.com/blog/amazon-redshift-vs-aurora/)\n- [Amazon Redshift VS DynamoDB: 8 Key Differences in"
+    },
+    {
+      "url": "https://www.hevodata.com/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url><loc>https://hevodata.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata.com/data-integration-platform/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata.com/data-migration-software/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata.com/cloud-etl-tool/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata.com/streaming-elt/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url><url><loc>https://hevodata"
+    },
+    {
+      "url": "https://docs.hevodata.com/robots.txt",
+      "status": 206,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://docs.hevodata.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://docs.hevodata.com/sitemap.xml",
+      "status": 206,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n    <url>\n        <loc>https://docs.hevodata.com/account-management/acct-suspension/</loc>\n    </url>\n    <url>\n        <loc>https://docs.hevodata.com/account-management/billing/billing-alerts/</loc>\n    </url>\n    <url>\n        <loc>https://docs.hevodata.com/account-management/billing/billing-faqs/events-consumed-during-free-trial/</loc>\n    </url>\n    <url>\n        <loc>https://docs.hevodata.com/account-management/billing/billing-faqs/</loc>\n    </url>\n    <url>\n        <loc>https://docs.hevodata.com/account-management/billing/billing-faqs/loading-through-models/</loc>\n    </url>\n    <url>\n        <loc>https://docs.hevodata.com/a"
+    }
+  ],
+  "dns": [
+    {
+      "host": "hevodata.com",
+      "mx": [
+        "alt4.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com"
+      ],
+      "a": [
+        "108.158.251.116",
+        "108.158.251.4",
+        "108.158.251.82",
+        "108.158.251.48"
+      ],
+      "txt": [
+        "brevo-code:656c91bad204022968597e74e9f74bce",
+        "google-site-verification=AeMle3TpTm_zv7LRzBgKgKatGBv4iS17x7VXD5lki40",
+        "hubspot-developer-verification=Yjg4NGY1NTYtZDE5Zi00ZWUzLTgxZTUtNjM4NzA2Y2Q0ZmMx",
+        "hubspot-developer-verification=ZWUzYjRkYWQtNDQzNS00NGM2LWE0NzEtMzM1OWVkMGJlYjBh",
+        "mongodb-site-verification=n0Y2qg8KkWhfuSlmnATyrDpXPOmp4RQy",
+        "sophos-domain-verification=a357ddacd2ea5d9401b1375b6f13ded412d955579db0378a78ecad2aea216c37",
+        "stripe-verification=45ccfafde62d0cd161d2d24dd64c2d34bc4e93b364dc894f0fe5b46d5d0ee8c5",
+        "v=spf1 include:_spf.google.com include:spf.mandrillapp.com include:mail.zendesk.com include:amazonses.com include:4689644.spf07.hubspotemail.net include:mail-spf.devrev.ai ~all",
+        "OSSRH-71222",
+        "atlassian-domain-verification=N27eh1SB658ETGTe/shmDawygO9XlGXRIXLai7aXWMVa17nz5LRp4Jk0jRXBbULJ"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "AWS SES",
+        "Stripe",
+        "Atlassian / Statuspage",
+        "HubSpot",
+        "Zendesk"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "hevodata",
+    "results": [
+      {
+        "name": "PotoHEX - HEX File Editor",
+        "seller": "Alexander Pototskiy",
+        "updated": "2023-04-25T21:53:48Z"
+      },
+      {
+        "name": "Hexer — Hex File Viewer",
+        "seller": "Hans Schulein",
+        "updated": "2021-05-31T14:38:39Z"
+      },
+      {
+        "name": "Vangin",
+        "seller": "Gjaldstovan",
+        "updated": "2026-08-31T21:03:09Z"
+      },
+      {
+        "name": "Vana Data",
+        "seller": "Corsali, Inc",
+        "updated": "2026-10-20T14:57:52Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

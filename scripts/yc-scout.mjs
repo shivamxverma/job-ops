@@ -9,6 +9,9 @@
  *   node scripts/yc-scout.mjs --stale 60      # allow companies quiet up to 60d (default 30)
  *   node scripts/yc-scout.mjs --fresh         # only postings created in the last 30 days
  *   node scripts/yc-scout.mjs --all           # ignore .yc-seen.json, re-emit everything
+ *   node scripts/yc-scout.mjs --sweep 300     # company pages checked this run (default 120)
+ *   node scripts/yc-scout.mjs --sweep-all     # every due India/remote company in one run
+ *   node scripts/yc-scout.mjs --no-sweep      # grid only, the pre-2026-10-21 behaviour
  *
  * Why this works without a login: /jobs/role/{role}/{location} is server-rendered with an
  * Inertia `data-page` attribute carrying the full job objects — including the three fields
@@ -29,6 +32,7 @@ import { today } from "./lib/today.mjs";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const INBOX = join(ROOT, "inbox");
 const SEEN_FILE = join(INBOX, ".yc-seen.json");
+const SWEEP_FILE = join(INBOX, ".yc-sweep.json");
 
 const argv = process.argv.slice(2);
 const flag = (n) => argv.includes(`--${n}`);
@@ -62,6 +66,54 @@ for (const role of ROLES) {
     for (const j of p?.jobPostings ?? []) byId.set(j.id, j);
   }
 }
+const gridCount = byId.size;
+console.log(`Unique postings on the grid: ${gridCount}`);
+
+// ---- Enrich from the yc-oss mirror of YC's own Algolia index: team size, stage, tags.
+// Loaded before the sweep because the sweep picks its companies from it.
+const ycdb = await ycCompanies();
+console.log(ycdb.size ? `Enrichment: ${ycdb.size} YC companies flagged hiring.`
+                      : "Enrichment: yc-oss unreachable, continuing without it.");
+
+// ---- Company-page sweep. The grid is a sample, not the catalogue: on 2026-10-21 the India
+// page showed 23 postings and AnswerThis's remote-India Product Engineer (passes every filter)
+// was on none of the 18 pages. Every company's own /companies/{slug}/jobs page lists all its
+// roles, so we rotate through the hiring companies that list India or remote, recent batches
+// first, a capped number per run. State lives in .yc-sweep.json (slug -> last checked).
+const SWEEP_CAP = flag("no-sweep") ? 0 : flag("sweep-all") ? Infinity : Number(opt("sweep", 120));
+if (SWEEP_CAP > 0 && ycdb.size) {
+  const swept = existsSync(SWEEP_FILE) ? JSON.parse(readFileSync(SWEEP_FILE, "utf8")) : {};
+  const now = Date.now();
+  const recent = (c) => /20(2[4-9]|3\d)/.test(c.batch ?? "");
+  const reachable = (c) => /india|remote|anywhere/i.test(JSON.stringify([c.regions, c.all_locations]));
+  // Recent batches are re-checked daily, older companies every 4 days.
+  const lastChecked = (c) => (swept[c.slug] ? Date.parse(swept[c.slug]) : 0);
+  // --all re-emits everything, so it re-sweeps everything too.
+  const due = (c) => IGNORE_SEEN || now - lastChecked(c) > (recent(c) ? 1 : 4) * 864e5;
+  const queue = [...ycdb.values()]
+    .filter((c) => c.slug && reachable(c) && due(c))
+    .sort((a, b) => (recent(b) - recent(a)) || (lastChecked(a) - lastChecked(b)))
+    .slice(0, SWEEP_CAP);
+  let pages = 0, found = 0;
+  const before = byId.size;
+  for (let i = 0; i < queue.length; i += 4) {
+    await Promise.all(queue.slice(i, i + 4).map(async (c) => {
+      const p = await ycProps(`${YC}/companies/${c.slug}/jobs`);
+      if (!p) return;
+      pages++;
+      swept[c.slug] = new Date().toISOString();
+      for (const j of p.jobPostings ?? []) {
+        found++;
+        if (!byId.has(j.id)) byId.set(j.id, { ...j, companyName: j.companyName ?? p.company?.name ?? c.name });
+      }
+    }));
+  }
+  writeFileSync(SWEEP_FILE, JSON.stringify(swept, null, 2));
+  const total = [...ycdb.values()].filter((c) => c.slug && reachable(c)).length;
+  console.log(`Company pages: ${pages} checked of ${total} India/remote hiring companies, ` +
+    `${found} postings, ${byId.size - before} not on the grid.`);
+}
+
 const all = [...byId.values()];
 console.log(`Unique postings: ${all.length}`);
 
@@ -78,11 +130,6 @@ console.log(
   `too senior ${rejects.exp}, onsite outside India ${rejects["onsite-abroad"]}, company quiet >${MAX_QUIET_DAYS}d ${rejects.quiet}` +
   (FRESH_ONLY ? `, posting >30d old ${rejects.stale}` : "") + `, incomplete ${rejects.incomplete})`
 );
-
-// ---- Enrich from the yc-oss mirror of YC's own Algolia index: team size, stage, tags.
-const ycdb = await ycCompanies();
-console.log(ycdb.size ? `Enrichment: ${ycdb.size} YC companies flagged hiring.`
-                      : "Enrichment: yc-oss unreachable, continuing without it.");
 
 // ---- Score. Mechanical only — the /yc-scout skill does the judgment pass on top.
 const seen = existsSync(SEEN_FILE) ? JSON.parse(readFileSync(SEEN_FILE, "utf8")) : {};

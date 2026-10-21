@@ -61,12 +61,27 @@ export function rejectReason(j, opts = {}) {
   if (minYears(j.minExperience) > 4) return "exp";
   // India or remote only (facts.yaml work_auth.relocation). YC's location string carries
   // "Remote" when a remote option exists, e.g. "San Francisco, CA, US / Remote".
-  if (!relocateAbroad && j.location && !/remote|india|bengaluru|bangalore|mumbai|delhi|gurugram|hyderabad|pune|chennai|noida/i.test(j.location)) return "onsite-abroad";
+  // `IN` is YC's country code; matched case-sensitively so the word "in" doesn't count.
+  const inIndia = (s) => /\bIN\b/.test(s) || /india|bengaluru|bangalore|mumbai|delhi|gurugram|hyderabad|pune|chennai|noida/i.test(s);
+  if (!relocateAbroad && j.location && !/remote/i.test(j.location) && !inIndia(j.location)) return "onsite-abroad";
+  // "Remote (US)", "Remote (FR; CH)": remote, but only from those countries. Seen on company
+  // pages, which carry far more of these than the grid. Bare "Remote" stays open.
+  if (!relocateAbroad && j.location && !inIndia(j.location)) {
+    const remotes = j.location.match(/remote(\s*\([^)]*\))?/gi) ?? [];
+    if (remotes.length && remotes.every((r) => /\(/.test(r))) return "onsite-abroad";
+  }
   // Ghost-job filter: `lastActive` is when the company last signed into WaaS. An old
   // posting from an active company is fine (they leave reqs up); any posting from a
   // company that hasn't logged in for a month is shouting into a void.
   const quiet = toDays(j.lastActive);
   if (quiet !== null && quiet > maxQuietDays) return "quiet";
+  // Company /jobs pages carry no `lastActive`, so the check above can't run on them. Fall
+  // back to the posting's own age: an evergreen req up for 4+ months with no activity signal
+  // is a ghost (the first sweep graded a 7-year-old posting A without this).
+  if (quiet === null && !j.lastActive) {
+    const age = toDays(j.createdAt);
+    if (age !== null && age > 120) return "quiet";
+  }
   if (freshOnly) {
     const age = toDays(j.createdAt);
     if (age !== null && age > 30) return "stale";

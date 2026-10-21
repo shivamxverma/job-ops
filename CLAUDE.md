@@ -222,6 +222,11 @@ honest sample the system will ever have for "what converts".
   vocabulary alone +12. `node scripts/lib/fit.test.mjs` pins every case from that run.
 - `node scripts/yc-scout.mjs` — YC job grid, filtered + scored (`--fresh`, `--include-us`,
   `--all-roles`, `--all`). Public, no login, safe to run often. Writes `inbox/yc-*.json`.
+  **The grid is a sample, not the catalogue** (2026-10-21: India page showed 23 postings, and
+  AnswerThis's remote-India role, which passes every filter, was on none of the 18 pages), so
+  each run also sweeps hiring companies' own `/companies/{slug}/jobs` pages: the yc-oss hiring
+  list narrowed to India/remote (~757), recent batches daily, the rest every 4 days, 120 per
+  run (`--sweep N`, `--sweep-all`, `--no-sweep`). Rotation state in `inbox/.yc-sweep.json`.
 - **Video applications (`/job-video`, `/job-script`, `scripts/video-assets.mjs`,
   `scripts/ui-recon.mjs`) are disabled** until Shivam has his own project footage and a spoken
   voice profile. The asset scripts exit unless run with `--force`, because every path in them

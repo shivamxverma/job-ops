@@ -54,6 +54,10 @@ check("SDE II stays 0",                    delta("SDE II"), 0);
 check("Software Engineer II stays 0",      delta("Software Engineer II"), 0);
 check("'Engineer In' is not level 1",      delta("Software Engineer In Test"), 0);
 check("Staff Engineer still -30",          delta("Staff Engineer"), -30);
+check("SDE - 3 - Frontend -15 (Cloudsek)", delta("SDE - 3 - Frontend"), -15);
+check("SDE III -15",                       delta("SDE III"), -15);
+check("Software Engineer 4 -15",           delta("Software Engineer 4"), -15);
+check("SDE 2 still 0",                     delta("SDE 2"), 0);
 
 console.log("\nStated years are read from free text:");
 check("4+ years (Interview Resources)",    statedYears("Four or more years building backend systems in TypeScript or another strongly typed language"), 4);

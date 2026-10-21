@@ -289,8 +289,12 @@ const live = all.filter((j) => {
   if (age !== null && age > MAX_AGE_DAYS) { rejects.stale++; return false; }
   // ATS location is a structured field, so it is trusted more than free text: a named city
   // outside India that isn't remote is an onsite-abroad seat (Postman's SF reqs, etc.).
+  // The board's own "remote" flag is NOT enough: Infisical's "United States / United Kingdom /
+  // Brazil / Canada" is isRemote on Ashby, i.e. remote within those countries (graded B on
+  // 2026-10-22 before this). Only India or an unqualified remote/worldwide word keeps it.
   const loc = j.location ?? "";
-  if (!KEEP_BLOCKED && loc && !inIndia(loc) && (!j.remote && !/remote|anywhere|worldwide/i.test(loc) || REMOTE_LOCKED.test(loc))) {
+  const openWord = /\b(remote|anywhere|worldwide|global)\b/i.test(loc);
+  if (!KEEP_BLOCKED && loc && !inIndia(loc) && (!openWord || REMOTE_LOCKED.test(loc))) {
     rejects.abroad++; return false;
   }
   const m = matchKeywords(`${j.title} ${j.text}`);
@@ -330,7 +334,10 @@ if (!hits.length) {
 // overwrote a 104-hit file this way on 2026-10-21).
 const out = join(INBOX, `ats-${today()}.json`);
 const prev = existsSync(out) ? JSON.parse(readFileSync(out, "utf8")) : null;
-const merged = [...(prev?.hits ?? []).filter((h) => !hits.some((n) => n.id === h.id)), ...hits].sort((a, b) => b.score - a.score);
+// A posting this run looked at again is re-decided by this run (a fixed filter must be able to
+// drop yesterday's wrong hit); earlier hits this run never saw are kept.
+const scannedNow = new Set(all.map((j) => j.id));
+const merged = [...(prev?.hits ?? []).filter((h) => !scannedNow.has(h.id)), ...hits].sort((a, b) => b.score - a.score);
 writeFileSync(out, JSON.stringify({
   pulled: today(), scanned: all.length + (prev?.scanned ?? 0), survived: live.length + (prev?.survived ?? 0), hits: merged,
 }, null, 2));

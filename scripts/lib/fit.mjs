@@ -15,7 +15,9 @@
 const NON_ENG = /\b(pre-?sales( engineers?)?|sales engineers?|solutions? (architect|engineer|consultant)s?|customer (success )?engineers?|support engineers?|content engineers?|technical writer|developer (relations|advocate)|devrel|gtm|go-to-market|account (executive|manager)|recruit\w*|product manager|product marketing|designer|marketing|head of sales|sales)\b/i;
 const ENG_WORD = /\b(engineers?|engineering|eng|developers?|swe|sde|programmers?)\b/i;
 const TOP_SENIOR = /\b(chief|cto|vp|vice president|head of|director|principal|staff|distinguished|architect)\b/i;
-const SENIOR = /\b(senior|sr\.?|lead)\b/i;
+// "SDE - 3", "SDE III", "Software Engineer 3/III/IV" are senior levels on Indian ladders (usually
+// 4-7 years); Cloudsek's "SDE - 3 - Frontend" graded B on 2026-10-22 without this.
+const SENIOR = /\b(senior|sr\.?|lead)\b|\b(sde|software (development )?engineer)\s*[-–]?\s*(3|iii|4|iv)\b/i;
 // Level-1 titles from Indian ATS boards ("SDE I", "SDE-1", "Software Engineer I", "Associate
 // Software Development Engineer") are exactly his level; Hevo's "SDE I" graded C without them.
 // "SDE II" doesn't match: the trailing \b fails between the two I's.

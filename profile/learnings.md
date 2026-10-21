@@ -1267,3 +1267,31 @@ checked against a real send record rather than against the tracker's claim about
   invitations remaining for this month"** before the first one. network-scout's templates assume 300 and
   were 229/262 chars, so both had to be trimmed live. Draft notes at ≤200, and spend the ~3 notes/month
   on founders/hiring managers; alumni invites can go bare (shared college + mutuals carry them).
+
+- **X chat drops keystrokes when text is typed fast** (2026-10-21, Specific Labs DM): typing a 520-char
+  message into x.com/i/chat lost ~10 letters ("lik", "evl", "Napur"). Caught by zooming before send.
+  Reliable method: focus the box, then in JS walk `activeElement.shadowRoot` to the TEXTAREA, call
+  `.select()` and `document.execCommand('insertText', false, fullText)` (newlines included), and
+  check `value === fullText` before clicking send. Never send a DM without that exact-match check.
+
+- **A message left typed in a LinkedIn compose box is one click from sent** (2026-10-21, Mahesh
+  Vaishnav). The ask was typed and verified unsent, the session moved on to other work in the same
+  tab, and the thread later showed it sent at 22:23 with no Send click from the session. Shivam then
+  said to skip it. Rule: type a message only in the same turn as the send decision. If the answer
+  is "not yet", clear the box before leaving the thread, and never leave a draft parked for later.
+
+- **A plain-text Gmail draft created through the API gets its bare domains mangled** (2026-10-21,
+  ZeroGrunt). `create_draft` with only `body` stored "poiro.com", "klimb.io" and the signature links
+  as plain text; opening the draft in Gmail's compose window autolinked them and then saved the
+  *visible text* as `https://www.google.com/url?q=http://poiro.com&source=gmail&ust=...`. Rule: always
+  pass `htmlBody` with explicit `<a href>` links alongside `body`. And `update_draft` drops
+  attachments unless re-sent, so attach a PDF last, through the compose window's file input.
+
+- **The Gmail redirect-text bug already reached three founders before it was caught** (found
+  2026-10-22). The DeciOps application (2026-10-20) and the Trackerbot and CyberAtlas follow-ups
+  (2026-10-21) all went out with bare domains turned into `https://www.google.com/url?q=...` text,
+  and the DeciOps one also said "Resume attached" with no attachment (3.8 KB). The DeciOps founder's
+  reply opened with "Please send resume and not multiple links". Rules: (1) every `create_draft`
+  carries `htmlBody`; (2) before telling Shivam a draft is ready, `get_draft` it and grep for
+  `google.com/url`; (3) "Resume attached" in a body means the draft must show the PDF chip, checked.
+

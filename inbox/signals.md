@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team** — B | Wed, 21 Oct 2026 | Inc42: https://inc42.com/buzz/enterprise-ai-startup-auxoai-nets-20-7m-to-strengthen-its-fde-team/ | why: sector: ai; funding: raised
+
 - [ ] **Hunar.AI** — B | Tue, 20 Oct 2026 | YourStory: https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures | why: sector: ai; funding: raises
 
 - [ ] **Hunar** — A (posting live 2026-10-20: Back End Developer, Bengaluru, 4-6 yrs) | Mon, 19 Oct 2026 | Inc42: https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/ | why: hiring mention (hiring); sector: ai; funding: raises

@@ -1,0 +1,675 @@
+{
+  "domain": "revvox.io",
+  "slug": "revvox",
+  "probedAt": "2026-10-22T03:06:56.905Z",
+  "liveHosts": [
+    {
+      "host": "revvox.io",
+      "status": 200,
+      "finalUrl": "https://www.revvox.io/",
+      "csp": [
+        "app.revvox.io",
+        "experts.revvox.io"
+      ],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "37890",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-length": "132907",
+        "content-security-policy": "default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self'; frame-src 'self'; connect-src 'self' https://app.revvox.io https://experts.revvox.io",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Thu, 22 Oct 2026 03:06:48 GMT",
+        "etag": "\"4d3a13fb083ee25f098ae4519e4241b9\"",
+        "permissions-policy": "geolocation=(), microphone=(), camera=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::qjrk9-1792638408899-36f2717341af"
+      }
+    },
+    {
+      "host": "www.revvox.io",
+      "status": 200,
+      "finalUrl": "https://www.revvox.io/",
+      "csp": [
+        "app.revvox.io",
+        "experts.revvox.io"
+      ],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "37890",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-length": "132907",
+        "content-security-policy": "default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self'; frame-src 'self'; connect-src 'self' https://app.revvox.io https://experts.revvox.io",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Thu, 22 Oct 2026 03:06:48 GMT",
+        "etag": "\"4d3a13fb083ee25f098ae4519e4241b9\"",
+        "permissions-policy": "geolocation=(), microphone=(), camera=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::7lf77-1792638408704-903c02b08397"
+      }
+    },
+    {
+      "host": "app.revvox.io",
+      "status": 200,
+      "finalUrl": "https://app.revvox.io/sign-in",
+      "csp": [
+        "checkout.razorpay.com",
+        "cdn.razorpay.com",
+        "licdn.com",
+        "hooks.revvox.io",
+        "elevenlabs.io",
+        "api.razorpay.com",
+        "lumberjack.razorpay.com",
+        "voice.revvox.io",
+        "www.youtube-nocookie.com"
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'nonce-6K51fGYjfcngrVDrMCiDnw==' 'sha256-3nZOkc2eE4vUyteszQrwTOCWinMXVcY23WZSG2sCVqQ=' blob: https://checkout.razorpay.com https://cdn.razorpay.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://cdn.razorpay.com https://*.licdn.com https://licdn.com https://hooks.revvox.io; font-src 'self' data:; media-src 'self' blob: https://storage.googleapis.com https://*.elevenlabs.io https://hooks.revvox.io; connect-src 'self' https://*.elevenlabs.io wss://*.elevenlabs.io https://api.razorpay.com https://lumberjack.razorpay.com wss://voice.revvox.io https://hooks.revvox.io; worker-src 'self' blob:; frame-src 'self' https://www.youtube-nocookie.com https://checkout.razorpay.com https://api.razorpay.com; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests; report-uri /api/csp-report",
+        "content-security-policy-report-only": "default-src 'self'; script-src 'self' 'nonce-6K51fGYjfcngrVDrMCiDnw==' 'strict-dynamic' 'sha256-3nZOkc2eE4vUyteszQrwTOCWinMXVcY23WZSG2sCVqQ=' https://checkout.razorpay.com https://cdn.razorpay.com; style-src 'self' 'unsafe-inline'; style-src-elem 'self' 'nonce-6K51fGYjfcngrVDrMCiDnw=='; style-src-attr 'unsafe-inline'; img-src 'self' data: blob: https://cdn.razorpay.com https://*.licdn.com https://licdn.com https://hooks.revvox.io; font-src 'self' data:; media-src 'self' blob: https://storage.googleapis.com https://*.elevenlabs.io https://hooks.revvox.io; connect-src 'self' https://*.elevenlabs.io wss://*.elevenlabs.io https://api.razorpay.com https://lumberjack.razorpay.com wss://voice.revvox.io https://hooks.revvox.io; worker-src 'self' blob:; frame-src 'self' https://www.youtube-nocookie.com https://checkout.razorpay.com https://api.razorpay.com; object-src 'none'; base-uri 'none'; form-action 'self' https://app.revvox.io https://dial.revvox.io https://loop.revvox.io https://talk.revvox.io https://experts.revvox.io https://accounts.google.com https://www.linkedin.com; frame-ancestors 'none'; report-uri /api/csp-report",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "link": "</_next/static/media/GeistMono_Variable-s.p.1sg4ifey12l8-.woff2?dpl=dpl_G7AGUScMSwFt8TW53oiAZ22F9Snm>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"6K51fGYjfcngrVDrMCiDnw==\"; type=\"font/woff2\", </_next/static/media/Geist_Variable-s.p.2mxb0x7usg4km.woff2?dpl=dpl_G7AGUScMSwFt8TW53oiAZ22F9Snm>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"6K51fGYjfcngrVDrMCiDnw==\"; type=\"font/woff2\"",
+        "permissions-policy": "camera=(), microphone=(self), geolocation=(), payment=(), usb=(), serial=(), hid=(), bluetooth=(), midi=(), display-capture=(), browsing-topics=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/sign-in",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::bom1::cdpgh-1792638408921-7d3c67550d47"
+      }
+    },
+    {
+      "host": "api.revvox.io",
+      "status": 401,
+      "finalUrl": "https://api.revvox.io/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "78",
+        "content-security-policy": "default-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'",
+        "content-type": "application/json; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Thu, 22 Oct 2026 03:06:48 GMT",
+        "referrer-policy": "no-referrer",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "via": "1.1 Caddy",
+        "x-content-type-options": "nosniff",
+        "x-correlation-id": "cor_2c249c6a50ee46d3921b458e",
+        "x-frame-options": "DENY",
+        "x-permitted-cross-domain-policies": "none"
+      }
+    },
+    {
+      "host": "experts.revvox.io",
+      "status": 200,
+      "finalUrl": "https://interviews.revvox.io/",
+      "csp": [
+        "app.revvox.io",
+        "experts.revvox.io"
+      ],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "39328",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-length": "188179",
+        "content-security-policy": "default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; font-src 'self'; frame-src 'self'; connect-src 'self' https://app.revvox.io https://experts.revvox.io",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "etag": "\"7c3ec44ac1b9f708ffc3c891819e68e9\"",
+        "permissions-policy": "geolocation=(), microphone=(), camera=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-matched-path": "/iv",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::bqtk6-1792638409921-64b7e1eb309d"
+      }
+    },
+    {
+      "host": "checkout.razorpay.com",
+      "status": 200,
+      "finalUrl": "https://checkout.razorpay.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "close",
+        "content-length": "0",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "server": "awselb/2.0",
+        "via": "1.1 d04a769bc9c2fcda0d38a6134a31036a.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "3011DdSkQhO-qK_FW70Jy-7Ni0BzN6tXDuHGmb9swKtdeRleVyqCbw==",
+        "x-amz-cf-pop": "MAA51-P2",
+        "x-cache": "Miss from cloudfront"
+      }
+    },
+    {
+      "host": "cdn.razorpay.com",
+      "status": 403,
+      "finalUrl": "https://cdn.razorpay.com/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-type": "application/xml",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "server": "AmazonS3",
+        "via": "1.1 9a803fcb8affb1876f17edddcef9d21a.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "CccLcjmgUJF4Y_NUeHH9PtTSibnRRwzK7W6a0c8H1ciksAgUHFvIBQ==",
+        "x-amz-cf-pop": "MAA51-P2",
+        "x-cache": "Error from cloudfront"
+      }
+    },
+    {
+      "host": "hooks.revvox.io",
+      "status": 404,
+      "finalUrl": "https://hooks.revvox.io/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "92",
+        "content-security-policy": "default-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'",
+        "content-type": "application/json; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "referrer-policy": "no-referrer",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "via": "1.1 Caddy",
+        "x-content-type-options": "nosniff",
+        "x-correlation-id": "cor_395900495d0742439caca0e9",
+        "x-frame-options": "DENY",
+        "x-permitted-cross-domain-policies": "none"
+      }
+    },
+    {
+      "host": "elevenlabs.io",
+      "status": 200,
+      "finalUrl": "https://elevenlabs.io/",
+      "csp": [
+        "payload.elevenlabs.io"
+      ],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "s-maxage=3600, stale-while-revalidate=31532400",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "frame-ancestors 'self' https://payload.elevenlabs.io;",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "etag": "W/\"mlmrgp7uf1l1lu\"",
+        "link": "</llms.txt>; rel=\"describedby\", </docs>; rel=\"service-doc\", </.well-known/api-catalog>; rel=\"api-catalog\"",
+        "server": "nginx/1.30.4",
+        "set-cookie": "geo_country=IN; Path=/; Expires=Fri, 23 Oct 2026 03:06:49 GMT; Max-Age=86400; SameSite=strict",
+        "strict-transport-security": "max-age=1800;",
+        "transfer-encoding": "chunked",
+        "vary": "Accept-Encoding,rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "via": "1.1 google",
+        "x-deployment-id": "02f1342c38e4ce49154fa10ab05cda8ea4773803",
+        "x-external-managed-migration-selected-scheme": "EXTERNAL_MANAGED",
+        "x-middleware-rewrite": "/en",
+        "x-nextjs-cache": "HIT",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-powered-by": "Next.js",
+        "x-region": "asia-southeast1"
+      }
+    },
+    {
+      "host": "api.razorpay.com",
+      "status": 406,
+      "finalUrl": "https://api.razorpay.com/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-length": "0",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "server": "awselb/2.0"
+      }
+    },
+    {
+      "host": "lumberjack.razorpay.com",
+      "status": 200,
+      "finalUrl": "https://lumberjack.razorpay.com/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-length": "0",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "server": "awselb/2.0"
+      }
+    },
+    {
+      "host": "voice.revvox.io",
+      "status": 404,
+      "finalUrl": "https://voice.revvox.io/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "92",
+        "content-security-policy": "default-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'",
+        "content-type": "application/json; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "referrer-policy": "no-referrer",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "via": "1.1 Caddy",
+        "x-content-type-options": "nosniff",
+        "x-correlation-id": "cor_27a927ff44e64d748e9e0a79",
+        "x-frame-options": "DENY",
+        "x-permitted-cross-domain-policies": "none"
+      }
+    },
+    {
+      "host": "www.youtube-nocookie.com",
+      "status": 404,
+      "finalUrl": "https://www.youtube-nocookie.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "0",
+        "content-security-policy": "require-trusted-types-for 'script', base-uri 'self';object-src 'none';script-src 'report-sample' 'nonce-GRULMvhy5J5V5K7KEONW9A' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';report-uri https://csp.withgoogle.com/csp/youtube_other/strict",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=\"youtube_other\"",
+        "date": "Thu, 22 Oct 2026 03:06:49 GMT",
+        "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+        "origin-trial": "AsnbWYr3bqK88n/C2BgXPMpBC+msV4jf6vsgnAir+gFnHw3zXZEKmz271E4vhxTja+7SD2q3dr2BxZlHzvj9HA0AAACBeyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUtbm9jb29raWUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9, AljwPAJo3+41lyjlBVByBBE+UMFZKPdSfOadrTZ6a4n3tNhhBg3ZaulnoHD+OVOxw5CPeNNhSf83L/oPmBaVfAsAAAB0eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUtbm9jb29raWUuY29tOjQ0MyIsImZlYXR1cmUiOiJDb25uZWN0aW9uQWxsb3dsaXN0IiwiZXhwaXJ5IjoxNzg4ODI1NjAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=",
+        "permissions-policy": "ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*",
+        "pragma": "no-cache",
+        "report-to": "{\"group\":\"youtube_other\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/youtube_other\"}]}",
+        "reporting-endpoints": "youtube_other-connectionallowlist=\"https://csp.withgoogle.com/csp/report-to/youtube_other/connectionallowlist\"",
+        "server": "ESF",
+        "strict-transport-security": "max-age=31536000",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "0"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [
+    "experts.revvox.io",
+    "hooks.revvox.io",
+    "voice.revvox.io"
+  ],
+  "embeddedVendorHosts": [
+    "checkout.razorpay.com",
+    "cdn.razorpay.com",
+    "licdn.com",
+    "elevenlabs.io",
+    "api.razorpay.com",
+    "lumberjack.razorpay.com",
+    "www.youtube-nocookie.com"
+  ],
+  "stack": [
+    {
+      "tech": "AWS CloudFront",
+      "kind": "cdn",
+      "seenOn": [
+        "checkout.razorpay.com",
+        "cdn.razorpay.com"
+      ],
+      "evidence": [
+        "x-amz-cf-id: 3011DdSkQhO-qK_FW70Jy-7Ni0BzN6tXDuHGmb9swKtdeRleVyqCbw==",
+        "x-amz-cf-id: CccLcjmgUJF4Y_NUeHH9PtTSibnRRwzK7W6a0c8H1ciksAgUHFvIBQ=="
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Next.js (prerendered route)",
+      "kind": "framework",
+      "seenOn": [
+        "revvox.io",
+        "www.revvox.io",
+        "experts.revvox.io",
+        "elevenlabs.io"
+      ],
+      "evidence": [
+        "x-nextjs-prerender: 1"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js App Router (React Server Components)",
+      "kind": "framework",
+      "seenOn": [
+        "revvox.io",
+        "www.revvox.io",
+        "app.revvox.io",
+        "experts.revvox.io",
+        "elevenlabs.io"
+      ],
+      "evidence": [
+        "vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "vary: Accept-Encoding,rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js",
+      "kind": "framework",
+      "seenOn": [
+        "app.revvox.io",
+        "elevenlabs.io",
+        "elevenlabs.io"
+      ],
+      "evidence": [
+        "x-powered-by: Next.js",
+        "x-nextjs-cache: HIT"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "revvox.io",
+        "www.revvox.io",
+        "app.revvox.io",
+        "experts.revvox.io"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "revvox.io",
+        "www.revvox.io",
+        "app.revvox.io",
+        "experts.revvox.io"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::qjrk9-1792638408899-36f2717341af",
+        "x-vercel-id: bom1::7lf77-1792638408704-903c02b08397",
+        "x-vercel-id: bom1::bom1::cdpgh-1792638408921-7d3c67550d47",
+        "x-vercel-id: bom1::bqtk6-1792638409921-64b7e1eb309d"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "revvox.io",
+        "www.revvox.io",
+        "app.revvox.io",
+        "experts.revvox.io"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::qjrk9-1792638408899-36f2717341af",
+        "x-vercel-id: bom1::7lf77-1792638408704-903c02b08397",
+        "x-vercel-id: bom1::bom1::cdpgh-1792638408921-7d3c67550d47",
+        "x-vercel-id: bom1::bqtk6-1792638409921-64b7e1eb309d"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "AWS ELB",
+      "kind": "hosting",
+      "seenOn": [
+        "checkout.razorpay.com",
+        "api.razorpay.com",
+        "lumberjack.razorpay.com"
+      ],
+      "evidence": [
+        "server: awselb/2.0"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "nginx",
+      "kind": "hosting",
+      "seenOn": [
+        "elevenlabs.io"
+      ],
+      "evidence": [
+        "server: nginx/1.30.4"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://revvox.io/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Revvox\n\n> Revvox: Agentic AI voice agent that calls every lead in minutes, in English, Hindi, Kannada and 7 more languages. It asks your qualifying questions, scores the answers by your own rules and sends the outcome to your CRM. Priced per lead, applicant or conversation, not per minute.\n\nRevvox (revvox.io) is a conversational AI company: voice and chat agents for sales, hiring and support. It is not Team RevvoX (the Toniebox project), and not the Revox audio brand or revox.io.\n\n## What it is\n- Lead qualification for businesses that buy paid leads: every new lead from Google Lead Forms or your website form is called within minutes. The native Meta Lead Ads connector is next (not live yet"
+    },
+    {
+      "url": "https://revvox.io/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: GPTBot\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: OAI-SearchBot\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: ChatGPT-User\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: ClaudeBot\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: Claude-SearchBot\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: Claude-User\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: anthropic-ai\nAllow: /\nDisallow: /api/\nContent-Signal: search"
+    },
+    {
+      "url": "https://revvox.io/.well-known/security.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "Contact: mailto:hello@revvox.io\nExpires: 2027-09-26T00:00:00.000Z\nPolicy: https://www.revvox.io/security#disclosure\nCanonical: https://www.revvox.io/.well-known/security.txt\nPreferred-Languages: en\n"
+    },
+    {
+      "url": "https://revvox.io/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://www.revvox.io/</loc>\n<lastmod>2026-10-17</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/product</loc>\n<lastmod>2026-09-26</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/product/dial</loc>\n<lastmod>2026-10-17</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/product/loop</loc>\n<lastmod>2026-09-26</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/product/talk</loc>\n<lastmod>2026-10-10</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/pricing</loc>\n<lastmod>2026-10-17</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/solutions</loc>\n<lastmod>2026-09-26</lastmod>\n</url>\n<u"
+    },
+    {
+      "url": "https://www.revvox.io/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://www.revvox.io/</loc>\n<lastmod>2026-10-17</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/product</loc>\n<lastmod>2026-09-26</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/product/dial</loc>\n<lastmod>2026-10-17</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/product/loop</loc>\n<lastmod>2026-09-26</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/product/talk</loc>\n<lastmod>2026-10-10</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/pricing</loc>\n<lastmod>2026-10-17</lastmod>\n</url>\n<url>\n<loc>https://www.revvox.io/solutions</loc>\n<lastmod>2026-09-26</lastmod>\n</url>\n<u"
+    },
+    {
+      "url": "https://www.revvox.io/.well-known/security.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "Contact: mailto:hello@revvox.io\nExpires: 2027-09-26T00:00:00.000Z\nPolicy: https://www.revvox.io/security#disclosure\nCanonical: https://www.revvox.io/.well-known/security.txt\nPreferred-Languages: en\n"
+    },
+    {
+      "url": "https://www.revvox.io/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Revvox\n\n> Revvox: Agentic AI voice agent that calls every lead in minutes, in English, Hindi, Kannada and 7 more languages. It asks your qualifying questions, scores the answers by your own rules and sends the outcome to your CRM. Priced per lead, applicant or conversation, not per minute.\n\nRevvox (revvox.io) is a conversational AI company: voice and chat agents for sales, hiring and support. It is not Team RevvoX (the Toniebox project), and not the Revox audio brand or revox.io.\n\n## What it is\n- Lead qualification for businesses that buy paid leads: every new lead from Google Lead Forms or your website form is called within minutes. The native Meta Lead Ads connector is next (not live yet"
+    },
+    {
+      "url": "https://www.revvox.io/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: GPTBot\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: OAI-SearchBot\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: ChatGPT-User\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: ClaudeBot\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: Claude-SearchBot\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: Claude-User\nAllow: /\nDisallow: /api/\nContent-Signal: search=yes, ai-input=yes\n\nUser-Agent: anthropic-ai\nAllow: /\nDisallow: /api/\nContent-Signal: search"
+    },
+    {
+      "url": "https://app.revvox.io/api/health",
+      "status": 200,
+      "contentType": "application/json",
+      "why": "health endpoint, sometimes with version + dependencies",
+      "preview": "{\"ok\":true}"
+    },
+    {
+      "url": "https://api.razorpay.com/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=UTF-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nDisallow: /\n\nUser-agent: ia_archiver\nDisallow: /\n"
+    },
+    {
+      "url": "https://www.youtube-nocookie.com/robots.txt",
+      "status": 206,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "# robots.txt file for YouTube\n# Created in the distant future (the year 2000) after\n# the robotic uprising of the mid 90's which wiped out all humans.\n\nUser-agent: Mediapartners-Google*\nDisallow:\n\nUser-agent: *\nDisallow: /bulletin\nDisallow: /channel_picker\nDisallow: /comment\nDisallow: /forgot\nDisallow: /get_video\nDisallow: /get_video_info\nDisallow: /login\nDisallow: /results\nDisallow: /signup\nDisallow: /t/terms\nDisallow: /t/privacy\nDisallow: /verify_age\nDisallow: /videos\nDisallow: /watch_ajax\nDisallow: /watch_popup\nDisallow: /watch_queue_ajax\n"
+    }
+  ],
+  "dns": [
+    {
+      "host": "revvox.io",
+      "a": [
+        "216.150.1.1"
+      ],
+      "mx": [
+        "SMTP.GOOGLE.COM"
+      ],
+      "txt": [
+        "google-site-verification=WmTiYlwXErBJFjPJcQ2oLfhoaKlHvweWdn-tt5k-iEo"
+      ],
+      "vendors": [
+        "Google Workspace (mail)"
+      ]
+    },
+    {
+      "host": "experts.revvox.io",
+      "a": [
+        "216.150.16.193",
+        "216.150.1.193"
+      ],
+      "cname": [
+        "75e96a5e6768f3cc.vercel-dns-016.com"
+      ],
+      "mx": [],
+      "txt": [],
+      "vendors": [
+        "Vercel"
+      ]
+    },
+    {
+      "host": "checkout.razorpay.com",
+      "mx": [],
+      "cname": [
+        "prod-checkout-weighted.razorpay.com"
+      ],
+      "a": [
+        "108.158.251.16",
+        "108.158.251.118",
+        "108.158.251.10",
+        "108.158.251.66"
+      ],
+      "txt": [],
+      "vendors": []
+    },
+    {
+      "host": "cdn.razorpay.com",
+      "a": [
+        "108.158.251.11",
+        "108.158.251.106",
+        "108.158.251.38",
+        "108.158.251.45"
+      ],
+      "vendors": []
+    },
+    {
+      "host": "licdn.com",
+      "txt": [
+        "_o2u18sy8jbsvaw36p3lw6mvbde867q8",
+        "_qlmbx59s6vmc3jm8r74lhan6fgzfmlr",
+        "_x847yd84j22x08lknv0cdcny1saraga",
+        "google-site-verification=IKJsxch-oT8ezBp_aIQq3iRyb91ysqV8MWp6QWVochM",
+        "google-site-verification=bj52p8Z5QgVqdl03TLKoXOhcazH61wF-x62DGJCa9uk",
+        "n9p9dhwz7g81x06ksd9447hvf0gkyn9w",
+        "v=spf1 -all",
+        "3ea5ec1366f84c909a170d7f047e1db3",
+        "CM-94016"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "revvox",
+    "results": [
+      {
+        "name": "Rev: Record & Transcribe",
+        "seller": "Rev.com, Inc.",
+        "updated": "2026-10-19T13:21:18Z"
+      },
+      {
+        "name": "Velox – AI Video & Photo",
+        "seller": "Opal Labs Oy",
+        "updated": "2026-10-01T15:30:06Z"
+      },
+      {
+        "name": "RevMov - Reverse Video Editor",
+        "seller": "REAFO CO., LTD.",
+        "updated": "2026-09-25T04:40:46Z"
+      },
+      {
+        "name": "DirectLoader",
+        "seller": "VOXX Electronics Corp",
+        "updated": "2026-10-13T20:40:12Z"
+      },
+      {
+        "name": "Utah's VFX 94.5",
+        "seller": "Sun Valley Radio, Inc",
+        "updated": "2026-08-26T22:34:56Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

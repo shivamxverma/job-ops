@@ -499,6 +499,111 @@
           "target": "applications/hevo-data"
         }
       ]
+    },
+    {
+      "id": "karta-signal",
+      "kind": "signal",
+      "company": "Karta AI",
+      "grade": "A",
+      "title": "Karta AI: send the ask to Harsh Yadav (1st°, works there)",
+      "sub": "Raised $3M seed today, voice AI agents for BFSI, Bengaluru. No eng posting yet, but you know someone inside.",
+      "links": [
+        {
+          "label": "Harsh Yadav",
+          "url": "https://www.linkedin.com/in/harsh-yadav5554/"
+        },
+        {
+          "label": "Funding news",
+          "url": "https://inc42.com/buzz/karta-ai-raises-3-mn-to-automate-inbound-calls-for-bfsi-players/"
+        },
+        {
+          "label": "Karta site",
+          "url": "https://www.getkarta.ai/"
+        },
+        {
+          "label": "replies.md (the DM)",
+          "url": "file:///Users/shivamverma/projects/job-ops/inbox/replies.md"
+        }
+      ],
+      "steps": [
+        "Send the DM to Harsh from inbox/replies.md (section 'Karta')"
+      ],
+      "background": "Signal A from today's Inc42 feed. Founded 2024 by ex-Razorpay Vijaypal Singh (CEO) and Abhishek Kushwaha; 11-50 people; customers incl. PhonePe, Bajaj, Aavas; ~2M conversations/month in 25+ languages. Raise is mostly for GTM, some product. LinkedIn jobs page only shows a CS ops intern. Harsh Yadav (Developer, voice agents) is a 1st° connection, so the move is a direct ask, not a cold email. Proof used: klimb.io AI interview platform with a live voice round. If he says yes, say 'work Karta' and the pipeline runs.",
+      "tags": [
+        "warm path"
+      ]
+    },
+    {
+      "id": "verify-submits-2026-10-22",
+      "kind": "action",
+      "company": "5 applications",
+      "grade": "B",
+      "title": "Confirm 5 forms were actually submitted",
+      "sub": "No confirmation email in Gmail for Cardboard, Hevo, Kulfi, Applied Systems, Flexiple. Optexity and SingleStore did confirm.",
+      "links": [
+        {
+          "label": "Cardboard (Ashby)",
+          "url": "https://jobs.ashbyhq.com/cardboard/71a37ec3-d1df-4769-b018-a1c8f986bc1f/application"
+        },
+        {
+          "label": "Kulfi (Dover)",
+          "url": "https://app.dover.com/apply/kulfi/25724642-9216-4ad8-b0fd-fce0151eee35"
+        },
+        {
+          "label": "Applied Systems (iCIMS)",
+          "url": "https://india-appliedsystems.icims.com/jobs/7883/ai-software-engineer/job"
+        },
+        {
+          "label": "Flexiple",
+          "url": "https://app.flexiple.com/jobs/13139"
+        }
+      ],
+      "steps": [
+        "Cardboard: submitted?",
+        "Hevo Data (Lever): submitted?",
+        "Kulfi: submitted?",
+        "Applied Systems: submitted?",
+        "Flexiple: submitted?"
+      ],
+      "background": "Gmail sweep 2026-10-22. Ashby, Lever, Dover and iCIMS normally email a receipt within minutes, and Ashby did for Optexity. The tracker logged these as sent when their folders were complete, not when you clicked submit. If one did not go out, tell Claude and its row goes back to hold. Also open: did OpenAlex and Interview Resources (2026-09-29) go out? No trace of either in this Gmail."
+    },
+    {
+      "id": "revvox-lead",
+      "kind": "lead",
+      "company": "Revvox",
+      "grade": "B",
+      "title": "Revvox: send the email + DM (AI voice screening, you know someone inside)",
+      "sub": "AI agents that phone-screen applicants + a sandboxed coding round. Careers page: 'send what you built and what broke'. Your klimb voice round + CodeSM fit exactly.",
+      "links": [
+        {
+          "label": "Gmail draft",
+          "url": "https://mail.google.com/mail/u/0/#drafts"
+        },
+        {
+          "label": "Prince on LinkedIn",
+          "url": "https://www.linkedin.com/in/iprincekumarsingh/"
+        },
+        {
+          "label": "Revvox careers",
+          "url": "https://revvox.io/careers"
+        },
+        {
+          "label": "outreach.md",
+          "url": "file:///Users/shivamverma/projects/job-ops/applications/revvox/outreach.md"
+        }
+      ],
+      "steps": [
+        "Attach applications/revvox/resume.pdf to the Gmail draft 'Working at Revvox' and send",
+        "Send Prince the DM from outreach.md"
+      ],
+      "background": "Found via the network map, not a posting: Prince Kumar Singh (1st°) has 'Founder, Revvox' in his headline. The site names Aastha and Tanay Bewaja as founders, so the email goes to them at hello@ and the DM to Prince stays casual. No open role listed, but the careers page explicitly invites engineers who shipped voice/real-time systems. Dossier and tech-read (with 2 internals questions) are in applications/revvox/. Public launch 16 Nov. Tracker logs it sent with follow-up 29 Oct.",
+      "buttons": [
+        {
+          "label": "Open the Revvox folder",
+          "action": "reveal",
+          "target": "applications/revvox"
+        }
+      ]
     }
   ]
 }

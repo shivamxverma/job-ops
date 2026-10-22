@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Karta AI** — A | Thu, 22 Oct 2026 | Inc42: https://inc42.com/buzz/karta-ai-raises-3-mn-to-automate-inbound-calls-for-bfsi-players/ | why: stage: early-stage; sector: ai; funding: raises | **warm: Harsh Yadav (1st°, Developer, voice agents @ Karta), linkedin.com/in/harsh-yadav5554** — ex-Razorpay founders (Vijaypal Singh, Abhishek Kushwaha), Bengaluru, 11-50, $3 Mn seed 2026-10-22 led by PeerCapital + Cedar Hill, voice AI agents for BFSI inbound, ~2 Mn conversations/month. No eng posting (LinkedIn jobs: one CS ops intern). Ask to Harsh drafted in inbox/replies.md
+- [ ] **CureBay** — C | Thu, 22 Oct 2026 | Inc42: https://inc42.com/buzz/curebay-bags-%e2%82%b9100-cr-to-scale-rural-clinics-network-enhance-ai-screening-offerings/ | why: stage: late-stage; sector: ai; funding: raised
+
 - [ ] **Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation** — C | Wed, 21 Oct 2026 | Inc42: https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/ | why: stage: late-stage; sector: ai; funding: raised
 
 - [ ] **Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team** — B | Wed, 21 Oct 2026 | Inc42: https://inc42.com/buzz/enterprise-ai-startup-auxoai-nets-20-7m-to-strengthen-its-fde-team/ | why: sector: ai; funding: raised

@@ -101,3 +101,12 @@ Their post: https://x.com/Jumbohomes_/status/2112446911060058170 ("looking for a
 Type it slowly or paste it (X chat drops keystrokes when typed fast), then zoom and check before sending.
 
 > Hi, saw your product engineer post. I'm Shivam, backend and full-stack at poiro.com right now, based in Bengaluru. Before that at klimb.io I built the backend for an AI interview platform that hundreds of candidates went through. Happy to work directly with the founders and own things end to end. What's the biggest thing you're rebuilding first in the buying flow? shivamworks.dev
+
+## Karta: LinkedIn DM to Harsh Yadav (drafted 2026-10-22, not sent)
+Target: https://www.linkedin.com/in/harsh-yadav5554/ (1st°, Message button works). Why: Karta raised a $3 Mn seed today (Inc42: https://inc42.com/buzz/karta-ai-raises-3-mn-to-automate-inbound-calls-for-bfsi-players/), builds voice AI agents for BFSI inbound support, and has no engineering posting yet. Harsh works there on voice agents, so this asks the question only an insider can answer. If you remember how you two connected, swap that into the first line.
+
+> Hey Harsh, saw Karta closed the $3M seed today, congrats to the team. I'm Shivam, backend intern at poiro.com and looking for my first full-time role in Bengaluru. Closest thing I've built to what you do: the backend for an AI interview platform at klimb.io with a live voice round that asks questions from the candidate's resume and scores the transcript. Hundreds of candidates went through it.
+>
+> Is Karta adding engineers after the raise? If yes, would you be up for pointing me at whoever's hiring? No stress if that's awkward.
+>
+> shivamworks.dev

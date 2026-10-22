@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **TravClan** — B | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others | why: sector: ai; funding: raises
+
 - [ ] **Japanese-Themed Dining Chain Harajuku Tokyo Café** — C | Thu, 22 Oct 2026 | Inc42: https://inc42.com/buzz/japanese-themed-dining-chain-harajuku-tokyo-cafe-raises-3-mn/ | why: funding: raises
 - [ ] **CureBay** — C | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures | why: stage: late-stage; sector: ai; funding: raises
 - [ ] **Chapter Home** — C | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt | why: funding: raises

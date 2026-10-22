@@ -28,6 +28,7 @@ import { fileURLToPath } from "node:url";
 import { matchKeywords, matchStory, storyPoints } from "./lib/keywords.mjs";
 import { YC, ycProps, toDays, minYears, rejectReason, scoreJob, toHit, ycCompanies } from "./lib/yc-job.mjs";
 import { today } from "./lib/today.mjs";
+import { writeDayFile } from "./lib/day-file.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const INBOX = join(ROOT, "inbox");
@@ -154,7 +155,7 @@ if (!hits.length) {
 }
 
 const out = join(INBOX, `yc-${stamp}.json`);
-writeFileSync(out, JSON.stringify({ pulled: stamp, scanned: all.length, survived: live.length, hits }, null, 2));
+writeDayFile(out, { pulled: stamp, scanned: all.length, survived: live.length }, hits);
 console.log(`\nNEW: ${hits.length} postings → ${out}\n`);
 
 for (const h of hits.filter((h) => "ABC".includes(h.grade))) {

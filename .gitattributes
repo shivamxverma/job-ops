@@ -1,0 +1,9 @@
+# Scout state written by both local sessions and the 6-hourly GitHub Action.
+# scripts/merge-json.mjs unions them instead of conflicting. Needs, once per clone:
+#   git config merge.jsonunion.driver "node scripts/merge-json.mjs %O %A %B"
+inbox/.*.json merge=jsonunion
+inbox/hn-*.json merge=jsonunion
+inbox/hnjobs-*.json merge=jsonunion
+inbox/boards-*.json merge=jsonunion
+inbox/yc-*.json merge=jsonunion
+inbox/ats-*.json merge=jsonunion

@@ -28,6 +28,7 @@ import { reachability } from "./lib/reachability.mjs";
 import { matchKeywords } from "./lib/keywords.mjs";
 import { scorePosting, isEngTitle } from "./lib/board-score.mjs";
 import { today } from "./lib/today.mjs";
+import { writeDayFile } from "./lib/day-file.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const INBOX = join(ROOT, "inbox");
@@ -272,7 +273,7 @@ if (!hits.length) {
 }
 
 const out = join(INBOX, `boards-${stamp}.json`);
-writeFileSync(out, JSON.stringify({ pulled: stamp, scanned: all.length, survived: live.length, hits }, null, 2));
+writeDayFile(out, { pulled: stamp, scanned: all.length, survived: live.length }, hits);
 console.log(`\nNEW: ${hits.length} postings → ${out}\n`);
 
 for (const h of hits.filter((h) => "ABC".includes(h.grade)).slice(0, 20)) {

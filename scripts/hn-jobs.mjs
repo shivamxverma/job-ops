@@ -30,6 +30,7 @@ import { seatFit, grade as gradeOf } from "./lib/fit.mjs";
 import { reachability } from "./lib/reachability.mjs";
 import { ycProps, rejectReason, scoreJob, toHit, ycCompanies, YC } from "./lib/yc-job.mjs";
 import { today } from "./lib/today.mjs";
+import { writeDayFile } from "./lib/day-file.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const INBOX = join(ROOT, "inbox");
@@ -220,7 +221,7 @@ if (!hits.length) {
 
 const stamp = today();
 const out = join(INBOX, `hnjobs-${stamp}.json`);
-writeFileSync(out, JSON.stringify({ pulled: stamp, windowDays: DAYS, scanned: stories.length, hits }, null, 2));
+writeDayFile(out, { pulled: stamp, windowDays: DAYS, scanned: stories.length }, hits);
 console.log(`\nNEW: ${hits.length} postings → ${out}\n`);
 
 for (const h of hits.filter((h) => "ABC".includes(h.grade))) {

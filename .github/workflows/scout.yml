@@ -9,15 +9,21 @@ permissions:
 jobs:
   scout:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    # scripts/lib/today.mjs stamps files with the machine's local date; the runner is UTC.
+    env:
+      TZ: Asia/Kolkata
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Run scout (HN Who is Hiring)
-        run: node scripts/scout.mjs
-      - name: Run signal scout (funding/hiring-expansion signals)
-        run: node scripts/signal-scout.mjs
+      # All six scriptable scouts (HN thread, HN job stories, remote boards, YC grid, Indian
+      # startup ATS boards, funding signals). scout-all is fault-tolerant: one dead source is
+      # reported and the rest still run. The browser scouts (X, LinkedIn, network) are never
+      # run here: they act on Shivam's logged-in accounts and stay manual by design.
+      - name: Run all scriptable scouts
+        run: node scripts/scout-all.mjs
       - name: Open issues + notify
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -29,6 +35,14 @@ jobs:
         run: |
           git config user.name "jobops-bot"
           git config user.email "actions@users.noreply.github.com"
+          # Same union merge local clones use (see .gitattributes), so a push that races a
+          # push from Shivam's machine rebases cleanly instead of failing on scout state.
+          git config merge.jsonunion.driver "node scripts/merge-json.mjs %O %A %B"
           git add inbox/
-          git diff --cached --quiet || git commit -m "scout: $(date -u +%F' '%H:%M) run"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "scout: $(date -u +%F' '%H:%M) run"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase origin main || exit 1
+          done
+          exit 1

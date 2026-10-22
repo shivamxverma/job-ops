@@ -13,6 +13,7 @@ import { fileURLToPath } from "node:url";
 import { reachability } from "./lib/reachability.mjs";
 import { matchKeywords } from "./lib/keywords.mjs";
 import { today } from "./lib/today.mjs";
+import { writeDayFile } from "./lib/day-file.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const INBOX = join(ROOT, "inbox");
@@ -123,7 +124,7 @@ mkdirSync(INBOX, { recursive: true });
 const stamp = today();
 if (hits.length) {
   const out = join(INBOX, `hn-${stamp}.json`);
-  writeFileSync(out, JSON.stringify({ thread: thread.title, threadId: thread.objectID, pulled: stamp, hits }, null, 2));
+  writeDayFile(out, { thread: thread.title, threadId: thread.objectID, pulled: stamp }, hits);
   writeFileSync(SEEN_FILE, JSON.stringify(seen, null, 2));
   console.log(`NEW: ${hits.length} matches → ${out}`);
   for (const h of hits.slice(0, 15)) console.log(`  [${h.matched.strong.join(",") || h.matched.weak.join(",")}] ${h.firstLine}`);

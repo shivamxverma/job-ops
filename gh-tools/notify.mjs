@@ -29,7 +29,11 @@ const repo =
   process.env.GH_REPO ||
   sh('gh repo view --json nameWithOwner -q .nameWithOwner');
 
+// --dry-run: print what would be opened, touch nothing (no issues, no .issued.json, no Telegram).
+const DRY = process.argv.includes("--dry-run");
+
 async function gh(path, body) {
+  if (DRY && body) return { number: 0 };
   const res = await fetch(`https://api.github.com/repos/${repo}/${path}`, {
     method: body ? "POST" : "GET",
     headers: {
@@ -70,6 +74,45 @@ for (const f of files) {
     issued[h.id] = issue.number;
     created.push(`#${issue.number} ${title}`);
     leadCount++;
+  }
+}
+
+// ---- 1b. Lead issues from the graded scouts (boards, YC, HN job stories, India ATS) ----
+// These carry a script grade. Only A/B get an issue; the grade is a hypothesis until the
+// /all-scouts judgment pass, and the issue says so. Keys are prefixed by source because ids
+// are only unique inside one source.
+const GRADED = [
+  { prefix: "boards-", key: "boards", url: (h) => h.url },
+  { prefix: "yc-", key: "yc", url: (h) => h.jobUrl },
+  { prefix: "hnjobs-", key: "hnjobs", url: (h) => h.jobUrl || h.hnUrl },
+  { prefix: "ats-", key: "ats", url: (h) => h.url },
+];
+let gradedCount = 0;
+for (const src of GRADED) {
+  const srcFiles = readdirSync(INBOX).filter((f) => f.startsWith(src.prefix) && f.endsWith(".json"));
+  for (const f of srcFiles) {
+    const { hits = [] } = JSON.parse(readFileSync(join(INBOX, f), "utf8"));
+    for (const h of hits) {
+      const key = `${src.key}:${h.id}`;
+      if (issued[key] !== undefined || !["A", "B"].includes(h.grade)) continue;
+      if (gradedCount >= MAX_LEAD_ISSUES) break;
+      const title = `[lead] ${h.grade} · ${h.company} — ${String(h.title).slice(0, 70)}`;
+      const body = [
+        `**${h.company}**: ${h.title}`,
+        `**Script grade:** ${h.grade} (score ${h.score}), source \`${src.key}\` (${h.source ?? f})`,
+        h.location ? `**Location:** ${h.location}` : "",
+        `**Link:** ${src.url(h) ?? "n/a"}`,
+        "",
+        ...(Array.isArray(h.why) ? h.why.map((w) => `- ${w}`) : []),
+        "",
+        "---",
+        "The grade is the script's guess. Grade it properly in the next `/all-scouts` session before working it.",
+      ].filter((l) => l !== "").join("\n");
+      const issue = await gh("issues", { title, body, labels: ["lead"] });
+      issued[key] = issue.number;
+      created.push(`#${issue.number} ${title}`);
+      gradedCount++;
+    }
   }
 }
 
@@ -128,12 +171,12 @@ if (existsSync(trackerPath)) {
   }
 }
 
-writeFileSync(ISSUED_FILE, JSON.stringify(issued, null, 2));
+if (!DRY) writeFileSync(ISSUED_FILE, JSON.stringify(issued, null, 2));
 console.log(created.length ? `Created:\n  ${created.join("\n  ")}` : "Nothing new to notify.");
 
 // ---- 4. Optional Telegram summary ----
 const { TELEGRAM_BOT_TOKEN: tg, TELEGRAM_CHAT_ID: chat } = process.env;
-if (tg && chat && created.length) {
+if (tg && chat && created.length && !DRY) {
   const text = [
     `🎯 JobOps: ${created.length} new item(s)`,
     ...created.slice(0, 8).map((c) => `• ${c}`),

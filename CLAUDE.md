@@ -256,9 +256,16 @@ honest sample the system will ever have for "what converts".
   hop of `x-vercel-id` is the edge nearest whoever ran the probe, not their region. Feeds
   `/tech-read`.
 - `node scripts/scout.mjs` — manual scout run (job postings). `node scripts/signal-scout.mjs` —
-  manual signal run (funding/hiring-expansion, ahead of postings). When the repo is on GitHub,
-  `.github/workflows/scout.yml` runs both every 6h and opens Issues (`lead`/`signal`/`follow-up`)
-  via `gh-tools/notify.mjs` — see `gh-tools/README.md` for setup + Telegram.
+  manual signal run (funding/hiring-expansion, ahead of postings). `.github/workflows/scout.yml`
+  runs **all six scriptable scouts** (`scout-all.mjs`) every 6h (since 2026-10-22; before that only
+  HN + signals) and opens Issues (`lead`/`signal`/`follow-up`) via `gh-tools/notify.mjs`, including
+  one per new script-graded A/B hit from boards/YC/HN-jobs/ATS (`--dry-run` to preview) — see
+  `gh-tools/README.md` for setup + Telegram. Because the bot and local sessions both write
+  `inbox/` scout state, `.gitattributes` routes those JSON files through `scripts/merge-json.mjs`
+  (union merge). **Once per clone:** `git config merge.jsonunion.driver "node scripts/merge-json.mjs
+  %O %A %B"`, or pulls conflict on every seen-file. Same-day re-runs append to the day's hits file
+  via `lib/day-file.mjs`; never `writeFileSync` a day file directly (it used to drop the morning's
+  hits, which were already marked seen and so lost for good).
 - `node scripts/mark-processed.mjs "{company}"` — the other half of that loop. Records the
   decision on a lead in `inbox/leads.md` and closes the GitHub issue scout opened for it to
   match: default = done (`[d]`, `✓ processed`, issue "completed"); `--skip` = won't apply

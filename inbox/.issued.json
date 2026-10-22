@@ -1,4 +1,14 @@
 {
+  "49523704": 74,
+  "49523716": 73,
+  "49523768": 72,
+  "49523808": 71,
+  "49523830": 70,
+  "49523835": 69,
+  "49523978": 68,
+  "49523985": 67,
+  "49524341": 66,
+  "49524737": 65,
   "49524822": 64,
   "49524943": 63,
   "49524978": 62,
@@ -81,5 +91,6 @@
   "ats:ashby:cardboard:744b9881-cf83-4b20-b6dd-5ef8e8082e62": 0,
   "ats:ashby:cardboard:a18a5b6c-8b4a-4418-be14-55235744313f": 0,
   "ats:lever:fampay:01750a61-a53b-433f-8d8c-bfb5a18417f8": 0,
-  "ats:greenhouse:cloudsek:6210527004": 0
+  "ats:greenhouse:cloudsek:6210527004": 0,
+  "sig:https://inc42.com/buzz/karta-ai-raises-3-mn-to-automate-inbound-calls-for-bfsi-players/": 75
 }

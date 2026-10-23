@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Ultraviolette Launches New E-Bike X-47 Venom With A ₹2.65 Lakh Price Tag** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/buzz/ultraviolette-launches-new-e-bike-x-47-venom-with-a-%e2%82%b92-65-lakh-price-tag/ | why: funding: raising
+
 - [ ] **TravClan** — B | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others | why: sector: ai; funding: raises
 
 - [ ] **Japanese-Themed Dining Chain Harajuku Tokyo Café** — C | Thu, 22 Oct 2026 | Inc42: https://inc42.com/buzz/japanese-themed-dining-chain-harajuku-tokyo-cafe-raises-3-mn/ | why: funding: raises

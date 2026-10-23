@@ -1,0 +1,112 @@
+{
+  "pulled": "2026-10-23",
+  "scanned": 936,
+  "survived": 74,
+  "hits": [
+    {
+      "id": "ashby:sarvam:db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
+      "grade": "B",
+      "score": 63,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Software Development Engineer - Tejas",
+      "url": "https://jobs.ashbyhq.com/sarvam/db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
+      "posted": "2026-10-23T10:19:22.101+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "postgres",
+          "postgresql",
+          "llm"
+        ],
+        "weak": [
+          "full-stack",
+          "backend",
+          "platform",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: postgres, postgresql, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "3+ years stated (stretch)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "lever:paytm:105a0d9e-94e9-4026-9105-5bea558ab3d9",
+      "grade": "D",
+      "score": 42,
+      "source": "lever (seed list)",
+      "company": "Paytm",
+      "domain": "paytm.com",
+      "title": "Senior Software Engineer – Backend (Travel)",
+      "url": "https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9",
+      "posted": "2026-10-12T12:38:38.803Z",
+      "location": "Bangalore, Karnataka",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "node.js",
+          "redis",
+          "kafka"
+        ],
+        "weak": [
+          "node",
+          "aws",
+          "backend",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: node.js, redis, kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:razorpaysoftwareprivatelimited:4746961005",
+      "grade": "F",
+      "score": 28,
+      "source": "greenhouse (YC Winter 2015)",
+      "company": "Razorpay",
+      "domain": "razorpay.com",
+      "title": "Lead Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746961005",
+      "posted": "2026-10-23T06:21:53-04:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "platform",
+          "real-time",
+          "automation",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, platform, real-time",
+        "senior-titled",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

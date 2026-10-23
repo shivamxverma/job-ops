@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/ | why: funding: raised
+- [ ] **Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/ | why: funding: raised
+
 - [ ] **Ultraviolette Launches New E-Bike X-47 Venom With A ₹2.65 Lakh Price Tag** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/buzz/ultraviolette-launches-new-e-bike-x-47-venom-with-a-%e2%82%b92-65-lakh-price-tag/ | why: funding: raising
 
 - [ ] **TravClan** — B | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others | why: sector: ai; funding: raises

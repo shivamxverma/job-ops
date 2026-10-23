@@ -1,41 +1,43 @@
 {
   "pulled": "2026-10-23",
-  "scanned": 936,
-  "survived": 74,
+  "scanned": 1655,
+  "survived": 144,
   "hits": [
     {
-      "id": "ashby:sarvam:db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
-      "grade": "B",
-      "score": 63,
+      "id": "ashby:atlan:20fe5046-b287-40f6-990f-842ad75526e5",
+      "grade": "C",
+      "score": 48,
       "source": "ashby (seed list)",
-      "company": "Sarvam",
-      "domain": "sarvam.ai",
-      "title": "Software Development Engineer - Tejas",
-      "url": "https://jobs.ashbyhq.com/sarvam/db89b576-2456-4cc4-ab0b-c45f8c6c27f0",
-      "posted": "2026-10-23T10:19:22.101+00:00",
-      "location": "Bengaluru",
+      "company": "Atlan",
+      "domain": "atlan.com",
+      "title": "Staff Software Engineer - Infrastructure (AI Native)",
+      "url": "https://jobs.ashbyhq.com/atlan/20fe5046-b287-40f6-990f-842ad75526e5",
+      "posted": "2026-10-23T14:44:45.243+00:00",
+      "location": "India",
       "reachability": {
         "status": "open",
         "reason": "India-based"
       },
       "matched": {
         "strong": [
-          "postgres",
-          "postgresql",
-          "llm"
+          "distributed systems",
+          "kubernetes"
         ],
         "weak": [
-          "full-stack",
-          "backend",
+          "aws",
+          "ci/cd",
           "platform",
+          "automation",
           "pipeline",
-          "ai agent"
+          "ai agent",
+          "agentic",
+          "remote"
         ]
       },
       "why": [
-        "stack: postgres, postgresql, llm",
-        "story fit: Hireflow/klimb.io AI metering (llm)",
-        "3+ years stated (stretch)",
+        "stack: distributed systems, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
         "reachable: India-based",
         "posted 0d ago"
       ]
@@ -74,38 +76,6 @@
         "senior-titled",
         "3+ years stated (stretch)",
         "reachable: India-based"
-      ]
-    },
-    {
-      "id": "greenhouse:razorpaysoftwareprivatelimited:4746961005",
-      "grade": "F",
-      "score": 28,
-      "source": "greenhouse (YC Winter 2015)",
-      "company": "Razorpay",
-      "domain": "razorpay.com",
-      "title": "Lead Software Development Engineer",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746961005",
-      "posted": "2026-10-23T06:21:53-04:00",
-      "location": "Bengaluru",
-      "reachability": {
-        "status": "open",
-        "reason": "India-based"
-      },
-      "matched": {
-        "strong": [],
-        "weak": [
-          "full-stack",
-          "platform",
-          "real-time",
-          "automation",
-          "agentic"
-        ]
-      },
-      "why": [
-        "stack (weak): full-stack, platform, real-time",
-        "senior-titled",
-        "reachable: India-based",
-        "posted 0d ago"
       ]
     }
   ]

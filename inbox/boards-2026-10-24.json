@@ -1,0 +1,46 @@
+{
+  "pulled": "2026-10-24",
+  "scanned": 152,
+  "survived": 17,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/metasys/jobs/devops-engineer-internship",
+      "grade": "F",
+      "score": 29,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Metasys",
+      "title": "DevOps Engineer Internship",
+      "url": "https://himalayas.app/companies/metasys/jobs/devops-engineer-internship?utm_source=api",
+      "posted": 1792749417,
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Platform-Engineer",
+        "DevOps-Internship",
+        "DevOps-Intern",
+        "Azure-DevOps-Engineer-Intern",
+        "Junior-DevOps-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, pipeline",
+        "location not stated (ask before investing)"
+      ]
+    }
+  ]
+}

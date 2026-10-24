@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **From Even Health To The Pant Project— Indian Startups** — C | Sat, 24 Oct 2026 | Inc42: https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/ | why: funding: raised
+
 - [ ] **Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/ | why: funding: raised
 - [ ] **Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/ | why: funding: raised
 

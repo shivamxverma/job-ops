@@ -1,7 +1,7 @@
 {
   "pulled": "2026-10-24",
-  "scanned": 152,
-  "survived": 17,
+  "scanned": 305,
+  "survived": 34,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/metasys/jobs/devops-engineer-internship",
@@ -39,6 +39,44 @@
       },
       "why": [
         "stack (weak): platform, automation, pipeline",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/yellow-card/jobs/senior-frontend-engineer-3135982811",
+      "grade": "F",
+      "score": 14,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Yellow Card",
+      "title": "Senior Frontend Engineer",
+      "url": "https://himalayas.app/companies/yellow-card/jobs/senior-frontend-engineer-3135982811?utm_source=api",
+      "posted": 1792825356,
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Frontend-Engineer",
+        "Web-Developer",
+        "UI-Engineer",
+        "Front-End-Software-Engineer",
+        "Senior-Frontend-Engineering",
+        "Senior-Front-End-Developer",
+        "Senior-Frontend-Development",
+        "Senior-Frontend-Full-Stack-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "full-stack"
+        ]
+      },
+      "why": [
+        "stack (weak): react, full-stack",
+        "senior-titled",
         "location not stated (ask before investing)"
       ]
     }

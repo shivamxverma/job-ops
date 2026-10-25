@@ -1,0 +1,870 @@
+{
+  "domain": "vectorshift.ai",
+  "slug": "vectorshift",
+  "probedAt": "2026-10-24T15:16:47.604Z",
+  "liveHosts": [
+    {
+      "host": "vectorshift.ai",
+      "status": 200,
+      "finalUrl": "https://vectorshift.ai/",
+      "csp": [],
+      "headers": {
+        "cache-control": "public, max-age=300",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Sat, 24 Oct 2026 15:16:33 GMT",
+        "etag": "W/\"12fa68d303fd5809cd2f8515b25291c8\"",
+        "last-modified": "Thu, 17 Sep 2026 20:52:25 GMT",
+        "server": "AmazonS3",
+        "vary": "Accept-Encoding",
+        "via": "1.1 2ae88352064bd2ee8746477a8b6fb1da.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "E3KufY7vb-dnDtIlWUR94P6Olrgrf2zaYmu2JqYNoUrUUczQwaRybg==",
+        "x-amz-cf-pop": "FRA60-P13",
+        "x-amz-server-side-encryption": "AES256",
+        "x-amz-version-id": "QEYi.gFe4lZaXVSOqN3Bz2MyoQxe4Z7n",
+        "x-cache": "Hit from cloudfront"
+      }
+    },
+    {
+      "host": "www.vectorshift.ai",
+      "status": 200,
+      "finalUrl": "https://www.vectorshift.ai/",
+      "csp": [],
+      "headers": {
+        "cache-control": "public, max-age=300",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Sat, 24 Oct 2026 15:16:33 GMT",
+        "etag": "W/\"12fa68d303fd5809cd2f8515b25291c8\"",
+        "last-modified": "Thu, 17 Sep 2026 20:52:25 GMT",
+        "server": "AmazonS3",
+        "vary": "Accept-Encoding",
+        "via": "1.1 e5deb8f5a34e6d43e0d7e5631bd731dc.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "MJiqOsbljsT4wvoF8ZnscvVaYK339_wl0Jiab32eEW2XwYzDN9CTuw==",
+        "x-amz-cf-pop": "FRA60-P13",
+        "x-amz-server-side-encryption": "AES256",
+        "x-amz-version-id": "QEYi.gFe4lZaXVSOqN3Bz2MyoQxe4Z7n",
+        "x-cache": "RefreshHit from cloudfront"
+      }
+    },
+    {
+      "host": "app.vectorshift.ai",
+      "status": 200,
+      "finalUrl": "https://app.vectorshift.ai/",
+      "csp": [
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "js.intercomcdn.com",
+        "cdn.syncfusion.com",
+        "appsforoffice.microsoft.com",
+        "intercomcdn.com",
+        "vectorshift.ai",
+        "workos.com",
+        "intercom-messenger.com",
+        "document.syncfusion.com",
+        "vectorshift--syncfusion-server-syncfusionserver-web.modal.run",
+        "vectorshift--syncfusion-docx-server-syncfusiondocxserver-web.modal.run",
+        "www.loom.com",
+        "calendly.com",
+        "typeform.com",
+        "www.figma.com",
+        "forms.gle",
+        "www.canva.com",
+        "www.notion.so",
+        "notion.site",
+        "www.airtable.com",
+        "airtable.com",
+        "www.wikipedia.org",
+        "wikipedia.org",
+        "setup.vectorshift.ai"
+      ],
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://apis.google.com https://www.googletagmanager.com https://www.google-analytics.com https://*.sentry.io https://widget.intercom.io https://js.intercomcdn.com https://unpkg.com https://js.stripe.com https://*.posthog.com https://us-assets.i.posthog.com https://cdn.jsdelivr.net https://cdn.syncfusion.com https://appsforoffice.microsoft.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.syncfusion.com https://cdn.jsdelivr.net; font-src 'self' https://fonts.gstatic.com https://cdn.syncfusion.com https://*.intercomcdn.com data:; img-src 'self' data: blob: https:; media-src 'self' data: blob: https:; connect-src 'self' blob: data: https://*.vectorshift.ai wss://*.vectorshift.ai https://*.sentry.io https://www.google-analytics.com https://*.intercom.io wss://*.intercom.io https://*.intercomcdn.com https://*.workos.com wss://*.intercom-messenger.com https://*.amazonaws.com https://document.syncfusion.com https://vectorshift--syncfusion-server-syncfusionserver-web.modal.run https://vectorshift--syncfusion-docx-server-syncfusiondocxserver-web.modal.run https://api.stripe.com https://*.posthog.com https://us-assets.i.posthog.com https://cdn.jsdelivr.net; worker-src 'self' blob:; frame-src 'self' blob: https://accounts.google.com https://widget.intercom.io https://js.stripe.com https://checkout.stripe.com https://www.youtube.com https://player.vimeo.com https://www.loom.com https://calendly.com https://*.typeform.com https://www.figma.com https://docs.google.com https://drive.google.com https://forms.gle https://www.google.com https://maps.google.com https://www.google.com/maps https://www.canva.com https://www.notion.so https://notion.site https://www.airtable.com https://airtable.com https://www.wikipedia.org https://*.wikipedia.org; frame-ancestors 'self'; object-src 'none'; base-uri 'self'; form-action 'self' https://checkout.stripe.com https://setup.vectorshift.ai; upgrade-insecure-requests;",
+        "content-type": "text/html",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "cross-origin-resource-policy": "same-origin",
+        "date": "Sat, 24 Oct 2026 15:16:33 GMT",
+        "etag": "W/\"78e5c1f6b5e020337e699e34d44a42f2\"",
+        "last-modified": "Thu, 22 Oct 2026 02:40:56 GMT",
+        "permissions-policy": "camera=(), microphone=(self), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "Accept-Encoding",
+        "via": "1.1 fa3d1cd45daf99312d8a48f43d1a0912.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "JAKhEUDTnHlpGeUJPMgiMlokVA2T3xIQGnf-qsRSnKxcXrreBTHXSw==",
+        "x-amz-cf-pop": "BLR50-P1",
+        "x-amz-server-side-encryption": "AES256",
+        "x-cache": "RefreshHit from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "api.vectorshift.ai",
+      "status": 405,
+      "finalUrl": "https://api.vectorshift.ai/",
+      "csp": [],
+      "headers": {
+        "allow": "GET",
+        "connection": "close",
+        "content-length": "31",
+        "content-type": "application/json",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Sat, 24 Oct 2026 15:16:32 GMT",
+        "permissions-policy": "geolocation=(), camera=(), microphone=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "uvicorn",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY"
+      }
+    },
+    {
+      "host": "docs.vectorshift.ai",
+      "status": 200,
+      "finalUrl": "https://docs.vectorshift.ai/introduction",
+      "csp": [
+        "dashboard.mintlify.com",
+        "app.mintlify.com"
+      ],
+      "headers": {
+        "age": "51823",
+        "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
+        "cf-cache-status": "HIT",
+        "cf-ray": "a4f9f1827b504841-BOM",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "worker-src 'self' blob:; object-src 'none'; base-uri 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://dashboard.mintlify.com https://app.mintlify.com; form-action 'self'; default-src 'self' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; media-src 'self' data: blob: https:; frame-src 'self' blob: https:; connect-src 'self' data: https: wss:;",
+        "content-security-policy-report-only": "default-src 'self' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; media-src 'self' data: blob: https:; frame-src 'self' blob: https:; connect-src 'self' data: https: wss:; worker-src 'self' blob:; object-src 'none'; report-uri /_mintlify/api/csp-report; report-to mintlify-csp;",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 24 Oct 2026 15:16:34 GMT",
+        "etag": "W/\"6uc8y68utq5nbg\"",
+        "expires": "0",
+        "link": "</llms.txt>; rel=\"llms-txt\", </llms-full.txt>; rel=\"llms-full-txt\", </.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/mcp/server-card.json>; rel=\"mcp-server-card\", </.well-known/agent-card.json>; rel=\"agent-card\", </.well-known/agent-skills/index.json>; rel=\"agent-skills\"",
+        "pragma": "no-cache",
+        "reporting-endpoints": "mintlify-csp=\"/_mintlify/api/csp-report\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, accept-encoding, Accept, User-Agent",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-llms-txt": "/llms.txt",
+        "x-matched-path": "/_sites/[subdomain]/[[...slug]]",
+        "x-mint-proxy-version": "1.0.0-prod",
+        "x-mintlify-client-version": "0.0.3964",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "60",
+        "x-served-version": "dpl_8JaBDrfQ4YynNHfALjMPA2Avxrtn",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1:iad1::iad1::vqdmp-1792854994293-8603f75d8e67",
+        "x-vercel-project-id": "prj_NdMUpHpUIb41Po1H8c6hrChv2bgr",
+        "x-version": "dpl_8JaBDrfQ4YynNHfALjMPA2Avxrtn"
+      }
+    },
+    {
+      "host": "auth.vectorshift.ai",
+      "status": 200,
+      "finalUrl": "https://vectorshift.ai/",
+      "csp": [],
+      "headers": {
+        "age": "2",
+        "cache-control": "public, max-age=300",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Sat, 24 Oct 2026 15:16:33 GMT",
+        "etag": "W/\"12fa68d303fd5809cd2f8515b25291c8\"",
+        "last-modified": "Thu, 17 Sep 2026 20:52:25 GMT",
+        "server": "AmazonS3",
+        "vary": "Accept-Encoding",
+        "via": "1.1 b3c2d934335633b45a80b7ad63463cda.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "VvyOL1MHqKDrWu2Y0t4YC1v3UlQ7sZL3aJhzRcreCSM_6yAliZFbWg==",
+        "x-amz-cf-pop": "FRA60-P13",
+        "x-amz-server-side-encryption": "AES256",
+        "x-amz-version-id": "QEYi.gFe4lZaXVSOqN3Bz2MyoQxe4Z7n",
+        "x-cache": "Hit from cloudfront"
+      }
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "status": 404,
+      "finalUrl": "https://www.googletagmanager.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1561",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Sat, 24 Oct 2026 15:16:35 GMT",
+        "server": "Google Tag Manager",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "www.google-analytics.com",
+      "status": 200,
+      "finalUrl": "https://marketingplatform.google.com/about/analytics/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache, must-revalidate",
+        "connection": "close",
+        "content-length": "118475",
+        "content-security-policy": "script-src  'nonce-wbWS2SAGS_OsQVlsulA6gA' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/marketing_platform; base-uri 'self'",
+        "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/marketing_platform",
+        "content-type": "text/html",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=\"uxe-owners-acl/marketing_platform\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Sat, 24 Oct 2026 15:16:36 GMT",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "last-modified": "Mon, 25 Aug 2025 05:38:00 GMT",
+        "pragma": "no-cache",
+        "report-to": "{\"group\":\"uxe-owners-acl/marketing_platform\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/uxe-owners-acl/marketing_platform\"}]}",
+        "server": "sffe",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "js.intercomcdn.com",
+      "status": 200,
+      "finalUrl": "https://js.intercomcdn.com/",
+      "csp": [],
+      "headers": {
+        "age": "41172",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "connection": "close",
+        "content-type": "application/xml",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Sat, 24 Oct 2026 03:50:23 GMT",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Origin",
+        "via": "1.1 0298108af02f6ec7aff5bed25793bd00.cloudfront.net (CloudFront)",
+        "x-amz-bucket-region": "us-east-1",
+        "x-amz-cf-id": "lcZruZjz_37Dz2WAluubdtEJ3MpX4SR72immNrQworJP9FspokYelg==",
+        "x-amz-cf-pop": "BLR50-P2",
+        "x-cache": "Hit from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "cdn.syncfusion.com",
+      "status": 200,
+      "finalUrl": "https://cdn.syncfusion.com/",
+      "csp": [],
+      "headers": {
+        "age": "23133",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a4f9f1896df78b03-BOM",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html",
+        "date": "Sat, 24 Oct 2026 15:16:36 GMT",
+        "last-modified": "Thu, 10 Feb 2022 08:51:26 GMT",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Accept-Encoding, Origin",
+        "via": "1.1 9c51d2943f5fa134316dc1d29c53f474.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "55YVKrO7lDV8Kmbt6hfRNKPI48KuBNNClj1FlS0ts3rPU_ezZuQTPQ==",
+        "x-amz-cf-pop": "BOM78-P2",
+        "x-amz-version-id": "uLk.PBGGBfTOvOf.WKsycSKfTx7B.D8M",
+        "x-cache": "Error from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "appsforoffice.microsoft.com",
+      "status": 404,
+      "finalUrl": "https://appsforoffice.microsoft.com/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-headers": "*",
+        "access-control-allow-methods": "GET,HEAD,OPTIONS",
+        "access-control-allow-origin": "*",
+        "access-control-expose-headers": "date,X-Cdn-Provider,X-Ms-Request-Id,Akamai-Request-BC",
+        "ak-network": "FF",
+        "akamai-cache-status": "Miss from child, Miss from parent",
+        "akamai-request-bc": "[a=49.44.113.6,b=366141243,c=g,n=IN_KA_BANGALORE,o=55836],[c=c,n=IN_TN_CHENNAI,o=20940],[a=132,c=o]",
+        "alt-svc": "h3=\":443\"; ma=93600,h3-29=\":443\"; ma=93600",
+        "connection": "close",
+        "content-length": "1",
+        "date": "Sat, 24 Oct 2026 15:16:35 GMT",
+        "nel": "{\"report_to\":\"NelM365CDNUpload1\",\"max_age\":604800,\"include_subdomains\":true,\"failure_fraction\":1.0,\"success_fraction\":0.01}",
+        "report-to": "{\"group\":\"NelM365CDNUpload1\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&DestinationEndpoint=BANGALORE&ASN=55836&Country=IN&Region=KA&RequestIdentifier=0.06712c31.1792854995.15d2df3b&TotalRTCDNTime=101&CompressionType=&FileSize=1\"}],\"include_subdomains\":true}",
+        "server-timing": "clientrtt; dur=101, clienttt; dur=174, origin; dur=141 , cdntime; dur=33",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "timing-allow-origin": "*",
+        "x-cdn-provider": "Akamai",
+        "x-ms-request-id": "ac6c87da-e01e-003b-47ca-63ba33000000"
+      }
+    },
+    {
+      "host": "intercomcdn.com",
+      "status": 200,
+      "finalUrl": "https://www.intercom.com/",
+      "csp": [
+        "cloudfront.net",
+        "fin.ai",
+        "app.contentful.com",
+        "sanity.studio",
+        "www.sanity.io",
+        "intercomcdn.com",
+        "intercom-reporting.com",
+        "intercom-sheets.com",
+        "marketo.com",
+        "contentful.com",
+        "googletagmanager.com",
+        "googlesyndication.com",
+        "www.youtube-nocookie.com",
+        "wistia.com",
+        "wistia.net",
+        "quora.com",
+        "adsrvr.org",
+        "chilipiper.com",
+        "getreprise.com",
+        "stackadapt.com",
+        "o11.tech",
+        "luma.com",
+        "awswaf.com",
+        "intercomassets.com",
+        "intercomusercontent.com",
+        "intercom-messenger.com",
+        "boards-api.greenhouse.io",
+        "marketo.net",
+        "mktoutil.com",
+        "mktoresp.com",
+        "cdn.sanity.io",
+        "api.sanity.io",
+        "datadoghq.com",
+        "browser-intake-datadoghq.com",
+        "google-analytics.com",
+        "googleadservices.com",
+        "snap.licdn.com",
+        "eppo.cloud",
+        "onetrust.com",
+        "bing.com",
+        "bing.net",
+        "reddit.com",
+        "redditstatic.com",
+        "adnxs.com",
+        "akamaihd.net",
+        "pingdom.net",
+        "6sc.co",
+        "6sense.com",
+        "litix.io",
+        "influ2.com",
+        "lu.ma",
+        "claydar.com",
+        "cdn.cookielaw.org",
+        "gdn.smartling.com",
+        "vitals.vercel-insights.com",
+        "sentry-cdn.com",
+        "adsymptotic.com",
+        "bizographics.com",
+        "getsmartling.com",
+        "a.usbrowserspeed.com",
+        "tags.srv.stackadapt.com",
+        "dpmsrv.com",
+        "www.datadoghq-browser-agent.com",
+        "www.intercomstatus.com",
+        "www.finstatus.com",
+        "bootstrapcdn.com"
+      ],
+      "headers": {
+        "age": "0",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self' *.amazonaws.com *.cloudfront.net; frame-ancestors 'self' *.intercom.com fin.ai *.fin.ai https://app.contentful.com https://*.sanity.studio https://www.sanity.io; child-src 'self' http://intercom.test *.intercom.io *.intercom.com *.intercomcdn.com *.intercom-reporting.com intercom-sheets.com *.intercom-sheets.com *.doubleclick.net *.fls.doubleclick.net *.marketo.com *.contentful.com *.google.com www.google.com *.googletagmanager.com *.facebook.com *.googlesyndication.com *.youtube.com www.youtube-nocookie.com *.wistia.com *.wistia.net *.hotjar.com *.hotjar.io *.quora.com *.adsrvr.org *.chilipiper.com *.getreprise.com *.stackadapt.com *.o11.tech *.luma.com luma.com *.amazonaws.com *.cloudfront.net connect.facebook.net js.stripe.com vercel.live *.awswaf.com; connect-src 'self' http://intercom.test *.intercom.io wss://*.intercom.io *.intercom.com *.intercomcdn.com *.intercomassets.com *.intercomusercontent.com *.intercom-messenger.com wss://*.intercom-messenger.com fin.ai *.fin.ai boards-api.greenhouse.io *.marketo.com *.marketo.net *.mktoutil.com *.mktoresp.com *.sentry.io *.facebook.com *.contentful.com cdn.sanity.io *.api.sanity.io *.datadoghq.com *.browser-intake-datadoghq.com browser-intake-datadoghq.com *.googletagmanager.com *.google-analytics.com *.analytics.google.com *.google.com www.google.com *.googleadservices.com *.doubleclick.net *.g.doubleclick.net googleads.g.doubleclick.net *.googlesyndication.com *.linkedin.com *.ads.linkedin.com *.linkedin.oribi.io snap.licdn.com *.eppo.cloud *.onetrust.com *.bing.com *.bing.net *.reddit.com *.redditstatic.com *.adnxs.com *.hotjar.com:* *.hotjar.io:* wss://*.hotjar.com wss://*.hotjar.io *.akamaihd.net *.wistia.com *.wistia.net *.pingdom.net *.6sc.co *.6sense.com *.chilipiper.com *.getreprise.com *.jsdelivr.net *.litix.io *.stackadapt.com *.adsrvr.org *.influ2.com *.lu.ma *.claydar.com *.amazonaws.com *.cloudfront.net cdn.cookielaw.org connect.facebook.net *.gdn.smartling.com unpkg.com vercel.live vitals.vercel-insights.com *.awswaf.com; font-src 'self' data: https: *.amazonaws.com *.cloudfront.net; img-src 'self' data: blob: https: *.facebook.com *.ads.linkedin.com *.adsrvr.org *.amazonaws.com *.cloudfront.net; media-src 'self' data: blob: https: *.amazonaws.com *.cloudfront.net; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' *.intercom.io *.intercom.com fin.ai *.fin.ai *.intercomcdn.com *.intercomassets.com *.googleapis.com *.marketo.com *.marketo.net *.sentry-cdn.com *.sentry.io *.facebook.com *.doubleclick.net *.g.doubleclick.net googleads.g.doubleclick.net *.datadoghq.com *.google.com www.google.com *.google-analytics.com *.googleadservices.com *.googletagmanager.com *.googlesyndication.com *.linkedin.com snap.licdn.com *.adsymptotic.com *.bizographics.com *.contentful.com *.onetrust.com *.bing.com *.twitter.com *.wistia.com *.wistia.net *.stripe.com *.hotjar.com *.hotjar.io *.adnxs.com *.chilipiper.com *.getreprise.com *.getsmartling.com *.litix.io *.influ2.com a.usbrowserspeed.com *.6sc.co *.adsrvr.org *.redditstatic.com *.stackadapt.com tags.srv.stackadapt.com *.claydar.com *.o11.tech *.dpmsrv.com *.lu.ma *.amazonaws.com *.cloudfront.net cdn.cookielaw.org connect.facebook.net *.gdn.smartling.com unpkg.com vercel.live www.datadoghq-browser-agent.com *.awswaf.com; style-src 'self' 'unsafe-inline' *.intercom.com fin.ai *.fin.ai www.intercomstatus.com www.finstatus.com *.marketo.com *.intercomassets.com *.bootstrapcdn.com *.getsmartling.com *.googleapis.com *.gstatic.com *.googletagmanager.com *.fontawesome.com *.typekit.net *.chilipiper.com *.stackadapt.com tags.srv.stackadapt.com *.influ2.com *.lu.ma *.amazonaws.com *.cloudfront.net vercel.live *.awswaf.com; worker-src data: blob:; base-uri 'self'; report-uri https://o2129.ingest.us.sentry.io/api/4512095556665344/security/?sentry_key=03f940d733b9455062f401dfd9b9178a; upgrade-insecure-requests",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Sat, 24 Oct 2026 15:16:36 GMT",
+        "link": "<https://developers.intercom.com/_bundle/docs/references/@2.15/rest-api/api.intercom.io.yaml>; rel=\"service-desc\"; type=\"application/yaml\", <https://developers.intercom.com/docs>; rel=\"service-doc\"; type=\"text/html\", <https://www.intercom.com/llms.txt>; rel=\"describedby\"; type=\"text/plain\", <https://www.intercom.com/llms.txt>; rel=\"ai-content\", <https://www.intercom.com/sitemap.xml>; rel=\"sitemap\", <https://www.intercom.com/.well-known/mcp/server-card.json>; rel=\"mcp-server-card\", <https://www.intercom.com/.well-known/api-catalog>; rel=\"api-catalog\", </_md/home.md>; rel=\"alternate\"; type=\"text/markdown\", <https://vercel.intercom.com>; rel=preconnect; crossorigin=\"\"",
+        "server": "Vercel",
+        "set-cookie": "gtm_id=82df7b63-8923-4fd9-a836-6fe9ca17540b; Path=/; Expires=Sun, 24 Oct 2027 15:16:36 GMT; Max-Age=31536000; Domain=.intercom.com; Secure; SameSite=none",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "via": "1.1 b2e2c0dde9ccae41b88e7dfd8bb40312.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "52iWPKTVSc2F-W7Wmn3kXe6Rt0byFO18PGcUe45bx_7d-gunydmv5Q==",
+        "x-amz-cf-pop": "BLR50-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-matched-path": "/[locale]",
+        "x-powered-by": "Next.js",
+        "x-robots-tag": "index, follow",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::kldt8-1792854996164-0cf7da6aa1c1"
+      }
+    },
+    {
+      "host": "workos.com",
+      "status": 200,
+      "finalUrl": "https://workos.com/",
+      "csp": [],
+      "headers": {
+        "age": "423980",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a4f9f18a9efa3f38-BOM",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors 'self'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 24 Oct 2026 15:16:35 GMT",
+        "last-modified": "Mon, 19 Oct 2026 18:03:14 GMT",
+        "link": "<https://cdn.prod.website-files.com>; rel=preconnect; crossorigin, <https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/css/workos-new.shared.e9cbd14da.min.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-6cvRTaCqrRD0AlPvxBKQOGDawX19xMTpoA/WhJajKxc5QaZfI1I85QyAGgiZLCDz\", <https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/css/workos-new.65f4ad67e93f3e3fe0aa02f6.b3dbf00d5.opt.min.css>; rel=preload; as=style; crossorigin; integrity=\"sha384-s9vwDVBYkmK5XXG7C5UVfewCDrSFRzEwN2fk3YY4t+sq+JrdwE88Iu9pn0CfXwrU\", <https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css>; rel=preload; as=style",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=2MdygKCZ2jMlB9pf45TWjNwRuk1LSHYd8U3iRDgpZ0M-1792854995.62044-1.0.1.1-wE00jvncg.741h2hipvZYboZZ5snfA4WDkYAZxLoPoe7_vHrvGN6h414No9ODZG33192WhGeDDaoUV7GgW8tp3OuFQ0UpRvJpOykoFCoj8hhuuWDCSMANooX3mE46vud; HttpOnly; SameSite=None; Secure; Path=/; Domain=workos.com; Expires=Sat, 24 Oct 2026 15:46:35 GMT",
+        "surrogate-control": "max-age=432000",
+        "surrogate-key": "webflow.workos.com 621f54116cab10f6e9215d8b pageId:65f4ad67e93f3e3fe0aa02f6 65f4ad67e93f3e3fe0aa03ce 65f4ad67e93f3e3fe0aa03da 65f4ad67e93f3e3fe0aa03df",
+        "vary": "Accept, accept-encoding",
+        "x-frame-options": "SAMEORIGIN",
+        "x-lambda-id": "0a641d32-2590-4260-9623-b97b3558dde3",
+        "x-wf-region": "us-east-1"
+      }
+    },
+    {
+      "host": "document.syncfusion.com",
+      "status": 200,
+      "finalUrl": "https://document.syncfusion.com/",
+      "csp": [],
+      "headers": {
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a4f9f1934d70d126-HYD",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html",
+        "date": "Sat, 24 Oct 2026 15:16:39 GMT",
+        "last-modified": "Wed, 21 Oct 2026 16:18:52 GMT",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Origin",
+        "via": "1.1 ea8458ddc15d8f981f8b3faea723f498.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "nsffP7rHGoyAhRq8E8Z3OIFMZ2Pmkx_DGEKB0Cyz69kwBe1jXmYS_A==",
+        "x-amz-cf-pop": "HYD57-P2",
+        "x-amz-server-side-encryption": "AES256",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "vectorshift--syncfusion-server-syncfusionserver-web.modal.run",
+      "status": 404,
+      "finalUrl": "https://vectorshift--syncfusion-server-syncfusionserver-web.modal.run/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "connection": "close",
+        "date": "Sat, 24 Oct 2026 15:16:36 GMT",
+        "modal-function-call-id": "fc-01M5Q7RDDAKERBWGBAQH90BR44",
+        "vary": "accept-encoding"
+      }
+    },
+    {
+      "host": "vectorshift--syncfusion-docx-server-syncfusiondocxserver-web.modal.run",
+      "status": 404,
+      "finalUrl": "https://vectorshift--syncfusion-docx-server-syncfusiondocxserver-web.modal.run/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "connection": "close",
+        "date": "Sat, 24 Oct 2026 15:16:38 GMT",
+        "modal-function-call-id": "fc-01M5Q7RFDZ1H1Z7XYS9GYPH2GK",
+        "vary": "accept-encoding"
+      }
+    },
+    {
+      "host": "www.loom.com",
+      "status": 200,
+      "finalUrl": "https://www.loom.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "13936",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-length": "207980",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 24 Oct 2026 15:16:36 GMT",
+        "etag": "\"d95260e874332717e2b68112798926bc\"",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "server-timing": "cdn-upstream-layer;desc=\"EDGE\",cdn-upstream-dns;dur=14,cdn-upstream-connect;dur=40,cdn-upstream-fbl;dur=84,cdn-cache-miss,cdn-pop;desc=\"BLR50-P1\",cdn-rid;desc=\"tw5cm2W3gUP4I-1RW2sE8DT5uf3EI8wlDRu4M1_k7V3RJiArsfitWw==\",cdn-downstream-fbl;dur=102",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch",
+        "via": "1.1 18e3b1c0ea79a23226bf995a470b09f4.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "tw5cm2W3gUP4I-1RW2sE8DT5uf3EI8wlDRu4M1_k7V3RJiArsfitWw==",
+        "x-amz-cf-pop": "BLR50-P1",
+        "x-cache": "Miss from cloudfront",
+        "x-cdn": "cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-matched-path": "/",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::n284t-1792854996135-3ef011bc184f"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [
+    "setup.vectorshift.ai"
+  ],
+  "embeddedVendorHosts": [
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "js.intercomcdn.com",
+    "cdn.syncfusion.com",
+    "appsforoffice.microsoft.com",
+    "intercomcdn.com",
+    "workos.com",
+    "intercom-messenger.com",
+    "document.syncfusion.com",
+    "vectorshift--syncfusion-server-syncfusionserver-web.modal.run",
+    "vectorshift--syncfusion-docx-server-syncfusiondocxserver-web.modal.run",
+    "www.loom.com",
+    "calendly.com",
+    "typeform.com",
+    "www.figma.com",
+    "forms.gle",
+    "www.canva.com",
+    "www.notion.so",
+    "notion.site",
+    "www.airtable.com",
+    "airtable.com",
+    "www.wikipedia.org",
+    "wikipedia.org",
+    "dashboard.mintlify.com",
+    "app.mintlify.com"
+  ],
+  "stack": [
+    {
+      "tech": "AWS CloudFront",
+      "kind": "cdn",
+      "seenOn": [
+        "vectorshift.ai",
+        "www.vectorshift.ai",
+        "app.vectorshift.ai",
+        "auth.vectorshift.ai",
+        "js.intercomcdn.com",
+        "cdn.syncfusion.com",
+        "intercomcdn.com",
+        "document.syncfusion.com",
+        "www.loom.com"
+      ],
+      "evidence": [
+        "x-amz-cf-id: E3KufY7vb-dnDtIlWUR94P6Olrgrf2zaYmu2JqYNoUrUUczQwaRybg==",
+        "x-amz-cf-id: MJiqOsbljsT4wvoF8ZnscvVaYK339_wl0Jiab32eEW2XwYzDN9CTuw==",
+        "x-amz-cf-id: JAKhEUDTnHlpGeUJPMgiMlokVA2T3xIQGnf-qsRSnKxcXrreBTHXSw==",
+        "x-amz-cf-id: VvyOL1MHqKDrWu2Y0t4YC1v3UlQ7sZL3aJhzRcreCSM_6yAliZFbWg==",
+        "x-amz-cf-id: lcZruZjz_37Dz2WAluubdtEJ3MpX4SR72immNrQworJP9FspokYelg==",
+        "x-amz-cf-id: 55YVKrO7lDV8Kmbt6hfRNKPI48KuBNNClj1FlS0ts3rPU_ezZuQTPQ==",
+        "x-amz-cf-id: 52iWPKTVSc2F-W7Wmn3kXe6Rt0byFO18PGcUe45bx_7d-gunydmv5Q==",
+        "x-amz-cf-id: nsffP7rHGoyAhRq8E8Z3OIFMZ2Pmkx_DGEKB0Cyz69kwBe1jXmYS_A==",
+        "x-amz-cf-id: tw5cm2W3gUP4I-1RW2sE8DT5uf3EI8wlDRu4M1_k7V3RJiArsfitWw=="
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "docs.vectorshift.ai",
+        "cdn.syncfusion.com",
+        "cdn.syncfusion.com",
+        "workos.com",
+        "workos.com",
+        "document.syncfusion.com",
+        "document.syncfusion.com"
+      ],
+      "evidence": [
+        "cf-ray: a4f9f1827b504841-BOM",
+        "server: cloudflare",
+        "cf-ray: a4f9f1896df78b03-BOM",
+        "cf-ray: a4f9f18a9efa3f38-BOM",
+        "cf-ray: a4f9f1934d70d126-HYD"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Next.js (prerendered route)",
+      "kind": "framework",
+      "seenOn": [
+        "docs.vectorshift.ai"
+      ],
+      "evidence": [
+        "x-nextjs-prerender: 1"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Next.js App Router (React Server Components)",
+      "kind": "framework",
+      "seenOn": [
+        "docs.vectorshift.ai",
+        "intercomcdn.com",
+        "www.loom.com"
+      ],
+      "evidence": [
+        "vary: rsc, accept-encoding, Accept, User-Agent",
+        "vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Next.js",
+      "kind": "framework",
+      "seenOn": [
+        "intercomcdn.com"
+      ],
+      "evidence": [
+        "x-powered-by: Next.js"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "docs.vectorshift.ai",
+        "intercomcdn.com",
+        "www.loom.com"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "docs.vectorshift.ai",
+        "intercomcdn.com",
+        "www.loom.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1:iad1::iad1::vqdmp-1792854994293-8603f75d8e67",
+        "x-vercel-id: bom1::iad1::kldt8-1792854996164-0cf7da6aa1c1",
+        "x-vercel-id: bom1::n284t-1792854996135-3ef011bc184f"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel functions run in iad1",
+      "kind": "hosting",
+      "note": "the first hop (bom1:iad1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "docs.vectorshift.ai",
+        "intercomcdn.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1:iad1::iad1::vqdmp-1792854994293-8603f75d8e67",
+        "x-vercel-id: bom1::iad1::kldt8-1792854996164-0cf7da6aa1c1"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "www.loom.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::n284t-1792854996135-3ef011bc184f"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "js.intercomcdn.com",
+        "cdn.syncfusion.com",
+        "appsforoffice.microsoft.com",
+        "document.syncfusion.com",
+        "www.loom.com"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://vectorshift.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://vectorshift.ai/sitemap.xml\n"
+    },
+    {
+      "url": "https://vectorshift.ai/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n\n  <url>\n    <loc>https://vectorshift.ai/blog</loc>\n    <lastmod>2026-09-02</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/data-and-privacy</loc>\n    <lastmod>2026-09-17</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/glossary</loc>\n    <lastmod>2026-09-02</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/glossary/100-day-plan</loc>\n    <lastmod>2026-09-02</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/glossary/accretion-dilution</loc>\n    <lastmod>2026-09-02</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/glossary/add-on-acquisition<"
+    },
+    {
+      "url": "https://www.vectorshift.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://vectorshift.ai/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.vectorshift.ai/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n\n  <url>\n    <loc>https://vectorshift.ai/blog</loc>\n    <lastmod>2026-09-02</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/data-and-privacy</loc>\n    <lastmod>2026-09-17</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/glossary</loc>\n    <lastmod>2026-09-02</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/glossary/100-day-plan</loc>\n    <lastmod>2026-09-02</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/glossary/accretion-dilution</loc>\n    <lastmod>2026-09-02</lastmod>\n  </url>\n\n  <url>\n    <loc>https://vectorshift.ai/glossary/add-on-acquisition<"
+    },
+    {
+      "url": "https://api.vectorshift.ai/openapi.json",
+      "status": 200,
+      "contentType": "application/json",
+      "why": "the public API surface, in full",
+      "preview": "{\"openapi\":\"3.1.0\",\"info\":{\"title\":\"FastAPI\",\"version\":\"0.1.0\"},\"paths\":{\"/admin/users\":{\"get\":{\"summary\":\"Get Users\",\"operationId\":\"get_users_admin_users_get\",\"responses\":{\"200\":{\"description\":\"Successful Response\",\"content\":{\"application/json\":{\"schema\":{}}}}},\"security\":[{\"HTTPBearer\":[]}]},\"delete\":{\"summary\":\"Remove Users\",\"operationId\":\"remove_users_admin_users_delete\",\"requestBody\":{\"content\":{\"application/x-www-form-urlencoded\":{\"schema\":{\"$ref\":\"#/components/schemas/Body_remove_users_admin_users_delete\"}}},\"required\":true},\"responses\":{\"200\":{\"description\":\"Successful Response\",\"content\":{\"application/json\":{\"schema\":{}}}},\"422\":{\"description\":\"Validation Error\",\"content\":{\"applicat"
+    },
+    {
+      "url": "https://docs.vectorshift.ai/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nContent-Signal: ai-train=yes, search=yes, ai-input=yes\nDisallow: /cdn-cgi/\nAllow: /_next/image\nDisallow: /_next/\nSitemap: https://docs.vectorshift.ai/sitemap.xml"
+    },
+    {
+      "url": "https://docs.vectorshift.ai/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# VectorShift\n\n> VectorShift is a platform for building AI pipelines, agents, knowledge bases, and tables. These docs cover three distinct surfaces: the no-code visual platform, the REST API, and the Python SDK. Pick the surface that matches the task and stay within it.\n\n## How to use these docs (for AI assistants)\n\nRoute by the surface the user is working in. Do not mix surfaces — the SDK, the REST API, and the visual platform have different objects, names, and semantics.\n\n- **Writing Python with the VectorShift SDK** → use **only** pages under `/sdk`. Ignore `/api-reference` and `/platform` — they describe different interfaces and will produce code that does not run.\n- **Calling the HTTP/R"
+    },
+    {
+      "url": "https://docs.vectorshift.ai/sitemap.xml",
+      "status": 200,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:news=\"http://www.google.com/schemas/sitemap-news/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" xmlns:image=\"http://www.google.com/schemas/sitemap-image/1.1\" xmlns:video=\"http://www.google.com/schemas/sitemap-video/1.1\">\n    \n  <url>\n    <loc>https://docs.vectorshift.ai/account/organizations/enterprise-connections</loc>\n    <lastmod>2026-01-06T23:44:18.559Z</lastmod>\n  </url>\n\n  <url>\n    <loc>https://docs.vectorshift.ai/account/organizations/overview</loc>\n    <lastmod>2026-07-06T08:21:43.929Z</lastmod>\n  </url>\n\n  <url>\n    <loc>https://docs.vectorshift.ai/account/profile</loc>\n    <la"
+    }
+  ],
+  "dns": [
+    {
+      "host": "vectorshift.ai",
+      "a": [
+        "65.8.131.22",
+        "65.8.131.38",
+        "65.8.131.43",
+        "65.8.131.84"
+      ],
+      "txt": [
+        "hubspot-developer-verification=NjNhMzA0YWMtYzM0MC00ZTcxLWI5NmEtOTM4ZjRiMzk5ZTg5",
+        "mistral-domain-verification=2766dbf0b819544fbd2570e9f69be223543e9723",
+        "v=spf1 include:_spf.google.com ~all",
+        "zoom-domain-verification=ZOOM_verify_75a87e84fd05493bbf95b0d9ab687f4c",
+        "MS=ms41654398",
+        "google-site-verification=fvmr5oH3GRsBkvI8cD8I3D0aCaT6FkNupCE98ywolpM"
+      ],
+      "mx": [
+        "mbfswnjugx4ccv6nw3rnefqiytgfhc3rx376yszqz5bz4lhrjjza.mx-verification.google.com",
+        "smtp.google.com"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "HubSpot"
+      ]
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "a": [
+        "142.251.223.8"
+      ],
+      "vendors": []
+    },
+    {
+      "host": "www.google-analytics.com",
+      "a": [
+        "192.178.211.102",
+        "192.178.211.101",
+        "192.178.211.100",
+        "192.178.211.138"
+      ],
+      "cname": [
+        "www-alv.google-analytics.com"
+      ],
+      "mx": [],
+      "txt": [],
+      "vendors": []
+    },
+    {
+      "host": "js.intercomcdn.com",
+      "a": [
+        "18.161.216.90",
+        "18.161.216.71",
+        "18.161.216.27",
+        "18.161.216.59"
+      ],
+      "vendors": []
+    },
+    {
+      "host": "cdn.syncfusion.com",
+      "a": [
+        "172.66.171.210",
+        "104.20.30.72"
+      ],
+      "vendors": []
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "vectorshift",
+    "results": [
+      {
+        "name": "Vector Q by Imaengine",
+        "seller": "Luis Rivas",
+        "updated": "2026-09-21T02:27:13Z"
+      },
+      {
+        "name": "The Vector Converter",
+        "seller": "Float Tech, LLC",
+        "updated": "2026-04-07T16:57:55Z"
+      },
+      {
+        "name": "Shape-shifting",
+        "seller": "Xiamen Sixcube Information Technology Co., Ltd.",
+        "updated": "2026-04-21T19:28:14Z"
+      },
+      {
+        "name": "Vector Drawing & Logo Design",
+        "seller": "Vector Ink LLC",
+        "updated": "2024-08-22T05:14:28Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

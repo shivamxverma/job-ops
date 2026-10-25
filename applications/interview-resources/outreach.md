@@ -74,3 +74,24 @@ wrong. Nobody else applying will have done that.
 > version: I've built the off-request-path + live progress pattern (Storix) and a Postgres
 > credit ledger (klimb.io), and I'd genuinely like to know what schedules your reap cron.
 > Happy to jump straight to the take-home if that's easier. Shivam
+
+---
+
+## Follow-up, redrafted 2026-10-24 (overdue since 2026-10-13)
+
+**Before sending:** confirm the careers-form message actually went out (tracker said "blocked on
+Shivam: rewrite in your own words"). If it never went, this is not a follow-up: send the form
+first. The form used the retired address shivam.verma.dev00@gmail.com, so check that inbox for a
+reply too. Repo re-checked 2026-10-24: last push 2026-08-31, vercel.json still has no `crons`
+key, so the question still holds.
+
+**To:** X DM, https://x.com/sayandedotcom
+
+> Hey Sayan, I applied for the back-end leaning AI engineer role a few weeks back through the
+> careers form. Short version: I've built the off-request-path pattern with live progress
+> (Storix: Celery workers, Redis pub/sub out to the browser) and a Postgres credit ledger across
+> 6+ AI features at klimb.io. One thing I still can't answer from the repo: what schedules
+> /api/cron/reap? vercel.json has no crons entry. Happy to go straight to a take-home if the seat
+> is still open.
+>
+> - Shivam

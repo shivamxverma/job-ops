@@ -83,3 +83,11 @@ Role to name: **AI / AI Platform Engineer**. Fallback: Decision Product Engineer
   evals, confidence thresholds, the audit trail and the write-back. I've built each of those
   pieces at small scale and want to build them where a wrong action costs real money.
 - **What have you built that you're most proud of (2-3 lines)?** see inbox/replies.md DeciOps email.
+
+## Confirmed on the call (2026-10-23, 1st round with Laxmipat)
+- Format: ~30 min, founder alone. Intro → current company + its founders + current comp and
+  conversion → his work → "what is an AI agent, where would you use it" → "what is LangChain"
+  → "types of databases, Postgres vs MongoDB, how joins work" → expected comp.
+- Comp: founder said his own research puts this seat at 6-8 LPA max, and capped Shivam at 5 LPA
+  after the technical answers. Treat 6-8 LPA as their band for a fresher AI Platform Engineer.
+- He tests definitions, not system design: LangChain and DB types are fair game in round 1.

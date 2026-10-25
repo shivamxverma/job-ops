@@ -45,3 +45,16 @@ Target: https://www.linkedin.com/in/iprincekumarsingh/
 ## If they reply
 Prep from tech-read.md §"Two questions". Say the honest gap up front if asked about telephony: the voice
 work was WebRTC in the browser, not PSTN calls.
+
+## 3. LinkedIn DM to Prince, v2 (2026-10-23) — USE THIS ONE
+The email to hello@revvox.io bounced on 2026-10-22 (550 5.1.1, "account does not exist") even
+though it is the address on revvox.io/careers, and it went without the resume (3 KB). The v1 DM
+above was never sent. This replaces both. Attach applications/revvox/resume.pdf in the DM.
+
+> Hey Prince, heads up first: hello@revvox.io bounces ("account does not exist"), and it's the
+> address on your careers page, so applications sent there are getting lost. I tried it yesterday.
+>
+> What I was sending: I built the backend for an AI interview platform at klimb.io with a live
+> voice round on OpenAI Realtime, hundreds of candidates through it, and CodeSM, a Docker sandbox
+> that runs untrusted code in 6 languages, which is close to your coding round. Resume attached.
+> Is the team adding an engineer before the 16 Nov launch? shivamworks.dev

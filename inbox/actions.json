@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T03:44:08.904Z",
+  "generated": "2026-10-23T14:03:53.977Z",
   "note": "The queue behind `node scripts/actions.mjs`. Skills write items here; the board renders them and writes the result back into the repo when every step of a card is checked. Keep `steps` to things SHIVAM does with his own hands — anything Claude does is not a step, it is a sentence in `background`.",
   "items": [
     {
@@ -7,8 +7,8 @@
       "kind": "action",
       "company": "DeciOps",
       "grade": "B",
-      "title": "DeciOps founder is screening you: reply sent, wait for his response",
-      "sub": "Laxmipat asked 7 questions; your answers + resume went out Oct 22 00:07. Q7 says you are in Bengaluru, Q6 says Bihar: be ready to clarify",
+      "title": "DeciOps: round 1 done, 5 LPA accepted to proceed, waiting for round 2",
+      "sub": "Founder capped comp at 5 LPA after a fundamentals-light call; you accepted to move on (sent Oct 23 19:17). Round 2 will go deeper.",
       "links": [
         {
           "label": "The thread",
@@ -16,10 +16,10 @@
         }
       ],
       "steps": [
-        "If he asks for a call, prep with applications/deciops/tech-read.md (2 questions in §4)",
-        "If silent by Oct 27, send a one-line nudge"
+        "Practise out loud: database types with your 4 examples, LangChain, one level deeper on each project",
+        "If no round-2 invite by Oct 27, tell Claude to draft the nudge"
       ],
-      "background": "First real founder reply in this pipeline for Shivam. The first email lacked the resume and had mangled links, which is what his ‘not multiple links’ line was about; the reply fixed both."
+      "background": "Debrief scored round 1 ~35%: comp claim that did not hold, names without mechanisms (DBs, LangChain), described the product not your part. Full scorecard in applications/deciops/mock/observations.md; revision doc at https://claude.ai/artifact/K69Y5qHKZU4Vsqa9oWRUgE ."
     },
     {
       "id": "singlestore-2026-10-06",
@@ -604,6 +604,651 @@
           "target": "applications/revvox"
         }
       ]
+    },
+    {
+      "id": "smallest-2026-10-23",
+      "kind": "lead",
+      "company": "Smallest",
+      "grade": "B",
+      "title": "Smallest: submit the Ashby form, then note the CTO",
+      "sub": "Dossier, tech-read, resume and outreach ready. Fundamentals-heavy interview (OS, memory, TCP, concurrency).",
+      "links": [
+        {
+          "label": "Ashby application",
+          "url": "https://jobs.ashbyhq.com/smallest/f0879803-4119-4278-bcfc-4f0b25df943b/application"
+        },
+        {
+          "label": "Find the CTO on LinkedIn",
+          "url": "https://www.linkedin.com/search/results/people/?keywords=Akshat%20Mandloi%20smallest"
+        },
+        {
+          "label": "Status page",
+          "url": "https://status.smallest.ai"
+        }
+      ],
+      "steps": [
+        "Submit the Ashby form with applications/smallest/resume.pdf",
+        "Send the 242-char connection note to Akshat Mandloi (outreach.md section 2)"
+      ],
+      "background": "Onsite Bengaluru. They run TTS/ASR GPU inference across AWS regions behind multi-tenant APIs with concurrency controls, billing and webhooks (Python, TypeScript, Go on K8s; Redis, Mongo, Postgres, ClickHouse, RabbitMQ, Temporal). Fit: klimb.io credit ledger (billing), poiro fail-closed caps (concurrency controls), klimb.io live voice round on OpenAI Realtime. Gap: the seat owns SLOs, on-call, CI/deploys and Terraform, none of which you have done in production. Grade B. To work it, say \"work Smallest\" in chat (dossier, tech-read, resume, outreach). Tick the step only to pass.",
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "Smallest"
+      },
+      "buttons": [
+        {
+          "label": "Folder (resume.pdf, outreach.md)",
+          "action": "reveal",
+          "target": "applications/smallest/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "travclan-signal-2026-10-23",
+      "kind": "signal",
+      "company": "TravClan",
+      "grade": "B",
+      "title": "TravClan raised $5M (Flipkart and others)",
+      "sub": "B2B travel platform, fresh round. No posting yet; check whether they are hiring backend.",
+      "links": [
+        {
+          "label": "The news",
+          "url": "https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "Funding signal from the YourStory feed (2026-10-22). Nothing checked yet: careers page, eng team size, IIIT Nagpur alumni there. Say \"work TravClan\" to research it and look for a warm path. Tick the step only to pass.",
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "TravClan"
+      }
+    },
+    {
+      "id": "maxim-akshay-2026-10-23",
+      "kind": "network",
+      "company": "Maxim AI (Bifrost)",
+      "grade": "C",
+      "title": "DM Akshay Deo (CTO, Maxim AI): he accepted your invite today",
+      "sub": "AI gateway in Go, hiring Member of Technical Staff in Bangalore. Your poiro adapter + caps is a small gateway.",
+      "links": [
+        {
+          "label": "The role",
+          "url": "https://www.getmaxim.ai/careers/member-of-technical-staff"
+        }
+      ],
+      "steps": [
+        "Send Akshay the DM from inbox/replies.md (section Akshay Deo)"
+      ],
+      "background": "Graded C: Go is the primary language and they ask 2-4 years. The DM names both gaps and asks if they are dealbreakers. A CTO who accepted your invite is the warmest path you have to any company this week.",
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "Maxim AI (Bifrost)"
+      }
+    },
+    {
+      "id": "alumni-nagendra-2026-10-23",
+      "kind": "network",
+      "company": "Salesforce",
+      "grade": "C",
+      "title": "Nagendra Patel (Salesforce, IIITN) accepted: send the ask",
+      "sub": "No junior India req open on Salesforce Workday today; the ask says so and asks for a referral when one opens.",
+      "links": [
+        {
+          "label": "Nagendra on LinkedIn",
+          "url": "https://www.linkedin.com/in/nagendra-patel-262920175"
+        }
+      ],
+      "steps": [
+        "Send Nagendra the ask from inbox/referrals.md (Stage 2 ask, 2026-10-23)"
+      ],
+      "background": "Written to Mahesh's feedback: it does the job search for him instead of asking whether his team is hiring."
+    },
+    {
+      "id": "bureau-2026-10-23",
+      "kind": "lead",
+      "company": "Bureau",
+      "grade": "B",
+      "title": "Bureau: submit the Ashby form (Data Engineer)",
+      "sub": "Dossier, tech-read, resume ready. Spark/Airflow are the gaps; study SQL window functions and query plans.",
+      "links": [
+        {
+          "label": "Ashby application",
+          "url": "https://jobs.ashbyhq.com/bureau/0896ed82-d54c-4e35-81a9-bb3818056034/application"
+        }
+      ],
+      "steps": [
+        "Submit the Ashby form with applications/bureau/resume.pdf"
+      ],
+      "background": "Bureau runs a risk-decisioning engine on a 1B+ identity graph for 150+ banks and fintechs, $50M+ raised. Posted 2026-09-22, still open. Graded B- because Spark/Airflow are core to the seat and you have neither; the backend-services half of the JD fits. Say \"work Bureau\" in chat to run dossier, resume and outreach. Tick only to pass.",
+      "onDone": {
+        "markProcessed": "done",
+        "slug": "Bureau"
+      },
+      "buttons": [
+        {
+          "label": "Folder",
+          "action": "reveal",
+          "target": "applications/bureau/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-sarvam-main-2026-10-23",
+      "kind": "lead",
+      "company": "Sarvam",
+      "grade": "C",
+      "title": "Sarvam: submit (SDE, Tejas (context engine), Bengaluru onsite)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "Ashby application (Tejas)",
+          "url": "https://jobs.ashbyhq.com/sarvam/db89b576-2456-4cc4-ab0b-c45f8c6c27f0/application"
+        }
+      ],
+      "steps": [
+        "Submit with applications/sarvam/resume.pdf, answers from applications/sarvam/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/sarvam/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-sarvam-agent-2026-10-23",
+      "kind": "lead",
+      "company": "Sarvam (Agent Engineer)",
+      "grade": "C",
+      "title": "Sarvam (Agent Engineer): submit (Agent Engineer, Bengaluru onsite)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "Ashby application (Agent Engineer)",
+          "url": "https://jobs.ashbyhq.com/sarvam/36f89b00-2010-4d23-aae3-17a2f53d9eaa/application"
+        }
+      ],
+      "steps": [
+        "Submit with applications/sarvam/resume.pdf, answers from applications/sarvam/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/sarvam/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-maxim-ai-main-2026-10-23",
+      "kind": "lead",
+      "company": "Maxim AI",
+      "grade": "C",
+      "title": "Maxim AI: submit (Member of Technical Staff (Bifrost), Bangalore)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "Careers form",
+          "url": "https://www.getmaxim.ai/careers/member-of-technical-staff"
+        }
+      ],
+      "steps": [
+        "Submit with applications/maxim-ai/resume.pdf, answers from applications/maxim-ai/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/maxim-ai/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-composio-main-2026-10-23",
+      "kind": "lead",
+      "company": "Composio",
+      "grade": "C",
+      "title": "Composio: submit (MTS Applied AI Engineer (US timing), Bengaluru)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "Ashby application",
+          "url": "https://jobs.ashbyhq.com/composio/a4046674-59ee-41fd-9045-2a7058a467e1/application"
+        }
+      ],
+      "steps": [
+        "Submit with applications/composio/resume.pdf, answers from applications/composio/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/composio/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-zyte-main-2026-10-23",
+      "kind": "lead",
+      "company": "Zyte",
+      "grade": "C",
+      "title": "Zyte: submit (AI Tooling Engineer, Remote India)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "Workable application",
+          "url": "https://apply.workable.com/zyte/j/3D838DDD34/apply/"
+        }
+      ],
+      "steps": [
+        "Submit with applications/zyte/resume.pdf, answers from applications/zyte/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/zyte/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-umbrella-main-2026-10-23",
+      "kind": "lead",
+      "company": "Umbrella",
+      "grade": "C",
+      "title": "Umbrella: submit (Backend Engineer (Node.js), Remote)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "Careers form",
+          "url": "https://www.myumbrella.ai/careers/backend-engineer-nodejs"
+        }
+      ],
+      "steps": [
+        "Submit with applications/umbrella/resume.pdf, answers from applications/umbrella/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/umbrella/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-brownrice-main-2026-10-23",
+      "kind": "lead",
+      "company": "BrownRiceCapital (via ClanX)",
+      "grade": "C",
+      "title": "BrownRiceCapital (via ClanX): submit (Junior Backend Engineer (Python), Remote India)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "ClanX application",
+          "url": "https://jobs.clanx.ai/o/junior-backend-engineer-python-remote"
+        }
+      ],
+      "steps": [
+        "Submit with applications/brownrice/resume.pdf, answers from applications/brownrice/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/brownrice/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-cnvrted-main-2026-10-23",
+      "kind": "lead",
+      "company": "Cnvrted",
+      "grade": "C",
+      "title": "Cnvrted: submit (Backend Engineering Intern, Bangalore hybrid)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "Google Form",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfr_88vYF7bUefW_KsMevV5XOT6G9aq93-32j6WALV69LAUvg/viewform"
+        }
+      ],
+      "steps": [
+        "Submit with applications/cnvrted/resume.pdf, answers from applications/cnvrted/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/cnvrted/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-kasparro-main-2026-10-23",
+      "kind": "lead",
+      "company": "Kasparro",
+      "grade": "C",
+      "title": "Kasparro: submit (Full Stack Engineer Intern (PPO), HSR Bangalore)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "Gmail drafts",
+          "url": "https://mail.google.com/mail/u/0/#drafts"
+        }
+      ],
+      "steps": [
+        "Submit with applications/kasparro/resume.pdf, answers from applications/kasparro/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/kasparro/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "c10-alaan-main-2026-10-23",
+      "kind": "lead",
+      "company": "Alaan",
+      "grade": "C",
+      "title": "Alaan: submit (Backend Engineer (Node/NestJS), Bengaluru)",
+      "sub": "Today's batch of 10. Resume and paste-ready answers in outreach.md.",
+      "links": [
+        {
+          "label": "X post",
+          "url": "https://x.com/Prathamesh_twts/status/2110989523941470553"
+        }
+      ],
+      "steps": [
+        "Submit with applications/alaan/resume.pdf, answers from applications/alaan/outreach.md"
+      ],
+      "background": "C-lane quick pass, 2026-10-23: one resume framing, no tech-read. Tracker row already says sent; tick when submitted.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Answers",
+          "action": "reveal",
+          "target": "applications/alaan/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "lead-vectorshift-2026-10-24",
+      "kind": "lead",
+      "company": "VectorShift",
+      "grade": "A-",
+      "title": "VectorShift: submit on YC + LinkedIn note to Alex",
+      "sub": "Resume, apply note and LinkedIn note ready in outreach.md.",
+      "links": [
+        {
+          "label": "YC posting",
+          "url": "https://www.ycombinator.com/companies/vectorshift/jobs/fOnABbt-backend-engineer-india"
+        },
+        {
+          "label": "Alex on LinkedIn",
+          "url": "https://www.linkedin.com/in/alexanderleonardi"
+        }
+      ],
+      "steps": [
+        "Apply on YC with applications/vectorshift/resume.pdf and the note in outreach.md §1",
+        "Send the LinkedIn connection note to Alex Leonardi (outreach.md §2)"
+      ],
+      "background": "new grads ok, remote India, Python/FastAPI, $20-30K. The work is workflow-run efficiency and scale on a no-code AI pipeline builder, which is the poiro.com node/group workflow builder seat. Interview: 15m behavioral (Albert Mao), take-home, 45m technical (Alex Leonardi). Apply direct to the founders rather than WaaS (costs 1 of 5/week).\n\nSource: web search 2026-10-24, live on YC. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work VectorShift\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {},
+      "buttons": [
+        {
+          "label": "Outreach",
+          "action": "reveal",
+          "target": "applications/vectorshift/outreach.md"
+        }
+      ]
+    },
+    {
+      "id": "lead-lumari-2026-10-24",
+      "kind": "lead",
+      "company": "Lumari",
+      "grade": "B+",
+      "title": "Lumari (YC X25): Software Engineer (full-stack, AI agents), Remote (IN)",
+      "sub": "new grads ok, remote India.",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://lumari.io/careers/software-engineer"
+        },
+        {
+          "label": "Company",
+          "url": "https://lumari.io"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "new grads ok, remote India. React/TS/Python/FastAPI/Next.js, building procurement agents (tool calling, structured outputs, guardrails). Stack is his; the agent-in-production ask is a stretch, DeepDoc evals are the proof.\n\nSource: web search 2026-10-24, live on careers page. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Lumari\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
+    },
+    {
+      "id": "lead-superapp-2026-10-24",
+      "kind": "lead",
+      "company": "Superapp",
+      "grade": "B",
+      "title": "Superapp: Software Engineer, Full-Stack (Early Careers), Bengaluru",
+      "sub": "early-careers seat in the new India team on AI Hub (agentic document extraction, workflow config/run/review UIs, model orchestration).",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://job-boards.greenhouse.io/superapp/jobs/8829824002"
+        },
+        {
+          "label": "Company",
+          "url": "https://superapp.chat"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "early-careers seat in the new India team on AI Hub (agentic document extraction, workflow config/run/review UIs, model orchestration). Sibling role Backend (Early Careers) https://job-boards.greenhouse.io/superapp/jobs/8859685002 wants 1-2 yrs + Go/Python, weaker fit. Apply to one, the full-stack one.\n\nSource: Greenhouse API, posted 2026-09-22/10-01. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Superapp\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
+    },
+    {
+      "id": "lead-kontxt-dev-2026-10-24",
+      "kind": "lead",
+      "company": "Kontxt.dev",
+      "grade": "B",
+      "title": "Kontxt.dev: SDE (Full Stack + AI), first engineer, Remote India",
+      "sub": "0-3 yrs, remote India, first engineering hire.",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://jobs.weekday.works/software-engineer-at-kontxt-dev-wkdybri15h"
+        },
+        {
+          "label": "Company",
+          "url": "https://kontxt.co.in"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "0-3 yrs, remote India, first engineering hire. FastAPI + Next.js + Postgres + Qdrant + AWS Lambda/Bedrock, context orchestration for AI coding tools (GitHub/Jira/Slack integrations). Listing is on Weekday; find the founder and email direct. Check comp before investing, very early.\n\nSource: Weekday listing, date unknown. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Kontxt.dev\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
+    },
+    {
+      "id": "lead-wyre-ai-2026-10-24",
+      "kind": "lead",
+      "company": "Wyre AI",
+      "grade": "B",
+      "title": "Wyre AI: Junior AI Engineer (GenAI & document intelligence), Remote India",
+      "sub": "0-2 yrs, remote India.",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://wyreai.io/career/junior-ai-engineer-generative-ai/"
+        },
+        {
+          "label": "Company",
+          "url": "https://wyreai.io"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "0-2 yrs, remote India. RAG over construction PDFs/specs, extraction, chunking, Python APIs. DeepDoc's retrieval + 36-case eval harness is the artifact. More ML-leaning than his backend framing; use ai_framing.\n\nSource: company careers page, live 2026-10-24. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Wyre AI\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
+    },
+    {
+      "id": "lead-binocs-co-2026-10-24",
+      "kind": "lead",
+      "company": "Binocs.co",
+      "grade": "B",
+      "title": "Binocs.co: SDE-I (Backend), Bengaluru onsite",
+      "sub": "0-1 yrs, Bengaluru onsite, ~10-15 LPA (aggregator estimate).",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://hirastra.com/jobs/binocs-co-sde-i-backend"
+        },
+        {
+          "label": "Company",
+          "url": "https://binocs.co"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "0-1 yrs, Bengaluru onsite, ~10-15 LPA (aggregator estimate). Loan-management software for private-credit lenders; Python/Go/Node + Postgres/Mongo. Aggregator says verified live 2026-10-12, official posting URL not found yet: find it on their site/LinkedIn before applying.\n\nSource: Hirastra, added 2026-10-12. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Binocs.co\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
+    },
+    {
+      "id": "lead-zoca-2026-10-24",
+      "kind": "lead",
+      "company": "Zoca",
+      "grade": "B",
+      "title": "Zoca: SDE-1, Bangalore in-office",
+      "sub": "0-2 yrs, Bangalore in-office, 10-15 LPA.",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://jobs.weekday.works/humanbit.ai-software-engineer"
+        },
+        {
+          "label": "Company",
+          "url": "https://zoca.com"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "0-2 yrs, Bangalore in-office, 10-15 LPA. AI agents for local businesses (lead follow-up, SEO, loyalty); backend APIs powering AI workflows. Listing via Weekday (posted as humanbit.ai), date unknown: confirm on Zoca's own careers page.\n\nSource: Weekday listing. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Zoca\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
+    },
+    {
+      "id": "lead-lokal-2026-10-24",
+      "kind": "lead",
+      "company": "Lokal",
+      "grade": "B-",
+      "title": "Lokal (YC): Backend Developer, SDE 1, Bengaluru onsite",
+      "sub": "0-2 yrs, Bengaluru onsite, Series B, 45M downloads.",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://platform.uplers.com/talent/all-opportunities/HR1174289865212412"
+        },
+        {
+          "label": "Company",
+          "url": "https://getlokalapp.com"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "0-2 yrs, Bengaluru onsite, Series B, 45M downloads. Python/Java/JS backend, SQL+NoSQL, websockets/video a plus. Via Uplers, posting date unknown: check Lokal's own careers page or a 1st-degree contact first.\n\nSource: Uplers listing. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Lokal\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
+    },
+    {
+      "id": "lead-mindtickle-2026-10-24",
+      "kind": "lead",
+      "company": "Mindtickle",
+      "grade": "C+",
+      "title": "Mindtickle: AI Product Engineer, Pune / Bengaluru",
+      "sub": "internal 'enterprise brain': integrations/webhooks into CRM + ticketing, agentic workflows, RAG with evals.",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://jobs.lever.co/mindtickle/864ac315-d7c5-4cd5-ab44-0e33d08f48f1"
+        },
+        {
+          "label": "Company",
+          "url": "https://mindtickle.com"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "internal 'enterprise brain': integrations/webhooks into CRM + ticketing, agentic workflows, RAG with evals. 50% software / 30% AI / 20% SQL analytics. Live on Lever (ats-scout found it 2026-10-21, never graded). Years bar not stated in the excerpt; read the full JD.\n\nSource: ats-scout, Lever. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Mindtickle\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
+    },
+    {
+      "id": "lead-wisdom-ai-2026-10-24",
+      "kind": "lead",
+      "company": "Wisdom AI",
+      "grade": "C+",
+      "title": "Wisdom AI: Software Engineer, Backend, Bengaluru onsite",
+      "sub": "founding-team backend/infra seat on latency-critical analytics data pipelines; customers Cisco, Patreon, Rubrik.",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://jobs.ashbyhq.com/wisdom-ai/38997748-01fd-4a16-84e9-a135fb056908"
+        },
+        {
+          "label": "Company",
+          "url": "https://askwisdom.ai"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "founding-team backend/infra seat on latency-critical analytics data pipelines; customers Cisco, Patreon, Rubrik. No years bar stated, but 'large scale data pipelines' experience is asked and he does not have it. Long shot.\n\nSource: Ashby API, posted 2026-09-16. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Wisdom AI\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
+      "onDone": {
+        "markProcessed": "skip"
+      }
     }
   ]
 }

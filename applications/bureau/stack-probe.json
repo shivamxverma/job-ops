@@ -1,0 +1,304 @@
+{
+  "domain": "bureau.id",
+  "slug": "bureau",
+  "probedAt": "2026-10-23T16:49:04.326Z",
+  "liveHosts": [
+    {
+      "host": "bureau.id",
+      "status": 200,
+      "finalUrl": "https://bureau.id/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "1117711",
+        "content-type": "text/html",
+        "date": "Fri, 23 Oct 2026 16:48:43 GMT",
+        "etag": "\"27f4b8726514ff84f850c2289d00f7b2\"",
+        "framer-site-id": "05af6d04313e050a1905e61952356ee4640d66b244d6e52d9c36ec41f78ed471",
+        "last-modified": "Fri, 23 Oct 2026 09:58:24 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "Framer/24ab00f",
+        "server-timing": "region;desc=\"ap-south-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"f322694\", route;dur=1;desc=\"id=augiA20Il&locale=default\", country;desc=\"IN\", ss-only-routes",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "www.bureau.id",
+      "status": 200,
+      "finalUrl": "https://bureau.id/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "1117711",
+        "content-type": "text/html",
+        "date": "Fri, 23 Oct 2026 16:48:46 GMT",
+        "etag": "\"27f4b8726514ff84f850c2289d00f7b2\"",
+        "framer-site-id": "05af6d04313e050a1905e61952356ee4640d66b244d6e52d9c36ec41f78ed471",
+        "last-modified": "Fri, 23 Oct 2026 09:58:24 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "Framer/24ab00f",
+        "server-timing": "region;desc=\"ap-south-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"bfb7b94\", route;dur=1;desc=\"id=augiA20Il&locale=default\", country;desc=\"IN\", ss-only-routes",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "api.bureau.id",
+      "status": 404,
+      "finalUrl": "https://api.bureau.id/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a4f23b287e7f17b6-MAA",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "application/json; charset=utf-8",
+        "date": "Fri, 23 Oct 2026 16:48:44 GMT",
+        "server": "cloudflare",
+        "x-kong-response-latency": "0",
+        "x-trace-id": "7b7b528ef19e8e46267f0dc72dcecfe7"
+      }
+    },
+    {
+      "host": "status.bureau.id",
+      "status": 200,
+      "finalUrl": "https://status.bureau.id/",
+      "csp": [],
+      "headers": {
+        "age": "137",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "1618798",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Fri, 23 Oct 2026 16:23:52 GMT",
+        "etag": "\"qwcb3ae3zeyoln\"",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-matched-path": "/[lang]/[url]/[type]/[userId]",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "60",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::cle1::7t5mj-1792774126322-02906c2edbce"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "api.bureau.id",
+        "api.bureau.id"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a4f23b287e7f17b6-MAA"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js (prerendered route)",
+      "kind": "framework",
+      "seenOn": [
+        "status.bureau.id"
+      ],
+      "evidence": [
+        "x-nextjs-prerender: 1"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Next.js",
+      "kind": "framework",
+      "seenOn": [
+        "status.bureau.id"
+      ],
+      "evidence": [
+        "x-powered-by: Next.js"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Next.js App Router (React Server Components)",
+      "kind": "framework",
+      "seenOn": [
+        "status.bureau.id"
+      ],
+      "evidence": [
+        "vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "status.bureau.id"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "status.bureau.id"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::cle1::7t5mj-1792774126322-02906c2edbce"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel functions run in cle1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "status.bureau.id"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::cle1::7t5mj-1792774126322-02906c2edbce"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "bureau.id",
+        "www.bureau.id",
+        "status.bureau.id"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://bureau.id/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://bureau.id/sitemap.xml"
+    },
+    {
+      "url": "https://bureau.id/sitemap.xml",
+      "status": 200,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url><loc>https://bureau.id/</loc></url>\n<url><loc>https://bureau.id/products/device-id</loc></url>\n<url><loc>https://bureau.id/products/unified-risk-decisioning-platform</loc></url>\n<url><loc>https://bureau.id/products/runtime-application-self-protection-rasp</loc></url>\n<url><loc>https://bureau.id/products/behavioral-biometrics</loc></url>\n<url><loc>https://bureau.id/products/identity-document-verification</loc></url>\n<url><loc>https://bureau.id/products/graph-identity-network-money-mule-fraud-prevention</loc></url>\n<url><loc>https://bureau.id/products/alternate-data</loc></url>\n<url><loc>ht"
+    },
+    {
+      "url": "https://www.bureau.id/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nSitemap: https://bureau.id/sitemap.xml"
+    },
+    {
+      "url": "https://www.bureau.id/sitemap.xml",
+      "status": 200,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url><loc>https://bureau.id/</loc></url>\n<url><loc>https://bureau.id/products/device-id</loc></url>\n<url><loc>https://bureau.id/products/unified-risk-decisioning-platform</loc></url>\n<url><loc>https://bureau.id/products/runtime-application-self-protection-rasp</loc></url>\n<url><loc>https://bureau.id/products/behavioral-biometrics</loc></url>\n<url><loc>https://bureau.id/products/identity-document-verification</loc></url>\n<url><loc>https://bureau.id/products/graph-identity-network-money-mule-fraud-prevention</loc></url>\n<url><loc>https://bureau.id/products/alternate-data</loc></url>\n<url><loc>ht"
+    }
+  ],
+  "dns": [
+    {
+      "host": "bureau.id",
+      "a": [
+        "31.43.160.6",
+        "31.43.161.6"
+      ],
+      "mx": [
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com"
+      ],
+      "txt": [
+        "MS=DEE4545637D9BD7696EAAD9075071DC5A915DB90",
+        "apple-domain-verification=d9ckbPxfqJrvaaZx",
+        "google-site-verification=Pw_ltYLFNRuuGO9FtayYeGa4j1j-XcsMA4XzjA-heXw",
+        "google-site-verification=gw_nPUT01CTZNhLI-6QSySo5AmOt31UX5xickQ2eP2U",
+        "jamf-site-verification=XdM0g1XAXHAvo65j1nqFwg",
+        "v=spf1 include:_spf.google.com include:20502105.spf04.hubspotemail.net ~all"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "HubSpot"
+      ]
+    }
+  ],
+  "ats": [
+    {
+      "ats": "Ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/bureau?includeCompensation=true",
+      "openRoles": 19,
+      "bytes": 236226
+    }
+  ],
+  "appStore": {
+    "query": "bureau",
+    "results": [
+      {
+        "name": "Etihad Credit Bureau",
+        "seller": "Al Etihad Credit Bureau PJSC",
+        "updated": "2026-10-05T17:25:54Z"
+      },
+      {
+        "name": "Farm Bureau MobileAgent",
+        "seller": "Southern Farm Bureau Casualty Insurance Company",
+        "updated": "2026-10-14T12:12:15Z"
+      },
+      {
+        "name": "Bureau Veritas MAIA",
+        "seller": "Bureau Veritas International",
+        "updated": "2026-10-16T06:30:45Z"
+      },
+      {
+        "name": "AnyDesk Remote Desktop",
+        "seller": "AnyDesk Software GmbH",
+        "updated": "2026-10-07T08:16:09Z"
+      },
+      {
+        "name": "Kentucky Farm Bureau",
+        "seller": "Kentucky Farm Bureau Federation",
+        "updated": "2026-10-07T22:22:38Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

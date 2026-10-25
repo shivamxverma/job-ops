@@ -11,9 +11,8 @@
 - **Provider Adapter Layer:** Integrated Pixabay, Unsplash, and Pinterest behind one common adapter interface, with per-org Redis caching to avoid repeat API calls and spend caps to stop runaway provider costs.
 
 ### klimb.io @ Nov 2025 – May 2026
-*Full Stack Developer Intern* @ *TypeScript, Express.js, PostgreSQL, Redis, AWS, OpenAI Realtime*
+*Full Stack Developer Intern* @ *TypeScript, Express.js, PostgreSQL, Redis, AWS*
 - **Usage-Based Billing Ledger:** Replaced on/off feature flags with a credit ledger that meters each customer's usage of **6+ AI features**, which made usage-based pricing possible.
-- **AI Interview Platform:** Built the backend for a **3-stage** AI interview platform with automated proctoring; its live voice round on OpenAI Realtime asks questions drawn from the candidate's resume and scores the transcript.
 
 ## Projects
 

@@ -1,0 +1,865 @@
+{
+  "domain": "smallest.ai",
+  "slug": "smallest",
+  "probedAt": "2026-10-23T14:07:25.624Z",
+  "liveHosts": [
+    {
+      "host": "smallest.ai",
+      "status": 200,
+      "finalUrl": "https://smallest.ai/",
+      "csp": [],
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "705882",
+        "content-type": "text/html",
+        "date": "Fri, 23 Oct 2026 14:07:09 GMT",
+        "etag": "\"4a8e3346b6f366c20351387f24a786c8\"",
+        "framer-site-id": "8a64bea7ad130a60e5b03072357c2b9d01e05249833ef669b5057bdadfcf1085",
+        "last-modified": "Thu, 22 Oct 2026 16:14:39 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "Framer/24ab00f",
+        "server-timing": "region;desc=\"ap-south-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"400179b\", route;dur=1;desc=\"id=ROvQV45Xg&locale=default\", country;desc=\"IN\", ss-only-routes",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "via": "1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "hkj0HCCUG6aGqzdhpmZSMYJknqSnLHsiGhKrMIueobBSkkdpM-KpSQ==",
+        "x-amz-cf-pop": "MAA51-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "www.smallest.ai",
+      "status": 200,
+      "finalUrl": "https://smallest.ai/",
+      "csp": [],
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "705882",
+        "content-type": "text/html",
+        "date": "Fri, 23 Oct 2026 14:07:13 GMT",
+        "etag": "\"4a8e3346b6f366c20351387f24a786c8\"",
+        "framer-site-id": "8a64bea7ad130a60e5b03072357c2b9d01e05249833ef669b5057bdadfcf1085",
+        "last-modified": "Thu, 22 Oct 2026 16:14:39 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "Framer/24ab00f",
+        "server-timing": "region;desc=\"ap-south-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"400179b\", route;dur=1;desc=\"id=ROvQV45Xg&locale=default\", country;desc=\"IN\", ss-only-routes",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "via": "1.1 7b700049431c5ff959540a1d6c8a38b0.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "v4tXfx0QKC_isfiJnerccfpeEMalaKAq7nryIJc7p4mAgz3ehhgBtQ==",
+        "x-amz-cf-pop": "MAA51-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "app.smallest.ai",
+      "status": 200,
+      "finalUrl": "https://app.smallest.ai/login?entry=root",
+      "csp": [
+        "www.googletagmanager.com",
+        "www.googleadservices.com",
+        "browser.sentry-cdn.com",
+        "js.sentry-cdn.com",
+        "cdn.withampersand.com",
+        "www.google-analytics.com",
+        "lh3.googleusercontent.com",
+        "d3m5rjqxtkxu0z.cloudfront.net",
+        "d2ggtb57hogf3o.cloudfront.net",
+        "db2izkvf1oocn.cloudfront.net",
+        "dlw9ti8dmuxc7.cloudfront.net",
+        "d1a6d7hvvmbsyd.cloudfront.net",
+        "atoms-api.smallest.ai",
+        "atoms-api.dev.smallest.ai",
+        "console-api.smallest.ai",
+        "console-api.dev.smallest.ai",
+        "waves-api.dev.smallest.ai",
+        "waves-api.smallest.ai",
+        "media.plivo.com",
+        "api.withampersand.com",
+        "withampersand.com",
+        "d4a5s42qh2351.cloudfront.net",
+        "d3ewkafu0tsl1p.cloudfront.net",
+        "d39dgtvmdxfdnd.cloudfront.net",
+        "atoms-dev-local-utbbbdjq.livekit.cloud",
+        "atoms-prod-evcaw70g.livekit.cloud",
+        "atoms-prod-us-i9yxo05l.livekit.cloud",
+        "api.smallest.ai",
+        "api.india.smallest.ai",
+        "api.us.smallest.ai"
+      ],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        "connection": "close",
+        "content-security-policy": "default-src 'self'; script-src 'nonce-NTZiZDRmYzUtNGEyZS00NWQ3LThhYTYtOGE2MjNhZjNjMjQ1' 'strict-dynamic' 'self' https://accounts.google.com https://apis.google.com https://www.googletagmanager.com https://cdn.jsdelivr.net https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://browser.sentry-cdn.com https://js.sentry-cdn.com https://cdn.withampersand.com https://js.stripe.com https://connect.facebook.net https://www.google-analytics.com https://analytics.google.com https://googleads.googleapis.com https://us-assets.i.posthog.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://accounts.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://www.google.co.in https://browser.sentry-cdn.com https://js.sentry-cdn.com https://lh3.googleusercontent.com https://www.facebook.com https://d3m5rjqxtkxu0z.cloudfront.net https://d2ggtb57hogf3o.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://img.youtube.com https://www.google-analytics.com https://www.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' blob: https://accounts.google.com https://www.googleapis.com https://atoms-api.smallest.ai https://atoms-api.dev.smallest.ai https://console-api.smallest.ai https://console-api.dev.smallest.ai https://www.googletagmanager.com https://cdn.jsdelivr.net https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://*.ingest.sentry.io https://*.ingest.us.sentry.io https://*.s3.ap-south-1.amazonaws.com https://*.s3.amazonaws.com https://atoms-files-prod-usw2.s3.us-west-2.amazonaws.com https://atoms-files-dev-usw2.s3.us-west-2.amazonaws.com https://waves-api.dev.smallest.ai https://waves-api.smallest.ai https://media.plivo.com https://api.withampersand.com https://*.withampersand.com https://d4a5s42qh2351.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://d3ewkafu0tsl1p.cloudfront.net https://d39dgtvmdxfdnd.cloudfront.net https://atoms-dev-local-utbbbdjq.livekit.cloud wss://atoms-dev-local-utbbbdjq.livekit.cloud https://atoms-prod-evcaw70g.livekit.cloud wss://atoms-prod-evcaw70g.livekit.cloud https://atoms-prod-us-i9yxo05l.livekit.cloud wss://atoms-prod-us-i9yxo05l.livekit.cloud wss://api.smallest.ai/waves/v1/s2s https://api.stripe.com https://r.stripe.com https://www.facebook.com https://connect.facebook.net https://analytics.google.com https://www.google-analytics.com https://stats.g.doubleclick.net https://googleads.googleapis.com https://us.i.posthog.com https://us-assets.i.posthog.com https://api.smallest.ai wss://api.smallest.ai https://api.india.smallest.ai https://api.us.smallest.ai ws://localhost:* wss://localhost:*; frame-src 'self' https://td.doubleclick.net https://www.googletagmanager.com https://googleads.g.doubleclick.net https://www.youtube.com https://js.stripe.com https://youtube.com https://www.facebook.com; worker-src 'self' blob:; media-src 'self' blob: https://d4a5s42qh2351.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://d3ewkafu0tsl1p.cloudfront.net https://d39dgtvmdxfdnd.cloudfront.net https://d2ggtb57hogf3o.cloudfront.net https://media.plivo.com https://voice-clone-data.s3.ap-south-1.amazonaws.com https://*.s3.ap-south-1.amazonaws.com https://atoms-files-prod-usw2.s3.us-west-2.amazonaws.com https://atoms-files-dev-usw2.s3.us-west-2.amazonaws.com; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action *; report-to posthog; report-uri https://us.i.posthog.com/report/?token=phc_vqBpz5cQHFjsmfFix6KuCjf8iwtH2hJaeReHPSq46PyH&v=1&sample_rate=0.1",
+        "content-security-policy-report-only": "default-src 'self'; script-src 'nonce-NTZiZDRmYzUtNGEyZS00NWQ3LThhYTYtOGE2MjNhZjNjMjQ1' 'strict-dynamic' 'self' https://accounts.google.com https://apis.google.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://browser.sentry-cdn.com https://js.sentry-cdn.com https://cdn.withampersand.com https://js.stripe.com https://connect.facebook.net https://www.google-analytics.com https://analytics.google.com https://googleads.googleapis.com https://us-assets.i.posthog.com; style-src-elem 'nonce-NTZiZDRmYzUtNGEyZS00NWQ3LThhYTYtOGE2MjNhZjNjMjQ1' 'self'; style-src-attr 'unsafe-inline'; img-src 'self' data: blob: https://accounts.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://www.google.co.in https://browser.sentry-cdn.com https://js.sentry-cdn.com https://lh3.googleusercontent.com https://www.facebook.com https://d3m5rjqxtkxu0z.cloudfront.net https://d2ggtb57hogf3o.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://img.youtube.com https://www.google-analytics.com https://www.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' blob: https://accounts.google.com https://www.googleapis.com https://atoms-api.smallest.ai https://atoms-api.dev.smallest.ai https://console-api.smallest.ai https://console-api.dev.smallest.ai https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://*.ingest.sentry.io https://*.ingest.us.sentry.io https://*.s3.ap-south-1.amazonaws.com https://*.s3.amazonaws.com https://atoms-files-prod-usw2.s3.us-west-2.amazonaws.com https://atoms-files-dev-usw2.s3.us-west-2.amazonaws.com https://waves-api.dev.smallest.ai https://waves-api.smallest.ai https://media.plivo.com https://api.withampersand.com https://*.withampersand.com https://d4a5s42qh2351.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://d3ewkafu0tsl1p.cloudfront.net https://d39dgtvmdxfdnd.cloudfront.net https://atoms-dev-local-utbbbdjq.livekit.cloud wss://atoms-dev-local-utbbbdjq.livekit.cloud https://atoms-prod-evcaw70g.livekit.cloud wss://atoms-prod-evcaw70g.livekit.cloud https://atoms-prod-us-i9yxo05l.livekit.cloud wss://atoms-prod-us-i9yxo05l.livekit.cloud wss://api.smallest.ai/waves/v1/s2s https://api.stripe.com https://r.stripe.com https://www.facebook.com https://connect.facebook.net https://analytics.google.com https://www.google-analytics.com https://stats.g.doubleclick.net https://googleads.googleapis.com https://us.i.posthog.com https://us-assets.i.posthog.com https://api.smallest.ai wss://api.smallest.ai https://api.india.smallest.ai https://api.us.smallest.ai; frame-src 'self' https://td.doubleclick.net https://www.googletagmanager.com https://googleads.g.doubleclick.net https://www.youtube.com https://js.stripe.com https://youtube.com https://www.facebook.com; worker-src 'self' blob:; media-src 'self' blob: https://d4a5s42qh2351.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://d3ewkafu0tsl1p.cloudfront.net https://d39dgtvmdxfdnd.cloudfront.net https://d2ggtb57hogf3o.cloudfront.net https://media.plivo.com https://voice-clone-data.s3.ap-south-1.amazonaws.com https://*.s3.ap-south-1.amazonaws.com https://atoms-files-prod-usw2.s3.us-west-2.amazonaws.com https://atoms-files-dev-usw2.s3.us-west-2.amazonaws.com; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action 'self' https://api.smallest.ai https://api.smallest.ai https://api.smallest.ai; report-to posthog; report-uri https://us.i.posthog.com/report/?token=phc_vqBpz5cQHFjsmfFix6KuCjf8iwtH2hJaeReHPSq46PyH&v=1&sample_rate=0.1",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Fri, 23 Oct 2026 14:07:13 GMT",
+        "expires": "0",
+        "link": "</_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"NTZiZDRmYzUtNGEyZS00NWQ3LThhYTYtOGE2MjNhZjNjMjQ1\"; type=\"font/woff2\", </_next/static/media/aeonik_pro_medium-s.p.0ypwl2euj-kxf.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"NTZiZDRmYzUtNGEyZS00NWQ3LThhYTYtOGE2MjNhZjNjMjQ1\"; type=\"font/woff2\", </_next/static/media/aeonik_pro_regular-s.p.0s9k97wtj_bhc.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"NTZiZDRmYzUtNGEyZS00NWQ3LThhYTYtOGE2MjNhZjNjMjQ1\"; type=\"font/woff2\"",
+        "permissions-policy": "camera=(), microphone=(self), geolocation=()",
+        "pragma": "no-cache",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "reporting-endpoints": "posthog=\"https://us.i.posthog.com/report/?token=phc_vqBpz5cQHFjsmfFix6KuCjf8iwtH2hJaeReHPSq46PyH&v=1&sample_rate=0.1\"",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "via": "1.1 3e01f1bb97e94babf3a238feeedd6966.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "Kui4eBQ8lU82MvTbV-2jJgXmFLRuEjblv9Drk_sGO6UvnxZtGp-dEA==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "api.smallest.ai",
+      "status": 404,
+      "finalUrl": "https://api.smallest.ai/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-length": "0",
+        "content-type": "text/plain; charset=utf-8",
+        "date": "Fri, 23 Oct 2026 14:07:09 GMT",
+        "server": "awselb/2.0"
+      }
+    },
+    {
+      "host": "docs.smallest.ai",
+      "status": 200,
+      "finalUrl": "https://docs.smallest.ai/overview/introduction",
+      "csp": [
+        "buildwithfern.com"
+      ],
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-placement": "remote-IAD",
+        "cf-ray": "a4f14e8b0a19c06b-BOM",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'strict-dynamic' 'unsafe-eval' 'sha256-lHT4DAx2WlKOUoz8Pnsv4hBB6WQQWpSMnN7i1SYcCTQ=' 'sha256-jaA8MSjkcOhXCwH8baT2ChJWFO4DZE9KV70GDDHGx60=' 'sha256-yPw5wPQkejJJ8owozmkqrhQ/E33R+fuN0gmcjwalrjM=' 'sha256-BhOH4JYGbqMwyJUjQ+YtFP1woqWD5SmDlYGLY7ohj+Q=' 'sha256-TWrcK5PVbzcMdiKaAvHiFMAZ7g9FaNXP6ohT6b27giA=' 'sha256-+ZI9IBVvFEM7K/4ihkfNbsMIvgjjGr8eEfYbMEs9J4k=' 'sha256-oTD7RVNcsu+KEX0dMyirP5hXAZXHS4g2hJjOjwnUlFQ=' 'sha256-/MNlFHZRGs1V3AE21lEds02SPH3OcomZVJxoWzu7w6s=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8=' 'sha256-OUQRxSLiAdojnatL1JBUyjRPihkavzuRhf4ZQIJ/XvU=' 'sha256-kTSBfkWSRqPvnL7wLDahzmEr70cvFGgbhdDpjuUUa2k=' 'sha256-1BvDVWLr3QCC20uHhUDi27eDFVJpk1uMQJGIWKUks2I=' 'sha256-oarivArCVee1+OsWBOA+5mGTqs9f9B1IqdFPbMmorz8=' 'sha256-LfHuA3jcK+pohDVdahiCYv0T6EAfCGshcETBCyjz6QA=' 'sha256-xmq6Do90QW431/ikiN9/DrK/FLtyoVvHl/BelyMm7uI=' 'sha256-YhtBJMvq3uw/TCvBwMALaGn+2eGYiWvN54ohqAJpntI=' 'sha256-Y8t0ntteBwH+PqGKUyjWW3CAk+BNJKSoQc0xZ68FjhM=' 'sha256-H7wv8QNwNKVnzjrw9qBetlt5e06skkB52q18BJXmpg4=' 'sha256-OXxIdUY4e+HdPkQDWxN7EatR65Zwtuf6JZ+qgqTOWJM=' 'sha256-Uq8FyP9qOF+gDNl9a/4GbEYyMqAXh8Wno07kUl3jZGw=' 'sha256-UzQjOtOnkqEFA089XSI1phSeLdyMR7qfmn/Y4xv/6yw='; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' data: blob: https: wss:; media-src 'self' data: blob: https:; frame-src 'self' data: https:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self' https:; frame-ancestors 'self' https://*.buildwithfern.com",
+        "content-security-policy-report-only": "style-src 'self' https:",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Fri, 23 Oct 2026 14:07:13 GMT",
+        "etag": "W/\"e06c4a2097396d11c3263e8f4c4f3531\"",
+        "link": "</overview/introduction.md>; rel=\"alternate\"; type=\"text/markdown\", </overview/llms.txt>; rel=\"describedby\", </_astro/inline.uSvGhnVxE8tleCJd.css>; rel=\"preload\"; as=\"style\", </_astro/inline.MP8NhjIJEBMcHU6O.css>; rel=\"preload\"; as=\"style\", </_astro/inline.SWIXErqwrC2-MfGs.css>; rel=\"preload\"; as=\"style\", </_astro/inline.GDhUfoHa4vumqL_D.css>; rel=\"preload\"; as=\"style\", </_astro/inline.f_t4Dy-xMsO2h3p6.css>; rel=\"preload\"; as=\"style\", </_fern-img/2da788b0c34b61efbfbea5ece3149fc4-v1.latin.woff2>; rel=\"preload\"; as=\"font\"; type=\"font/woff2\"; crossorigin, </.well-known/api-catalog>; rel=\"api-catalog\"",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "permissions-policy": "camera=(self), microphone=(self), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0ni03O8MgCIal8781wnipP46ufbBBULXA%2BJsLyWUN8SGGJhQTtaUcYUKfQDuPTUBWQzpIo7rNGF9Ui1m3EbEI%2FWcYAC2L%2FwGJkrl9IRuurKUH4DZ3MJyIhwAT6mzgpVCVJZgx2dv4GG8mw%3D%3D\"}]}",
+        "server": "Vercel",
+        "set-cookie": "__cf_bm=H6vTim5Bsyh0iVmCu2PiRSNcB..xc5vhQvOG_47zsmo-1792764433.1316652-1.0.1.1-lyvfWizlGC38jxcHZkGAyXVGuzk1UEwRlFb3zguUXlHYZkNpNH1F.s3HBS3ycMhxzKChaiodooudVRXdeCzCBBx6WyKXYcv5loGrFztI1BXzmb6WvIOaZ3aRubpNSjky; HttpOnly; SameSite=None; Secure; Path=/; Domain=ferndocs.com; Expires=Fri, 23 Oct 2026 14:37:13 GMT",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-fern-renderer": "static",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::ldbrh-1792764433096-1479445866a5"
+      }
+    },
+    {
+      "host": "admin.smallest.ai",
+      "status": 200,
+      "finalUrl": "https://admin.smallest.ai/login",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "s-maxage=31536000, stale-while-revalidate",
+        "connection": "close",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Fri, 23 Oct 2026 14:07:13 GMT",
+        "etag": "\"3fz6ygsius5sf\"",
+        "vary": "Accept-Encoding",
+        "via": "1.1 7466efd38e23df4aeaae0986f151c420.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "8iOvXxSYlEOSzesfLiiys6XHuZaY2sEj6l_7DtZ4uSr6_fd1T3YKwg==",
+        "x-amz-cf-pop": "MAA51-P3",
+        "x-cache": "Miss from cloudfront",
+        "x-nextjs-cache": "HIT",
+        "x-powered-by": "Next.js"
+      }
+    },
+    {
+      "host": "status.smallest.ai",
+      "status": 200,
+      "finalUrl": "https://status.smallest.ai/",
+      "csp": [],
+      "headers": {
+        "cache-control": "max-age=0, public, s-maxage=3, stale-while-revalidate=60",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "20",
+        "content-security-policy": "base-uri *; frame-ancestors *; connect-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; child-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; frame-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; media-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; font-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; form-action *; style-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; script-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; worker-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; img-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; default-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Fri, 23 Oct 2026 14:07:11 GMT",
+        "feature-policy": "accelerometer 'none'; autoplay 'self' https://www.youtube.com; camera 'none'; encrypted-media 'none'; fullscreen 'self' https://www.youtube.com; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture *; usb 'none'",
+        "link": "<https://status.smallest.ai/assets/public_status_pages-cf3215a2.css>; rel=preload; as=style; nopush",
+        "permissions-policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=*, usb=()",
+        "ratelimit-policy": "1000; w=60",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=63113904; includeSubDomains; preload",
+        "vary": "Accept, Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-permitted-cross-domain-policies": "none",
+        "x-request-id": "d687a9ae-e4d3-4523-9bae-e7682a8c193f",
+        "x-runtime": "0.142272",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "console.smallest.ai",
+      "status": 200,
+      "finalUrl": "https://app.smallest.ai/login?entry=root",
+      "csp": [
+        "www.googletagmanager.com",
+        "www.googleadservices.com",
+        "browser.sentry-cdn.com",
+        "js.sentry-cdn.com",
+        "cdn.withampersand.com",
+        "www.google-analytics.com",
+        "lh3.googleusercontent.com",
+        "d3m5rjqxtkxu0z.cloudfront.net",
+        "d2ggtb57hogf3o.cloudfront.net",
+        "db2izkvf1oocn.cloudfront.net",
+        "dlw9ti8dmuxc7.cloudfront.net",
+        "d1a6d7hvvmbsyd.cloudfront.net",
+        "atoms-api.smallest.ai",
+        "atoms-api.dev.smallest.ai",
+        "console-api.smallest.ai",
+        "console-api.dev.smallest.ai",
+        "waves-api.dev.smallest.ai",
+        "waves-api.smallest.ai",
+        "media.plivo.com",
+        "api.withampersand.com",
+        "withampersand.com",
+        "d4a5s42qh2351.cloudfront.net",
+        "d3ewkafu0tsl1p.cloudfront.net",
+        "d39dgtvmdxfdnd.cloudfront.net",
+        "atoms-dev-local-utbbbdjq.livekit.cloud",
+        "atoms-prod-evcaw70g.livekit.cloud",
+        "atoms-prod-us-i9yxo05l.livekit.cloud",
+        "api.smallest.ai",
+        "api.india.smallest.ai",
+        "api.us.smallest.ai"
+      ],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        "connection": "close",
+        "content-security-policy": "default-src 'self'; script-src 'nonce-N2FkZTljNWItMzRjNS00ZWNmLTljZjAtMzcyNzllYjcxZjkw' 'strict-dynamic' 'self' https://accounts.google.com https://apis.google.com https://www.googletagmanager.com https://cdn.jsdelivr.net https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://browser.sentry-cdn.com https://js.sentry-cdn.com https://cdn.withampersand.com https://js.stripe.com https://connect.facebook.net https://www.google-analytics.com https://analytics.google.com https://googleads.googleapis.com https://us-assets.i.posthog.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://accounts.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://www.google.co.in https://browser.sentry-cdn.com https://js.sentry-cdn.com https://lh3.googleusercontent.com https://www.facebook.com https://d3m5rjqxtkxu0z.cloudfront.net https://d2ggtb57hogf3o.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://img.youtube.com https://www.google-analytics.com https://www.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' blob: https://accounts.google.com https://www.googleapis.com https://atoms-api.smallest.ai https://atoms-api.dev.smallest.ai https://console-api.smallest.ai https://console-api.dev.smallest.ai https://www.googletagmanager.com https://cdn.jsdelivr.net https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://*.ingest.sentry.io https://*.ingest.us.sentry.io https://*.s3.ap-south-1.amazonaws.com https://*.s3.amazonaws.com https://atoms-files-prod-usw2.s3.us-west-2.amazonaws.com https://atoms-files-dev-usw2.s3.us-west-2.amazonaws.com https://waves-api.dev.smallest.ai https://waves-api.smallest.ai https://media.plivo.com https://api.withampersand.com https://*.withampersand.com https://d4a5s42qh2351.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://d3ewkafu0tsl1p.cloudfront.net https://d39dgtvmdxfdnd.cloudfront.net https://atoms-dev-local-utbbbdjq.livekit.cloud wss://atoms-dev-local-utbbbdjq.livekit.cloud https://atoms-prod-evcaw70g.livekit.cloud wss://atoms-prod-evcaw70g.livekit.cloud https://atoms-prod-us-i9yxo05l.livekit.cloud wss://atoms-prod-us-i9yxo05l.livekit.cloud wss://api.smallest.ai/waves/v1/s2s https://api.stripe.com https://r.stripe.com https://www.facebook.com https://connect.facebook.net https://analytics.google.com https://www.google-analytics.com https://stats.g.doubleclick.net https://googleads.googleapis.com https://us.i.posthog.com https://us-assets.i.posthog.com https://api.smallest.ai wss://api.smallest.ai https://api.india.smallest.ai https://api.us.smallest.ai ws://localhost:* wss://localhost:*; frame-src 'self' https://td.doubleclick.net https://www.googletagmanager.com https://googleads.g.doubleclick.net https://www.youtube.com https://js.stripe.com https://youtube.com https://www.facebook.com; worker-src 'self' blob:; media-src 'self' blob: https://d4a5s42qh2351.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://d3ewkafu0tsl1p.cloudfront.net https://d39dgtvmdxfdnd.cloudfront.net https://d2ggtb57hogf3o.cloudfront.net https://media.plivo.com https://voice-clone-data.s3.ap-south-1.amazonaws.com https://*.s3.ap-south-1.amazonaws.com https://atoms-files-prod-usw2.s3.us-west-2.amazonaws.com https://atoms-files-dev-usw2.s3.us-west-2.amazonaws.com; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action *; report-to posthog; report-uri https://us.i.posthog.com/report/?token=phc_vqBpz5cQHFjsmfFix6KuCjf8iwtH2hJaeReHPSq46PyH&v=1&sample_rate=0.1",
+        "content-security-policy-report-only": "default-src 'self'; script-src 'nonce-N2FkZTljNWItMzRjNS00ZWNmLTljZjAtMzcyNzllYjcxZjkw' 'strict-dynamic' 'self' https://accounts.google.com https://apis.google.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://browser.sentry-cdn.com https://js.sentry-cdn.com https://cdn.withampersand.com https://js.stripe.com https://connect.facebook.net https://www.google-analytics.com https://analytics.google.com https://googleads.googleapis.com https://us-assets.i.posthog.com; style-src-elem 'nonce-N2FkZTljNWItMzRjNS00ZWNmLTljZjAtMzcyNzllYjcxZjkw' 'self'; style-src-attr 'unsafe-inline'; img-src 'self' data: blob: https://accounts.google.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://www.google.co.in https://browser.sentry-cdn.com https://js.sentry-cdn.com https://lh3.googleusercontent.com https://www.facebook.com https://d3m5rjqxtkxu0z.cloudfront.net https://d2ggtb57hogf3o.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://img.youtube.com https://www.google-analytics.com https://www.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' blob: https://accounts.google.com https://www.googleapis.com https://atoms-api.smallest.ai https://atoms-api.dev.smallest.ai https://console-api.smallest.ai https://console-api.dev.smallest.ai https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://google.com https://www.google.com https://*.ingest.sentry.io https://*.ingest.us.sentry.io https://*.s3.ap-south-1.amazonaws.com https://*.s3.amazonaws.com https://atoms-files-prod-usw2.s3.us-west-2.amazonaws.com https://atoms-files-dev-usw2.s3.us-west-2.amazonaws.com https://waves-api.dev.smallest.ai https://waves-api.smallest.ai https://media.plivo.com https://api.withampersand.com https://*.withampersand.com https://d4a5s42qh2351.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://d3ewkafu0tsl1p.cloudfront.net https://d39dgtvmdxfdnd.cloudfront.net https://atoms-dev-local-utbbbdjq.livekit.cloud wss://atoms-dev-local-utbbbdjq.livekit.cloud https://atoms-prod-evcaw70g.livekit.cloud wss://atoms-prod-evcaw70g.livekit.cloud https://atoms-prod-us-i9yxo05l.livekit.cloud wss://atoms-prod-us-i9yxo05l.livekit.cloud wss://api.smallest.ai/waves/v1/s2s https://api.stripe.com https://r.stripe.com https://www.facebook.com https://connect.facebook.net https://analytics.google.com https://www.google-analytics.com https://stats.g.doubleclick.net https://googleads.googleapis.com https://us.i.posthog.com https://us-assets.i.posthog.com https://api.smallest.ai wss://api.smallest.ai https://api.india.smallest.ai https://api.us.smallest.ai; frame-src 'self' https://td.doubleclick.net https://www.googletagmanager.com https://googleads.g.doubleclick.net https://www.youtube.com https://js.stripe.com https://youtube.com https://www.facebook.com; worker-src 'self' blob:; media-src 'self' blob: https://d4a5s42qh2351.cloudfront.net https://db2izkvf1oocn.cloudfront.net https://dlw9ti8dmuxc7.cloudfront.net https://d1a6d7hvvmbsyd.cloudfront.net https://d3ewkafu0tsl1p.cloudfront.net https://d39dgtvmdxfdnd.cloudfront.net https://d2ggtb57hogf3o.cloudfront.net https://media.plivo.com https://voice-clone-data.s3.ap-south-1.amazonaws.com https://*.s3.ap-south-1.amazonaws.com https://atoms-files-prod-usw2.s3.us-west-2.amazonaws.com https://atoms-files-dev-usw2.s3.us-west-2.amazonaws.com; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action 'self' https://api.smallest.ai https://api.smallest.ai https://api.smallest.ai; report-to posthog; report-uri https://us.i.posthog.com/report/?token=phc_vqBpz5cQHFjsmfFix6KuCjf8iwtH2hJaeReHPSq46PyH&v=1&sample_rate=0.1",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Fri, 23 Oct 2026 14:07:13 GMT",
+        "expires": "0",
+        "link": "</_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"N2FkZTljNWItMzRjNS00ZWNmLTljZjAtMzcyNzllYjcxZjkw\"; type=\"font/woff2\", </_next/static/media/aeonik_pro_medium-s.p.0ypwl2euj-kxf.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"N2FkZTljNWItMzRjNS00ZWNmLTljZjAtMzcyNzllYjcxZjkw\"; type=\"font/woff2\", </_next/static/media/aeonik_pro_regular-s.p.0s9k97wtj_bhc.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"N2FkZTljNWItMzRjNS00ZWNmLTljZjAtMzcyNzllYjcxZjkw\"; type=\"font/woff2\"",
+        "permissions-policy": "camera=(), microphone=(self), geolocation=()",
+        "pragma": "no-cache",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "reporting-endpoints": "posthog=\"https://us.i.posthog.com/report/?token=phc_vqBpz5cQHFjsmfFix6KuCjf8iwtH2hJaeReHPSq46PyH&v=1&sample_rate=0.1\"",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "via": "1.1 a1b65f70ffc6e3717e17091dd53c6dda.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "y9cWccwRS3pglYjXwY3qEA2UfZ7xYLkUtwUVjtGXCpAPoO3XAmoVew==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "status": 404,
+      "finalUrl": "https://www.googletagmanager.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1561",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 23 Oct 2026 14:07:13 GMT",
+        "server": "Google Tag Manager",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "www.googleadservices.com",
+      "status": 404,
+      "finalUrl": "https://www.googleadservices.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1561",
+        "content-type": "text/html; charset=UTF-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Fri, 23 Oct 2026 14:07:13 GMT",
+        "server": "sffe",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "browser.sentry-cdn.com",
+      "status": 403,
+      "finalUrl": "https://browser.sentry-cdn.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "connection": "close",
+        "content-length": "13",
+        "content-type": "text/plain",
+        "date": "Fri, 23 Oct 2026 14:07:14 GMT",
+        "retry-after": "0",
+        "server": "Fastly",
+        "strict-transport-security": "max-age=31536000; includeSubDomains"
+      }
+    },
+    {
+      "host": "js.sentry-cdn.com",
+      "status": 204,
+      "finalUrl": "https://js.sentry-cdn.com/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "connection": "close",
+        "date": "Fri, 23 Oct 2026 14:07:14 GMT",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "timing-allow-origin": "*",
+        "x-served-by": "cache-chi-klot8100089-CHI, cache-qah-vobl4420023-QAH"
+      }
+    },
+    {
+      "host": "www.google-analytics.com",
+      "status": 200,
+      "finalUrl": "https://marketingplatform.google.com/about/analytics/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache, must-revalidate",
+        "connection": "close",
+        "content-length": "118475",
+        "content-security-policy": "script-src  'nonce-VIfqR2P5IMROK-OWC_Rg_Q' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/marketing_platform; base-uri 'self'",
+        "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/marketing_platform",
+        "content-type": "text/html",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=\"uxe-owners-acl/marketing_platform\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Fri, 23 Oct 2026 14:07:15 GMT",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "last-modified": "Mon, 25 Aug 2025 05:38:00 GMT",
+        "pragma": "no-cache",
+        "report-to": "{\"group\":\"uxe-owners-acl/marketing_platform\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/uxe-owners-acl/marketing_platform\"}]}",
+        "server": "sffe",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "lh3.googleusercontent.com",
+      "status": 400,
+      "finalUrl": "https://lh3.googleusercontent.com/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1555",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Fri, 23 Oct 2026 14:07:14 GMT",
+        "server": "fife",
+        "timing-allow-origin": "*",
+        "vary": "Origin",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "d3m5rjqxtkxu0z.cloudfront.net",
+      "status": 403,
+      "finalUrl": "https://d3m5rjqxtkxu0z.cloudfront.net/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-type": "application/xml",
+        "date": "Fri, 23 Oct 2026 14:07:14 GMT",
+        "server": "AmazonS3",
+        "via": "1.1 ce5e476c32f1f11052ee2670649b5184.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "kaB-WU8mUVwz-zR8xyJGpgrvcV5YdzsncXYRHY9-O-v14kkvEB0N2A==",
+        "x-amz-cf-pop": "BLR50-P2",
+        "x-cache": "Error from cloudfront"
+      }
+    },
+    {
+      "host": "d2ggtb57hogf3o.cloudfront.net",
+      "status": 403,
+      "finalUrl": "https://d2ggtb57hogf3o.cloudfront.net/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-type": "application/xml",
+        "date": "Fri, 23 Oct 2026 14:07:14 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=31536000",
+        "via": "1.1 73e95be17dad2bcd7d541d59f1e6cd84.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "6HOn2SNL09fE2p77029aRMc81WkZ9h9WAHMDUU5wgw8YJc2KIApMdA==",
+        "x-amz-cf-pop": "BLR50-P1",
+        "x-cache": "Error from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "db2izkvf1oocn.cloudfront.net",
+      "status": 403,
+      "finalUrl": "https://db2izkvf1oocn.cloudfront.net/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-type": "application/xml",
+        "date": "Fri, 23 Oct 2026 14:07:14 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Origin",
+        "via": "1.1 ca1c8b6b5358ac1cd23fb6b1d3ab8756.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "zYVfYSbRlVPl2idv2Sd1vFQ-4QdNmod8V4w_x_IqlEUGyfLOmHST8w==",
+        "x-amz-cf-pop": "MAA51-P1",
+        "x-cache": "Error from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "dlw9ti8dmuxc7.cloudfront.net",
+      "status": 403,
+      "finalUrl": "https://dlw9ti8dmuxc7.cloudfront.net/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-type": "application/xml",
+        "date": "Fri, 23 Oct 2026 14:07:14 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "AmazonS3",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Origin",
+        "via": "1.1 60e4efb3fe6341d17d5c1747b287203e.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "_bttnr17Lr8JNXf9L2SZTFNI2cW2LFEGf5CV5eCeVW8D7a5iFuQr6w==",
+        "x-amz-cf-pop": "MAA50-P2",
+        "x-cache": "Error from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "d1a6d7hvvmbsyd.cloudfront.net",
+      "status": 403,
+      "finalUrl": "https://d1a6d7hvvmbsyd.cloudfront.net/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-type": "application/xml",
+        "date": "Fri, 23 Oct 2026 14:07:15 GMT",
+        "server": "AmazonS3",
+        "vary": "Origin",
+        "via": "1.1 b150a2580a9338c3011062452cd011f6.cloudfront.net (CloudFront)",
+        "x-amz-bucket-region": "us-west-2",
+        "x-amz-cf-id": "1ZymUwOPXFbX2nb8zu1F5nPPhlVHeSbl-CacXFUqSJmoYDHjpltTcw==",
+        "x-amz-cf-pop": "FRA56-P13",
+        "x-cache": "Error from cloudfront"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [
+    "atoms-api.smallest.ai",
+    "atoms-api.dev.smallest.ai",
+    "console-api.smallest.ai",
+    "console-api.dev.smallest.ai",
+    "waves-api.dev.smallest.ai",
+    "waves-api.smallest.ai",
+    "api.india.smallest.ai",
+    "api.us.smallest.ai"
+  ],
+  "embeddedVendorHosts": [
+    "www.googletagmanager.com",
+    "www.googleadservices.com",
+    "browser.sentry-cdn.com",
+    "js.sentry-cdn.com",
+    "cdn.withampersand.com",
+    "www.google-analytics.com",
+    "lh3.googleusercontent.com",
+    "d3m5rjqxtkxu0z.cloudfront.net",
+    "d2ggtb57hogf3o.cloudfront.net",
+    "db2izkvf1oocn.cloudfront.net",
+    "dlw9ti8dmuxc7.cloudfront.net",
+    "d1a6d7hvvmbsyd.cloudfront.net",
+    "media.plivo.com",
+    "api.withampersand.com",
+    "withampersand.com",
+    "d4a5s42qh2351.cloudfront.net",
+    "d3ewkafu0tsl1p.cloudfront.net",
+    "d39dgtvmdxfdnd.cloudfront.net",
+    "atoms-dev-local-utbbbdjq.livekit.cloud",
+    "atoms-prod-evcaw70g.livekit.cloud",
+    "atoms-prod-us-i9yxo05l.livekit.cloud",
+    "buildwithfern.com"
+  ],
+  "stack": [
+    {
+      "tech": "AWS CloudFront",
+      "kind": "cdn",
+      "seenOn": [
+        "smallest.ai",
+        "www.smallest.ai",
+        "app.smallest.ai",
+        "admin.smallest.ai",
+        "console.smallest.ai",
+        "d3m5rjqxtkxu0z.cloudfront.net",
+        "d2ggtb57hogf3o.cloudfront.net",
+        "db2izkvf1oocn.cloudfront.net",
+        "dlw9ti8dmuxc7.cloudfront.net",
+        "d1a6d7hvvmbsyd.cloudfront.net"
+      ],
+      "evidence": [
+        "x-amz-cf-id: hkj0HCCUG6aGqzdhpmZSMYJknqSnLHsiGhKrMIueobBSkkdpM-KpSQ==",
+        "x-amz-cf-id: v4tXfx0QKC_isfiJnerccfpeEMalaKAq7nryIJc7p4mAgz3ehhgBtQ==",
+        "x-amz-cf-id: Kui4eBQ8lU82MvTbV-2jJgXmFLRuEjblv9Drk_sGO6UvnxZtGp-dEA==",
+        "x-amz-cf-id: 8iOvXxSYlEOSzesfLiiys6XHuZaY2sEj6l_7DtZ4uSr6_fd1T3YKwg==",
+        "x-amz-cf-id: y9cWccwRS3pglYjXwY3qEA2UfZ7xYLkUtwUVjtGXCpAPoO3XAmoVew==",
+        "x-amz-cf-id: kaB-WU8mUVwz-zR8xyJGpgrvcV5YdzsncXYRHY9-O-v14kkvEB0N2A==",
+        "x-amz-cf-id: 6HOn2SNL09fE2p77029aRMc81WkZ9h9WAHMDUU5wgw8YJc2KIApMdA==",
+        "x-amz-cf-id: zYVfYSbRlVPl2idv2Sd1vFQ-4QdNmod8V4w_x_IqlEUGyfLOmHST8w==",
+        "x-amz-cf-id: _bttnr17Lr8JNXf9L2SZTFNI2cW2LFEGf5CV5eCeVW8D7a5iFuQr6w==",
+        "x-amz-cf-id: 1ZymUwOPXFbX2nb8zu1F5nPPhlVHeSbl-CacXFUqSJmoYDHjpltTcw=="
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "docs.smallest.ai"
+      ],
+      "evidence": [
+        "cf-ray: a4f14e8b0a19c06b-BOM"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Fastly",
+      "kind": "cdn",
+      "seenOn": [
+        "js.sentry-cdn.com"
+      ],
+      "evidence": [
+        "x-served-by: cache-chi-klot8100089-CHI, cache-qah-vobl4420023-QAH"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Next.js",
+      "kind": "framework",
+      "seenOn": [
+        "admin.smallest.ai",
+        "admin.smallest.ai"
+      ],
+      "evidence": [
+        "x-nextjs-cache: HIT",
+        "x-powered-by: Next.js"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Rails",
+      "kind": "framework",
+      "seenOn": [
+        "status.smallest.ai"
+      ],
+      "evidence": [
+        "x-runtime: 0.142272"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "AWS ELB",
+      "kind": "hosting",
+      "seenOn": [
+        "api.smallest.ai"
+      ],
+      "evidence": [
+        "server: awselb/2.0"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "docs.smallest.ai"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "docs.smallest.ai"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::ldbrh-1792764433096-1479445866a5"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "docs.smallest.ai"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::ldbrh-1792764433096-1479445866a5"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "request tracing",
+      "kind": "infra",
+      "seenOn": [
+        "status.smallest.ai"
+      ],
+      "evidence": [
+        "x-request-id: d687a9ae-e4d3-4523-9bae-e7682a8c193f"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "smallest.ai",
+        "www.smallest.ai",
+        "browser.sentry-cdn.com",
+        "js.sentry-cdn.com",
+        "d2ggtb57hogf3o.cloudfront.net",
+        "db2izkvf1oocn.cloudfront.net",
+        "dlw9ti8dmuxc7.cloudfront.net"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://smallest.ai/.well-known/security.txt",
+      "status": 206,
+      "contentType": "text/plain;charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "# Security Policy for smallest.ai\n# https://securitytxt.org/\n\nContact: mailto:security@smallest.ai\nExpires: 2026-12-31T23:59:59.000Z\nPreferred-Languages: en\nCanonical: https://smallest.ai/.well-known/security.txt\n"
+    },
+    {
+      "url": "https://smallest.ai/sitemap.xml",
+      "status": 206,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<sitemap><loc>https://smallest.ai/sitemap_en.xml</loc></sitemap>\n<sitemap><loc>https://smallest.ai/sitemap_hi-IN.xml</loc></sitemap>\n</sitemapindex>"
+    },
+    {
+      "url": "https://smallest.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain;charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "# robots.txt for smallest.ai\n\nUser-agent: GPTBot\nAllow: /\nDisallow: /cgi-bin/\nDisallow: /404\nDisallow: /404.html\nDisallow: /_next/*\nDisallow: /static/*\nDisallow: /assets\nDisallow: /nextImageExportOptimizer/\n\nUser-agent: ChatGPT-User\nAllow: /\nDisallow: /cgi-bin/\nDisallow: /404\nDisallow: /404.html\nDisallow: /_next/*\nDisallow: /static/*\nDisallow: /assets\nDisallow: /nextImageExportOptimizer/\n\nUser-agent: OAI-SearchBot\nAllow: /\nDisallow: /cgi-bin/\nDisallow: /404\nDisallow: /404.html\nDisallow: /_next/*\nDisallow: /static/*\nDisallow: /assets\nDisallow: /nextImageExportOptimizer/\n\nUser-agent: PerplexityBot\nAllow: /\nDisallow: /cgi-bin/\nDisallow: /404\nDisallow: /_next/*\nDisallow: /static/*\nDisallow: /ass"
+    },
+    {
+      "url": "https://smallest.ai/llms.txt",
+      "status": 206,
+      "contentType": "text/plain;charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Smallest AI\n\nSmallest AI builds full-stack, low-latency enterprise voice AI. Its in-house models such as Lightning (text-to-speech), Pulse (speech-to-text), Electron (small language model), and Hydra (speech-to-speech) that power the Waves API suite and the Atoms voice-agent platform for support, sales, collections, and scheduling.\n\nSmallest AI was founded in by Sudarshan Kamath and Akshat Mandloi and is headquartered in San Francisco with engineering in Bengaluru. The platform is built for enterprise scale with SOC 2 Type II, HIPAA, GDPR, and ISO 27001 compliance.\n\n## Products\n\n* [Text to Speech (Lightning)](https://smallest.ai/text-to-speech): Ultra-low-latency TTS for real-time voice ag"
+    },
+    {
+      "url": "https://www.smallest.ai/sitemap.xml",
+      "status": 206,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<sitemap><loc>https://smallest.ai/sitemap_en.xml</loc></sitemap>\n<sitemap><loc>https://smallest.ai/sitemap_hi-IN.xml</loc></sitemap>\n</sitemapindex>"
+    },
+    {
+      "url": "https://www.smallest.ai/llms.txt",
+      "status": 206,
+      "contentType": "text/plain;charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Smallest AI\n\nSmallest AI builds full-stack, low-latency enterprise voice AI. Its in-house models such as Lightning (text-to-speech), Pulse (speech-to-text), Electron (small language model), and Hydra (speech-to-speech) that power the Waves API suite and the Atoms voice-agent platform for support, sales, collections, and scheduling.\n\nSmallest AI was founded in by Sudarshan Kamath and Akshat Mandloi and is headquartered in San Francisco with engineering in Bengaluru. The platform is built for enterprise scale with SOC 2 Type II, HIPAA, GDPR, and ISO 27001 compliance.\n\n## Products\n\n* [Text to Speech (Lightning)](https://smallest.ai/text-to-speech): Ultra-low-latency TTS for real-time voice ag"
+    },
+    {
+      "url": "https://www.smallest.ai/.well-known/security.txt",
+      "status": 206,
+      "contentType": "text/plain;charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "# Security Policy for smallest.ai\n# https://securitytxt.org/\n\nContact: mailto:security@smallest.ai\nExpires: 2026-12-31T23:59:59.000Z\nPreferred-Languages: en\nCanonical: https://smallest.ai/.well-known/security.txt\n"
+    },
+    {
+      "url": "https://www.smallest.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain;charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "# robots.txt for smallest.ai\n\nUser-agent: GPTBot\nAllow: /\nDisallow: /cgi-bin/\nDisallow: /404\nDisallow: /404.html\nDisallow: /_next/*\nDisallow: /static/*\nDisallow: /assets\nDisallow: /nextImageExportOptimizer/\n\nUser-agent: ChatGPT-User\nAllow: /\nDisallow: /cgi-bin/\nDisallow: /404\nDisallow: /404.html\nDisallow: /_next/*\nDisallow: /static/*\nDisallow: /assets\nDisallow: /nextImageExportOptimizer/\n\nUser-agent: OAI-SearchBot\nAllow: /\nDisallow: /cgi-bin/\nDisallow: /404\nDisallow: /404.html\nDisallow: /_next/*\nDisallow: /static/*\nDisallow: /assets\nDisallow: /nextImageExportOptimizer/\n\nUser-agent: PerplexityBot\nAllow: /\nDisallow: /cgi-bin/\nDisallow: /404\nDisallow: /_next/*\nDisallow: /static/*\nDisallow: /ass"
+    },
+    {
+      "url": "https://app.smallest.ai/api/health",
+      "status": 206,
+      "contentType": "application/json; charset=utf-8",
+      "why": "health endpoint, sometimes with version + dependencies",
+      "preview": "{\"status\":true,\"data\":{\"status\":\"healthy\",\"timestamp\":\"2026-10-23T14:07:17.858Z\"}}"
+    },
+    {
+      "url": "https://docs.smallest.ai/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Smallest AI Docs\n\n## Instructions for AI Agents\n\n- For clean Markdown of any page, append `.md` to the page URL.\n- For a complete documentation index, see https://docs.smallest.ai/llms.txt\n- For section-specific indexes, append `/llms.txt` to any section URL.\n\n## Overview\n\n- [Get started](https://docs.smallest.ai/overview/introduction.md): Start here. Voice Agents for hosted phone and web agents, Models for Lightning TTS, Pulse STT, Hydra speech to speech, and Electron LLM, plus the API reference.\n\n### Administration\n\n- [API Keys](https://docs.smallest.ai/overview/administration/api-keys.md): Create, manage, and rotate API keys to authenticate programmatic access to the voice agent platfor"
+    },
+    {
+      "url": "https://docs.smallest.ai/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url>\n    <loc>https://docs.smallest.ai/overview/introduction</loc>\n    <lastmod>2026-10-06T18:28:39.636Z</lastmod>\n  </url>\n  <url>\n    <loc>https://docs.smallest.ai/overview/administration/api-keys</loc>\n    <lastmod>2026-09-06T10:56:23.475Z</lastmod>\n  </url>\n  <url>\n    <loc>https://docs.smallest.ai/overview/administration/subscription-plans</loc>\n    <lastmod>2026-10-06T18:28:19.683Z</lastmod>\n  </url>\n  <url>\n    <loc>https://docs.smallest.ai/overview/administration/zero-data-retention</loc>\n    <lastmod>2026-10-06T19:15:51.939Z</lastmod>\n  </url>\n  <url>\n    <loc>https://docs.smallest"
+    },
+    {
+      "url": "https://docs.smallest.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nAllow: /api/fern-docs/favicon.ico\nDisallow: /api/fern-docs/\n\nSitemap: https://docs.smallest.ai/sitemap.xml\n"
+    }
+  ],
+  "dns": [
+    {
+      "host": "smallest.ai",
+      "a": [
+        "108.159.15.72",
+        "108.159.15.36",
+        "108.159.15.70",
+        "108.159.15.81"
+      ],
+      "txt": [
+        "twilio-domain-verification=30eb90314c4b4ccc4760fe0f34f72dac",
+        "v=spf1 include:zcsend.in  include:_spf.google.com -all",
+        "_ru6s5nwe1rm1wy2j9f6dyf36gst7pe9",
+        "brevo-code:259af8278cf4a8d8ceb6966cc6dbb6e7",
+        "google-site-verification=D2Cw2VQREhkBRUbxf2kc77wEILRkBw2QPhyFhypn5UI",
+        "google-site-verification=EzroIVOK5c8vyenpNQY7M1Z36ITgq6MO9TDqPNMZpy0"
+      ],
+      "mx": [
+        "smtp.google.com"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "a": [
+        "142.250.205.200"
+      ],
+      "vendors": []
+    },
+    {
+      "host": "www.googleadservices.com",
+      "a": [
+        "142.251.221.162"
+      ],
+      "vendors": []
+    },
+    {
+      "host": "browser.sentry-cdn.com",
+      "a": [
+        "151.101.66.217",
+        "151.101.194.217",
+        "151.101.2.217",
+        "151.101.130.217"
+      ],
+      "vendors": []
+    },
+    {
+      "host": "js.sentry-cdn.com",
+      "a": [
+        "151.101.2.217",
+        "151.101.66.217",
+        "151.101.194.217",
+        "151.101.130.217"
+      ],
+      "vendors": []
+    }
+  ],
+  "ats": [
+    {
+      "ats": "Ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/smallest?includeCompensation=true",
+      "openRoles": 3,
+      "bytes": 45897
+    }
+  ],
+  "appStore": {
+    "query": "smallest",
+    "results": [
+      {
+        "name": "Snapchat",
+        "seller": "Snap, Inc.",
+        "updated": "2026-10-21T11:02:14Z"
+      },
+      {
+        "name": "WhatsApp Messenger",
+        "seller": "WhatsApp Inc.",
+        "updated": "2026-10-22T15:42:36Z"
+      },
+      {
+        "name": "QR Scanner - Best, Smallest",
+        "seller": "HUIENTZ UK LTD",
+        "updated": "2024-01-17T09:57:29Z"
+      },
+      {
+        "name": "Smallest Dungeon",
+        "seller": "More Mountains",
+        "updated": "2018-01-07T23:33:06Z"
+      },
+      {
+        "name": "Worlds smallest violin ™",
+        "seller": "Nikola Milic",
+        "updated": "2019-11-08T21:14:37Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

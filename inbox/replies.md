@@ -110,3 +110,30 @@ Target: https://www.linkedin.com/in/harsh-yadav5554/ (1st°, Message button work
 > Is Karta adding engineers after the raise? If yes, would you be up for pointing me at whoever's hiring? No stress if that's awkward.
 >
 > shivamworks.dev
+
+## Gopal Sharma (LinkedIn, inbound) — 2026-10-23
+Asks for a referral to the klimb.io ML Engineer opening (first ask Oct 13, follow-up today).
+Shivam left klimb.io in May 2026, so he can't refer through their system. Draft:
+
+> Hi Gopal, sorry for the slow reply. I finished my internship at klimb.io in May, so I'm not
+> on their referral system anymore. Best route is to apply directly on their careers page and
+> message the hiring manager on LinkedIn with one line on your Python/Node backend work. Good
+> luck with it.
+
+## Akshay Deo (Co-founder & CTO, Maxim AI / Bifrost) — accepted invite 2026-10-23
+Target: LinkedIn, now 1st° (Message). Role: Member of Technical Staff, Bangalore
+(https://www.getmaxim.ai/careers/member-of-technical-staff): Go primary, TS/Next secondary,
+2-4 yrs, "built and shipped an AI-related project" with a link. Graded C (no Go). Hook: Bifrost
+is an AI gateway; poiro's provider adapter + caching + fail-closed caps is a small gateway.
+
+> Hi Akshay, thanks for accepting. Saw the Member of Technical Staff role on Bifrost.
+>
+> The closest thing I've built is a small gateway: at poiro.com I put three external providers
+> behind one adapter contract, with org-scoped Redis caching and fail-closed caps of 500 calls per
+> org per day and 5,000 globally, counted only on cache misses. I also built a 36-case eval
+> harness for my RAG app that separates retrieval failures from generation failures:
+> github.com/shivamxverma/DeepDoc
+>
+> Straight about the gaps: I haven't shipped Go in production, and I'm about a year of
+> internships out of college. Is that a dealbreaker for this seat, or worth a conversation?
+> shivamworks.dev

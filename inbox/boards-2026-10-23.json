@@ -1,0 +1,94 @@
+{
+  "pulled": "2026-10-23",
+  "scanned": 152,
+  "survived": 17,
+  "hits": [
+    {
+      "id": "rok:1137551",
+      "grade": "D",
+      "score": 40,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "DuckDuckGo",
+      "title": "Senior Backend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+      "posted": "2026-10-21T14:29:21+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "backend",
+        "perl",
+        "golang",
+        "javascript",
+        "node"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "node.js"
+        ],
+        "weak": [
+          "node",
+          "javascript",
+          "backend",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, node.js",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "rok:1137557",
+      "grade": "F",
+      "score": 15,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Lemon.io",
+      "title": "Senior DevOps Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+      "posted": "2026-10-22T12:58:28+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "devops",
+        "engineer",
+        "dev",
+        "python",
+        "golang",
+        "aws",
+        "gcp",
+        "kubernetes"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "linux",
+          "full stack",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    }
+  ]
+}

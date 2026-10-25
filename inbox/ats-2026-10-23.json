@@ -1,0 +1,156 @@
+{
+  "pulled": "2026-10-23",
+  "scanned": 2130,
+  "survived": 183,
+  "hits": [
+    {
+      "id": "ashby:bureau:0896ed82-d54c-4e35-81a9-bb3818056034",
+      "grade": "B",
+      "score": 76,
+      "source": "ashby (seed list)",
+      "company": "Bureau",
+      "domain": "bureau.id",
+      "title": "Data Engineer",
+      "url": "https://jobs.ashbyhq.com/bureau/0896ed82-d54c-4e35-81a9-bb3818056034",
+      "posted": "2026-09-22T04:58:03.328+00:00",
+      "location": "Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kafka",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "ci/cd",
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kafka, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "0-1 years ok",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:bureau:8786a55b-dd03-450a-872d-9d50feeb4f93",
+      "grade": "B",
+      "score": 72,
+      "source": "ashby (seed list)",
+      "company": "Bureau",
+      "domain": "bureau.id",
+      "title": "Integration Engineer (SDK)",
+      "url": "https://jobs.ashbyhq.com/bureau/8786a55b-dd03-450a-872d-9d50feeb4f93",
+      "posted": "2026-07-06T10:30:50.633+00:00",
+      "location": "Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "developer tools",
+          "devtools"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, developer tools, devtools",
+        "story fit: CodeSM/Yuvro/Storix (developer tools, devtools)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:bureau:ace77ea0-a254-48b3-bc53-d36426344383",
+      "grade": "D",
+      "score": 42,
+      "source": "ashby (seed list)",
+      "company": "Bureau",
+      "domain": "bureau.id",
+      "title": "Senior Data Engineer",
+      "url": "https://jobs.ashbyhq.com/bureau/ace77ea0-a254-48b3-bc53-d36426344383",
+      "posted": "2026-08-10T09:49:04.929+00:00",
+      "location": "Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kafka",
+          "kubernetes",
+          "k8s"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "platform",
+          "real-time",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kafka, kubernetes, k8s",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:bureau:51277b78-eb75-467f-b758-88828f9a7a03",
+      "grade": "F",
+      "score": 7,
+      "source": "ashby (seed list)",
+      "company": "Bureau",
+      "domain": "bureau.id",
+      "title": "Senior Android Engineer",
+      "url": "https://jobs.ashbyhq.com/bureau/51277b78-eb75-467f-b758-88828f9a7a03",
+      "posted": "2026-08-13T13:52:53.540+00:00",
+      "location": "Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, automation",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    }
+  ]
+}

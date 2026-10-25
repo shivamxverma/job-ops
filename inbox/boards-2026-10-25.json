@@ -1,0 +1,85 @@
+{
+  "pulled": "2026-10-25",
+  "scanned": 153,
+  "survived": 19,
+  "hits": [
+    {
+      "id": "rok:1137568",
+      "grade": "F",
+      "score": 45,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Onebrief",
+      "title": "Solutions Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+      "posted": "2026-10-24T00:00:02+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "design",
+        "ansible",
+        "grafana",
+        "sys admin",
+        "infosec",
+        "python",
+        "docker",
+        "technical"
+      ],
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: docker",
+        "non-eng title: Solutions Engineer",
+        "non-engineering seat",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/koottu-inc/jobs/flutter-developer",
+      "grade": "D",
+      "score": 37,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Koottu Inc.",
+      "title": "Flutter Developer",
+      "url": "https://himalayas.app/companies/koottu-inc/jobs/flutter-developer?utm_source=api",
+      "posted": 1792881784,
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Flutter-Developer",
+        "Mobile-Application-Developer",
+        "Software-Developer",
+        "Dart-Developer",
+        "Flutter",
+        "Mid-Level-Flutter-and-Laravel-Full-Stack-Developer",
+        "Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, platform",
+        "reachable: restrictions include India"
+      ]
+    }
+  ]
+}

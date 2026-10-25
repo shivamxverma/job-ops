@@ -52,7 +52,7 @@ education:
 availability:
   # poiro.com is an INTERNSHIP (resume 2026-10-19 and internship report), not full-time.
   status: Fullstack Developer Intern at poiro.com, actively searching for a full-time role
-  notice_period: "0 days (no notice period at poiro.com)"  # stated by Shivam 2026-10-04
+  notice_period: "No notice period; poiro.com internship ends 2026-11-22, available from 2026-11-23"  # Shivam 2026-10-23 (was "0 days", contradicted on the DeciOps call)
   employment_types: [full-time, contract]  # 2026-10-20: open to any contract, not only contract-to-hire
 
 experience:
@@ -88,15 +88,12 @@ experience:
     company: klimb.io
     company_one_liner: TODO(shivam)
     dates: Nov 2025 - May 2026  # resume 2026-10-19 supersedes the old Mar 2026 end date
-    stack: TypeScript, React, Node.js, Express.js, PostgreSQL, Prisma, Redis, AWS (S3, EC2), OpenAI Realtime (WebRTC), Gemini
+    stack: TypeScript, React, Node.js, Express.js, PostgreSQL, Prisma, Redis, AWS (S3, EC2), Gemini
     bullets:
       - "Usage-based billing ledger: designed a PostgreSQL-backed credit ledger tracking usage across 6+ AI features, replacing on/off feature flags with an auditable per-feature log so customers can be billed by usage."
-      - "AI interview platform: backend for a 3-stage AI interview platform with automated proctoring and strict candidate-level data isolation, including a live voice round that asks questions from the candidate's resume and scores the transcript. Hundreds of candidates went through it (Shivam, 2026-10-20)."
       - "Query optimization: rewrote slow queries and restructured recruiter-dashboard data access, cutting p95 response time and memory overhead under concurrent load. No figure recorded, never quote one."
-    note: >-
-      The GitHub-personalized voice interviewer (self-profile/projects/klimb-ai-interviewer.md)
-      has its own caveats (no auth, incomplete Deepgram setup). Never transfer the proctoring
-      or isolation claims to it.
+    never_claim:
+      - "Any AI interviewer work at klimb.io: the 3-stage AI interview platform backend, proctoring, candidate data isolation, the live voice round on OpenAI Realtime, the GitHub-personalized voice interviewer, or 'hundreds of candidates'. Removed by Shivam 2026-10-23."
 
 headline_numbers:
   poiro_graphlookup: "folder subtree: one query per level to one $graphLookup; folder edits 3 round-trips to 1 (poiro.com)"
@@ -106,7 +103,6 @@ headline_numbers:
   dependency_refresh: "70 dependencies across 12 lock files, locked entries 951 to 841 (poiro.com)"
   dead_code: "84 dead files / 13,769 lines removed (poiro.com)"
   metering: "credit ledger across 6+ AI features (klimb.io)"
-  interview_platform: "3-stage AI interview platform backend, hundreds of candidates (klimb.io)"
   code_execution: "sandboxed runtime for 6 languages: C, C++, Java, Go, Python, JavaScript (CodeSM)"
   deepdoc_eval: "36-case RAG evaluation harness, 6 multi-turn (DeepDoc)"
   leetcode: "LeetCode top 5% globally, 1,800+ rating, 800+ problems solved"
@@ -224,7 +220,7 @@ skills:
   backend: [Node.js, Express.js, FastAPI, Next.js, REST APIs, WebSockets, WebRTC]
   data: [PostgreSQL, MongoDB, Redis, Pinecone, Prisma, Drizzle, Beanie, Cloudflare R2]
   infra: [Docker, Kubernetes, BullMQ, Celery, Kafka, AWS (EC2, S3), Linux, Git, CI/CD]
-  ai: [RAG, semantic chunking, query rewriting, LLM evaluation, OpenAI Realtime, Azure OpenAI, Gemini]
+  ai: [RAG, semantic chunking, query rewriting, LLM evaluation, Azure OpenAI, Gemini]
   automation: [Playwright, GramJS]
   quality: [Ruff, ESLint, Turborepo]
   # Go appears only as a supported CodeSM runtime language, not as a language he writes in.
@@ -247,10 +243,10 @@ knockout_answers:
   relocation: "I'm open to fully remote roles, or onsite/hybrid in Bangalore. I'm not relocating abroad."
   timezone: "I can overlap 4+ hours with US working hours."
   years_of_experience: "About 10 months of professional experience, all internships: klimb.io (Nov 2025 - May 2026) and poiro.com (since late Jul 2026)."
-  start_date: "Immediately. I have no notice period."  # derived from notice_period 0, 2026-10-04
+  start_date: "From 23 November 2026. My internship ends on 22 November."  # Shivam 2026-10-23
   take_home: "Yes, happy to do a take-home assignment."  # any length, 2026-10-20
   reason_for_leaving: "I'm looking for a full-time role where backend and infrastructure problems are the core of the job, at more depth and scale than my current internship."  # 'harder problems', 2026-10-20; never criticise poiro.com
-  current_salary: "10-15 LPA"  # 2026-10-20. TODO(shivam): exact figure if a form needs a single number
+  current_salary: "Rs 35,000 per month internship stipend (an internship, not a full-time CTC; never annualise it as a salary)"  # Shivam 2026-10-23. The old "10-15 LPA" was wrong and cost the DeciOps negotiation; never state a conversion offer
   # India range kept at 10-18 LPA by Shivam on 2026-10-20, even though it overlaps current pay.
   salary_expectation:
     india: "10-18 LPA"

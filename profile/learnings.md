@@ -37,6 +37,21 @@ skill rules, voice.md, or facts.yaml) or deleted when proven wrong.
 ## Interview performance
 <!-- One section per real or mock interview, written by /interview-debrief. -->
 
+### 2026-10-23 — DeciOps, real 1st round with the founder (~35%, soft fail)
+- **An indefensible comp number costs more than a low one.** He stated a 10 LPA conversion
+  offer and a 10-15 LPA current CTC as an intern; the founder had checked the market, called it,
+  and went from a 6-8 LPA band to a 5 LPA cap. Only say comp facts that are in writing; give
+  expectation as a range. `facts.yaml current_salary` fed the email and is now suspect.
+- **Name it, then go one level down, then attach your own example.** Three answers (projects,
+  databases, LangChain) stopped at the name. Every definition question has a ready "and I used
+  it here" from facts.yaml: databases → Postgres ledger, MongoDB $graphLookup, Redis caps,
+  Pinecone. A "types of X" question wants categories, not products.
+- **"What did you do" means your part, not the product.**
+- **Keep availability identical across email and call.** Email said 0 notice; call said the
+  internship runs to 22 Nov.
+- **Landed:** grounding the agent definition in the company's own scenario (warehouse spike,
+  move stock, confidence threshold). Do this for every concept question.
+
 ## Profile updates pending
 <!-- Facts Shivam states in conversation that belong in facts.yaml / stories.md. -->
 - ~~Fill every TODO(shivam) in `profile/facts.yaml`~~ Done 2026-10-04: CGPA 7.51, notice 0 days
@@ -51,6 +66,10 @@ skill rules, voice.md, or facts.yaml) or deleted when proven wrong.
 - Open TODO(shivam) in facts.yaml (2026-10-20): poiro.com and klimb.io one-liners, Codeforces /
   AtCoder / X links, Hireflow application count, DeepDoc tuning count (175 vs 100+), hackathon
   project, exact current salary.
+- 2026-10-23 (DeciOps call): `current_salary: 10-15 LPA` and `notice_period: 0 days` were both
+  contradicted on the call (intern stipend; internship runs to 22 Nov). Get the true values from
+  Shivam before any form or email uses them again. **Fixed 2026-10-23:** stipend Rs 35k/month,
+  internship ends 22 Nov, available from 23 Nov.
 
 ## Profile drift (2026-10-20) — facts.yaml had stopped matching its own source
 - **facts.yaml was built once from Shivam's knowledge base and never re-synced**, while that
@@ -1295,3 +1314,10 @@ checked against a real send record rather than against the tracker's claim about
   carries `htmlBody`; (2) before telling Shivam a draft is ready, `get_draft` it and grep for
   `google.com/url`; (3) "Resume attached" in a body means the draft must show the PDF chip, checked.
 
+
+## Delivery check (2026-10-23) — a published address can still bounce
+Revvox's careers page lists hello@revvox.io; Google's MX answered 550 5.1.1 (no such mailbox).
+The tracker had logged it `sent` on folder-complete, and the bounce sat unread for a day. Also
+the send was 3 KB, i.e. "Resume attached" with no attachment, the same bug as DeciOps'
+first email. Rule: after any application email, search Gmail for a mailer-daemon reply and check
+the SENT message size (resume adds ~130 KB) before trusting `sent`.

@@ -23,8 +23,7 @@ two are flagged inline below with *ask Shivam*: don't tell them until he confirm
 ## The arc (tell me about yourself)
 CSE at IIIT Nagpur, graduated May 2026. Gravitated to the backend work nobody sees but everyone
 feels: queues, sandboxes, storage layers. Interned at klimb.io (Nov 2025 to May 2026), where he
-built a usage-based credit ledger across 6+ AI features and the backend of a 3-stage AI
-interview platform with a live voice round. Now a Fullstack Developer Intern at poiro.com,
+built a usage-based credit ledger across 6+ AI features. Now a Fullstack Developer Intern at poiro.com,
 building the asset service shared by 3 apps and the node and group system of their AI workflow
 builder. On the side he builds the systems he wants to understand end to end: a sandboxed code
 execution engine (CodeSM), a Kubernetes-backed cloud IDE (Yuvro), and a RAG app with its own
@@ -129,25 +128,6 @@ enforced in middleware.
 **Result:** an auditable per-feature usage log in place of binary toggles, so customers can be
 billed by usage. Maps to any company moving to usage-based pricing.
 
-## klimb.io: the AI interview platform backend (shipped)
-Built the backend for a 3-stage AI interview platform with automated proctoring and strict data
-isolation between candidates, so concurrent live sessions can't leak into each other. It
-includes a live voice round that asks questions from the candidate's resume and scores the
-transcript. Hundreds of candidates went through it (Shivam, 2026-10-20).
-
-## klimb.io: the voice interviewer module, and what I'd fix (built, not production-hardened)
-A separate module: GitHub-personalized voice interviews. Browser audio goes straight to OpenAI
-Realtime over WebRTC (not through the API), the backend steers the model over a sideband
-WebSocket, Deepgram transcribes the candidate separately, and Gemini scores the stored
-transcript with Zod-validated output.
-**The honest part:** evaluation runs when the results page polls, so overlapping polls can
-evaluate twice, and late transcript writes can miss the snapshot. There's no auth or ownership
-check, and the Deepgram credentials were never finished. What he'd change: a finalization step
-that closes the transcript, then one idempotent, queued evaluation.
-**Use for:** "what would you do differently" or as a failure-shaped story, *ask Shivam* before
-telling it as his own mistake. Never transfer the proctoring/isolation claims above to this
-module.
-
 ## CodeSM: running code you don't trust
 **Problem:** execute arbitrary submissions (fork bombs, infinite loops, network attempts),
 grade them asynchronously, and never take the host down.
@@ -222,3 +202,9 @@ June 2026 (results not recorded). Good for "how do you approach a problem that i
 ## Competitive programming
 LeetCode top 5% globally (1,800+, 800+ problems), CodeChef 3-star (1,700+), Codeforces Pupil
 (max 1,261). 3rd place at Tantrafiesta 2024, IIIT Nagpur's hackathon (project not recorded).
+
+## Spoken answer that landed: an AI agent, in the company's own terms (DeciOps call, 2026-10-23)
+"An agent is an LLM that decides the next action, calls a tool, checks the result, and loops
+until the job is done. Say warehouse 1 sees a demand spike and needs 500 units now: the agent
+detects it, checks stock at warehouse 2, and creates the transfer. Above a confidence threshold
+it runs on its own; below it a planner approves." Reuse the shape: definition, then their case.

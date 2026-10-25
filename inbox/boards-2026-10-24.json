@@ -1,8 +1,127 @@
 {
   "pulled": "2026-10-24",
-  "scanned": 153,
-  "survived": 16,
+  "scanned": 611,
+  "survived": 67,
   "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/metasys/jobs/devops-engineer-internship",
+      "grade": "F",
+      "score": 29,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Metasys",
+      "title": "DevOps Engineer Internship",
+      "url": "https://himalayas.app/companies/metasys/jobs/devops-engineer-internship?utm_source=api",
+      "posted": 1792749417,
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Platform-Engineer",
+        "DevOps-Internship",
+        "DevOps-Intern",
+        "Azure-DevOps-Engineer-Intern",
+        "Junior-DevOps-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, pipeline",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/yellow-card/jobs/senior-frontend-engineer-3135982811",
+      "grade": "F",
+      "score": 14,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Yellow Card",
+      "title": "Senior Frontend Engineer",
+      "url": "https://himalayas.app/companies/yellow-card/jobs/senior-frontend-engineer-3135982811?utm_source=api",
+      "posted": 1792825356,
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Frontend-Engineer",
+        "Web-Developer",
+        "UI-Engineer",
+        "Front-End-Software-Engineer",
+        "Senior-Frontend-Engineering",
+        "Senior-Front-End-Developer",
+        "Senior-Frontend-Development",
+        "Senior-Frontend-Full-Stack-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "full-stack"
+        ]
+      },
+      "why": [
+        "stack (weak): react, full-stack",
+        "senior-titled",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "rok:1137562",
+      "grade": "D",
+      "score": 30,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "B2spin",
+      "title": "Senior Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+      "posted": "2026-10-23T16:00:12+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "embedded",
+        "sys admin",
+        "game dev",
+        "technical",
+        "dev"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "javascript",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
     {
       "id": "wwr:https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
       "grade": "F",

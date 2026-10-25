@@ -1,7 +1,7 @@
 {
   "pulled": "2026-10-25",
-  "scanned": 153,
-  "survived": 18,
+  "scanned": 306,
+  "survived": 37,
   "hits": [
     {
       "id": "rok:1137568",
@@ -43,6 +43,42 @@
         "non-engineering seat",
         "location not stated (ask before investing)",
         "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/koottu-inc/jobs/flutter-developer",
+      "grade": "D",
+      "score": 37,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Koottu Inc.",
+      "title": "Flutter Developer",
+      "url": "https://himalayas.app/companies/koottu-inc/jobs/flutter-developer?utm_source=api",
+      "posted": 1792881784,
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Flutter-Developer",
+        "Mobile-Application-Developer",
+        "Software-Developer",
+        "Dart-Developer",
+        "Flutter",
+        "Mid-Level-Flutter-and-Laravel-Full-Stack-Developer",
+        "Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, platform",
+        "reachable: restrictions include India"
       ]
     },
     {

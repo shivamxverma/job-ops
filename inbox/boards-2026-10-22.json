@@ -1,0 +1,49 @@
+{
+  "pulled": "2026-10-22",
+  "scanned": 153,
+  "survived": 17,
+  "hits": [
+    {
+      "id": "rok:1137551",
+      "grade": "D",
+      "score": 40,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "DuckDuckGo",
+      "title": "Senior Backend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+      "posted": "2026-10-21T14:29:21+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "backend",
+        "perl",
+        "golang",
+        "javascript",
+        "node"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "node.js"
+        ],
+        "weak": [
+          "node",
+          "javascript",
+          "backend",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, node.js",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    }
+  ]
+}

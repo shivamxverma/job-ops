@@ -13,10 +13,17 @@ research  `[x]` = not pursuing. Set with:
 ## Active
 - [ ] **From Even Health To The Pant Project— Indian Startups** — C | Sat, 24 Oct 2026 | Inc42: https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/ | why: funding: raised
 
-- [ ] **TravClan** — B | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others | why: sector: ai; funding: raises
 - [ ] **Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/ | why: funding: raised
 - [ ] **Y Combinator-Backed Firstwork Nets $15 Mn To Expand Footprint Across US And Europe** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/buzz/y-combinator-backed-firstwork-nets-15-mn-to-expand-footprint-across-us-and-europe/ | why: funding: raised
+
 - [ ] **Ultraviolette Launches New E-Bike X-47 Venom With A ₹2.65 Lakh Price Tag** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/buzz/ultraviolette-launches-new-e-bike-x-47-venom-with-a-%e2%82%b92-65-lakh-price-tag/ | why: funding: raising
+
+- [ ] **TravClan** — B | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/travclan-raises-5-million-funding-flipkart-others | why: sector: ai; funding: raises
+
+- [ ] **Japanese-Themed Dining Chain Harajuku Tokyo Café** — C | Thu, 22 Oct 2026 | Inc42: https://inc42.com/buzz/japanese-themed-dining-chain-harajuku-tokyo-cafe-raises-3-mn/ | why: funding: raises
+- [ ] **CureBay** — C | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures | why: stage: late-stage; sector: ai; funding: raises
+- [ ] **Chapter Home** — C | Thu, 22 Oct 2026 | YourStory: https://yourstory.com/2026/10/chapter-home-raises-rs-63-cr-in-a-mix-of-equity-and-debt | why: funding: raises
+- [ ] **Chapter Homes** — D | Thu, 22 Oct 2026 | Inc42: https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/ | why: funding: raised
 
 - [ ] **Karta AI** — A | Thu, 22 Oct 2026 | Inc42: https://inc42.com/buzz/karta-ai-raises-3-mn-to-automate-inbound-calls-for-bfsi-players/ | why: stage: early-stage; sector: ai; funding: raises | **warm: Harsh Yadav (1st°, Developer, voice agents @ Karta), linkedin.com/in/harsh-yadav5554** — ex-Razorpay founders (Vijaypal Singh, Abhishek Kushwaha), Bengaluru, 11-50, $3 Mn seed 2026-10-22 led by PeerCapital + Cedar Hill, voice AI agents for BFSI inbound, ~2 Mn conversations/month. No eng posting (LinkedIn jobs: one CS ops intern). Ask to Harsh drafted in inbox/replies.md
 - [ ] **CureBay** — C | Thu, 22 Oct 2026 | Inc42: https://inc42.com/buzz/curebay-bags-%e2%82%b9100-cr-to-scale-rural-clinics-network-enhance-ai-screening-offerings/ | why: stage: late-stage; sector: ai; funding: raised

@@ -1,8 +1,83 @@
 {
   "pulled": "2026-10-23",
-  "scanned": 2130,
-  "survived": 183,
+  "scanned": 3785,
+  "survived": 327,
   "hits": [
+    {
+      "id": "ashby:atlan:20fe5046-b287-40f6-990f-842ad75526e5",
+      "grade": "C",
+      "score": 48,
+      "source": "ashby (seed list)",
+      "company": "Atlan",
+      "domain": "atlan.com",
+      "title": "Staff Software Engineer - Infrastructure (AI Native)",
+      "url": "https://jobs.ashbyhq.com/atlan/20fe5046-b287-40f6-990f-842ad75526e5",
+      "posted": "2026-10-23T14:44:45.243+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "lever:paytm:105a0d9e-94e9-4026-9105-5bea558ab3d9",
+      "grade": "D",
+      "score": 42,
+      "source": "lever (seed list)",
+      "company": "Paytm",
+      "domain": "paytm.com",
+      "title": "Senior Software Engineer – Backend (Travel)",
+      "url": "https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9",
+      "posted": "2026-10-12T12:38:38.803Z",
+      "location": "Bangalore, Karnataka",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "node.js",
+          "redis",
+          "kafka"
+        ],
+        "weak": [
+          "node",
+          "aws",
+          "backend",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: node.js, redis, kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    },
     {
       "id": "ashby:bureau:0896ed82-d54c-4e35-81a9-bb3818056034",
       "grade": "B",

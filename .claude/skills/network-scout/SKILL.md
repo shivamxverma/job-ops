@@ -62,7 +62,22 @@ This is the highest-yield channel available to a 2026 grad and it is almost pure
 IIIT Nagpur senior has an employee-referral bonus riding on a good hire, shares 200–500 mutual
 connections with Shivam, and remembers being in his position two years ago.
 
-### Finding them (verified 2026-07-30)
+### Finding them (UPDATED 2026-10-24: the alumni tab's keyword box is broken)
+
+**Measured 2026-10-24:** `/school/.../people/?keywords=` now redirects to `/alumni/` and drops
+the keyword, and typing in the alumni search box sends you to people search filtered by
+`currentCompany` = the college, which returns current students and staff, not alumni. Use
+people search with the **school** filter instead (works, returns grad-year headlines and
+mutual counts, Connect/Message state readable with `get_page_text`):
+
+```
+https://www.linkedin.com/search/results/people/?keywords={q}&schoolFilter=%5B%2214538459%22%5D
+```
+
+Adding a city to the keywords (`backend engineer bengaluru`) is the cheapest way to cut
+students out of the results. The section below is the old method, kept for history.
+
+### Finding them (verified 2026-07-30, now broken)
 
 The alumni tab, which needs **zero profile visits** and therefore doesn't touch the
 bulk-visit ban:

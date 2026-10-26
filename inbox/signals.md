@@ -11,6 +11,11 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI** — A | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/ | why: stage: early-stage; sector: ai, platform; funding: raised
+- [ ] **Exclusive: AI-Powered Trading Platform Tradl** — A | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-ai-powered-trading-platform-tradl-bags-4-1-mn-from-nexus-stellaris/ | why: stage: early-stage; sector: ai, platform; funding: raised; 📍 bengaluru
+- [ ] **Matiks** — B | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/ | why: sector: platform; funding: raised; also: YourStory
+- [ ] **Exclusive: axiTrust To Raise $5 Mn From Argor.vc, Others** — B | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-axitrust-to-raise-5-mn-from-argor-vc-others/ | why: sector: fintech; funding: funding round
+
 - [ ] **Unacademy Cofounders Plan ₹700 Cr AI, Deeptech Fund** — B | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/unacademy-cofounders-plan-%e2%82%b9700-cr-ai-deeptech-fund-longshot-capital/ | why: sector: ai, deeptech; funding: raising
 - [ ] **Who will shape India’s next 500 million digital users?** — C | Mon, 26 Oct 2026 | YourStory: https://yourstory.com/2026/10/who-will-shape-indias-next-500-million-digital-users | why: funding: raises
 - [ ] **Healthtech startup BioStack** — C | Mon, 26 Oct 2026 | YourStory: https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv | why: stage: early-stage; funding: raises

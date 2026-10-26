@@ -11,6 +11,10 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Unacademy Cofounders Plan ₹700 Cr AI, Deeptech Fund** — B | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/unacademy-cofounders-plan-%e2%82%b9700-cr-ai-deeptech-fund-longshot-capital/ | why: sector: ai, deeptech; funding: raising
+- [ ] **Who will shape India’s next 500 million digital users?** — C | Mon, 26 Oct 2026 | YourStory: https://yourstory.com/2026/10/who-will-shape-indias-next-500-million-digital-users | why: funding: raises
+- [ ] **Healthtech startup BioStack** — C | Mon, 26 Oct 2026 | YourStory: https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv | why: stage: early-stage; funding: raises
+
 - [ ] **From Even Health To The Pant Project— Indian Startups** — C | Sat, 24 Oct 2026 | Inc42: https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/ | why: funding: raised
 
 - [ ] **Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?** — C | Fri, 23 Oct 2026 | Inc42: https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/ | why: funding: raised

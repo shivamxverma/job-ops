@@ -1,0 +1,39 @@
+{
+  "pulled": "2026-10-27",
+  "scanned": 820,
+  "survived": 73,
+  "hits": [
+    {
+      "id": "greenhouse:zenoti:8039822003",
+      "grade": "F",
+      "score": 13,
+      "source": "greenhouse (seed list)",
+      "company": "Zenoti",
+      "domain": "zenoti.com",
+      "title": "Senior Network Reliability Engineer",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8039822003",
+      "posted": "2026-10-27T00:49:34-04:00",
+      "location": "Hyderabad, Telangana, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "linux",
+          "infra",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, linux, infra",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

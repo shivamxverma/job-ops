@@ -11,6 +11,13 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Nova Spectral AI** — A | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru
+- [ ] **Live2.ai** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/ | why: sector: saas, ai; funding: raises; 📍 bengaluru
+- [ ] **Simplismart** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/simplismart-bags-14-mn-to-expand-ai-inference-platform/ | why: sector: ai, platform; funding: raised
+- [ ] **AI startup Simplismart** — B | Tue, 27 Oct 2026 | YourStory: https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others | why: sector: ai, platform; funding: raises
+- [ ] **Healthy Snacking Brand Troovy** — C | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/healthy-snacking-brand-troovy-bags-%e2%82%b9100-cr-to-expand-offline-presence-enter-new-categories/ | why: funding: raised
+- [ ] **Healthy snack brand Troovy** — D | Tue, 27 Oct 2026 | YourStory: https://yourstory.com/2026/10/healthy-snack-brand-troovy-raises-rs-100-cr-series-b-fireside-ventures | why: funding: raises
+
 - [ ] **Mochatrade** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/mochatrade-raises-5-5-mn-to-build-a-us-stock-trading-platform-for-indian-traders/ | why: sector: fintech, platform; funding: raises
 - [ ] **Cent** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/ | why: sector: ai, platform; funding: raises
 - [ ] **Live2.ai** — B | Tue, 27 Oct 2026 | YourStory: https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform | why: sector: ai, platform; funding: raises

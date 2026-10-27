@@ -1,0 +1,85 @@
+{
+  "pulled": "2026-10-28",
+  "scanned": 153,
+  "survived": 22,
+  "hits": [
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+      "grade": "C",
+      "score": 49,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Dremio",
+      "title": "Software Engineer - Query Execution",
+      "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+      "posted": "Wed, 07 Oct 2026 07:30:53 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Portugal - Remote </p> <div class=\"content-intro\"><h2><strong>Be Part of Building the Future</strong></h2> <p>Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&amp;P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost.&nbsp; Learn more at&nbsp;<a class=\"c-link\" href=\"http://www.dremio.com/\">www.dremio.com.</a></p></div><p><strong>About the role</strong><br>Dremio’s Query Execution team builds the runtime responsible for executing analytical queries at scale. The team sits between query planning and table scans, building the systems that turn query plans into efficient, reliable execution.</p> <p>As a Software Engineer, you’ll work with experienced engineers to build, test, and support well-scoped improvements to the execution engine. You’ll learn how Dremio’s query runtime works while contributing to areas such as query operators, expression evaluation, memory management, scheduling, and performance.<br><br><strong>What you’ll be doing</strong></p> <ul> <li>Build and support execution-engine components: Implement, test, debug, and maintain well-defined changes to query operators, expression evaluation, execution scheduling, and resource management.</li> <li>Develop reliable software: Write clear, maintainable Java code; add unit and integration tests; and follow established engineering practices for code review, testing, and documentation.</li> <li>Investigate issues: Help diagnose query correctness, reliability, and performance issues using query profiles, logs, telemetry, benchmarks, and production data.</li> <li>Learn runtime and performance fundamentals: Build familiarity with vectorized processing, concurrency, memory usage, parallelism, data exchange, and disk spilling.</li> <li>Collaborate with the team: Work closely with senior engineers and partner teams to understand requirements, break work into manageable tasks, and deliver incremental improvements.</li> <li>Use AI-assisted development tools: Apply AI tools to code comprehension, debugging, test generation, and documentation, while validating results through testing, review, and sound engineering judgment.</li> <li>Grow your engineering skills: Participate actively in design discussions and code reviews, seek feedback, and steadily take on broader technical responsibility.</li> </ul> <p><strong>What we’re looking for</strong></p> <ul> <li>Software engineering foundation: Up to two years of professional software development experience, or equivalent experience through internships, coursework, or substantial personal projects.</li> <li>Programming skills: Proficiency in Java or another object-oriented programming language; willingness to learn and work in a large Java codebase.</li> <li>Computer science fundamentals: Understanding of data structures, algorithms, and basic concurrency concepts.</li> <li>Problem-solving ability: Able to work through well-defined technical problems, ask good questions, and apply feedback to reach a solution.</li> <li>Quality mindset: Commitment to writing tested, maintainable code and learning established development, testing, and review practices.</li> <li>Communication and collaboration: Able to communicate progress, surface blockers early, and work effectively with teammates.</li> <li>Education: Bachelor’s degree in Computer Science, a related technical field, or equivalent practical experience.</li> </ul> <p><strong>Bonus points if you have</strong></p> <ul> <li> <ul> <li>Exposure to database internals, query processing, distributed systems, or large-scale data processing.</li> <li>Familiarity with performance-oriented software concepts such as profiling, memory management, concurrency, or vectorized processing.</li> <li>Experience with C++, Apache Arrow, Parquet, Apache Iceberg, Spark, Hadoop, or cloud object stores.</li> <li>Contributions to open-source projects.</li> </ul> </li> </ul><div class=\"content-conclusion\"><h3><strong>What we value&nbsp;</strong></h3> <p><span>At Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a \"flywheel\". People who like to jump in and drive momentum will thrive in our #GnarlyLife.</span></p> <p><em><span>Dremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor.</span></em></p> <p><em><span>Dremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter.</span></em></p> <p><em><span>Dremio has policies in place to protect the personal information that employees and applicants disclose to us. Please click </span></em><a href=\"https://docs.google.com/document/d/1CB96QFmOX-bFy48YFOe2GO5lmdawOpKKBj8DpTgsuNg/edit?usp=sharing\"><em><span>here</span></em></a><em><span> to review the privacy notice.&nbsp;</span></em></p> <h3><strong>Important Security Notice for Candidates</strong></h3> <p><span>At Dremio, we uphold trust and transparency as paramount values in all our interactions with customers, partners, employees, and the general public. We have been targeted by individuals creating fake domains similar to ours to scam prospects and candidates. Please note that all official communications from us will be from an @dremio.com domain. If you suspect you've been targeted by a scam, it's imperative to report the incident to your local law enforcement agencies. For more information about this type of scam, please refer to Dremio's official statement&nbsp;<a href=\"https://www.dremio.com/blog/stay-alert-for-fraudulent-recruitment-attempts-that-falsely-claim-association-with-dremio/\">here</a>.</span></p> <p><em>Dremio is not responsible for any fees related to unsolicited resumes and will not pay fees to any third-party agency or company that does not have a signed agreement with the Company.</em></p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution\">https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "c++",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "2+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+      "grade": "D",
+      "score": 34,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Lemon.io",
+      "title": "Senior Angular Full-stack Developer",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+      "posted": "Tue, 06 Oct 2026 13:25:57 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6544/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> New York, NY <br /><strong>URL:</strong> <a href=\"https://lemon.io\">https://lemon.io</a> </p> <p>Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_angular_net/php/node_oct_2026_job_ad\">Lemon.io</a> — the marketplace that connects you with hand-picked startups in the US and Europe.</p> <p><strong>What we offer:</strong></p> <ul> <li>The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.</li> <li>No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.</li> <li>We'll manually find the best project for you according to your skills and preferences.</li> <li>Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.</li> <li>We respect your seniority so you can expect no micromanagement or screen trackers.</li> <li>Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?</li> <li>We will support you from the time you submit the application throughout all cooperation stages.</li> <li>Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.</li> <li>Through our community, we will connect you with the best developers from more than 75 countries.</li> </ul> <p>We have several senior positions available. We are looking for Senior Software Engineers with strong knowledge of the following stacks: Angular &amp; PHP, Angular &amp; .NET &amp; TypeScript, Angular &amp; Node, Angular &amp; TypeScript, React &amp; PHP, Vue &amp; PHP, Symfony &amp; any front-end, and PHP &amp; Laravel.</p> <p><strong>Requirements for Senior Angular &amp; PHP Developer experience:</strong></p> <ul> <li>4+ years of software development experience</li> <li>3+ years of experience with Angular</li> <li>3+ years of commercial experience with PHP</li> <li>3+ years of commercial experience with Laravel</li> </ul> <p><strong>Requirements for Senior Angular &amp; .NET Developer experience:</strong></p> <ul> <li>5+ years of software development experience</li> <li>3+ years of experience with Angular and 5+ years of commercial experience with .NET<br>OR<br>5+ years of experience with Angular and 3+ years of commercial experience with .NET</li> <li>Practical experience with Typescript is required</li> </ul> <p><strong>Requirements for Senior Angular &amp; Node.js Developer experience:</strong></p> <ul> <li>5+ years of software development experience</li> <li>3+ years of experience with Angular and 3+ years of commercial experience with Node.js</li> <li>Practical experience with Typescript is required</li> <li>Experience with AWS/GCP/Azure</li> </ul> <p><strong>Other requirements:</strong></p> <ul> <li>Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.</li> <li>Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.</li> <li>Strong self-organizational skills — ability to work full-time remotely with no supervision.</li> <li>Reliability — we want to trust you and expect that you won’t let us and the client down.</li> <li>Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.</li> </ul> <p>Sounds good for you? Apply now and join the <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_angular_net/php/node_oct_2026_job_ad\">Lemon.io</a> community!</p> <p><strong>NOT YOUR TECH STACK?</strong></p> <p>We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue, Vue &amp; Node.js, React &amp; .NET, Android &amp; iOS, iOS &amp; Swift, Flutter &amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Vue &amp; .NET, Python &amp; Vue, DevOps, MLOps, Data Science, Symfony &amp; React, Symfony &amp; Vue, Symfony &amp; Angular, Python, Symfony &amp; JavaScript &amp; Next.js &amp; TypeScript, Data Analysis, React &amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp; Node, React Native &amp; React, React Native &amp; Ruby, React Native &amp; Python, WordPress, Android, Data Annotation, Angular, Python &amp; Node, React &amp; Node.js, Java &amp; Spring, Svelte &amp; Python, Svelte &amp; Node.js, Svelte &amp; TypeScript, Rust, Shopify &amp; JavaScript, Vue &amp; Nuxt, PHP &amp; Laravel, UI/UX Design, Animation, Graphic Design, React &amp; Node &amp; React Native, .NET &amp; C#, Electron, Scala, C++, Unreal Engine &amp; C++, Python &amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.</p> <p>We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.</p> <p>We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer\">https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "aws",
+          "c++",
+          "full-stack",
+          "platform",
+          "automation",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)"
+      ]
+    }
+  ]
+}

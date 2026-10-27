@@ -11,6 +11,13 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Mochatrade** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/mochatrade-raises-5-5-mn-to-build-a-us-stock-trading-platform-for-indian-traders/ | why: sector: fintech, platform; funding: raises
+- [ ] **Cent** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/ | why: sector: ai, platform; funding: raises
+- [ ] **Live2.ai** — B | Tue, 27 Oct 2026 | YourStory: https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform | why: sector: ai, platform; funding: raises
+- [ ] **Healthtech startup Cent** — B | Tue, 27 Oct 2026 | YourStory: https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a | why: sector: ai; funding: raises
+- [ ] **Luxury Watch Brand Rotoris** — C | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/ | why: funding: raises
+- [ ] **Rotoris** — C | Tue, 27 Oct 2026 | YourStory: https://yourstory.com/2026/10/rotoris-bags-rs-70-cr-to-expand-its-luxury-watch-business | why: funding: bags
+
 - [ ] **BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI** — A | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/ | why: stage: early-stage; sector: ai, platform; funding: raised
 - [ ] **Exclusive: AI-Powered Trading Platform Tradl** — A | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-ai-powered-trading-platform-tradl-bags-4-1-mn-from-nexus-stellaris/ | why: stage: early-stage; sector: ai, platform; funding: raised; 📍 bengaluru
 - [ ] **Matiks** — B | Mon, 26 Oct 2026 | Inc42: https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/ | why: sector: platform; funding: raised; also: YourStory

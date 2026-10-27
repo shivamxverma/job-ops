@@ -1,19 +1,19 @@
 {
   "pulled": "2026-10-27",
-  "scanned": 820,
-  "survived": 73,
+  "scanned": 1694,
+  "survived": 154,
   "hits": [
     {
-      "id": "greenhouse:zenoti:8039822003",
+      "id": "greenhouse:razorpaysoftwareprivatelimited:4746948005",
       "grade": "F",
-      "score": 13,
-      "source": "greenhouse (seed list)",
-      "company": "Zenoti",
-      "domain": "zenoti.com",
-      "title": "Senior Network Reliability Engineer",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/8039822003",
-      "posted": "2026-10-27T00:49:34-04:00",
-      "location": "Hyderabad, Telangana, India",
+      "score": -2,
+      "source": "greenhouse (YC Winter 2015)",
+      "company": "Razorpay",
+      "domain": "razorpay.com",
+      "title": "Lead Security Engineer",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746948005",
+      "posted": "2026-10-27T02:49:29-04:00",
+      "location": "Bengaluru",
       "reachability": {
         "status": "open",
         "reason": "India-based"
@@ -21,16 +21,19 @@
       "matched": {
         "strong": [],
         "weak": [
-          "aws",
-          "linux",
-          "infra",
-          "platform"
+          "python",
+          "javascript",
+          "full-stack",
+          "platform",
+          "real-time",
+          "automation",
+          "agentic"
         ]
       },
       "why": [
-        "stack (weak): aws, linux, infra",
+        "stack (weak): python, javascript, full-stack",
         "senior-titled",
-        "4+ years stated (stretch)",
+        "5+ years stated",
         "reachable: India-based",
         "posted 0d ago"
       ]

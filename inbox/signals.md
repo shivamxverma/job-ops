@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Exclusive: QwikBuild** — A | Wed, 28 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/ | why: stage: early-stage; sector: ai, platform; funding: raises; 📍 bengaluru
+
 - [ ] **Nova Spectral AI** — A | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru
 - [ ] **Live2.ai** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/ | why: sector: saas, ai; funding: raises; 📍 bengaluru
 - [ ] **Simplismart** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/simplismart-bags-14-mn-to-expand-ai-inference-platform/ | why: sector: ai, platform; funding: raised

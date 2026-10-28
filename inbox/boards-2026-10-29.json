@@ -1,0 +1,83 @@
+{
+  "pulled": "2026-10-29",
+  "scanned": 154,
+  "survived": 23,
+  "hits": [
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+      "grade": "D",
+      "score": 34,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Lemon.io",
+      "title": "Senior .NET Full-stack Developer",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+      "posted": "Thu, 08 Oct 2026 11:41:36 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6546/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> New York, NY <br /><strong>URL:</strong> <a href=\"https://lemon.io\">https://lemon.io</a> </p> <p>Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_net_react/angular/c/vue_oct_2026_job_ad\">Lemon.io</a> — the marketplace that connects you with hand-picked startups in the US and Europe.</p> <p><strong>What we offer:</strong></p> <ul> <li>The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.</li> <li>No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.</li> <li>We'll manually find the best project for you according to your skills and preferences.</li> <li>Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.</li> <li>We respect your seniority so you can expect no micromanagement or screen trackers.</li> <li>Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?</li> <li>We will support you from the time you submit the application throughout all cooperation stages.</li> <li>Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.</li> <li>Through our community, we will connect you with the best developers from more than 50 countries.</li> </ul> <p><strong>Currently, we have multiple requests, so please check the requirements.</strong></p> <p><strong>Requirements - .NET &amp; React:</strong></p> <ul> <li>4+ years of commercial experience in software development</li> <li>3+ years of commercial experience with .NET</li> <li>3+ years of commercial experience with React</li> <li>Expertise in TypeScript is required</li> </ul> <p><strong>Requirements - Angular &amp; .NET:</strong></p> <ul> <li>5+ years of commercial experience in software development</li> <li>3+ years of commercial experience with .NET and 5+ with Angular/Vue<br>OR<br>5+ years of commercial experience with .NET and 3+ with Angular/Vue</li> <li>Expertise in TypeScript is required</li> </ul> <p><strong>Requirements - C# &amp; .NET:</strong></p> <ul> <li>5+ years of commercial experience in software development</li> <li>5+ years of commercial experience with .NET and 5+ with C#</li> <li>Expertise in .NET Core is required</li> </ul> <p><strong>You should also have:</strong></p> <ul> <li>Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture.</li> <li>Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.</li> <li>Strong self-organizational skills — ability to work full-time remotely with no supervision.</li> <li>Reliability — we want to trust you and expect that you won’t let us and the client down.</li> <li>Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.</li> </ul> <p>Sounds good for you? Apply now and join the <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_net_react/angular/c/vue_oct_2026_job_ad\">Lemon.io</a> community!</p> <p><strong>NOT YOUR TECH STACK?</strong></p> <p>We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue, Vue &amp; Node.js, Android &amp; iOS, iOS &amp; Swift, Flutter &amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular &amp; Node.js, Python &amp; Vue, DevOps, MLOps, Data Science, Angular &amp; PHP, Symfony &amp; React, Symfony &amp; Vue, Symfony &amp; Angular, Python, Symfony &amp; JavaScript &amp; Next.js &amp; TypeScript, Data Analysis, React &amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp; Node, React Native &amp; React, React Native &amp; Ruby, React Native &amp; Python, WordPress, Android, Angular, Python &amp; Node, React &amp; Node.js, Java &amp; Spring, Svelte &amp; Python, Svelte &amp; Node.js, Svelte &amp; TypeScript, Rust, Shopify &amp; JavaScript, Vue &amp; Nuxt, PHP &amp; Laravel, UI/UX Design, Animation, Graphic Design, React &amp; Node &amp; React Native, , Electron, Scala, C++, Unreal Engine &amp; C++, Python &amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.</p> <p>We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).</p> <p>&nbsp;</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2\">https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "c++",
+          "full-stack",
+          "platform",
+          "automation",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+      "grade": "F",
+      "score": 7,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Jumio",
+      "title": "Machine Learning Engineer - IV (Biometrics)",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+      "posted": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "location": "<p> <strong>Headquarters:</strong> India (remote) </p> <p><strong>Role Purpose</strong></p> <p>We’re looking for a Staff/Senior Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process.</p> <p><strong>What You’ll Do</strong></p> <p>Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition)<br>Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions.<br>Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX<br>Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design automated pipelines (Airflow) for data ingestion and cleaning. You will be responsible for curating balanced training sets and generating synthetic data to address both quality and diversity gaps.<br>Production Engineering: Own the path to production. Optimize models for low-latency inference (quantization, distillation, TensorRT/ONNX) and manage deployment on AWS.<br>Mentor ML engineers, conduct code/design reviews, and drive technical best practices across the Computer Vision team.</p> <p><strong>What We’re Looking For</strong></p> <p>Experience: 5+ years of industry experience in Machine Learning, with at least 3 years dedicated to Biometrics or Face Analysis.<br>Deep expertise in computer vision and biometrics, especially face recognition.<br>Fairness &amp; Ethics: You understand the sources of algorithmic bias in Computer Vision and have practical experience measuring and mitigating disparate impact.<br>Strong Engineering: Expert proficiency in Python (both machine learning and vision libraries such as Pillow, OpenCV, PyTorch, etc). You write clean, modular, production-ready code.<br>Systems Architecture: Experience designing end-to-end ML pipelines (Data to Train to Deploy) and working with workflow orchestrators like Airflow.<br>Cloud Native: Hands-on experience scaling training jobs on multi-GPU clusters and deploying services on AWS (SageMaker, EC2, EKS).</p> <p><strong>Nice to Have</strong></p> <p>Research Publications: Papers in CVPR, ICCV, ECCV, or FG related to face recognition, image quality assessment, or fairness.<br>Large Scale Search: Experience with vector databases (e.g., Milvus, Faiss) and approximate nearest neighbor (ANN) search algorithms.<br>Familiarity with privacy, security, and compliance in biometric systems.<br>Mobile/Edge Experience: Experience porting models to edge or mobile devices utilizing frameworks such as CoreML, LiteRT, and/or TFLite.<br>Synthetic Data: Experience using GANs or diffusion models to generate synthetic faces for training.<br>Strong communication skills.</p><div class=\"content-conclusion\"><p><strong>Jumio Values:</strong></p> <p><span>IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation </span></p> <p><strong>Equal Opportunities</strong><span><strong>: </strong></span></p> <p><span>Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses.</span></p> <p><strong>About Jumio:</strong></p> <p>Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.&nbsp;</p> <p>Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we’re expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others.</p> <p><strong>Applicant Data Privacy </strong></p> <p>We will only use your personal information in connection with Jumio’s application, recruitment, and hiring processes, as described in Jumio’s <a href=\"https://www.jumio.com/legal-information/privacy-notices/candidate-notice/\">Applicant Privacy Notice.</a> If you have any questions or comments, please send an email to <a href=\"mailto:privacy@jumio.com\">privacy@jumio.com</a>.</p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics\">https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics</a></p>",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, aws, automation",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    }
+  ]
+}

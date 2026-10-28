@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Why Indian AI Founders Are Eyeing Silicon Valley And What They Risk Leaving Behind** — B | Wed, 28 Oct 2026 | Inc42: https://inc42.com/resources/why-indian-ai-founders-are-eyeing-silicon-valley-and-what-they-risk-leaving-behind/ | why: sector: ai; funding: raised
+- [ ] **Exclusive: Holiday Tribe In Talks To Raise ₹50 Cr From RPSG Capital Ventures, Others** — C | Wed, 28 Oct 2026 | Inc42: https://inc42.com/buzz/holiday-tribe-in-talks-to-raise-%e2%82%b950-cr-from-rpsg-capital-ventures-others/ | why: funding: funding round
+
 - [ ] **From Homemade Badi to GomatiRoots: Shital Kumari** — C | Wed, 28 Oct 2026 | YourStory: https://yourstory.com/2026/10/homemade-badi-gomatiroots | why: funding: secures
 - [ ] **PhysicsWallah partners with DPIIT to support early-stage ventures** — C | Wed, 28 Oct 2026 | YourStory: https://yourstory.com/2026/10/physicswallah-partners-with-dpiit-to-support-early-stage-ventures | why: stage: early-stage; funding: seed funding
 

@@ -1,7 +1,7 @@
 {
   "pulled": "2026-10-28",
-  "scanned": 153,
-  "survived": 22,
+  "scanned": 307,
+  "survived": 43,
   "hits": [
     {
       "id": "wwr:https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
@@ -78,6 +78,37 @@
         "story fit: Hireflow/klimb.io AI metering (llm)",
         "senior-titled",
         "3+ years stated (stretch)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+      "grade": "F",
+      "score": 29,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Jumio",
+      "title": "Machine Learning Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
+      "posted": "Thu, 08 Oct 2026 07:31:21 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Austria (remote) </p> <h2><strong>Machine Learning Engineer&nbsp;</strong></h2> <p>We’re looking for a Machine Learning Engineer with deep expertise in computer vision and biometrics to lead the design and scaling of face recognition systems in production. You’ll build and train models, and own ML systems end-to-end on AWS. The final job level for this role will be determined following the interview process.</p> <h3><strong>What You’ll Do</strong></h3> <ul> <li>Lead the design and development of computer vision systems for biometrics (face attributes, detection, quality, and recognition)</li> <li>Rigorous fairness analysis and benchmarking of biometric models across various datasets and operating conditions.</li> <li>Architect, train, and optimize models using PyTorch, Tensorflow, and/or JAX</li> <li>Own and evolve end-to-end ML pipelines, from data ingestion to deployment. Design automated pipelines (Airflow) for data ingestion and cleaning. You will be responsible for curating balanced training sets and generating synthetic data to address both quality and diversity gaps.</li> <li>Production Engineering: Own the path to production. Optimize models for low-latency inference (quantization, distillation, TensorRT/ONNX) and manage deployment on AWS.</li> <li>Mentor ML engineers, conduct code/design reviews, and drive technical best practices across the Computer Vision team.</li> </ul> <h3><strong>What We’re Looking For</strong></h3> <ul> <li>Experience: Multiple years of industry experience in Machine Learning, with at least 3 years dedicated to Biometrics or Face Analysis.</li> <li>Deep expertise in computer vision and biometrics, especially face recognition.</li> <li>Fairness &amp; Ethics: You understand the sources of algorithmic bias in Computer Vision and have practical experience measuring and mitigating disparate impact.</li> <li>Strong Engineering: Expert proficiency in Python (both machine learning and vision libraries such as Pillow, OpenCV, PyTorch, etc). You write clean, modular, production-ready code.</li> <li>Systems Architecture: Experience designing end-to-end ML pipelines (Data to Train to Deploy) and working with workflow orchestrators like Airflow.</li> <li>Cloud Native: Hands-on experience scaling training jobs on multi-GPU clusters and deploying services on AWS (SageMaker, EC2, EKS).</li> </ul> <h3><strong>Nice to Have</strong></h3> <ul> <li>Research Publications: Papers in CVPR, ICCV, ECCV, or FG related to face recognition, image quality assessment, or fairness.</li> <li>Large Scale Search: Experience with vector databases (e.g., Milvus, Faiss) and approximate nearest neighbor (ANN) search algorithms.</li> <li>Familiarity with privacy, security, and compliance in biometric systems.</li> <li>Mobile/Edge Experience: Experience porting models to edge or mobile devices utilizing frameworks such as CoreML, LiteRT, and/or TFLite.</li> <li>Synthetic Data: Experience using GANs or diffusion models to generate synthetic faces for training.</li> <li>Strong communication skills.</li> </ul><div class=\"content-conclusion\"><p><strong>Jumio Values:</strong></p> <p><span>IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation </span></p> <p><strong>Equal Opportunities</strong><span><strong>: </strong></span></p> <p><span>Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses.</span></p> <p><strong>About Jumio:</strong></p> <p>Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.&nbsp;</p> <p>Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we’re expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others.</p> <p><strong>Applicant Data Privacy </strong></p> <p>We will only use your personal information in connection with Jumio’s application, recruitment, and hiring processes, as described in Jumio’s <a href=\"https://www.jumio.com/legal-information/privacy-notices/candidate-notice/\">Applicant Privacy Notice.</a> If you have any questions or comments, please send an email to <a href=\"mailto:privacy@jumio.com\">privacy@jumio.com</a>.</p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer\">https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, aws, automation",
         "location not stated (ask before investing)"
       ]
     }

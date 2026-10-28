@@ -209,7 +209,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:44.569Z"
+    "checked": "2026-10-28T13:13:21.402Z"
   },
   "pixis.ai": {
     "name": "Pixis",
@@ -256,8 +256,8 @@
     "source": "seed list",
     "ats": null,
     "slug": null,
-    "reachable": false,
-    "checked": "2026-10-28T05:56:44.623Z"
+    "reachable": true,
+    "checked": "2026-10-28T13:13:21.641Z"
   },
   "exotel.com": {
     "name": "Exotel",
@@ -321,7 +321,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:46.564Z"
+    "checked": "2026-10-28T13:13:21.597Z"
   },
   "chargebee.com": {
     "name": "Chargebee",
@@ -457,7 +457,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:44.809Z"
+    "checked": "2026-10-28T13:13:21.509Z"
   },
   "leadsquared.com": {
     "name": "Leadsquared",
@@ -658,7 +658,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:44.600Z"
+    "checked": "2026-10-28T13:13:23.413Z"
   },
   "coinswitch.co": {
     "name": "Coinswitch",
@@ -698,7 +698,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:47.255Z"
+    "checked": "2026-10-28T13:13:21.775Z"
   },
   "kreditbee.in": {
     "name": "Kreditbee",
@@ -772,7 +772,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:47.649Z"
+    "checked": "2026-10-28T13:13:26.063Z"
   },
   "zomato.com": {
     "name": "Zomato",
@@ -788,7 +788,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:44.746Z"
+    "checked": "2026-10-28T13:13:22.084Z"
   },
   "urbancompany.com": {
     "name": "Urbancompany",
@@ -900,7 +900,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:45.556Z"
+    "checked": "2026-10-28T13:13:24.319Z"
   },
   "sharechat.com": {
     "name": "Sharechat",
@@ -989,7 +989,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:44.981Z"
+    "checked": "2026-10-28T13:13:21.748Z"
   },
   "eightfold.ai": {
     "name": "Eightfold",
@@ -1029,7 +1029,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:57:17.511Z"
+    "checked": "2026-10-28T13:13:55.383Z"
   },
   "golorry.com": {
     "name": "GoLorry",
@@ -1093,7 +1093,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:57:01.038Z"
+    "checked": "2026-10-28T13:13:25.446Z"
   },
   "ziffyhomes.com": {
     "name": "ZiffyHomes",
@@ -1141,7 +1141,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:48.083Z"
+    "checked": "2026-10-28T13:13:24.722Z"
   },
   "exlyapp.com": {
     "name": "Exly",
@@ -1189,7 +1189,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:48.310Z"
+    "checked": "2026-10-28T13:13:25.753Z"
   },
   "getbinks.com": {
     "name": "Binks",
@@ -1357,7 +1357,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:48.286Z"
+    "checked": "2026-10-28T13:13:25.229Z"
   },
   "statiq.in": {
     "name": "Statiq.",
@@ -1773,7 +1773,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:48.320Z"
+    "checked": "2026-10-28T13:13:25.745Z"
   },
   "fieldproxy.ai": {
     "name": "Fieldproxy",
@@ -1789,7 +1789,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:49.663Z"
+    "checked": "2026-10-28T13:13:28.453Z"
   },
   "nationalfinanceolympiad.com": {
     "name": "National Finance Olympiad",
@@ -1837,7 +1837,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:48.388Z"
+    "checked": "2026-10-28T13:13:25.945Z"
   },
   "kaagaz.app": {
     "name": "Kaagaz",
@@ -1853,7 +1853,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:49.108Z"
+    "checked": "2026-10-28T13:13:26.720Z"
   },
   "savein.money": {
     "name": "SaveIN",
@@ -1861,7 +1861,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:50.431Z"
+    "checked": "2026-10-28T13:13:27.824Z"
   },
   "materialdepot.in": {
     "name": "Material Depot",
@@ -1877,7 +1877,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:51.186Z"
+    "checked": "2026-10-28T13:13:28.237Z"
   },
   "gosats.io": {
     "name": "GoSats",
@@ -2247,7 +2247,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:45.118Z"
+    "checked": "2026-10-28T13:13:22.017Z"
   },
   "pando.ai": {
     "name": "Pando",
@@ -2319,7 +2319,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:45.434Z"
+    "checked": "2026-10-28T13:13:22.463Z"
   },
   "fareye.com": {
     "name": "Fareye",
@@ -2625,7 +2625,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:57:16.177Z"
+    "checked": "2026-10-28T13:13:59.547Z"
   },
   "100ms.live": {
     "name": "100ms",
@@ -2673,7 +2673,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:45.589Z"
+    "checked": "2026-10-28T13:13:21.969Z"
   },
   "budibase.com": {
     "name": "Budibase",
@@ -2769,7 +2769,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:45.775Z"
+    "checked": "2026-10-28T13:13:28.030Z"
   },
   "appknox.com": {
     "name": "Appknox",
@@ -2865,7 +2865,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:46.105Z"
+    "checked": "2026-10-28T13:13:22.546Z"
   },
   "mobikwik.com": {
     "name": "Mobikwik",
@@ -2873,7 +2873,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:47.906Z"
+    "checked": "2026-10-28T13:13:23.699Z"
   },
   "paysprint.in": {
     "name": "Paysprint",
@@ -2929,7 +2929,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:46.190Z"
+    "checked": "2026-10-28T13:13:23.046Z"
   },
   "stashfin.com": {
     "name": "Stashfin",
@@ -2977,7 +2977,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:47.252Z"
+    "checked": "2026-10-28T13:13:58.105Z"
   },
   "bureau.id": {
     "name": "Bureau",
@@ -3034,7 +3034,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-10-28T05:56:47.851Z"
+    "checked": "2026-10-28T13:13:23.834Z"
   },
   "airmeet.com": {
     "name": "Airmeet",

@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **From Homemade Badi to GomatiRoots: Shital Kumari** — C | Wed, 28 Oct 2026 | YourStory: https://yourstory.com/2026/10/homemade-badi-gomatiroots | why: funding: secures
+- [ ] **PhysicsWallah partners with DPIIT to support early-stage ventures** — C | Wed, 28 Oct 2026 | YourStory: https://yourstory.com/2026/10/physicswallah-partners-with-dpiit-to-support-early-stage-ventures | why: stage: early-stage; funding: seed funding
+
 - [ ] **Exclusive: QwikBuild** — A | Wed, 28 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/ | why: stage: early-stage; sector: ai, platform; funding: raises; 📍 bengaluru
 
 - [ ] **Nova Spectral AI** — A | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru

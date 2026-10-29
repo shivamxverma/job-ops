@@ -1,7 +1,7 @@
 {
   "pulled": "2026-10-29",
-  "scanned": 154,
-  "survived": 23,
+  "scanned": 308,
+  "survived": 49,
   "hits": [
     {
       "id": "wwr:https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
@@ -77,6 +77,119 @@
         "stack (weak): python, aws, automation",
         "5+ years stated",
         "reachable: India-based"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nestifytech-solutions-private-limited/jobs/llm-engineer-large-language-model-engineer",
+      "grade": "C",
+      "score": 54,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Nestifytech Solutions Private Limited",
+      "title": "LLM Engineer (Large Language Model Engineer)",
+      "url": "https://himalayas.app/companies/nestifytech-solutions-private-limited/jobs/llm-engineer-large-language-model-engineer?utm_source=api",
+      "posted": 1793247253,
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "LLM-Engineer",
+        "Machine-Learning-Engineer",
+        "Deep-Learning-Engineer",
+        "AI-Research-Engineer",
+        "NLP-Engineer",
+        "AI-LLM-Engineer",
+        "AI-LLM-Software-Engineer",
+        "LLM-Product-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": []
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/knowmad-mood/jobs/ai-agent-developer-latam",
+      "grade": "F",
+      "score": 29,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "knowmad mood",
+      "title": "AI Agent Developer (Latam)",
+      "url": "https://himalayas.app/companies/knowmad-mood/jobs/ai-agent-developer-latam?utm_source=api",
+      "posted": 1793247218,
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "AI-Agent-Developer",
+        "AI-Developer",
+        "AI-Engineer",
+        "Automation-Developer",
+        "Data-Analytics-Developer",
+        "AI-Agents-Developer",
+        "AI-Agents-Engineer",
+        "AI-Agent-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "automation",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack (weak): automation, ai agent",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nestifytech-solutions-private-limited/jobs/full-stack-developer",
+      "grade": "F",
+      "score": 29,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Nestifytech Solutions Private Limited",
+      "title": "Full Stack Developer",
+      "url": "https://himalayas.app/companies/nestifytech-solutions-private-limited/jobs/full-stack-developer?utm_source=api",
+      "posted": 1793247192,
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Web-Development",
+        "Frontend-Development",
+        "Backend-Development",
+        "Software-Engineer",
+        "Full-Stack-Software-Developer",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "full-stack",
+          "full stack",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, full-stack, full stack",
+        "location not stated (ask before investing)"
       ]
     }
   ]

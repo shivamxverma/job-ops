@@ -1,0 +1,44 @@
+{
+  "pulled": "2026-10-29",
+  "scanned": 878,
+  "survived": 77,
+  "hits": [
+    {
+      "id": "lever:paytm:4a5c3f39-94d6-4581-9b73-65a2895cb03d",
+      "grade": "C",
+      "score": 57,
+      "source": "lever (seed list)",
+      "company": "Paytm",
+      "domain": "paytm.com",
+      "title": "Lead/Senior Lead - Data Devops",
+      "url": "https://jobs.lever.co/paytm/4a5c3f39-94d6-4581-9b73-65a2895cb03d",
+      "posted": "2026-08-07T10:07:41.091Z",
+      "location": "Noida, Uttar Pradesh",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kafka",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "s3",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kafka, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "reachable: India-based"
+      ]
+    }
+  ]
+}

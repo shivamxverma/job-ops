@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Ace Blend** — C | Thu, 29 Oct 2026 | YourStory: https://yourstory.com/2026/10/ace-blend-bags-991m-as-it-looks-to-scale-science-led-nutrition | why: funding: bags; also: Inc42
+
 - [ ] **Why Indian AI Founders Are Eyeing Silicon Valley And What They Risk Leaving Behind** — B | Wed, 28 Oct 2026 | Inc42: https://inc42.com/resources/why-indian-ai-founders-are-eyeing-silicon-valley-and-what-they-risk-leaving-behind/ | why: sector: ai; funding: raised
 - [ ] **Exclusive: Holiday Tribe In Talks To Raise ₹50 Cr From RPSG Capital Ventures, Others** — C | Wed, 28 Oct 2026 | Inc42: https://inc42.com/buzz/holiday-tribe-in-talks-to-raise-%e2%82%b950-cr-from-rpsg-capital-ventures-others/ | why: funding: funding round
 

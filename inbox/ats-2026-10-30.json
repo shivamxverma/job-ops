@@ -1,0 +1,123 @@
+{
+  "pulled": "2026-10-30",
+  "scanned": 888,
+  "survived": 80,
+  "hits": [
+    {
+      "id": "ashby:plane:0076054c-1df5-4f73-88b0-2af635e20f51",
+      "grade": "B",
+      "score": 78,
+      "source": "ashby (seed list)",
+      "company": "Plane",
+      "domain": "plane.so",
+      "title": "Software Engineer, DevOps",
+      "url": "https://jobs.ashbyhq.com/plane/0076054c-1df5-4f73-88b0-2af635e20f51",
+      "posted": "2026-10-30T12:12:43.774+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "postgres",
+          "redis",
+          "kafka",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "nginx",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: postgres, redis, kafka, docker",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "lever:zeta:4dfd3df1-9520-4e20-9b9b-3a1fa80ad323",
+      "grade": "C",
+      "score": 58,
+      "source": "lever (seed list)",
+      "company": "Zeta",
+      "domain": "zeta.tech",
+      "title": "Site Reliability Engineer II",
+      "url": "https://jobs.lever.co/zeta/4dfd3df1-9520-4e20-9b9b-3a1fa80ad323",
+      "posted": "2026-10-28T08:14:41.893Z",
+      "location": "Hyderabad",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "2+ years stated",
+        "reachable: India-based",
+        "posted 2d ago"
+      ]
+    },
+    {
+      "id": "greenhouse:razorpaysoftwareprivatelimited:4746983005",
+      "grade": "D",
+      "score": 38,
+      "source": "greenhouse (YC Winter 2015)",
+      "company": "Razorpay",
+      "domain": "razorpay.com",
+      "title": "Senior Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746983005",
+      "posted": "2026-10-30T07:46:55-04:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "c++",
+          "full-stack",
+          "backend",
+          "platform",
+          "real-time",
+          "automation",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

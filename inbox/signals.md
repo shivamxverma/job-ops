@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Exclusive: Manastu Space** — C | Fri, 30 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-manastu-space-raises-%e2%82%b922-cr-in-ongoing-funding-round/ | why: funding: raises
+- [ ] **Pine Labs Hits New High, Ace Blend** — C | Fri, 30 Oct 2026 | Inc42: https://inc42.com/buzz/pine-labs-hits-new-high-ace-blend-bags-9-9-mn-more/ | why: funding: bags
+
 - [ ] **Let’s Game Now** — C | Thu, 29 Oct 2026 | Inc42: https://inc42.com/buzz/lets-game-now-bags-%e2%82%b930-cr-to-organise-more-esports-tournaments/ | why: funding: bags
 - [ ] **Bijnis Rebrands As Zorit,** — C | Thu, 29 Oct 2026 | Inc42: https://inc42.com/buzz/bijnis-rebrands-as-zorit-raises-%e2%82%b927-cr-for-b2b-quick-commerce/ | why: funding: raises
 - [ ] **Venttup** — D | Thu, 29 Oct 2026 | Inc42: https://inc42.com/buzz/venttup-raises-3-mn-to-bridge-indias-precision-manufacturing-gap/ | why: sector: deeptech; funding: raises

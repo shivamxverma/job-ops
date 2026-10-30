@@ -1,0 +1,49 @@
+{
+  "pulled": "2026-10-31",
+  "scanned": 156,
+  "survived": 27,
+  "hits": [
+    {
+      "id": "rok:1137600",
+      "grade": "C",
+      "score": 45,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Smile Digital Health",
+      "title": "Cloud Engineer Automation",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "posted": "2026-10-29T16:00:03+00:00",
+      "location": "Toronto, Ontario",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "design",
+        "grafana",
+        "infosec",
+        "python",
+        "customer support",
+        "marketing",
+        "dev",
+        "quality assurance"
+      ],
+      "matched": {
+        "strong": [
+          "postgres"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: postgres",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    }
+  ]
+}

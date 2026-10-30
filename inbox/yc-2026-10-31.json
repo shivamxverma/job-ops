@@ -1,0 +1,42 @@
+{
+  "pulled": "2026-10-31",
+  "scanned": 577,
+  "survived": 2,
+  "hits": [
+    {
+      "id": 75835,
+      "grade": "F",
+      "score": 10,
+      "company": "Reframe",
+      "batch": "S21",
+      "title": "Fullstack Engineer ",
+      "location": "Atlanta, GA, US / Remote",
+      "visa": "Will sponsor",
+      "minExperience": "3+ years",
+      "salaryRange": "$90K - $140K",
+      "equityRange": "",
+      "skills": [],
+      "oneLiner": "App to help people quit or cut back on alcohol use",
+      "createdAt": "over 1 year",
+      "lastActive": "about 6 hours",
+      "teamSize": 35,
+      "stage": "Growth",
+      "tags": [
+        "Mental Health Tech",
+        "Consumer Health Services",
+        "Consumer"
+      ],
+      "website": "https://www.joinreframeapp.com/",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/reframe/jobs/V39dt3G-fullstack-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/reframe",
+      "why": [
+        "35-person team",
+        "remote",
+        "will sponsor",
+        "3+ years stated (stretch)"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

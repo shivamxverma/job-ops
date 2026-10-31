@@ -1,8 +1,82 @@
 {
   "pulled": "2026-10-30",
-  "scanned": 672,
-  "survived": 353,
+  "scanned": 828,
+  "survived": 379,
   "hits": [
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+      "grade": "C",
+      "score": 49,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Toptal",
+      "title": "Apigee Engineer for Global Consumer Food Company",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+      "posted": "Mon, 12 Oct 2026 16:28:34 +0000",
+      "location": "<p> <strong>Headquarters:</strong> </p> <p>General Information:</p><p>Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world.</p><p>……………………………………………………………………………</p><p>About the Role:</p><ul><li>Lead in high level technical concepts spanning technology and business to support Apigee, Apigee Hybrid in AKS and AWS</li><li>This role maintains the health and efficiency of all application infrastructure, provides professional hands-on implementation and technical advice to ensure the successful implementation of IT Infra. Management products.</li><li>Provide support of application platforms at the enterprise level which includes automating platform build, patches, vulnerabilities, change management, incident management, monitoring and continued platform improvement</li><li>Collaborate with peers, technology partners and vendors to identify, automate, and roll out patches; resolve issues and achieve goals</li><li>Support and manage APIs and Microservices using Java, Spring Boot etc.</li><li>Create, organize and implement API support processes</li><li>Support and deploy API policies using Apigee Platform</li><li>Experience with Apigee Developer Portal and Drupal integration</li><li>Perform cloud security and certificate management</li><li>Develop a long-range plan designed to resolve problems and prevent them from recurring</li><li>Direct the daily risk and control flow of operations, focusing on policies, procedures and work standards to ensure success</li></ul><p>.......................................................................................</p><p>What you Need:</p><ul><li>Experience with Apigee API Management Platform</li><li>Experience with Apigee, OAuth admin, and JWT</li><li>Experience creating, organizing and implementing API support processes</li><li>Excellent communication skills</li><li>3+ years of Red Hat Linux or UNIX experience</li><li>Kubernetes experience for containerized implementation</li><li>5+ years of Java or scripting and automation using Python, Shell, or similar scripting languages</li><li>5+ years of supporting application platforms</li><li>Familiar with CI/CD pipelines to deploy the proxies in various environments</li></ul><p>.......................................................................................</p><p>Desired Qualifications:</p><ul><li>Supporting API policies using Apigee Hybrid on Azure/AWS</li><li>Understanding of OpenAPI Specifications in JSON or YAML format, including JWT authorizations</li><li>Knowledge of authentication, authorization of services via OAuth 2</li><li>Support and manage REST APIs and Microservices using Java, Spring Boot etc.</li><li>Experience using POSTMAN for making management API Calls.</li><li>Knowledge and understanding of AppDynamics, Splunk and Kafka</li></ul><p>.......................................................................................</p><p>Engagement Highlights:</p><p>- Duration: This is a long-term, full-time engagement.</p><p>- Overlap: - This position will require overlap with EST working hours</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company\">https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "kafka",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "linux",
+          "ci/cd",
+          "infra",
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: kafka, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+      "grade": "D",
+      "score": 39,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Toptal",
+      "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+      "posted": "Mon, 12 Oct 2026 13:52:56 +0000",
+      "location": "<p> <strong>Headquarters:</strong> </p> <p>Summary</p><p>We are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce approach, implementing the portal, and supporting dealer-facing workflows in a manufacturing context.</p><p>General information</p><p>This engagement centers on building an e-commerce portal for dealers on top of an existing Sage X3 ERP setup. The client is open to the e-commerce technology choice and is looking for an experienced developer who can assess the current environment, recommend an appropriate platform approach, and deliver the required solution.</p><p>The work is fully remote and involves integrating the portal with Sage X3 while supporting the underlying commerce and data flows required for dealer operations.</p><p>Tasks and Deliverables</p><p>Assess the current Sage X3 environment and recommend the e-commerce platform approach.</p><p>Build or customize a dealer e-commerce portal on top of the existing ERP.</p><p>Integrate the platform with Sage X3 using SOAP and GraphQL APIs.</p><p>Develop full-stack functionality using the selected commerce stack and supporting technologies.</p><p>Implement dealer-facing workflows, data exchange, and platform customizations required for launch.</p><p>Required experience</p><p>Strong hands-on experience with Sage X3 integration.</p><p>Proven full-stack development experience with Python and JavaScript.</p><p>Experience with Node.js, PHP, MySQL, and CSS.</p><p>Experience working with REST, SOAP and GraphQL APIs.</p><p>Nice to have:</p><p>Manufacturing industry experience.</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience\">https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "node.js"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "javascript",
+          "full-stack",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js",
+        "location not stated (ask before investing)"
+      ]
+    },
     {
       "id": "him:https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/java-fullstack-developer",
       "grade": "B",
@@ -2123,46 +2197,6 @@
       ]
     },
     {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
-      "grade": "C",
-      "score": 49,
-      "source": "weworkremotely.com",
-      "kind": "remote",
-      "company": "Toptal",
-      "title": "Apigee Engineer for Global Consumer Food Company",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
-      "posted": "Mon, 12 Oct 2026 16:28:34 +0000",
-      "location": "<p> <strong>Headquarters:</strong> </p> <p>General Information:</p><p>Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world.</p><p>……………………………………………………………………………</p><p>About the Role:</p><ul><li>Lead in high level technical concepts spanning technology and business to support Apigee, Apigee Hybrid in AKS and AWS</li><li>This role maintains the health and efficiency of all application infrastructure, provides professional hands-on implementation and technical advice to ensure the successful implementation of IT Infra. Management products.</li><li>Provide support of application platforms at the enterprise level which includes automating platform build, patches, vulnerabilities, change management, incident management, monitoring and continued platform improvement</li><li>Collaborate with peers, technology partners and vendors to identify, automate, and roll out patches; resolve issues and achieve goals</li><li>Support and manage APIs and Microservices using Java, Spring Boot etc.</li><li>Create, organize and implement API support processes</li><li>Support and deploy API policies using Apigee Platform</li><li>Experience with Apigee Developer Portal and Drupal integration</li><li>Perform cloud security and certificate management</li><li>Develop a long-range plan designed to resolve problems and prevent them from recurring</li><li>Direct the daily risk and control flow of operations, focusing on policies, procedures and work standards to ensure success</li></ul><p>.......................................................................................</p><p>What you Need:</p><ul><li>Experience with Apigee API Management Platform</li><li>Experience with Apigee, OAuth admin, and JWT</li><li>Experience creating, organizing and implementing API support processes</li><li>Excellent communication skills</li><li>3+ years of Red Hat Linux or UNIX experience</li><li>Kubernetes experience for containerized implementation</li><li>5+ years of Java or scripting and automation using Python, Shell, or similar scripting languages</li><li>5+ years of supporting application platforms</li><li>Familiar with CI/CD pipelines to deploy the proxies in various environments</li></ul><p>.......................................................................................</p><p>Desired Qualifications:</p><ul><li>Supporting API policies using Apigee Hybrid on Azure/AWS</li><li>Understanding of OpenAPI Specifications in JSON or YAML format, including JWT authorizations</li><li>Knowledge of authentication, authorization of services via OAuth 2</li><li>Support and manage REST APIs and Microservices using Java, Spring Boot etc.</li><li>Experience using POSTMAN for making management API Calls.</li><li>Knowledge and understanding of AppDynamics, Splunk and Kafka</li></ul><p>.......................................................................................</p><p>Engagement Highlights:</p><p>- Duration: This is a long-term, full-time engagement.</p><p>- Overlap: - This position will require overlap with EST working hours</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company\">https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company</a></p>",
-      "reachability": {
-        "status": "unknown",
-        "reason": "no location or authorization stated"
-      },
-      "tags": [],
-      "matched": {
-        "strong": [
-          "kafka",
-          "kubernetes"
-        ],
-        "weak": [
-          "python",
-          "aws",
-          "linux",
-          "ci/cd",
-          "infra",
-          "platform",
-          "automation",
-          "pipeline",
-          "remote"
-        ]
-      },
-      "why": [
-        "stack: kafka, kubernetes",
-        "story fit: CodeSM/Yuvro/Storix (kafka)",
-        "3+ years stated (stretch)",
-        "location not stated (ask before investing)"
-      ]
-    },
-    {
       "id": "him:https://himalayas.app/companies/refold-ai/jobs/senior-backend-engineer",
       "grade": "C",
       "score": 48,
@@ -2249,40 +2283,6 @@
         "stack (weak): platform, etl",
         "reachable: restrictions include India",
         "posted 0d ago"
-      ]
-    },
-    {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-      "grade": "D",
-      "score": 39,
-      "source": "weworkremotely.com",
-      "kind": "remote",
-      "company": "Toptal",
-      "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-      "posted": "Mon, 12 Oct 2026 13:52:56 +0000",
-      "location": "<p> <strong>Headquarters:</strong> </p> <p>Summary</p><p>We are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce approach, implementing the portal, and supporting dealer-facing workflows in a manufacturing context.</p><p>General information</p><p>This engagement centers on building an e-commerce portal for dealers on top of an existing Sage X3 ERP setup. The client is open to the e-commerce technology choice and is looking for an experienced developer who can assess the current environment, recommend an appropriate platform approach, and deliver the required solution.</p><p>The work is fully remote and involves integrating the portal with Sage X3 while supporting the underlying commerce and data flows required for dealer operations.</p><p>Tasks and Deliverables</p><p>Assess the current Sage X3 environment and recommend the e-commerce platform approach.</p><p>Build or customize a dealer e-commerce portal on top of the existing ERP.</p><p>Integrate the platform with Sage X3 using SOAP and GraphQL APIs.</p><p>Develop full-stack functionality using the selected commerce stack and supporting technologies.</p><p>Implement dealer-facing workflows, data exchange, and platform customizations required for launch.</p><p>Required experience</p><p>Strong hands-on experience with Sage X3 integration.</p><p>Proven full-stack development experience with Python and JavaScript.</p><p>Experience with Node.js, PHP, MySQL, and CSS.</p><p>Experience working with REST, SOAP and GraphQL APIs.</p><p>Nice to have:</p><p>Manufacturing industry experience.</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience\">https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience</a></p>",
-      "reachability": {
-        "status": "unknown",
-        "reason": "no location or authorization stated"
-      },
-      "tags": [],
-      "matched": {
-        "strong": [
-          "node.js"
-        ],
-        "weak": [
-          "node",
-          "python",
-          "javascript",
-          "full-stack",
-          "platform",
-          "remote"
-        ]
-      },
-      "why": [
-        "stack: node.js",
-        "location not stated (ask before investing)"
       ]
     },
     {

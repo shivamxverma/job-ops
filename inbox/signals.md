@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **From To Cent to Matiks — Indian Startups** — C | Sat, 31 Oct 2026 | Inc42: https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/ | why: funding: raised
+
 - [ ] **Exclusive: Manastu Space** — C | Fri, 30 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-manastu-space-raises-%e2%82%b922-cr-in-ongoing-funding-round/ | why: funding: raises
 
 - [ ] **Pine Labs Hits New High, Ace Blend** — C | Fri, 30 Oct 2026 | Inc42: https://inc42.com/buzz/pine-labs-hits-new-high-ace-blend-bags-9-9-mn-more/ | why: funding: bags
@@ -29,6 +31,7 @@ research  `[x]` = not pursuing. Set with:
 - [x] **Nova Spectral AI** — D | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru · judged D 2026-10-28: infrared sensor chips (hardware), prototype in 18 months, no backend seat
 
 - [ ] **Live2.ai** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/ | why: sector: saas, ai; funding: raises; 📍 bengaluru; also: YourStory
+- [ ] **Live2.ai** — B | Tue, 27 Oct 2026 | YourStory: https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform | why: sector: ai, platform; funding: raises
 - [ ] **Simplismart** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/simplismart-bags-14-mn-to-expand-ai-inference-platform/ | why: sector: ai, platform; funding: raised
 - [ ] **Mochatrade** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/mochatrade-raises-5-5-mn-to-build-a-us-stock-trading-platform-for-indian-traders/ | why: sector: fintech, platform; funding: raises
 - [ ] **Cent** — B | Tue, 27 Oct 2026 | Inc42: https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/ | why: sector: ai, platform; funding: raises

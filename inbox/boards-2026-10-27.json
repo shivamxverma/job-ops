@@ -1,8 +1,44 @@
 {
   "pulled": "2026-10-27",
-  "scanned": 153,
-  "survived": 21,
+  "scanned": 459,
+  "survived": 62,
   "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/datakrew-pvt-ltd/jobs/backend-developer-net-c",
+      "grade": "F",
+      "score": 29,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "DataKrew Pvt. Ltd.",
+      "title": "Backend Developer (.NET - C#)",
+      "url": "https://himalayas.app/companies/datakrew-pvt-ltd/jobs/backend-developer-net-c?utm_source=api",
+      "posted": 1793076981,
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "C#-Backend-Developer",
+        ".NET-Backend-Developer",
+        ".Net-Backend-Engineer",
+        "Backend-API-Developer",
+        ".NET-Backend-Development",
+        "Senior-Backend-Development"
+      ],
+      "matched": {
+        "strong": [
+          "backend developer"
+        ],
+        "weak": [
+          "backend"
+        ]
+      },
+      "why": [
+        "stack: backend developer",
+        "location not stated (ask before investing)"
+      ]
+    },
     {
       "id": "him:https://himalayas.app/companies/the-cool-company/jobs/full-stack-engineer",
       "grade": "D",

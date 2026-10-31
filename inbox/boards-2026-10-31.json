@@ -1,0 +1,82 @@
+{
+  "pulled": "2026-10-31",
+  "scanned": 312,
+  "survived": 55,
+  "hits": [
+    {
+      "id": "rok:1137600",
+      "grade": "C",
+      "score": 45,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Smile Digital Health",
+      "title": "Cloud Engineer Automation",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "posted": "2026-10-29T16:00:03+00:00",
+      "location": "Toronto, Ontario",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "design",
+        "grafana",
+        "infosec",
+        "python",
+        "customer support",
+        "marketing",
+        "dev",
+        "quality assurance"
+      ],
+      "matched": {
+        "strong": [
+          "postgres"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: postgres",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/solvative/jobs/full-stack-software-developer-intern-2026",
+      "grade": "D",
+      "score": 37,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Solvative",
+      "title": "Full Stack  Software Developer Intern- 2026",
+      "url": "https://himalayas.app/companies/solvative/jobs/full-stack-software-developer-intern-2026?utm_source=api",
+      "posted": 1793425141,
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Developer-Intern",
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "full stack"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, full stack",
+        "reachable: restrictions include India"
+      ]
+    }
+  ]
+}

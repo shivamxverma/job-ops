@@ -1,0 +1,734 @@
+{
+  "domain": "lumari.ai",
+  "slug": "lumari",
+  "probedAt": "2026-10-25T16:31:05.241Z",
+  "liveHosts": [
+    {
+      "host": "lumari.ai",
+      "status": 200,
+      "finalUrl": "https://lumari.ai/",
+      "csp": [
+        "www.googletagmanager.com",
+        "lumari.ai",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "app.cal.com",
+        "cal.com"
+      ],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5029bb02a16db51-SIN",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; form-action 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://lumari.ai data: blob: https://*.google-analytics.com https://*.googletagmanager.com; font-src 'self' data:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://stats.g.doubleclick.net; frame-src https://app.cal.com https://cal.com https://drive.google.com",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sun, 25 Oct 2026 16:30:51 GMT",
+        "link": "</llms.txt>; rel=\"alternate\"; type=\"text/markdown\"",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), browsing-topics=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=odF5PISNZc9r9OQNGdpVCw%2FVvf7%2F6t6a1k8phB%2FtKWF00s1x55WYsM%2FEOTlSg3v75TJjQzEzvzIv3xHXuiw4fHfafXdWJRIfm9K2lRIqEnuP69tzZUi0OtD%2Bs0bion2GskOGpEeh%2Bpc%3D\"}]}",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "vary": "Accept",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "www.lumari.ai",
+      "status": 200,
+      "finalUrl": "https://lumari.ai/",
+      "csp": [
+        "www.googletagmanager.com",
+        "lumari.ai",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "app.cal.com",
+        "cal.com"
+      ],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5029bc6496a3d46-MRS",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; form-action 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://lumari.ai data: blob: https://*.google-analytics.com https://*.googletagmanager.com; font-src 'self' data:; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://stats.g.doubleclick.net; frame-src https://app.cal.com https://cal.com https://drive.google.com",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sun, 25 Oct 2026 16:30:54 GMT",
+        "link": "</llms.txt>; rel=\"alternate\"; type=\"text/markdown\"",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), browsing-topics=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pC7VraNmUXeXFNu7YJKKJ8fYUY9%2FtJU2P47ZhPtGC7qi1PQFIyucnx07K3zkgkVrvdflGcu1a0LirvR6xCeebD%2FmNfAGn7T%2B%2F%2FxZLc9mUqSraEuqu1t7isvYHVM%3D\"}]}",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "vary": "Accept",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "app.lumari.ai",
+      "status": 200,
+      "finalUrl": "https://app.lumari.io/login?next=%2F",
+      "csp": [
+        "va.vercel-scripts.com",
+        "app.cal.com",
+        "app.lumari.io",
+        "www.app.lumari.io",
+        "googleusercontent.com",
+        "vercel-analytics.com",
+        "vitals.vercel-insights.com"
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' va.vercel-scripts.com challenges.cloudflare.com app.cal.com apis.google.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: *.supabase.co *.storage.supabase.co app.lumari.io www.app.lumari.io *.googleusercontent.com; worker-src 'self' blob:; font-src 'self'; connect-src 'self' *.ingest.us.sentry.io *.vercel-analytics.com vitals.vercel-insights.com *.supabase.co *.googleapis.com wss://*.supabase.co us.i.posthog.com; frame-src 'self' challenges.cloudflare.com app.cal.com *.google.com; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self'",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Sun, 25 Oct 2026 16:30:55 GMT",
+        "link": "</_next/static/media/e4af272ccee01ff0-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/google-g.svg>; rel=preload; as=\"image\", </images/microsoft.svg>; rel=preload; as=\"image\"",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), usb=(), bluetooth=(), midi=(), payment=(), magnetometer=(), gyroscope=(), accelerometer=(), fullscreen=(self)",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/login",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::j9h4t-1792945854882-cd08a29d044a"
+      }
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "status": 404,
+      "finalUrl": "https://www.googletagmanager.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1561",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Sun, 25 Oct 2026 16:30:56 GMT",
+        "server": "Google Tag Manager",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "google-analytics.com",
+      "status": 200,
+      "finalUrl": "https://marketingplatform.google.com/about/analytics/",
+      "csp": [],
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "cache-control": "no-cache, must-revalidate",
+        "connection": "close",
+        "content-length": "118475",
+        "content-security-policy": "script-src  'nonce-0isVcy9XQTtC3DdED56ZZQ' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/marketing_platform; base-uri 'self'",
+        "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/uxe-owners-acl/marketing_platform",
+        "content-type": "text/html",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=\"uxe-owners-acl/marketing_platform\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Sun, 25 Oct 2026 16:30:56 GMT",
+        "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+        "last-modified": "Mon, 25 Aug 2025 05:38:00 GMT",
+        "pragma": "no-cache",
+        "report-to": "{\"group\":\"uxe-owners-acl/marketing_platform\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/uxe-owners-acl/marketing_platform\"}]}",
+        "server": "sffe",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "googletagmanager.com",
+      "status": 404,
+      "finalUrl": "https://googletagmanager.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1561",
+        "content-type": "text/html; charset=UTF-8",
+        "date": "Sun, 25 Oct 2026 16:30:56 GMT",
+        "server": "Google Tag Manager",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "app.cal.com",
+      "status": 200,
+      "finalUrl": "https://app.cal.com/auth/login",
+      "csp": [
+        "js.whop.cloud",
+        "cdn.whop.com",
+        "checkout.paypal.com",
+        "assets.braintreegateway.com",
+        "www.paypal.com",
+        "cdn.plaid.com",
+        "app.cal.com",
+        "staging.cal.com",
+        "eu.ui-avatars.com",
+        "www.paypalobjects.com",
+        "api.whop.com",
+        "api.basistheory.com",
+        "payments.braintree-api.com",
+        "api.braintreegateway.com",
+        "api-m.paypal.com",
+        "production.plaid.com"
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5029bd5b8eb322e-CJB",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-security-policy": "default-src 'self' ; script-src 'nonce-O92Q2NozO/CeF0cBzzvHQQ==' 'strict-dynamic' 'self' 'unsafe-inline' https:; object-src 'none'; base-uri 'none'; frame-src www.youtube.com https://js.whop.cloud https://cdn.whop.com https://checkout.paypal.com https://assets.braintreegateway.com https://www.paypal.com https://cdn.plaid.com; child-src app.cal.com; style-src 'self' 'unsafe-inline' app.cal.com; font-src 'self'; img-src 'self' https://app.cal.com https://staging.cal.com https://img.youtube.com https://eu.ui-avatars.com/api/ data: https://www.paypalobjects.com; connect-src 'self' https://api.whop.com https://pay.google.com https://google.com https://account.google.com https://www.google.com https://api.basistheory.com https://payments.braintree-api.com https://api.braintreegateway.com https://api-m.paypal.com https://www.paypal.com https://production.plaid.com",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin-allow-popups",
+        "date": "Sun, 25 Oct 2026 16:30:57 GMT",
+        "link": "</.well-known/api-catalog>; rel=\"api-catalog\", <https://cal.com/docs/api-reference/v2/openapi.json>; rel=\"service-desc\"; type=\"application/json\", <https://cal.com/docs/api-reference/v2/introduction>; rel=\"service-doc\"; type=\"text/html\", </_next/static/media/CalSansVF-s.p.051r2yy2270w-.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"O92Q2NozO/CeF0cBzzvHQQ==\"; type=\"font/woff2\", </_next/static/media/CalSansVF_Italic-s.p.08md_ozd8h0g4.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; nonce=\"O92Q2NozO/CeF0cBzzvHQQ==\"; type=\"font/woff2\", </_next/static/chunks/08h3d_4mk1ph9.css>; rel=preload; as=\"style\"; nonce=\"O92Q2NozO/CeF0cBzzvHQQ==\", </_next/static/chunks/1vff5vq554q50.css>; rel=preload; as=\"style\"; nonce=\"O92Q2NozO/CeF0cBzzvHQQ==\", </_next/static/chunks/3uu_hx5xpqlat.css>; rel=preload; as=\"style\"; nonce=\"O92Q2NozO/CeF0cBzzvHQQ==\"",
+        "permissions-policy": "geolocation=(self), usb=(), serial=(), bluetooth=(), hid=(), midi=(), xr-spatial-tracking=(), idle-detection=(), local-fonts=(), window-management=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=6DRJ6UtoeJUndjRqYdR0AdKpvsk.D90XwdyNuBZ0tI4-1792945856.9198296-1.0.1.1-NCVsbEolhPYR4e33MhiFbijIlCzVGHsmqXOZURgGCxWt03Bq1kMn7NNoO1pwTSzi_S_SZqtGc_wbPPWlbr5uYbSgIkv18ZE0ne1gWDT3VWewJNS097EKmnAAuO1EC0qH; HttpOnly; SameSite=None; Secure; Path=/; Domain=cal.com; Expires=Sun, 25 Oct 2026 17:00:57 GMT",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/auth/login",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::cle1::2jhqv-1792945856945-38aa6aea29e8"
+      }
+    },
+    {
+      "host": "cal.com",
+      "status": 200,
+      "finalUrl": "https://cal.com/",
+      "csp": [],
+      "headers": {
+        "cache-control": "private, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5029bd24c51defc-CJB",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html",
+        "date": "Sun, 25 Oct 2026 16:30:57 GMT",
+        "etag": "W/\"731900b5b2d1af45e4198dbcae66c884\"",
+        "framer-site-id": "bc7227767b20f032f6b0c5eca6d5f196207f19e615b861e2b14cd0579a235b43",
+        "last-modified": "Wed, 21 Oct 2026 22:40:00 GMT",
+        "link": "<https://framerusercontent.com>; rel=\"preconnect\", <https://framerusercontent.com>; rel=\"preconnect\"; crossorigin=\"\"",
+        "server": "cloudflare",
+        "server-timing": "region;desc=\"ap-south-1\", cache;desc=\"cached\", ssg-status;desc=\"optimized\", version;desc=\"24ab00f\", instance;desc=\"365d57a\", route;dur=1;desc=\"id=v7M7xdOQx&locale=default\", abtests;dur=1;desc=\"Yoe_8Npvc=aF_KZyC6r\", country;desc=\"IN\", ss-only-routes",
+        "set-cookie": "__cf_bm=qfQDrJHTIbjRLSF83IpKPcx9Xj47C__jcN7SAyjYww4-1792945856.3706338-1.0.1.1-_xkUk64S5Y7zXz.wd6fAJXQuI1Nv2EytHNlxeB.84eGquggXOsJOVSiJQCs2nUZUyH7vFMUMONeWBtmuKErCb6aVZF8FAy3UaREhzPomvO2kPwo.UvyWEd4T9GNkk6sf; HttpOnly; SameSite=None; Secure; Path=/; Domain=cal.com; Expires=Sun, 25 Oct 2026 17:00:57 GMT",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding, Accept",
+        "x-content-type-options": "nosniff"
+      }
+    },
+    {
+      "host": "va.vercel-scripts.com",
+      "status": 200,
+      "finalUrl": "https://va.vercel-scripts.com/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "age": "134664",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-disposition": "inline; filename=\"script.js\"",
+        "content-encoding": "br",
+        "content-type": "application/javascript; charset=utf-8",
+        "date": "Sun, 25 Oct 2026 16:30:56 GMT",
+        "etag": "W/\"5672cc1c1ca37ca2b61e89aa7295517d\"",
+        "last-modified": "Sat, 24 Oct 2026 02:57:23 GMT",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::ntwnc-1792945856396-3f9892a65bc2"
+      }
+    },
+    {
+      "host": "app.lumari.io",
+      "status": 200,
+      "finalUrl": "https://app.lumari.io/login?next=%2F",
+      "csp": [
+        "va.vercel-scripts.com",
+        "app.cal.com",
+        "app.lumari.io",
+        "www.app.lumari.io",
+        "googleusercontent.com",
+        "vercel-analytics.com",
+        "vitals.vercel-insights.com"
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' va.vercel-scripts.com challenges.cloudflare.com app.cal.com apis.google.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: *.supabase.co *.storage.supabase.co app.lumari.io www.app.lumari.io *.googleusercontent.com; worker-src 'self' blob:; font-src 'self'; connect-src 'self' *.ingest.us.sentry.io *.vercel-analytics.com vitals.vercel-insights.com *.supabase.co *.googleapis.com wss://*.supabase.co us.i.posthog.com; frame-src 'self' challenges.cloudflare.com app.cal.com *.google.com; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self'",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Sun, 25 Oct 2026 16:30:57 GMT",
+        "link": "</_next/static/media/e4af272ccee01ff0-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/google-g.svg>; rel=preload; as=\"image\", </images/microsoft.svg>; rel=preload; as=\"image\"",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), usb=(), bluetooth=(), midi=(), payment=(), magnetometer=(), gyroscope=(), accelerometer=(), fullscreen=(self)",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/login",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::vcqjr-1792945856916-bbcf1529c613"
+      }
+    },
+    {
+      "host": "www.app.lumari.io",
+      "status": 200,
+      "finalUrl": "https://app.lumari.io/login?next=%2F",
+      "csp": [
+        "va.vercel-scripts.com",
+        "app.cal.com",
+        "app.lumari.io",
+        "www.app.lumari.io",
+        "googleusercontent.com",
+        "vercel-analytics.com",
+        "vitals.vercel-insights.com"
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' va.vercel-scripts.com challenges.cloudflare.com app.cal.com apis.google.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: *.supabase.co *.storage.supabase.co app.lumari.io www.app.lumari.io *.googleusercontent.com; worker-src 'self' blob:; font-src 'self'; connect-src 'self' *.ingest.us.sentry.io *.vercel-analytics.com vitals.vercel-insights.com *.supabase.co *.googleapis.com wss://*.supabase.co us.i.posthog.com; frame-src 'self' challenges.cloudflare.com app.cal.com *.google.com; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self'",
+        "content-type": "text/html; charset=utf-8",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Sun, 25 Oct 2026 16:30:57 GMT",
+        "link": "</_next/static/media/e4af272ccee01ff0-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </images/google-g.svg>; rel=preload; as=\"image\", </images/microsoft.svg>; rel=preload; as=\"image\"",
+        "permissions-policy": "camera=(), microphone=(), geolocation=(), usb=(), bluetooth=(), midi=(), payment=(), magnetometer=(), gyroscope=(), accelerometer=(), fullscreen=(self)",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-matched-path": "/login",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::iad1::94597-1792945857199-943e3210d37a"
+      }
+    },
+    {
+      "host": "googleusercontent.com",
+      "status": 404,
+      "finalUrl": "https://googleusercontent.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1561",
+        "content-type": "text/html; charset=UTF-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Sun, 25 Oct 2026 16:30:56 GMT",
+        "server": "sffe",
+        "x-content-type-options": "nosniff",
+        "x-robots-tag": "noindex",
+        "x-xss-protection": "0"
+      }
+    },
+    {
+      "host": "vitals.vercel-insights.com",
+      "status": 200,
+      "finalUrl": "https://vercel.com/products/observability",
+      "csp": [],
+      "headers": {
+        "accept-ch": "Sec-CH-Prefers-Color-Scheme",
+        "age": "10521",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-length": "774979",
+        "content-type": "text/html; charset=utf-8",
+        "critical-ch": "Sec-CH-Prefers-Color-Scheme",
+        "date": "Sun, 25 Oct 2026 13:35:35 GMT",
+        "etag": "\"vf1jubcdbzgluv\"",
+        "server": "Vercel",
+        "set-cookie": "_v-visitor-id-renewed=1; Path=/; Expires=Mon, 26 Oct 2026 16:30:57 GMT; Max-Age=86400; Domain=.vercel.com; Secure; SameSite=lax",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-matched-path": "/precomputed/[experimentCode]/products/observability/[experiment]",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-pathname": "/products/observability",
+        "x-powered-by": "Next.js, Payload",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::iad1::c8sqf-1792945857780-6fbb39789c6a"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [
+    "www.googletagmanager.com",
+    "google-analytics.com",
+    "googletagmanager.com",
+    "app.cal.com",
+    "cal.com",
+    "va.vercel-scripts.com",
+    "app.lumari.io",
+    "www.app.lumari.io",
+    "googleusercontent.com",
+    "vercel-analytics.com",
+    "vitals.vercel-insights.com"
+  ],
+  "stack": [
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "lumari.ai",
+        "lumari.ai",
+        "www.lumari.ai",
+        "www.lumari.ai",
+        "app.cal.com",
+        "app.cal.com",
+        "cal.com",
+        "cal.com"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a5029bb02a16db51-SIN",
+        "cf-ray: a5029bc6496a3d46-MRS",
+        "cf-ray: a5029bd5b8eb322e-CJB",
+        "cf-ray: a5029bd24c51defc-CJB"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js App Router (React Server Components)",
+      "kind": "framework",
+      "seenOn": [
+        "app.lumari.ai",
+        "app.cal.com",
+        "app.lumari.io",
+        "www.app.lumari.io",
+        "vitals.vercel-insights.com"
+      ],
+      "evidence": [
+        "vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Next.js",
+      "kind": "framework",
+      "seenOn": [
+        "app.cal.com",
+        "vitals.vercel-insights.com"
+      ],
+      "evidence": [
+        "x-powered-by: Next.js",
+        "x-powered-by: Next.js, Payload"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Next.js (prerendered route)",
+      "kind": "framework",
+      "seenOn": [
+        "vitals.vercel-insights.com"
+      ],
+      "evidence": [
+        "x-nextjs-prerender: 1"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "app.lumari.ai",
+        "va.vercel-scripts.com",
+        "app.lumari.io",
+        "www.app.lumari.io",
+        "vitals.vercel-insights.com"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "app.lumari.ai",
+        "app.cal.com",
+        "va.vercel-scripts.com",
+        "app.lumari.io",
+        "www.app.lumari.io",
+        "vitals.vercel-insights.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::iad1::j9h4t-1792945854882-cd08a29d044a",
+        "x-vercel-id: bom1::cle1::2jhqv-1792945856945-38aa6aea29e8",
+        "x-vercel-id: bom1::ntwnc-1792945856396-3f9892a65bc2",
+        "x-vercel-id: bom1::iad1::vcqjr-1792945856916-bbcf1529c613",
+        "x-vercel-id: bom1::iad1::94597-1792945857199-943e3210d37a",
+        "x-vercel-id: bom1::iad1::c8sqf-1792945857780-6fbb39789c6a"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel functions run in iad1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "app.lumari.ai",
+        "app.lumari.io",
+        "www.app.lumari.io",
+        "vitals.vercel-insights.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::iad1::j9h4t-1792945854882-cd08a29d044a",
+        "x-vercel-id: bom1::iad1::vcqjr-1792945856916-bbcf1529c613",
+        "x-vercel-id: bom1::iad1::94597-1792945857199-943e3210d37a",
+        "x-vercel-id: bom1::iad1::c8sqf-1792945857780-6fbb39789c6a"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Vercel functions run in cle1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "app.cal.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::cle1::2jhqv-1792945856945-38aa6aea29e8"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "va.vercel-scripts.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::ntwnc-1792945856396-3f9892a65bc2"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "cal.com",
+        "va.vercel-scripts.com",
+        "vitals.vercel-insights.com"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://lumari.ai/sitemap.xml",
+      "status": 200,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url><loc>https://lumari.ai/</loc></url>\n<url><loc>https://lumari.ai/contact-us</loc></url>\n<url><loc>https://lumari.ai/blog</loc><lastmod>2026-08-17</lastmod></url>\n<url><loc>https://lumari.ai/careers</loc><lastmod>2026-03-18</lastmod></url>\n<url><loc>https://lumari.ai/about-us</loc></url>\n<url><loc>https://lumari.ai/security</loc></url>\n<url><loc>https://lumari.ai/privacy</loc><lastmod>2026-08-03</lastmod></url>\n<url><loc>https://lumari.ai/terms</loc></url>\n<url><loc>https://lumari.ai/case-studies</loc><lastmod>2026-08-17</lastmod></url>\n<url><loc>https://lumari.ai/glossary</loc></url>\n<url>"
+    },
+    {
+      "url": "https://lumari.ai/robots.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nDisallow:\n\nSitemap: https://lumari.ai/sitemap.xml\n"
+    },
+    {
+      "url": "https://lumari.ai/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Lumari\n\n> Lumari (YC X25) is the first AI supply chain platform for direct procurement. Autonomous agents handle RFQ workflows, extract and normalize quote data from emails and PDFs, manage purchase order lifecycles, and coordinate supplier follow-ups — so procurement teams stop copy-pasting and chasing status.\n\nLumari replaces manual, email-based procurement with AI agents that work inside a team's existing email workflow. Instead of forcing suppliers onto a new portal, Lumari sends RFQs, captures replies, extracts structured data from any format (PDFs, spreadsheets, images, emails), normalizes responses for apples-to-apples comparison, and proactively follows up when information is missi"
+    },
+    {
+      "url": "https://www.lumari.ai/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Lumari\n\n> Lumari (YC X25) is the first AI supply chain platform for direct procurement. Autonomous agents handle RFQ workflows, extract and normalize quote data from emails and PDFs, manage purchase order lifecycles, and coordinate supplier follow-ups — so procurement teams stop copy-pasting and chasing status.\n\nLumari replaces manual, email-based procurement with AI agents that work inside a team's existing email workflow. Instead of forcing suppliers onto a new portal, Lumari sends RFQs, captures replies, extracts structured data from any format (PDFs, spreadsheets, images, emails), normalizes responses for apples-to-apples comparison, and proactively follows up when information is missi"
+    },
+    {
+      "url": "https://www.lumari.ai/sitemap.xml",
+      "status": 200,
+      "contentType": "text/xml",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url><loc>https://lumari.ai/</loc></url>\n<url><loc>https://lumari.ai/contact-us</loc></url>\n<url><loc>https://lumari.ai/blog</loc><lastmod>2026-08-17</lastmod></url>\n<url><loc>https://lumari.ai/careers</loc><lastmod>2026-03-18</lastmod></url>\n<url><loc>https://lumari.ai/about-us</loc></url>\n<url><loc>https://lumari.ai/security</loc></url>\n<url><loc>https://lumari.ai/privacy</loc><lastmod>2026-08-03</lastmod></url>\n<url><loc>https://lumari.ai/terms</loc></url>\n<url><loc>https://lumari.ai/case-studies</loc><lastmod>2026-08-17</lastmod></url>\n<url><loc>https://lumari.ai/glossary</loc></url>\n<url>"
+    },
+    {
+      "url": "https://www.lumari.ai/robots.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nDisallow:\n\nSitemap: https://lumari.ai/sitemap.xml\n"
+    },
+    {
+      "url": "https://app.lumari.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nDisallow: /\n"
+    },
+    {
+      "url": "https://app.lumari.ai/sitemap.xml",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<!DOCTYPE html><html lang=\"en\" class=\"__variable_d8ebd1\" style=\"--f-size-page:30px;--f-type-page:550 30px/36px var(--font-sans);--f-tracking-page:-0.025em;--f-size-section:22px;--f-type-section:500 22px/28px var(--font-sans);--f-tracking-section:-0.015em;--f-size-subsection:16px;--f-type-subsection:550 16px/22px var(--font-sans);--f-tracking-subsection:normal;--f-size-dialog:23px;--f-type-dialog:550 23px/30px var(--font-sans);--f-tracking-dialog:-0.015em;--f-size-record:19px;--f-type-record:500 19px/26px var(--font-sans);--f-tracking-record:-0.015em;--f-size-compact-record:16px;--f-type-compact-record:500 16px/24px var(--font-sans);--f-tracking-compact-record:-0.015em;--f-size-subheading:15p"
+    },
+    {
+      "url": "https://app.cal.com/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nDisallow: /sandbox\nDisallow: /api\nDisallow: /settings\nDisallow: /settings/my-account\n\n# Specifically allow access to OG Image api, otherwise eg Twitter won't render these images.\nAllow: /api/social/og/image\n# Specifically allow access to api/app-store to allow search engines to fetch assets\nAllow: /api/app-store/\n\n# No AI training, allow search, and allow AI input.\nContent-Signal: ai-train=no, search=yes, ai-input=yes\n\n# The index lists every localized sitemap, so a new locale needs no change here.\nSitemap: https://cal.com/sitemap.xml\n# Discover's city pages are generated by the app, so they have their own sitemap.\nSitemap: https://cal.com/discover/sitemap.xml\nAgentmap: https:/"
+    },
+    {
+      "url": "https://app.cal.com/sitemap.xml",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<!DOCTYPE html><html class=\"notranslate\" translate=\"no\" lang=\"en\" dir=\"ltr\" data-nextjs-router=\"app\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/08h3d_4mk1ph9.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/1vff5vq554q50.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/3uu_hx5xpqlat.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/3_uj94h31sr8x.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/ch"
+    },
+    {
+      "url": "https://app.lumari.io/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nDisallow: /\n"
+    },
+    {
+      "url": "https://app.lumari.io/sitemap.xml",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<!DOCTYPE html><html lang=\"en\" class=\"__variable_d8ebd1\" style=\"--f-size-page:30px;--f-type-page:550 30px/36px var(--font-sans);--f-tracking-page:-0.025em;--f-size-section:22px;--f-type-section:500 22px/28px var(--font-sans);--f-tracking-section:-0.015em;--f-size-subsection:16px;--f-type-subsection:550 16px/22px var(--font-sans);--f-tracking-subsection:normal;--f-size-dialog:23px;--f-type-dialog:550 23px/30px var(--font-sans);--f-tracking-dialog:-0.015em;--f-size-record:19px;--f-type-record:500 19px/26px var(--font-sans);--f-tracking-record:-0.015em;--f-size-compact-record:16px;--f-type-compact-record:500 16px/24px var(--font-sans);--f-tracking-compact-record:-0.015em;--f-size-subheading:15p"
+    }
+  ],
+  "dns": [
+    {
+      "host": "lumari.ai",
+      "a": [
+        "104.21.30.169",
+        "172.67.173.66"
+      ],
+      "txt": [
+        "google-site-verification=qwWnJ_WazBqWRpsV5-BPntYnNKO8394OPOP7YMwhxGY",
+        "v=spf1 include:_spf.google.com ~all",
+        "MS=ms57378535"
+      ],
+      "mx": [
+        "alt1.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    },
+    {
+      "host": "www.googletagmanager.com",
+      "a": [
+        "172.217.24.168"
+      ],
+      "vendors": []
+    },
+    {
+      "host": "google-analytics.com",
+      "a": [
+        "142.251.221.132"
+      ],
+      "txt": [
+        "v=spf1 -all"
+      ],
+      "vendors": [
+        "SPF/DMARC configured"
+      ]
+    },
+    {
+      "host": "googletagmanager.com",
+      "a": [
+        "142.250.195.8"
+      ],
+      "txt": [
+        "v=spf1 -all"
+      ],
+      "vendors": [
+        "SPF/DMARC configured"
+      ]
+    },
+    {
+      "host": "app.cal.com",
+      "a": [
+        "104.18.1.62",
+        "104.18.0.62"
+      ],
+      "vendors": []
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "lumari",
+    "results": [
+      {
+        "name": "Lumary",
+        "seller": "Shenzhen Lingke Technology Co., Ltd.",
+        "updated": "2026-10-17T18:25:16Z"
+      },
+      {
+        "name": "Ludo STAR",
+        "seller": "Gameberry Labs Private Limited",
+        "updated": "2026-10-19T05:16:26Z"
+      },
+      {
+        "name": "Lumary Cam Mobile",
+        "seller": "Lumary Labs LLC",
+        "updated": "2026-10-09T03:19:25Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

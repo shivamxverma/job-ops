@@ -11,3 +11,5 @@
   Self-scored ~80/100 (coverage capped by the untrue ones). One page at 95%.
 - Round 2: "cgroup limits" made explicit in the CodeSM bullet (Docker enforces memory/PIDs/CPU
   through cgroups, so it is accurate). No remaining reviewer edits.
+- 2026-10-30: follow-up 1 created as a Gmail reply draft in the CEO thread (draft r3982567795331271957, to sudarshan@smallest.ai). Attach resumes/base.pdf before sending: the 10-23 email said "Resume attached" and went without it. The draft also corrects the retracted klimb.io AI-interview line. The original email and applications/smallest/resume.pdf both quote "500 per org per day", which the working copy of facts.yaml has dropped; base.pdf has neither.
+- 2026-10-30 19:24 IST: follow-up SENT with resumes/base.pdf attached (verified in Gmail). Body retyped first: the API-created draft showed klimb.io and shivamworks.dev as google.com/url redirect strings.

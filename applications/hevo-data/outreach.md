@@ -25,3 +25,17 @@ job back off on its own?" Only ask it once a conversation is going, not in the f
 ## Fallback
 Aather Shah, Senior GTM Recruiter at Hevo, 1st-degree. GTM recruiter, so only if Samyak is silent
 and the Lever submit gets no response in a week.
+
+## Follow-up 1 — Samyak Rote, LinkedIn thread (drafted 2026-10-28, not sent)
+Live thread checked 2026-10-28: his last message was 2026-10-22 ("already referred 2 people for
+the same seat, no calls yet"); Shivam replied "Mujhe bhi karde bhai main kar lunga wait" the same
+day. Nothing since. Same register as the thread, since that's how they talk.
+
+> Bhai bas ek baar yaad dila raha tha, Hevo SDE I (Backend, SaaS connectors) wala. Agar refer kar paaye toh resume abhi bhej deta hu. Warna main Lever pe direct apply kar deta hu, koi tension nahi.
+
+Before sending a resume or submitting Lever: the 2026-10-21 resume.pdf still carries the klimb.io
+AI-interview bullet (never_claim since 2026-10-23). Rebuild from resumes/base.md first.
+
+
+## 2026-10-30: referral closed, apply on Lever
+Samyak, 2026-10-29 07:42 IST: "Lever pe hi apply kar do yar, mere referral ka koi help nahi hoga, mai pehle hi logo ka kar chuka hu". You replied "Thik hain bhai thank you". The 10-28 follow-up above is obsolete, don't send it. Next move: submit the Lever form https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a/apply with a resume rebuilt from resumes/base.md (the 10-21 resume.pdf carries the retracted klimb.io bullet). No Lever receipt has ever reached Gmail, so it has not been submitted.

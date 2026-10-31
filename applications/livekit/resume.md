@@ -16,8 +16,7 @@
 - **Asset Service:** Replaced per-level folder traversal with a single MongoDB **$graphLookup** query and cut folder edits from **3** database round-trips to **1** in an asset service shared by **3 apps**.
 
 ### klimb.io @ Nov 2025 – May 2026
-*Full Stack Developer Intern* @ *TypeScript, Node.js, PostgreSQL, Redis, OpenAI Realtime*
-- **Realtime Voice Interviews:** Developed the backend for a **3-stage** AI interview platform whose live voice round on **OpenAI Realtime** asks questions drawn from the candidate's resume and scores the transcript, with per-candidate isolation across concurrent sessions.
+*Full Stack Developer Intern* @ *TypeScript, Express.js, PostgreSQL, Redis, AWS*
 - **Usage Ledger:** Designed a PostgreSQL credit ledger that meters usage of **6+ AI features**, replacing on/off feature flags and making usage-based billing possible.
 
 ## Projects
@@ -35,7 +34,7 @@
 ## Technical Skills
 
 **Languages & Automation:** Python, TypeScript, JavaScript, SQL, C++, Playwright
-**Backend & APIs:** FastAPI, Node.js, Express.js, REST APIs, WebSockets, WebRTC, OpenAI Realtime
+**Backend & APIs:** FastAPI, Node.js, Express.js, REST APIs, WebSockets, WebRTC
 **Infrastructure & Runtimes:** Celery, BullMQ, Docker, Kubernetes, AWS (EC2, S3)
 **Data Systems:** PostgreSQL, MongoDB, Redis, Pinecone, RAG, LLM evaluation
 

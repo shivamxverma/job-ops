@@ -1,0 +1,124 @@
+{
+  "pulled": "2026-10-26",
+  "scanned": 873,
+  "survived": 79,
+  "hits": [
+    {
+      "id": "ashby:sarvam:f09b6a35-e2d1-4833-8bc5-2b495991d882",
+      "grade": "B",
+      "score": 78,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Infrastructure Engineer",
+      "url": "https://jobs.ashbyhq.com/sarvam/f09b6a35-e2d1-4833-8bc5-2b495991d882",
+      "posted": "2026-10-26T06:29:28.519+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "infrastructure engineer",
+          "docker",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "cloudflare",
+          "linux",
+          "ci/cd",
+          "backend",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: infrastructure engineer, docker, kubernetes, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:1dd07b8b-0c0b-422a-8ff4-c99bdc5add68",
+      "grade": "B",
+      "score": 63,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "SDE3, Infrastructure Security Engineer (DevSecOps)",
+      "url": "https://jobs.ashbyhq.com/sarvam/1dd07b8b-0c0b-422a-8ff4-c99bdc5add68",
+      "posted": "2026-10-26T06:33:29.694+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "infrastructure engineer",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "cloudflare",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: infrastructure engineer, kubernetes, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "ashby:atlan:c6bb032c-6ac8-4b59-915c-d59b6f3a86f8",
+      "grade": "D",
+      "score": 38,
+      "source": "ashby (seed list)",
+      "company": "Atlan",
+      "domain": "atlan.com",
+      "title": "AI Native Builder/Architect",
+      "url": "https://jobs.ashbyhq.com/atlan/c6bb032c-6ac8-4b59-915c-d59b6f3a86f8",
+      "posted": "2026-10-26T09:57:21.274+00:00",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "Architect-level title",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

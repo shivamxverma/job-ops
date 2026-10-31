@@ -5,36 +5,37 @@
 ## Experience
 
 ### poiro.com @ Jul 2026 – Present
-*Fullstack Developer Intern* @ *Python, FastAPI, MongoDB, Redis, Celery, Next.js, TypeScript, Cloudflare R2, Turborepo*
-- **DAG Workflow Engine:** Built the node and group system behind the AI workflow builder: each workflow is a DAG of generation steps passing typed outputs to the next, and groups bundle steps into reusable sub-workflows that run as one unit.
-- **Digital Asset Service:** Designed the data model and APIs for one shared asset service that replaced separate storage in **3 apps**, and migrated all existing assets into it; added folders, reusable prompt Elements, and upload-time duplicate blocking with pHash and dHash image similarity.
-- **Provider Adapter Layer:** Integrated Pixabay, Unsplash, and Pinterest behind one common adapter interface, with per-org Redis caching to avoid repeat API calls and spend caps to stop runaway provider costs.
+*Full Stack Developer Intern* @ *Python, FastAPI, MongoDB, Redis, Celery, Next.js, TypeScript, Cloudflare R2*
+- **Creative Asset Manager:** Built one library where every upload and AI generation is saved through a single path, so users can organise assets into folders to build a full film or video. Stored each generation's model, prompt and reference images, and added Elements: reusable character, prop and location image sets with @handles for the prompt box.
+- **Async Celery Worker Runtime:** Gave each Celery worker one long-lived event loop and a shared Mongo client and Redis pool, cutting connection churn and ending dead-connection write failures after database restarts.
+- **MCP Agent Access:** Built the auth layer that lets AI assistants like Claude run Poiro apps for a user, capped by scopes and daily and per-run credit limits; RS256 tokens are verified via JWKS, refresh tokens rotate, and grants are checked on every request so revoking access is instant.
 
 ### klimb.io @ Nov 2025 – May 2026
 *Full Stack Developer Intern* @ *TypeScript, Express.js, PostgreSQL, Redis, AWS*
-- **Usage-Based Billing Ledger:** Replaced on/off feature flags with a credit ledger that meters each customer's usage of **6+ AI features**, which made usage-based pricing possible.
+- **Usage-Based Billing Ledger:** Built a credit ledger to replace on/off feature flags, metering every use of 6+ AI features per customer and debiting it from their balance, which let klimb charge customers by usage.
 
 ## Projects
 
-### Yuvro | [GitHub](https://github.com/shivamxverma/yuvro) | [Demo](https://drive.google.com/file/d/1Tb_NXvNCp8AcG48K_PUl4GhvSY1ZqiAY/view?usp=sharing) | *Replit (Web IDE), Python, FastAPI, PostgreSQL, Kubernetes, AWS S3, WebSockets*
-- **Content-Addressed Storage:** Stores each file once by its content hash, so identical files across projects are never duplicated, with a scheduled garbage collector that deletes files no project references.
-- **Per-Project Containers on Kubernetes:** Starts an isolated container for each project on demand, with a live WebSocket terminal, file editor, app preview, and database browser, so user code never runs on the main servers.
-
 ### CodeSM | [GitHub](https://github.com/shivamxverma/CodeSM) | [Live](https://code-sm.vercel.app/) | *Code Platform, Node.js, Express.js, BullMQ, Redis, PostgreSQL/Drizzle, Docker, AWS S3*
-- **Sandboxed Code Execution:** Runs every submission in a locked-down container with no network, a read-only filesystem, and CPU, memory, and time limits, so infinite loops, fork bombs, and network calls stay contained.
-- **Async Grading Queue:** Moved grading onto BullMQ workers so the API responds instantly; each submission reuses one container across its test cases and stops at the first failed test.
+- **Sandboxed Code Execution:** Ran each submission in an isolated Docker container with no network, a read-only filesystem and CPU, memory and time limits, containing infinite loops, fork bombs and network calls.
+- **Async Grading Queue:** Moved grading to BullMQ workers so the API returns instantly; each submission runs all its test cases in one reused container and stops at the first failure.
 
 ### DeepDoc | [GitHub](https://github.com/shivamxverma/DeepDoc) | *RAG, Next.js, TypeScript, Azure OpenAI, Pinecone, PostgreSQL/Drizzle, Vercel Blob*
-- **RAG Pipeline:** Splits each PDF into section-aware chunks by topic, searches only that document's vectors, and rewrites follow-up questions using chat history so they retrieve the right sections.
-- **Retrieval Ranking and Tuning:** Ranks matches by score, drops weak and duplicate chunks, and packs the best into a token budget; tuned these settings across **100+ configurations** and fixed a bug that returned empty results for every query.
+- **RAG Pipeline:** Built a PDF Q&A pipeline that splits documents into section-aware chunks, searches only the active document's vectors, and rewrites follow-up questions from chat history before retrieval.
+- **Retrieval Ranking and Tuning:** Ranked retrieved chunks by score, filtered out weak and duplicate matches, and packed the best into a fixed token budget; tuned chunking and retrieval settings across 100+ configurations.
+
+### Yuvro | [GitHub](https://github.com/shivamxverma/yuvro) | [Live](https://drive.google.com/file/d/1Tb_NXvNCp8AcG48K_PUl4GhvSY1ZqiAY/view?usp=sharing) | *Replit (Web IDE), Python, FastAPI, PostgreSQL, Kubernetes, AWS S3, WebSockets*
+- **Content-Addressed Storage:** Stored every file once by its content hash, deduplicating identical files across projects, with a scheduled garbage collector that deletes unreferenced files.
+- **Per-Project Containers on Kubernetes:** Ran each project in its own on-demand Kubernetes container with a live WebSocket terminal, file editor, app preview and database browser, keeping user code off the main servers.
 
 ## Skills
 
-**Languages:** C++, Python, TypeScript, SQL
-**Backend:** FastAPI, Node.js, Express.js, REST APIs, WebSockets, Celery, BullMQ
-**Data & Infrastructure:** PostgreSQL, MongoDB, Redis, Pinecone, Docker, Kubernetes, AWS (EC2, S3)
-**AI Engineering:** RAG, embeddings and vector search, query rewriting, LLM evaluation
-**Frontend & Tooling:** React, Next.js, Git, Linux, CI pipelines
+**Languages:** Python, TypeScript, SQL
+**Backend:** FastAPI, Node.js, Express.js, Celery, BullMQ, asyncio, REST APIs, WebSockets, JWT/OAuth
+**Databases:** PostgreSQL, MongoDB, Redis, Pinecone
+**Cloud & DevOps:** Docker, Kubernetes, AWS S3, Cloudflare R2
+**AI:** RAG, Vector Search, Azure OpenAI, MCP
+**Frontend & Tools:** React, Next.js, Git, Turborepo
 
 ## Education
 
@@ -43,4 +44,5 @@
 
 ## Achievements
 
-- **Competitive Programming:** **Top 5% globally** on [LeetCode](https://leetcode.com/u/MahavirCoder/) (**1800+ rating**, 800+ problems solved) · **3-star** on [CodeChef](https://www.codechef.com/users/mahavir99) (1700+) · Pupil on Codeforces.
+- **[LeetCode](https://leetcode.com/u/MahavirCoder/):** Top 5% globally with a **1800+** contest rating and **800+** problems solved.
+- **[CodeChef](https://www.codechef.com/users/mahavir99):** **3-star** coder with a 1700+ rating.

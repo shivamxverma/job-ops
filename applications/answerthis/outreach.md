@@ -35,3 +35,10 @@ Devaansh Bhandari (1st-degree) is a mutual with Ayush, so ask him for an intro i
 ## If Ayush replies
 Second question from tech-read §5: "How do you check a line-by-line citation actually supports its
 sentence: a fixed eval set you re-run, or spot checks?"
+
+## Follow-up 1 — Ayush Garg, LinkedIn (drafted 2026-10-28, not sent)
+https://www.linkedin.com/in/ayush4921/ (same thread as the 2026-10-22 DM). One week, no reply.
+Carries the one-line correction: the resume behind the WaaS application has the klimb.io
+AI-interview bullet, retracted 2026-10-23.
+
+> Hi Ayush, floating this back up in case it got buried. I applied for the India product engineer role on YC last week. One correction on that resume: the AI interview platform line under klimb.io shouldn't be there, the Hireflow dedup and DeepDoc eval work are what to judge me on. Still curious whether you merge preprint and journal versions before reranking. shivamworks.dev

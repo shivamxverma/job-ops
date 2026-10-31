@@ -1,0 +1,991 @@
+{
+  "domain": "sarvam.ai",
+  "slug": "sarvam",
+  "probedAt": "2026-10-27T14:15:03.715Z",
+  "liveHosts": [
+    {
+      "host": "sarvam.ai",
+      "status": 200,
+      "finalUrl": "https://www.sarvam.ai/",
+      "csp": [
+        "sanity.studio",
+        "sanity.io",
+        "sarvam.sanity.studio"
+      ],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, s-maxage=300, stale-while-revalidate=3600",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5124f27aa4f350b-MAA",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors 'self' https://*.sanity.studio https://sanity.io https://*.sanity.io http://localhost:3333 https://sarvam.sanity.studio",
+        "content-security-policy-report-only": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://accounts.google.com https://www.gstatic.com https://ssl.gstatic.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https:; font-src 'self' data:; connect-src 'self' https://*.sarvam.ai https://*.sentry.io https://us.i.posthog.com https://us-assets.i.posthog.com; frame-src 'self' https://accounts.google.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self' https://*.sarvam.ai https://accounts.google.com; object-src 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 14:14:48 GMT",
+        "permissions-policy": "browsing-topics=(), interest-cohort=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=9UwHKDpR_dGsllMTsUAAlMizoDFI3AhvjqqHtE3tjPM-1793110488.2654731-1.0.1.1-dTavn_ApwLbjfB5R17uwgzMJr.ijoFonC7Y..17RtxC4N6MIq8FJO4KQDb.EsBFiOBOPyV0yc8aRLRIs4oOBv83B9TgnwZYM_IyUz61ANc4KEjqaxGrODx00wSQhFRxo; HttpOnly; SameSite=None; Secure; Path=/; Domain=sarvam.ai; Expires=Tue, 27 Oct 2026 14:44:48 GMT",
+        "speculation-rules": "\"/cdn-cgi/speculation\"",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Accept-Encoding",
+        "x-build": "0b5aa2f",
+        "x-build-time": "2026-10-27T08:14:13Z",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY"
+      }
+    },
+    {
+      "host": "www.sarvam.ai",
+      "status": 200,
+      "finalUrl": "https://www.sarvam.ai/",
+      "csp": [
+        "sanity.studio",
+        "sanity.io",
+        "sarvam.sanity.studio"
+      ],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, s-maxage=300, stale-while-revalidate=3600",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5124f1adc2e17cf-MAA",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors 'self' https://*.sanity.studio https://sanity.io https://*.sanity.io http://localhost:3333 https://sarvam.sanity.studio",
+        "content-security-policy-report-only": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://accounts.google.com https://www.gstatic.com https://ssl.gstatic.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https:; font-src 'self' data:; connect-src 'self' https://*.sarvam.ai https://*.sentry.io https://us.i.posthog.com https://us-assets.i.posthog.com; frame-src 'self' https://accounts.google.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self' https://*.sarvam.ai https://accounts.google.com; object-src 'none'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 14:14:46 GMT",
+        "permissions-policy": "browsing-topics=(), interest-cohort=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=PvHcy5LbglNbncKG7SwbR0D2VOeGUKPInbuANU15eZQ-1793110486.2119458-1.0.1.1-NSHx9WuE6S9OTTj0s_7Bbnz.xcq0JPsX3Hj5GIuxnnGAZ5QOWOtS3wBG9uQ0w4gATTOQIGazOaV.vteyIXQkxlhb21HK3HxbAe28appNePfpFJYYRFXrZbgMA9nEha6F; HttpOnly; SameSite=None; Secure; Path=/; Domain=sarvam.ai; Expires=Tue, 27 Oct 2026 14:44:46 GMT",
+        "speculation-rules": "\"/cdn-cgi/speculation\"",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "vary": "Accept-Encoding",
+        "x-build": "0b5aa2f",
+        "x-build-time": "2026-10-27T08:14:13Z",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY"
+      }
+    },
+    {
+      "host": "api.sarvam.ai",
+      "status": 404,
+      "finalUrl": "https://api.sarvam.ai/",
+      "csp": [],
+      "headers": {
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "connection": "close",
+        "content-length": "119",
+        "content-security-policy": "default-src 'none'; frame-ancestors 'none'",
+        "content-type": "application/json",
+        "date": "Tue, 27 Oct 2026 14:14:46 GMT",
+        "expires": "0",
+        "permissions-policy": "geolocation=(), camera=(), microphone=(), payment=()",
+        "pragma": "no-cache",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "uvicorn",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-request-id": "20261027_240a5092-b600-4769-bb6b-5ca952f2cacd"
+      }
+    },
+    {
+      "host": "docs.sarvam.ai",
+      "status": 200,
+      "finalUrl": "https://docs.sarvam.ai/",
+      "csp": [
+        "buildwithfern.com"
+      ],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-placement": "remote-IAD",
+        "cf-ray": "a5124f1fcf127858-COK",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'strict-dynamic' 'unsafe-eval' 'sha256-lHT4DAx2WlKOUoz8Pnsv4hBB6WQQWpSMnN7i1SYcCTQ=' 'sha256-68wJ/luxfaKYUwjSQz+IHY+2YCM4J0fE+XLBiRsLHQg=' 'sha256-yPw5wPQkejJJ8owozmkqrhQ/E33R+fuN0gmcjwalrjM=' 'sha256-BhOH4JYGbqMwyJUjQ+YtFP1woqWD5SmDlYGLY7ohj+Q=' 'sha256-tM2cKBjWWhB/RsYsJ0OmD2+OlT6Jy2VCAU71TCwpePk=' 'sha256-6I6GONbRuC68NHvseg/qBpObhQuWIBSmA9Ed8yvia1I=' 'sha256-oTD7RVNcsu+KEX0dMyirP5hXAZXHS4g2hJjOjwnUlFQ=' 'sha256-7xZPUr3UDGsIfGhSqRrIel7l048Dik5a6+vRnzLwFx4=' 'sha256-38CMvPqhgO0wwibARbR5UUgn1f8XP31Tv0s9gizG68o=' 'sha256-KISd/1JLbtZuDErXxWomO4ibGBdQlj+vqfScm6/XDrU=' 'sha256-1sLH+Xbuenm6CfbxZXp8fcHN3Bxi79HtbVwqbtotIwM=' 'sha256-dwdPlw6W44/jov2rGeRXScTvUfym11OrsX1BMbXYEgc=' 'sha256-xIb/Pa7FUshAu4ihwjchYcQpyCI8eS8kt40GpOAYCz8=' 'sha256-OUQRxSLiAdojnatL1JBUyjRPihkavzuRhf4ZQIJ/XvU=' 'sha256-BEYJ6q5nVBkf3NAODH4PJcZM8txLQc+qUE1Qduzi6/o=' 'sha256-LfHuA3jcK+pohDVdahiCYv0T6EAfCGshcETBCyjz6QA=' 'sha256-1BvDVWLr3QCC20uHhUDi27eDFVJpk1uMQJGIWKUks2I=' 'sha256-gb6dNSVZKu5ARVoUjTW1x8JnToWeIcP2K0lB6J49wPA=' 'sha256-xmq6Do90QW431/ikiN9/DrK/FLtyoVvHl/BelyMm7uI=' 'sha256-YhtBJMvq3uw/TCvBwMALaGn+2eGYiWvN54ohqAJpntI=' 'sha256-H7wv8QNwNKVnzjrw9qBetlt5e06skkB52q18BJXmpg4=' 'sha256-Y8t0ntteBwH+PqGKUyjWW3CAk+BNJKSoQc0xZ68FjhM=' 'sha256-FBR/I9Mf2qWqplJMzrP6g+06Et5PwLmfaU2D5fELzeQ=' 'sha256-Uq8FyP9qOF+gDNl9a/4GbEYyMqAXh8Wno07kUl3jZGw=' 'sha256-DBH8WX1BuKtyYBixuOxxgqrZ5R7Bew2+THo0yVFxzjo='; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' data: blob: https: wss:; media-src 'self' data: blob: https:; frame-src 'self' data: https:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self' https:; frame-ancestors 'self' https://*.buildwithfern.com",
+        "content-security-policy-report-only": "style-src 'self' https:",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 14:14:47 GMT",
+        "etag": "W/\"c3b4440bda91970d79d34ab897b1f115\"",
+        "link": "</index.md>; rel=\"alternate\"; type=\"text/markdown\", </llms.txt>; rel=\"describedby\", </_astro/inline.NoauaDNb5AibkFQg.css>; rel=\"preload\"; as=\"style\", </_astro/inline.MP8NhjIJEBMcHU6O.css>; rel=\"preload\"; as=\"style\", </_astro/inline.SWIXErqwrC2-MfGs.css>; rel=\"preload\"; as=\"style\", </_astro/inline.W5ZZAbZxTViXoOAa.css>; rel=\"preload\"; as=\"style\", </.well-known/api-catalog>; rel=\"api-catalog\"",
+        "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "permissions-policy": "camera=(self), microphone=(self), geolocation=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fV5w5EMJBt%2FEp7QeAxN7xXkvZvJ8a17ata9Bd2TEaHAI4urUzolrxKmXgp1K39eWQpJ3qObUh8asUcaxHFwbyYii69OSB%2Bc%2F7eCFtMdNx2K45D6PBgcwvPzaie3qA4KG\"}]}",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=y5xTG6IFhgp_YoDiUfG7Js0QaQOAg7ohHtGeZMG_SQ0-1793110487.0066347-1.0.1.1-AlLCxD298SP2d8wtQL6tFL5r1VL9tm_7AgyoiujusAeeN8gzYA41o7dJN0p0sSmYJw2Bd3uuYcftWMo13Ntz0iVl.WgDhQUivrd.7QZB_O4QRSSgq6vU0VWrsaKpDriK; HttpOnly; SameSite=None; Secure; Path=/; Domain=docs.sarvam.ai; Expires=Tue, 27 Oct 2026 14:44:47 GMT",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-fern-renderer": "static"
+      }
+    },
+    {
+      "host": "dashboard.sarvam.ai",
+      "status": 405,
+      "finalUrl": "https://indus.sarvam.ai/",
+      "csp": [
+        "cdn.sarvam.ai",
+        "k.sarvam.ai",
+        "razorpay.com",
+        "chat.cdn-plain.com",
+        "cdn.moengage.com",
+        "app-cdn.moengage.com",
+        "sarvam.ai",
+        "i.pinimg.com",
+        "googleusercontent.com",
+        "plain.com",
+        "blob.core.windows.net",
+        "azurefd.net",
+        "ingest.in.signoz.cloud",
+        "sdk-01.moengage.com",
+        "sdk-02.moengage.com",
+        "sdk-03.moengage.com",
+        "sdk-04.moengage.com",
+        "sdk-06.moengage.com",
+        "checkout.razorpay.com",
+        "api.razorpay.com",
+        "mahaitgov.in",
+        "muthootapps.com",
+        "appleid.apple.com",
+        "login.microsoftonline.com",
+        "login.microsoft.com"
+      ],
+      "headers": {
+        "allow": "GET",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5124f28de455f2a-CJB",
+        "connection": "close",
+        "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://cdn.sarvam.ai https://k.sarvam.ai https://us-assets.i.posthog.com https://static.cloudflareinsights.com https://accounts.google.com https://*.razorpay.com https://maps.googleapis.com https://unpkg.com https://connect.facebook.net https://chat.cdn-plain.com https://cdn.moengage.com https://app-cdn.moengage.com; style-src 'self' 'unsafe-inline' https://cdn.sarvam.ai https://accounts.google.com https://chat.cdn-plain.com; img-src 'self' data: blob: https://*.sarvam.ai https://cdn.sarvam.ai https://i.pinimg.com https://www.google.com https://*.googleusercontent.com https://maps.googleapis.com https://maps.gstatic.com https://chat.cdn-plain.com https://*.plain.com https://*.blob.core.windows.net https://*.azurefd.net https://*.s3.amazonaws.com https://*.s3.ap-south-1.amazonaws.com; font-src 'self' data: https://fonts.gstatic.com https://cdn.sarvam.ai https://chat.cdn-plain.com; connect-src 'self' blob: https://*.sarvam.ai https://cdn.sarvam.ai https://*.sentry.io https://us.i.posthog.com https://us-assets.i.posthog.com https://us.posthog.com https://ingest.in.signoz.cloud https://accounts.google.com https://maps.googleapis.com https://places.googleapis.com https://inputtools.google.com https://*.razorpay.com https://*.blob.core.windows.net https://*.azurefd.net https://*.s3.amazonaws.com https://*.s3.ap-south-1.amazonaws.com https://cdn.jsdelivr.net https://unpkg.com https://connect.facebook.net https://graph.facebook.com https://firestore.googleapis.com https://www.googleapis.com wss://*.sarvam.ai https://chat.cdn-plain.com https://*.plain.com wss://*.plain.com https://sdk-01.moengage.com https://sdk-02.moengage.com https://sdk-03.moengage.com https://sdk-04.moengage.com https://sdk-06.moengage.com; media-src 'self' blob: https://*.sarvam.ai https://cdn.sarvam.ai https://*.blob.core.windows.net https://*.azurefd.net https://*.s3.amazonaws.com https://*.s3.ap-south-1.amazonaws.com; worker-src 'self' blob: https://cdn.sarvam.ai https://unpkg.com; child-src 'self' blob:; frame-src 'self' blob: https://accounts.google.com https://checkout.razorpay.com https://api.razorpay.com https://www.google.com https://maps.google.com https://www.facebook.com https://chat.cdn-plain.com https://us.posthog.com https://*.blob.core.windows.net https://*.s3.amazonaws.com https://*.s3.ap-south-1.amazonaws.com; object-src 'none'; base-uri 'self'; form-action 'self' https://*.sarvam.ai https://*.mahaitgov.in https://*.muthootapps.com https://accounts.google.com https://appleid.apple.com https://login.microsoftonline.com https://login.microsoft.com; frame-ancestors 'none'; upgrade-insecure-requests",
+        "content-type": "application/json",
+        "date": "Tue, 27 Oct 2026 14:14:48 GMT",
+        "permissions-policy": "camera=(self), microphone=(self), geolocation=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=erOso7UuwXCKA2SQjCMKmAbTbf1gfaSK.eeHOsnv1gw-1793110488.4584863-1.0.1.1-VNnN_qo4Y0SlJFQlK6UVVzvt44a5ijit45LIkEuHJrWeb14cEbHINxECtwhySVF4ZaVud1lnoepb_3_vk3neGfbk2_T6xngPRqD5ZIJqgNqSYCZZITlbptHdj8qnby7M; HttpOnly; SameSite=None; Secure; Path=/; Domain=sarvam.ai; Expires=Tue, 27 Oct 2026 14:44:48 GMT",
+        "speculation-rules": "\"/cdn-cgi/speculation\"",
+        "strict-transport-security": "max-age=31536000",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-dns-prefetch-control": "off",
+        "x-frame-options": "DENY"
+      }
+    },
+    {
+      "host": "status.sarvam.ai",
+      "status": 200,
+      "finalUrl": "https://status.sarvam.ai/",
+      "csp": [
+        "vitals.vercel-insights.com",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "global.localizecdn.com",
+        "app.localizejs.com",
+        "unbabel.com",
+        "bablic.com",
+        "assets.localizecdn.com",
+        "uploads.bablic.com"
+      ],
+      "headers": {
+        "age": "0",
+        "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "connect-src vitals.vercel-insights.com status-page-252r0bbfu-incident-io-team.vercel.app https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.google.com https://*.google.co.uk https://*.g.doubleclick.net https://global.localizecdn.com https://app.localizejs.com https://*.unbabel.com https://*.bablic.com 'self'; script-src 'unsafe-inline' https: 'self'; style-src 'unsafe-inline' 'self'; report-uri https://o494704.ingest.sentry.io/api/4504554480795648/security?security_key=5d578c0eb4bd4811adf4f2176db9a1c8; frame-ancestors 'self'; img-src data: https://*.google-analytics.com https://*.googletagmanager.com https://*.analytics.google.com https://*.g.doubleclick.net https://*.google.com https://*.google.co.uk https://global.localizecdn.com https://assets.localizecdn.com https://uploads.bablic.com 'self'; report-to https://o494704.ingest.sentry.io/api/4504554480795648/security?security_key=5d578c0eb4bd4811adf4f2176db9a1c8; base-uri 'none'; child-src 'none'; default-src 'self'; font-src 'self'; form-action 'self'; frame-src 'none'; manifest-src 'self'; media-src 'self'; object-src 'none'; worker-src 'self'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 14:14:47 GMT",
+        "link": "</_next/static/media/InterVariable_latin-s.p.29moeho835kyb.woff2?dpl=dpl_DQCi1eNEcT8EFhM929voaNazq42t>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+        "permissions-policy": "clipboard-write=(self), camera=(), microphone=(), geolocation=(), payment=(), usb=(), display-capture=()",
+        "referrer-policy": "no-referrer",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+        "x-content-type-options": "nosniff",
+        "x-dns-prefetch-control": "on",
+        "x-frame-options": "SAMEORIGIN",
+        "x-matched-path": "/[slug]",
+        "x-vercel-cache": "MISS",
+        "x-vercel-id": "bom1::cdg1::pl56h-1793110486964-7bc2b548b0c8"
+      }
+    },
+    {
+      "host": "auth.sarvam.ai",
+      "status": 404,
+      "finalUrl": "https://auth.sarvam.ai/",
+      "csp": [
+        "sarvam.ai"
+      ],
+      "headers": {
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5124f215ec59a55-CJB",
+        "connection": "close",
+        "content-length": "19",
+        "content-security-policy-report-only": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://accounts.google.com https://www.gstatic.com https://ssl.gstatic.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' blob: data: https:; font-src 'self' data:; connect-src 'self' https://*.sarvam.ai https://*.sentry.io https://us.i.posthog.com https://us-assets.i.posthog.com; frame-src 'self' https://accounts.google.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self' https://*.sarvam.ai https://accounts.google.com; object-src 'none'",
+        "content-type": "text/plain; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 14:14:47 GMT",
+        "server": "cloudflare",
+        "set-cookie": "__cf_bm=7TY7fPrg_k26Pwge6csf7VJRwld2TmXcW9CpeC7xhEA-1793110487.2514722-1.0.1.1-cVS6VnbR7u8JzaJea9yoLwYnufhEPl6Daxw3x3sAl0tkWZx1pex.LO3jj3xD79E43uLlJqT6ZilAYQwtDNSKyxJ5GOLEzSnymmCcEYecd4lz0qsqFUzdi3eWFD4piKyM; HttpOnly; SameSite=None; Secure; Path=/; Domain=sarvam.ai; Expires=Tue, 27 Oct 2026 14:44:47 GMT",
+        "speculation-rules": "\"/cdn-cgi/speculation\"",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY"
+      }
+    },
+    {
+      "host": "sanity.studio",
+      "status": 200,
+      "finalUrl": "https://www.sanity.io/",
+      "csp": [
+        "sanity.io",
+        "sanity.work",
+        "sanity.build",
+        "community.sanity.tools"
+      ],
+      "headers": {
+        "access-control-allow-origin": "https://admin.sanity.io",
+        "age": "4216",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "frame-ancestors 'self' https://*.sanity.io https://*.sanity.work https://*.sanity.build https://hjaelp-community-studio-git-staging.sanity-io.vercel.app https://community.sanity.tools",
+        "content-type": "text/html",
+        "date": "Tue, 27 Oct 2026 13:04:34 GMT",
+        "link": "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/agent-skills/index.json>; rel=\"describedby\", </docs/http-reference>; rel=\"service-doc\", </docs/api/openapi>; rel=\"service-desc\"; type=\"application/json\", <https://status.sanity.io/>; rel=\"status\"",
+        "server": "Vercel",
+        "set-cookie": "rl_anonymous_id=RS_ENC_v3_IjQ1MzMxNWM4LWYxYzctNDZiOS05OGM3LWMxOTVhMzlmOTk5YiI%3D; Path=/; SameSite=Lax; Domain=www.sanity.io",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "Accept, x-sanity-experiment-page",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::bom1::pl56h-1793110490609-b92ede85f9c2"
+      }
+    },
+    {
+      "host": "sanity.io",
+      "status": 200,
+      "finalUrl": "https://www.sanity.io/",
+      "csp": [
+        "sanity.io",
+        "sanity.work",
+        "sanity.build",
+        "community.sanity.tools"
+      ],
+      "headers": {
+        "access-control-allow-origin": "https://admin.sanity.io",
+        "age": "4216",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-security-policy": "frame-ancestors 'self' https://*.sanity.io https://*.sanity.work https://*.sanity.build https://hjaelp-community-studio-git-staging.sanity-io.vercel.app https://community.sanity.tools",
+        "content-type": "text/html",
+        "date": "Tue, 27 Oct 2026 13:04:34 GMT",
+        "link": "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/agent-skills/index.json>; rel=\"describedby\", </docs/http-reference>; rel=\"service-doc\", </docs/api/openapi>; rel=\"service-desc\"; type=\"application/json\", <https://status.sanity.io/>; rel=\"status\"",
+        "server": "Vercel",
+        "set-cookie": "rl_anonymous_id=RS_ENC_v3_IjFjNGQwM2UwLTUyZDktNDBmMC1hMDdjLWRjNDk5ZjBkMjM5MyI%3D; Path=/; SameSite=Lax; Domain=www.sanity.io",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "Accept, x-sanity-experiment-page",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::bom1::b4cb7-1793110490605-8430054323f0"
+      }
+    },
+    {
+      "host": "sarvam.sanity.studio",
+      "status": 200,
+      "finalUrl": "https://sarvam.sanity.studio/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=2592000",
+        "cache-control": "public, max-age=10, must-revalidate",
+        "connection": "close",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 14:14:51 GMT",
+        "etag": "W/\"q0qIM20Uliol\"",
+        "last-modified": "Tue, 06 Oct 2026 10:57:39 GMT",
+        "strict-transport-security": "max-age=63072000; includeSubDomains",
+        "transfer-encoding": "chunked",
+        "vary": "Origin, Accept-Encoding",
+        "via": "1.1 google",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "sameorigin"
+      }
+    },
+    {
+      "host": "buildwithfern.com",
+      "status": 200,
+      "finalUrl": "https://buildwithfern.com/",
+      "csp": [],
+      "headers": {
+        "cache-control": "public, max-age=0, must-revalidate",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 14:14:50 GMT",
+        "etag": "W/\"gk0cwuyyhi2mwif\"",
+        "link": "</index.md>; rel=\"alternate\"; type=\"text/markdown\", </openapi.json>; rel=\"service-desc\"; type=\"application/openapi+json\", </llms.txt>; rel=\"describedby\"; type=\"text/plain\", </sitemap.xml>; rel=\"sitemap\"; type=\"application/xml\"",
+        "server": "Vercel",
+        "strict-transport-security": "max-age=63072000",
+        "vary": "Accept-Encoding",
+        "via": "1.1 5d782e204f31cf29d8ed8448ac335be4.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "7u1H3q0j8Qj_4RdsN6qRWZfgDS40Ehb8aURbHEYYNXXDItW_fcNz3A==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "RefreshHit from cloudfront",
+        "x-matched-path": "/",
+        "x-nextjs-prerender": "1",
+        "x-nextjs-stale-time": "300",
+        "x-powered-by": "Next.js",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::iad1::v7bj2-1793077080623-8d5eacdf27ca"
+      }
+    },
+    {
+      "host": "cdn.sarvam.ai",
+      "status": 404,
+      "finalUrl": "https://cdn.sarvam.ai/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-methods": "GET, HEAD, OPTIONS",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "86400",
+        "connection": "close",
+        "date": "Tue, 27 Oct 2026 14:14:50 GMT",
+        "vary": "Origin",
+        "x-azure-ref": "20261027T141450Z-r17f7669f77cm7nwhC1PNQkhvs000000038g0000000008xh",
+        "x-cache": "TCP_MISS",
+        "x-fd-int-roxy-purgeid": "0",
+        "x-ms-error-code": "WebContentNotFound",
+        "x-ms-request-id": "3db8ae2d-901e-003c-281d-6659fb000000",
+        "x-ms-version": "2018-03-28"
+      }
+    },
+    {
+      "host": "k.sarvam.ai",
+      "status": 404,
+      "finalUrl": "https://k.sarvam.ai/",
+      "csp": [],
+      "headers": {
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5124f341dcd4f45-SIN",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/plain",
+        "date": "Tue, 27 Oct 2026 14:14:51 GMT",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=2592000",
+        "vary": "Accept-Encoding"
+      }
+    },
+    {
+      "host": "razorpay.com",
+      "status": 200,
+      "finalUrl": "https://razorpay.com/",
+      "csp": [],
+      "headers": {
+        "age": "2877",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, s-maxage=31536000, stale-if-error=31536000, stale-while-revalidate=31536000",
+        "connection": "close",
+        "content-encoding": "br",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 13:26:53 GMT",
+        "etag": "W/\"2c5e66-P4BKH62OvrxW1505PUKL6I73N8g\"",
+        "link": "</.well-known/api-catalog>; rel=\"api-catalog\", <https://razorpay.com/docs/>; rel=\"service-doc\", </.well-known/mcp/server-card.json>; rel=\"mcp-server\", </agents.md>; rel=\"agent-manifest\", </pricing.md>; rel=\"pricing\"",
+        "server": "CloudFront",
+        "set-cookie": "cloudfront_viewer_country_region_name=Rajasthan;domain=.razorpay.com;path=/;expires=Wed, 28 Oct 2026 13:26:53 GMT;SameSite=Lax;Secure;",
+        "strict-transport-security": "max-age=315360000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "via": "rws, 1.1 a55b01c70de7030e854498094ee5433e.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "mbJeBFL6o9cH4-J0JP_v-EIKOgGjT3o8i7dieK7AbWNaTTwOgADkdw==",
+        "x-amz-cf-pop": "BLR50-P3",
+        "x-app-middleware": "framerProxyMiddleware",
+        "x-cache": "Hit from cloudfront",
+        "x-content-type-options": "nosniff",
+        "x-download-options": "noopen",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block"
+      }
+    },
+    {
+      "host": "chat.cdn-plain.com",
+      "status": 200,
+      "finalUrl": "https://chat.cdn-plain.com/",
+      "csp": [],
+      "headers": {
+        "access-control-allow-origin": "*",
+        "age": "28538",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a5124f34cbdf5f2a-CJB",
+        "connection": "close",
+        "content-disposition": "inline",
+        "content-encoding": "gzip",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Tue, 27 Oct 2026 14:14:50 GMT",
+        "last-modified": "Tue, 27 Oct 2026 06:19:11 GMT",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=63072000",
+        "x-vercel-cache": "HIT",
+        "x-vercel-id": "bom1::pt76c-1793110490490-8d1867c4b6cc"
+      }
+    },
+    {
+      "host": "cdn.moengage.com",
+      "status": 403,
+      "finalUrl": "https://cdn.moengage.com/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-type": "application/xml",
+        "date": "Tue, 27 Oct 2026 14:14:50 GMT",
+        "server": "AmazonS3",
+        "via": "1.1 303e917d845d3965f206781fd60fa0d4.cloudfront.net (CloudFront)",
+        "x-amz-bucket-region": "us-east-1",
+        "x-amz-cf-id": "uEmOcOWE-7gAPlVjg-7q5Nj2bDsW2t0o7e4KxkWhQRXFVhDl8I4yPA==",
+        "x-amz-cf-pop": "BLR50-P4",
+        "x-cache": "Error from cloudfront"
+      }
+    },
+    {
+      "host": "app-cdn.moengage.com",
+      "status": 403,
+      "finalUrl": "https://app-cdn.moengage.com/",
+      "csp": [],
+      "headers": {
+        "connection": "close",
+        "content-type": "application/xml",
+        "date": "Tue, 27 Oct 2026 14:14:50 GMT",
+        "server": "AmazonS3",
+        "vary": "Origin",
+        "via": "1.1 e97acdbdf440e4b7794b9c47e959f272.cloudfront.net (CloudFront)",
+        "x-amz-bucket-region": "us-east-1",
+        "x-amz-cf-id": "gd09BPunekADlKJcwYQkQIdLKtSn44Y-jz0X6_11ERfhmqNJctiqXw==",
+        "x-amz-cf-pop": "BLR50-P3",
+        "x-cache": "Error from cloudfront"
+      }
+    },
+    {
+      "host": "i.pinimg.com",
+      "status": 403,
+      "finalUrl": "https://i.pinimg.com/",
+      "csp": [],
+      "headers": {
+        "akamai-grn": "0.15712c31.1793110490.16f9f618",
+        "akamai-request-bc": "on",
+        "alt-svc": "h3=\":443\"; ma=604800",
+        "connection": "close",
+        "content-length": "1",
+        "content-type": "application/xml",
+        "server-timing": "cdn;desc=\"akamai\", cdn-cache;desc=\"Miss\", cdn-edge-time;dur=795",
+        "vary": "Origin",
+        "x-cdn": "akamai"
+      }
+    },
+    {
+      "host": "googleusercontent.com",
+      "status": 404,
+      "finalUrl": "https://googleusercontent.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "connection": "close",
+        "content-length": "1561",
+        "content-type": "text/html; charset=UTF-8",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Tue, 27 Oct 2026 14:14:50 GMT",
+        "server": "sffe",
+        "x-content-type-options": "nosniff",
+        "x-robots-tag": "noindex",
+        "x-xss-protection": "0"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [
+    "cdn.sarvam.ai",
+    "k.sarvam.ai"
+  ],
+  "embeddedVendorHosts": [
+    "sanity.studio",
+    "sanity.io",
+    "sarvam.sanity.studio",
+    "buildwithfern.com",
+    "razorpay.com",
+    "chat.cdn-plain.com",
+    "cdn.moengage.com",
+    "app-cdn.moengage.com",
+    "i.pinimg.com",
+    "googleusercontent.com",
+    "plain.com",
+    "blob.core.windows.net",
+    "azurefd.net",
+    "ingest.in.signoz.cloud",
+    "sdk-01.moengage.com",
+    "sdk-02.moengage.com",
+    "sdk-03.moengage.com",
+    "sdk-04.moengage.com",
+    "sdk-06.moengage.com",
+    "checkout.razorpay.com",
+    "api.razorpay.com",
+    "mahaitgov.in",
+    "muthootapps.com",
+    "appleid.apple.com",
+    "login.microsoftonline.com",
+    "login.microsoft.com",
+    "vitals.vercel-insights.com",
+    "google-analytics.com",
+    "googletagmanager.com",
+    "global.localizecdn.com",
+    "app.localizejs.com",
+    "unbabel.com",
+    "bablic.com",
+    "assets.localizecdn.com",
+    "uploads.bablic.com"
+  ],
+  "stack": [
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "sarvam.ai",
+        "sarvam.ai",
+        "www.sarvam.ai",
+        "www.sarvam.ai",
+        "docs.sarvam.ai",
+        "docs.sarvam.ai",
+        "dashboard.sarvam.ai",
+        "dashboard.sarvam.ai",
+        "auth.sarvam.ai",
+        "auth.sarvam.ai",
+        "k.sarvam.ai",
+        "k.sarvam.ai",
+        "chat.cdn-plain.com",
+        "chat.cdn-plain.com"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a5124f27aa4f350b-MAA",
+        "cf-ray: a5124f1adc2e17cf-MAA",
+        "cf-ray: a5124f1fcf127858-COK",
+        "cf-ray: a5124f28de455f2a-CJB",
+        "cf-ray: a5124f215ec59a55-CJB",
+        "cf-ray: a5124f341dcd4f45-SIN",
+        "cf-ray: a5124f34cbdf5f2a-CJB"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "AWS CloudFront",
+      "kind": "cdn",
+      "seenOn": [
+        "buildwithfern.com",
+        "razorpay.com",
+        "cdn.moengage.com",
+        "app-cdn.moengage.com"
+      ],
+      "evidence": [
+        "x-amz-cf-id: 7u1H3q0j8Qj_4RdsN6qRWZfgDS40Ehb8aURbHEYYNXXDItW_fcNz3A==",
+        "x-amz-cf-id: mbJeBFL6o9cH4-J0JP_v-EIKOgGjT3o8i7dieK7AbWNaTTwOgADkdw==",
+        "x-amz-cf-id: uEmOcOWE-7gAPlVjg-7q5Nj2bDsW2t0o7e4KxkWhQRXFVhDl8I4yPA==",
+        "x-amz-cf-id: gd09BPunekADlKJcwYQkQIdLKtSn44Y-jz0X6_11ERfhmqNJctiqXw=="
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Next.js App Router (React Server Components)",
+      "kind": "framework",
+      "seenOn": [
+        "status.sarvam.ai"
+      ],
+      "evidence": [
+        "vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Next.js (prerendered route)",
+      "kind": "framework",
+      "seenOn": [
+        "buildwithfern.com"
+      ],
+      "evidence": [
+        "x-nextjs-prerender: 1"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Next.js",
+      "kind": "framework",
+      "seenOn": [
+        "buildwithfern.com"
+      ],
+      "evidence": [
+        "x-powered-by: Next.js"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Vercel",
+      "kind": "hosting",
+      "seenOn": [
+        "status.sarvam.ai",
+        "sanity.studio",
+        "sanity.io",
+        "buildwithfern.com"
+      ],
+      "evidence": [
+        "server: Vercel"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel edge",
+      "kind": "hosting",
+      "seenOn": [
+        "status.sarvam.ai",
+        "sanity.studio",
+        "sanity.io",
+        "buildwithfern.com",
+        "chat.cdn-plain.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::cdg1::pl56h-1793110486964-7bc2b548b0c8",
+        "x-vercel-id: bom1::bom1::pl56h-1793110490609-b92ede85f9c2",
+        "x-vercel-id: bom1::bom1::b4cb7-1793110490605-8430054323f0",
+        "x-vercel-id: bom1::iad1::v7bj2-1793077080623-8d5eacdf27ca",
+        "x-vercel-id: bom1::pt76c-1793110490490-8d1867c4b6cc"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel functions run in cdg1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "status.sarvam.ai"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::cdg1::pl56h-1793110486964-7bc2b548b0c8"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "Vercel functions run in bom1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "sanity.studio",
+        "sanity.io",
+        "chat.cdn-plain.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::bom1::pl56h-1793110490609-b92ede85f9c2",
+        "x-vercel-id: bom1::bom1::b4cb7-1793110490605-8430054323f0",
+        "x-vercel-id: bom1::pt76c-1793110490490-8d1867c4b6cc"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "Vercel functions run in iad1",
+      "kind": "hosting",
+      "note": "the first hop (bom1) is the edge nearest the prober, not their region. Only the compute hop is theirs.",
+      "seenOn": [
+        "buildwithfern.com"
+      ],
+      "evidence": [
+        "x-vercel-id: bom1::iad1::v7bj2-1793077080623-8d5eacdf27ca"
+      ],
+      "onOwnHost": false,
+      "attribution": "third-party host — the vendor's stack, not theirs"
+    },
+    {
+      "tech": "request tracing",
+      "kind": "infra",
+      "seenOn": [
+        "api.sarvam.ai"
+      ],
+      "evidence": [
+        "x-request-id: 20261027_240a5092-b600-4769-bb6b-5ca952f2cacd"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "auth.sarvam.ai",
+        "sarvam.sanity.studio",
+        "buildwithfern.com",
+        "k.sarvam.ai",
+        "razorpay.com",
+        "chat.cdn-plain.com"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://sarvam.ai/healthz",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "k8s-style health endpoint (suggests k8s)",
+      "preview": "ok"
+    },
+    {
+      "url": "https://sarvam.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nDisallow: /test-\nDisallow: /app-redirect\n\nSitemap: https://www.sarvam.ai/sitemap-index.xml\n"
+    },
+    {
+      "url": "https://sarvam.ai/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Sarvam\n> Sarvam builds full-stack sovereign AI for India. APIs for speech, text, translation, and document intelligence across 10+ Indian languages.\n\nSarvam provides enterprise-grade AI APIs, pre-built products, and foundation models purpose-built for Indian languages and accents. SOC 2 Type II certified. Deployed on-premise, private cloud, or air-gapped.\n\n## Products\n- [Arya](https://www.sarvam.ai/products/arya.md): Enterprise AI agent platform. Build, deploy, and manage autonomous agents with full observability and zero vendor lock-in.\n- [Doc Agents](https://www.sarvam.ai/products/doc-agents.md): Document digitisation platform. Extract text from scanned Indian-language documents with lay"
+    },
+    {
+      "url": "https://www.sarvam.ai/llms.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Sarvam\n> Sarvam builds full-stack sovereign AI for India. APIs for speech, text, translation, and document intelligence across 10+ Indian languages.\n\nSarvam provides enterprise-grade AI APIs, pre-built products, and foundation models purpose-built for Indian languages and accents. SOC 2 Type II certified. Deployed on-premise, private cloud, or air-gapped.\n\n## Products\n- [Arya](https://www.sarvam.ai/products/arya.md): Enterprise AI agent platform. Build, deploy, and manage autonomous agents with full observability and zero vendor lock-in.\n- [Doc Agents](https://www.sarvam.ai/products/doc-agents.md): Document digitisation platform. Extract text from scanned Indian-language documents with lay"
+    },
+    {
+      "url": "https://www.sarvam.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-agent: *\nAllow: /\n\nDisallow: /test-\nDisallow: /app-redirect\n\nSitemap: https://www.sarvam.ai/sitemap-index.xml\n"
+    },
+    {
+      "url": "https://www.sarvam.ai/healthz",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "k8s-style health endpoint (suggests k8s)",
+      "preview": "ok"
+    },
+    {
+      "url": "https://api.sarvam.ai/version",
+      "status": 200,
+      "contentType": "application/json",
+      "why": "build/version endpoint",
+      "preview": "{\"version\":\"0.0.0\"}"
+    },
+    {
+      "url": "https://docs.sarvam.ai/.well-known/security.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "a security contact means someone owns it",
+      "preview": "Contact: mailto:security@buildwithfern.com\nExpires: 2027-04-30T08:40:00Z\nPreferred-Languages: en\n"
+    },
+    {
+      "url": "https://docs.sarvam.ai/sitemap.xml",
+      "status": 206,
+      "contentType": "application/xml; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url>\n    <loc>https://docs.sarvam.ai/</loc>\n    <lastmod>2026-10-26T10:22:06.892Z</lastmod>\n  </url>\n  <url>\n    <loc>https://docs.sarvam.ai/api/getting-started/welcome</loc>\n    <lastmod>2026-10-12T11:31:03.672Z</lastmod>\n  </url>\n  <url>\n    <loc>https://docs.sarvam.ai/api/getting-started/quickstart</loc>\n    <lastmod>2026-10-23T05:16:54.488Z</lastmod>\n  </url>\n  <url>\n    <loc>https://docs.sarvam.ai/api/getting-started/sdks</loc>\n    <lastmod>2026-10-27T10:16:15.635Z</lastmod>\n  </url>\n  <url>\n    <loc>https://docs.sarvam.ai/api/getting-started/building-for-india</loc>\n    <lastmod>2026-"
+    },
+    {
+      "url": "https://docs.sarvam.ai/llms.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Sarvam AI Developer Documentation\n\n> Sarvam Voice Agents (Samvaad): build, test and deploy AI calling agents in Indian languages from ₹3 a minute. Plus model APIs for speech, text and documents.\n\nIndus: Full Stack AI Platform\n\n# AI for all from India.\n\nSpeech, text, and document models trained for 22 Indian languages and English, plus\nno-code platforms for voice agents, coding agents, Cowork, and Content Studio. Create a key\nand make your first call in a minute.\n\n[Get started](/api/getting-started/quickstart)\n\n[Browse the API reference](/api-reference/introduction)\n\nNative support for हिन्दी বাংলা தமிழ் తెలుగు मराठी ગુજરાતી ಕನ್ನಡ മലയാളം ਪੰਜਾਬੀ ଓଡ଼ିଆ অসমীয়া اردو नेपाली कोंकणी کٲشُر سنڌي सं"
+    },
+    {
+      "url": "https://docs.sarvam.ai/robots.txt",
+      "status": 206,
+      "contentType": "text/plain; charset=utf-8",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "User-Agent: *\nAllow: /\nAllow: /api/fern-docs/favicon.ico\nDisallow: /api/fern-docs/\n\nSitemap: https://docs.sarvam.ai/sitemap.xml\n"
+    }
+  ],
+  "dns": [
+    {
+      "host": "sarvam.ai",
+      "a": [
+        "150.171.110.87"
+      ],
+      "mx": [
+        "smtp.google.com"
+      ],
+      "txt": [
+        "google-site-verification=Ciw34PFkvmu6xGgXbFjzq-JjxVAg6uQGhVhSGTIU2Ng",
+        "linkedin-site-verification=fe482b7a-5d51-4d6b-a8dc-883b9ca8de91",
+        "google-site-verification=Urc2Dz2ccV60eA-hC76qDuSIJUDVdtiv5ODLLVI1hgU",
+        "v=spf1 include:_spf.mlsend.com include:_spf.mailersend.net include:_spf.google.com include:145251747.spf10.hubspotemail.net include:spf.mtasv.net ~all",
+        "v=verifydomain MS=9326744",
+        "google-site-verification=Z2kQqxFlVgcQ5c7LZiSUJ9OXg_3pt-CpFcMU_616KRQ",
+        "zoho-verification=zb57370039.zmverify.zoho.in",
+        "mailerlite-domain-verification=c746061dfa37155ca19c5df042e6ddf779e9a4ce"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "Zoho (mail)",
+        "SPF/DMARC configured",
+        "HubSpot"
+      ]
+    },
+    {
+      "host": "sanity.studio",
+      "a": [
+        "130.211.18.97"
+      ],
+      "mx": [
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt1.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com"
+      ],
+      "txt": [
+        "google-site-verification=PZv0zuhRm9MWeLrHIDb8EVFk4siifJqtjxx2C0Wl-Ic"
+      ],
+      "vendors": [
+        "Google Workspace (mail)"
+      ]
+    },
+    {
+      "host": "sanity.io",
+      "a": [
+        "35.186.225.23"
+      ],
+      "mx": [
+        "alt1.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com",
+        "aspmx2.googlemail.com",
+        "aspmx.l.google.com",
+        "aspmx3.googlemail.com"
+      ],
+      "txt": [
+        "notion-domain-verification=V5SNKnfK0RPVcKbvacqWqFar4N1DH5tuN0LUIfdDRix",
+        "reachdesk-verification=gMIPtJcOwsgpoOprSQZtsCZEhXk6ic6g1iv5T19NbuJ4pxDtBGDnTUOvJnH97S5B",
+        "detectify-verification=7c7bccecb035d41b4deba17ae4e324a9",
+        "google-site-verification=FI9wqX6AwTEC6_VQAWsmEIWeGAC7hjMXxzP0aNJJR2c",
+        "miro-verification=87632f5b6302607799835e77fd79b83ad15b1c5c",
+        "jamf-site-verification=2WbAf1hmpuzEJg3wOzUADA",
+        "google-site-verification=tM4VXx7eWyvCW8SRZpB835UMizhdqRroKLRM222Ndpg",
+        "v=spf1 include:_spf.google.com include:servers.mcsv.net include:2995520.spf02.hubspotemail.net include:stspg-customer.com include:mktomail.com include:mg-spf.greenhouse.io ~all",
+        "status-page-domain-verification=n5f7bptvc83p",
+        "MS=ms70569628",
+        "anthropic-domain-verification-w83k0d=LVLCwFFMqSsr91hz1K2Yi3xvf",
+        "google-site-verification=TP_cT3Qi4pYwEhe7y1cEoWQ2IkLixee7OSr9QCJFji0",
+        "facebook-domain-verification=2qyck5c9vhvmrjtlut46a0lhmkdzf7",
+        "cursor-domain-verification-t2afr6=TJb54CifLsSu3nozFuRuQ6GML",
+        "google-site-verification=RjrkDVDuEpQIbe4iNq9LjZKuvTwlJCADdY1jZNjuItY",
+        "stripe-verification=978242b72452abac4725286f6a92f52e92601a77c33cb9a92bd159ec8b539311",
+        "apple-domain-verification=xgwF3Q5wsUcJWEnY",
+        "MS=ms85606480",
+        "DirectFedAuthUrl=https://sanity.okta.com/app/sanity_azure_1/exkijinrpbfxRfRGr357/sso/saml",
+        "asv=46dfbe0b2849653082e8805075619fcf",
+        "DFBCFE3B07",
+        "linear-domain-verification=t4thsyg8exri"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "Stripe",
+        "Notion (hosted page)",
+        "HubSpot",
+        "LLM vendor domain verification"
+      ]
+    },
+    {
+      "host": "sarvam.sanity.studio",
+      "a": [
+        "130.211.18.97"
+      ],
+      "vendors": []
+    },
+    {
+      "host": "buildwithfern.com",
+      "a": [
+        "99.86.182.66",
+        "99.86.182.122",
+        "99.86.182.8",
+        "99.86.182.111"
+      ],
+      "txt": [
+        "v=spf1 include:mktomail.com ~all",
+        "vercel-domain-verification-3wsbqp=dEQMgthi0JLGfVpyflhy8ntlE",
+        "TAILSCALE-CRYzrphkuQpWrhWjo7jX",
+        "pylon-domain-verification-35pkx9=W6FQShTRtce5euRDh6f24uwav",
+        "stripe-verification=509DF7294320668F2173A08CC684376327CA0D409DED46563EF3DC52A7500562",
+        "stripe-verification=daf5437703c095af15e1db9f784e9fecc2f5bd49d74979539a81b21647284472"
+      ],
+      "mx": [
+        "alt1.aspmx.l.google.com",
+        "alt2.aspmx.l.google.com",
+        "aspmx.l.google.com",
+        "alt3.aspmx.l.google.com",
+        "alt4.aspmx.l.google.com"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured",
+        "Stripe",
+        "Vercel"
+      ]
+    }
+  ],
+  "ats": [
+    {
+      "ats": "Ashby",
+      "url": "https://api.ashbyhq.com/posting-api/job-board/sarvam?includeCompensation=true",
+      "openRoles": 45,
+      "bytes": 487328
+    }
+  ],
+  "appStore": {
+    "query": "sarvam",
+    "results": [
+      {
+        "name": "Indus by Sarvam",
+        "seller": "Axonwise Private Limited",
+        "updated": "2026-10-20T20:56:21Z"
+      },
+      {
+        "name": "Claude by Anthropic",
+        "seller": "Anthropic PBC",
+        "updated": "2026-10-24T15:18:20Z"
+      },
+      {
+        "name": "Grok AI",
+        "seller": "X Corp.",
+        "updated": "2026-10-26T16:09:51Z"
+      },
+      {
+        "name": "Perplexity: AI Agent & Search",
+        "seller": "Perplexity AI Inc.",
+        "updated": "2026-10-23T11:59:45Z"
+      },
+      {
+        "name": "Sarvam Stream",
+        "seller": "Sudheer Kumar Reddy Gowrigari",
+        "updated": "2026-10-22T01:04:34Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

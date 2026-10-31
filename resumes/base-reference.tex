@@ -139,31 +139,28 @@
 \resumeSubHeadingListStart
 
 \resumeExperienceEntry
-  {Fullstack Developer Intern -- \href{https://poiro.com}{\underline{poiro.com}}}
+  {Full Stack Developer Intern -- \href{https://poiro.com}{\underline{poiro.com}}}
   {Jul 2026 -- Present}
-  {Python $\cdot$ FastAPI $\cdot$ MongoDB $\cdot$ Redis $\cdot$ Celery $\cdot$ Next.js $\cdot$ TypeScript $\cdot$ Cloudflare R2 $\cdot$ Turborepo}
+  {Python $\cdot$ FastAPI $\cdot$ MongoDB $\cdot$ Redis $\cdot$ Celery $\cdot$ asyncio $\cdot$ Next.js $\cdot$ TypeScript $\cdot$ Cloudflare R2 $\cdot$ Turborepo}
   {}
 
 \resumeItemListSpacedStart
-  % TODO: workflows run per week, avg nodes per workflow, number of node types
-  \resumeItem{\textbf{DAG Workflow Engine:} Built the node and group system behind the AI workflow builder: each workflow is a DAG of generation steps passing typed outputs to the next, and groups bundle steps into reusable sub-workflows that run as one unit.}
-  % TODO: assets migrated, % of uploads blocked as duplicates
-  \resumeItem{\textbf{Digital Asset Service:} Designed the data model and APIs for one shared asset service that replaced separate storage in 3 apps, and migrated all existing assets into it; added folders, reusable prompt Elements, and upload-time duplicate blocking with pHash and dHash image similarity.}
-  % TODO: cache hit rate or API calls saved
-  \resumeItem{\textbf{Provider Adapter Layer:} Integrated Pixabay, Unsplash, and Pinterest behind one common adapter interface, with per-org Redis caching to avoid repeat API calls and spend caps to stop runaway provider costs.}
+  % TODO: assets stored, % of generations deduplicated by content hash
+  \resumeItem{\textbf{Creative Asset Manager:} Built one library where every upload and AI generation is saved through a single path, so users can organise assets into folders to build a full film or video. Stored each generation's model, prompt and reference images, and added Elements: reusable character, prop and location image sets with @handles for the prompt box.}
+  % TODO: connections per worker before -> after, task latency change
+  \resumeItem{\textbf{Async Celery Worker Runtime:} Gave each Celery worker one long-lived event loop and a shared Mongo client and Redis pool, cutting connection churn and ending dead-connection write failures after database restarts.}
+  \resumeItem{\textbf{MCP Agent Access:} Built the auth layer that lets AI assistants like Claude run Poiro apps for a user, capped by scopes and daily and per-run credit limits; RS256 tokens are verified via JWKS, refresh tokens rotate, and grants are checked on every request so revoking access is instant.}
 \resumeItemListSpacedEnd
 
 \resumeExperienceEntry
   {Full Stack Developer Intern -- \href{https://www.klimb.io}{\underline{klimb.io}}}
   {Nov 2025 -- May 2026}
-  {TypeScript $\cdot$ Express.js $\cdot$ PostgreSQL $\cdot$ Redis $\cdot$ AWS $\cdot$ OpenAI Realtime}
+  {TypeScript $\cdot$ Express.js $\cdot$ PostgreSQL $\cdot$ Redis $\cdot$ AWS}
   {}
 
 \resumeItemListSpacedStart
   % TODO: number of customer orgs billed (ask old manager)
-  \resumeItem{\textbf{Usage-Based Billing Ledger:} Replaced on/off feature flags with a credit ledger that meters each customer's usage of 6+ AI features, which made usage-based pricing possible.}
-  % TODO: candidates interviewed (ask old manager)
-  \resumeItem{\textbf{AI Interview Platform:} Built the backend for a 3-stage AI interview platform with automated proctoring; its live voice round on OpenAI Realtime asks questions drawn from the candidate's resume and scores the transcript.}
+  \resumeItem{\textbf{Usage-Based Billing Ledger:} Built a credit ledger to replace on/off feature flags, metering every use of 6+ AI features per customer and debiting it from their balance, which let klimb charge customers by usage.}
 \resumeItemListSpacedEnd
 
 \resumeSubHeadingListEnd
@@ -172,36 +169,36 @@
 \resumeSubHeadingListStart
 
 \resumeProjectEntry
-  {Yuvro}
-  {https://github.com/shivamxverma/yuvro}
-  {https://drive.google.com/file/d/1Tb_NXvNCp8AcG48K_PUl4GhvSY1ZqiAY/view?usp=sharing}
-  {Replit (Web IDE) $\cdot$ Python $\cdot$ FastAPI $\cdot$ PostgreSQL $\cdot$ Kubernetes $\cdot$ AWS S3 $\cdot$ WebSockets}
-\resumeItemListSpacedStart
-  % TODO: storage saved (%) across N template projects
-  \resumeItem{\textbf{Content-Addressed Storage:} Stores each file once by its content hash, so identical files across projects are never duplicated, with a scheduled garbage collector that deletes files no project references.}
-  % TODO: median cold start (open project -> ready terminal)
-  \resumeItem{\textbf{Per-Project Containers on Kubernetes:} Starts an isolated container for each project on demand, with a live WebSocket terminal, file editor, app preview, and database browser, so user code never runs on the main servers.}
-\resumeItemListSpacedEnd
-
-\resumeProjectEntry
   {CodeSM}
   {https://github.com/shivamxverma/CodeSM}
   {https://code-sm.vercel.app/}
   {Code Platform $\cdot$ Node.js $\cdot$ Express.js $\cdot$ BullMQ $\cdot$ Redis $\cdot$ PostgreSQL/Drizzle $\cdot$ Docker $\cdot$ AWS S3}
 \resumeItemListSpacedStart
   % TODO: attack cases blocked (e.g. 5/5)
-  \resumeItem{\textbf{Sandboxed Code Execution:} Runs every submission in a locked-down container with no network, a read-only filesystem, and CPU, memory, and time limits, so infinite loops, fork bombs, and network calls stay contained.}
+  \resumeItem{\textbf{Sandboxed Code Execution:} Ran each submission in an isolated Docker container with no network, a read-only filesystem and CPU, memory and time limits, containing infinite loops, fork bombs and network calls.}
   % TODO: p95 grading time at N concurrent submissions (k6)
-  \resumeItem{\textbf{Async Grading Queue:} Moved grading onto BullMQ workers so the API responds instantly; each submission reuses one container across its test cases and stops at the first failed test.}
+  \resumeItem{\textbf{Async Grading Queue:} Moved grading to BullMQ workers so the API returns instantly; each submission runs all its test cases in one reused container and stops at the first failure.}
 \resumeItemListSpacedEnd
 
 \resumeProjectPlainEntry
   {\href{https://github.com/shivamxverma/DeepDoc}{\underline{DeepDoc}}}
   {RAG $\cdot$ Next.js $\cdot$ TypeScript $\cdot$ Azure OpenAI $\cdot$ Pinecone $\cdot$ PostgreSQL/Drizzle $\cdot$ Vercel Blob}
 \resumeItemListSpacedStart
-  \resumeItem{\textbf{RAG Pipeline:} Splits each PDF into section-aware chunks by topic, searches only that document's vectors, and rewrites follow-up questions using chat history so they retrieve the right sections.}
+  \resumeItem{\textbf{RAG Pipeline:} Built a PDF Q\&A pipeline that splits documents into section-aware chunks, searches only the active document's vectors, and rewrites follow-up questions from chat history before retrieval.}
   % TODO: recall@5 before -> after, tokens per answer cut (after building the eval set)
-  \resumeItem{\textbf{Retrieval Ranking and Tuning:} Ranks matches by score, drops weak and duplicate chunks, and packs the best into a token budget; tuned these settings across 100+ configurations and fixed a bug that returned empty results for every query.}
+  \resumeItem{\textbf{Retrieval Ranking and Tuning:} Ranked retrieved chunks by score, filtered out weak and duplicate matches, and packed the best into a fixed token budget; tuned chunking and retrieval settings across 100+ configurations.}
+\resumeItemListSpacedEnd
+
+\resumeProjectEntry
+  {Yuvro}
+  {https://github.com/shivamxverma/yuvro}
+  {https://drive.google.com/file/d/1Tb_NXvNCp8AcG48K_PUl4GhvSY1ZqiAY/view?usp=sharing}
+  {Replit (Web IDE) $\cdot$ Python $\cdot$ FastAPI $\cdot$ PostgreSQL $\cdot$ Kubernetes $\cdot$ AWS S3 $\cdot$ WebSockets}
+\resumeItemListSpacedStart
+  % TODO: storage saved (%) across N template projects
+  \resumeItem{\textbf{Content-Addressed Storage:} Stored every file once by its content hash, deduplicating identical files across projects, with a scheduled garbage collector that deletes unreferenced files.}
+  % TODO: median cold start (open project -> ready terminal)
+  \resumeItem{\textbf{Per-Project Containers on Kubernetes:} Ran each project in its own on-demand Kubernetes container with a live WebSocket terminal, file editor, app preview and database browser, keeping user code off the main servers.}
 \resumeItemListSpacedEnd
 
 \resumeSubHeadingListEnd
@@ -215,11 +212,12 @@
   partopsep=0pt,
   itemsep=3pt,
 ]
-\small\item \textbf{Languages:} C++, Python, TypeScript, SQL
-\small\item \textbf{Backend:} FastAPI, Node.js, Express.js, REST APIs, WebSockets, Celery, BullMQ
-\small\item \textbf{Data \& Infrastructure:} PostgreSQL, MongoDB, Redis, Pinecone, Docker, Kubernetes, AWS (EC2, S3)
-\small\item \textbf{AI Engineering:} RAG, embeddings and vector search, query rewriting, LLM evaluation
-\small\item \textbf{Frontend \& Tooling:} React, Next.js, Git, Linux, CI pipelines
+\small\item \textbf{Languages:} Python, TypeScript, SQL
+\small\item \textbf{Backend:} FastAPI, Node.js, Express.js, Celery, BullMQ, asyncio, REST APIs, WebSockets, JWT/OAuth
+\small\item \textbf{Databases:} PostgreSQL, MongoDB, Redis, Pinecone
+\small\item \textbf{Cloud \& DevOps:} Docker, Kubernetes, AWS S3, Cloudflare R2
+\small\item \textbf{AI:} RAG, Vector Search, Azure OpenAI, MCP
+\small\item \textbf{Frontend \& Tools:} React, Next.js, Git, Turborepo
 \end{itemize}
 \vspace{-4pt}
 
@@ -232,7 +230,8 @@
 
 \section{Achievements}
 \resumeItemListStart
-  \resumeItem{\textbf{Competitive Programming:} \textbf{Top 5\% globally} on \href{https://leetcode.com/u/MahavirCoder/}{\underline{LeetCode}} (\textbf{1800+ rating}, 800+ problems solved) $\cdot$ \textbf{3-star} on \href{https://www.codechef.com/users/mahavir99}{\underline{CodeChef}} (1700+) $\cdot$ Pupil on Codeforces.}
+  \resumeItem{\textbf{\href{https://leetcode.com/u/MahavirCoder/}{\underline{LeetCode}}:} Top 5\% globally with a \textbf{1800+} contest rating and \textbf{800+} problems solved.}
+  \resumeItem{\textbf{\href{https://www.codechef.com/users/mahavir99}{\underline{CodeChef}}:} \textbf{3-star} coder with a 1700+ rating.}
 \resumeItemListEnd
 
 \end{document}

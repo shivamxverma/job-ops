@@ -5,10 +5,10 @@
 ## Experience
 
 ### poiro.com @ Jul 2026 – Present
-*Fullstack Developer Intern* @ *Python, FastAPI, MongoDB, Redis, Celery, Next.js, TypeScript, Cloudflare R2*
-- **AI Workflow Engine:** Built the node and group system behind the AI workflow builder: each workflow is a DAG of generation steps passing typed outputs to the next, and groups run nested steps as one sub-workflow.
-- **Fail-Closed Provider Layer:** Integrated Pixabay, Unsplash and Pinterest behind one adapter contract with org-scoped Redis caching, capping paid calls at **500 per org per day** and **5,000 globally**, counted only on cache misses.
-- **Shared Asset Service:** Designed the org-scoped MongoDB models and FastAPI backend for one asset service shared by **3 apps**, with AI provenance on every asset and pHash/dHash duplicate blocking at upload.
+*Fullstack Developer Intern* @ *Python, FastAPI, MongoDB, Redis, Celery, asyncio, Next.js, TypeScript, Cloudflare R2*
+- **AI Generation Asset Pipeline:** Built the library every AI generation files into, shared by **3 web apps**: one function copies output out of expiring provider URLs, stores each file once by content key, keeps model, prompt and references, and retries in the background so filing never fails a job.
+- **Agent Access over MCP:** Built the auth that lets outside AI agents run apps over MCP: per-connection grants with **3 scopes** and per-day and per-run credit caps, RS256 tokens verified through JWKS, and rotating refresh tokens that revoke the grant on reuse.
+- **Stock Provider Adapter:** Integrated Unsplash, Pixabay and Pinterest behind one adapter that checks a spend limit before every paid call and caches searches in Redis per org.
 
 ### klimb.io @ Nov 2025 – May 2026
 *Full Stack Developer Intern* @ *TypeScript, Express.js, PostgreSQL, Redis, AWS*

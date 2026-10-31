@@ -1,0 +1,49 @@
+{
+  "pulled": "2026-10-26",
+  "scanned": 153,
+  "survived": 19,
+  "hits": [
+    {
+      "id": "rok:1137571",
+      "grade": "D",
+      "score": 30,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Klardaten",
+      "title": "Senior Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+      "posted": "2026-10-25T12:34:21+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "dev",
+        "senior",
+        "javascript",
+        "typescript",
+        "full stack",
+        "api"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "javascript",
+          "full stack",
+          "backend",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    }
+  ]
+}

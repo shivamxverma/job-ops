@@ -29,3 +29,17 @@ Attach: applications/zerogrunt-ai/resume.pdf (already attached in the Gmail draf
 ## Fallback
 Vraj Talati (Founding PM, 1st-degree, 450 mutuals). If no reply in a week, a short note to Vraj
 saying you emailed Saurav about the founding engineer role.
+
+## Reply — 2026-10-25 (to Saurav's 2026-10-22 questions)
+
+Saurav replied 2026-10-22 15:47 IST: "yours stood out enough that I want to take it forward",
+asked for (1) current comp + expectation, (2) start date, (3) a real example of using Claude Code /
+Cursor / Codex, "Please don't make this up". Unanswered for 3 days when found.
+
+Gmail draft r-2086528391198192786 on the thread (to Saurav, cc Ravi). Q3 is a placeholder: no
+AI-coding-tool story exists in facts.yaml or stories.md, so Shivam writes it himself. Add the
+story to profile/stories.md afterwards.
+
+Also corrects two things the first email got wrong against today's facts.yaml: "join
+immediately" (now 23 Nov) and the klimb.io AI interview platform line (never_claim since
+2026-10-23).

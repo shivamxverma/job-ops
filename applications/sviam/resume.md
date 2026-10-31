@@ -11,16 +11,14 @@
 - **Digital Asset Service:** Designed the org-scoped MongoDB models and FastAPI backend for one asset service shared by **3 apps**, migrated existing assets into it, and added upload-time duplicate blocking with pHash and dHash image similarity.
 
 ### klimb.io @ Nov 2025 – May 2026
-*Full Stack Developer Intern* @ *TypeScript, Express.js, PostgreSQL, Redis, AWS, OpenAI Realtime*
-- **AI Interview Platform:** Engineered the backend for a **3-stage** AI interview platform used by **hundreds of candidates**, with automated proctoring and strict candidate-level data isolation.
-- **Live Voice Interview Round:** Developed the round on OpenAI Realtime that asks each candidate questions drawn from their resume and scores the transcript into a structured result for recruiters.
+*Full Stack Developer Intern* @ *TypeScript, Express.js, PostgreSQL, Redis, AWS*
 - **Auditable Usage Ledger:** Replaced on/off feature flags with a PostgreSQL credit ledger that records every use of **6+ AI features**, which made usage-based billing possible.
 
 ## Projects
 
 ### CodeSM | [GitHub](https://github.com/shivamxverma/CodeSM) | [Live](https://code-sm.vercel.app/) | *Node.js, BullMQ, Redis, PostgreSQL, Docker*
 - **Sandboxed Code Execution:** Architected a code platform that runs untrusted submissions in **6 languages** in Docker with no network, a read-only filesystem, and CPU, memory, and time limits, graded on BullMQ workers off the request path.
-- **AI Interview Practice:** Added Gemini-generated hints (four per problem) and resume-personalized interview questions with written-answer scoring.
+- **AI Interview Practice:** Added Gemini-generated hints (**4** per problem) and resume-personalized interview questions with written-answer scoring, voiced through Murf AI.
 
 ### DeepDoc | [GitHub](https://github.com/shivamxverma/DeepDoc) | *RAG, TypeScript, Azure OpenAI, Pinecone, PostgreSQL*
 - **LLM Evaluation Harness:** Created a **36-case** evaluation harness (**6 multi-turn**, including Hinglish and prompt-injection cases) that replays retrieval sweeps, A/B tests prompts, and separates indexing, retrieval, and generation failures; it caught a bug that blanked every retrieved chunk.
@@ -28,10 +26,10 @@
 ### Hireflow | [GitHub](https://github.com/shivamxverma/hireflow) | *Node.js, BullMQ, PostgreSQL, Gemini, GPT-4o-mini*
 - **Guardrailed LLM Pipeline:** Shipped an AI job-application engine that parses listings into structured stack and seniority with Gemini, rewrites resume bullets with GPT-4o-mini, and rejects any rewritten skill not in the real profile; used for real applications.
 
-## Skills
+## Technical Skills
 
 **Languages:** Python, TypeScript, SQL, C++
-**AI Engineering:** LLM evaluation, RAG, context engineering, embeddings and vector search, query rewriting, prompt A/B testing, OpenAI Realtime
+**AI Engineering:** LLM evaluation, RAG, context engineering, embeddings and vector search, query rewriting, prompt A/B testing
 **Backend:** FastAPI, Node.js, Express.js, REST APIs, Celery, BullMQ, WebSockets
 **Data & Infrastructure:** Data modelling, PostgreSQL, MongoDB, Redis, Pinecone, Docker, Kubernetes, AWS (EC2, S3)
 **Frontend & Tooling:** React, Next.js, Playwright, Git, Linux, CI pipelines

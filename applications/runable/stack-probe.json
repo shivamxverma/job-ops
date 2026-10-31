@@ -1,0 +1,272 @@
+{
+  "domain": "runable.com",
+  "slug": "runable",
+  "probedAt": "2026-10-25T15:51:16.595Z",
+  "liveHosts": [
+    {
+      "host": "runable.com",
+      "status": 200,
+      "finalUrl": "https://runable.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "private, no-cache",
+        "cf-ray": "a502617ad9c1f56a-MAA",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sun, 25 Oct 2026 15:51:06 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
+        "vary": "accept-encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "www.runable.com",
+      "status": 200,
+      "finalUrl": "https://runable.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "private, no-cache",
+        "cf-ray": "a502618b8cf5350b-MAA",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sun, 25 Oct 2026 15:51:09 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
+        "vary": "accept-encoding",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    },
+    {
+      "host": "api.runable.com",
+      "status": 404,
+      "finalUrl": "https://api.runable.com/",
+      "csp": [],
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cf-cache-status": "DYNAMIC",
+        "cf-ray": "a50261810fdd5f2a-CJB",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-type": "text/plain; charset=UTF-8",
+        "date": "Sun, 25 Oct 2026 15:51:08 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "server": "cloudflare",
+        "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
+        "x-cloud-trace-context": "6834c68d98db5400aac525ad0062b78e",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-request-id": "a0919a05-bb82-482d-8bfb-fe1e5f70173c"
+      }
+    },
+    {
+      "host": "status.runable.com",
+      "status": 200,
+      "finalUrl": "https://status.runable.com/",
+      "csp": [],
+      "headers": {
+        "cache-control": "max-age=0, public, s-maxage=3, stale-while-revalidate=60",
+        "connection": "close",
+        "content-encoding": "gzip",
+        "content-length": "20",
+        "content-security-policy": "base-uri *; frame-ancestors *; connect-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; child-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; frame-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; media-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; font-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; form-action *; style-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; script-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; worker-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; img-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'; default-src * 'unsafe-inline' 'unsafe-eval' data: blob: 'unsafe-hashes'",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sun, 25 Oct 2026 15:51:08 GMT",
+        "feature-policy": "accelerometer 'none'; autoplay 'self' https://www.youtube.com; camera 'none'; encrypted-media 'none'; fullscreen 'self' https://www.youtube.com; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture *; usb 'none'",
+        "permissions-policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=*, usb=()",
+        "ratelimit-policy": "1000; w=60",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=63113904; includeSubDomains; preload",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-permitted-cross-domain-policies": "none",
+        "x-request-id": "9c1cb782-a976-4edd-ac3a-ba5de7cd24a8",
+        "x-runtime": "0.031703",
+        "x-xss-protection": "0"
+      }
+    }
+  ],
+  "undisclosedOwnHosts": [],
+  "embeddedVendorHosts": [],
+  "stack": [
+    {
+      "tech": "Cloudflare",
+      "kind": "cdn",
+      "seenOn": [
+        "runable.com",
+        "runable.com",
+        "www.runable.com",
+        "www.runable.com",
+        "api.runable.com",
+        "api.runable.com"
+      ],
+      "evidence": [
+        "server: cloudflare",
+        "cf-ray: a502617ad9c1f56a-MAA",
+        "cf-ray: a502618b8cf5350b-MAA",
+        "cf-ray: a50261810fdd5f2a-CJB"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "Rails",
+      "kind": "framework",
+      "seenOn": [
+        "status.runable.com"
+      ],
+      "evidence": [
+        "x-runtime: 0.031703"
+      ],
+      "onOwnHost": true,
+      "attribution": "only on a docs/status/blog host — likely the vendor's product, verify before claiming"
+    },
+    {
+      "tech": "request tracing",
+      "kind": "infra",
+      "seenOn": [
+        "api.runable.com",
+        "status.runable.com"
+      ],
+      "evidence": [
+        "x-request-id: a0919a05-bb82-482d-8bfb-fe1e5f70173c",
+        "x-request-id: 9c1cb782-a976-4edd-ac3a-ba5de7cd24a8"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    },
+    {
+      "tech": "HSTS set, no CSP",
+      "kind": "security-posture",
+      "seenOn": [
+        "runable.com",
+        "www.runable.com",
+        "api.runable.com"
+      ],
+      "evidence": [
+        "strict-transport-security present, content-security-policy absent"
+      ],
+      "onOwnHost": true,
+      "attribution": "their own hosts"
+    }
+  ],
+  "publicPaths": [
+    {
+      "url": "https://runable.com/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "\nUser-Agent: *\nContent-signal: search=yes,ai-input=yes,ai-train=yes\nAllow: /\nDisallow: /admin/\n\nSitemap: https://runable.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://runable.com/llms.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Runable\n\n> Runable is an AI agent for creating presentations, websites, apps, reports, documents, images, videos, carousels, workflows, and other finished work from a prompt.\n\nRunable is an interactive application. Visitors may enter a request while signed out, but authentication is required before Runable executes the task.\n\nFor AI agents, add `.md` to any public page URL to read its Markdown version. The links below already do. Runable generates Markdown from the same HTML the page serves, so the two always match.\n\n## Start here\n\n- [Runable overview](https://runable.com/): Understand what Runable is, what it creates, and how task execution works.\n- [Pricing](https://runable.com/pricing.m"
+    },
+    {
+      "url": "https://runable.com/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\n  <url>\n    <loc>https://runable.com/</loc>\n  </url>\n  <url>\n    <loc>https://runable.com/faq</loc>\n    <xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://runable.com/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"zh\" href=\"https://runable.com/zh/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"fil\" href=\"https://runable.com/fil/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"de\" href=\"https://runable.com/de/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"uk\" href=\"https://runable.com/uk/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"pt\" hr"
+    },
+    {
+      "url": "https://www.runable.com/robots.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "crawl rules, and sitemaps/admin paths they name themselves",
+      "preview": "\nUser-Agent: *\nContent-signal: search=yes,ai-input=yes,ai-train=yes\nAllow: /\nDisallow: /admin/\n\nSitemap: https://runable.com/sitemap.xml\n"
+    },
+    {
+      "url": "https://www.runable.com/llms.txt",
+      "status": 200,
+      "contentType": "text/plain",
+      "why": "they publish an LLM-facing map of their own docs",
+      "preview": "# Runable\n\n> Runable is an AI agent for creating presentations, websites, apps, reports, documents, images, videos, carousels, workflows, and other finished work from a prompt.\n\nRunable is an interactive application. Visitors may enter a request while signed out, but authentication is required before Runable executes the task.\n\nFor AI agents, add `.md` to any public page URL to read its Markdown version. The links below already do. Runable generates Markdown from the same HTML the page serves, so the two always match.\n\n## Start here\n\n- [Runable overview](https://runable.com/): Understand what Runable is, what it creates, and how task execution works.\n- [Pricing](https://runable.com/pricing.m"
+    },
+    {
+      "url": "https://www.runable.com/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml; charset=utf-8",
+      "why": "surface inventory: how many pages, what sections exist",
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\n  <url>\n    <loc>https://runable.com/</loc>\n  </url>\n  <url>\n    <loc>https://runable.com/faq</loc>\n    <xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://runable.com/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"zh\" href=\"https://runable.com/zh/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"fil\" href=\"https://runable.com/fil/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"de\" href=\"https://runable.com/de/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"uk\" href=\"https://runable.com/uk/faq\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"pt\" hr"
+    }
+  ],
+  "dns": [
+    {
+      "host": "runable.com",
+      "a": [
+        "104.18.14.49",
+        "104.18.15.49"
+      ],
+      "mx": [
+        "smtp.google.com"
+      ],
+      "txt": [
+        "google-site-verification=hnWYg_2Cnv8NjWU01uvboFo5QEvgudTwu-JtX5TN8mE",
+        "google-site-verification=mDPn9ALDeCP_g1XgjfHOD8HwS8YGx-KoZ3Zmw4HP0Wk",
+        "hosting-site=runable-458805",
+        "twilio-domain-verification=a5efc0d4e60add3060f66cabd4080744",
+        "v=MCPv1; k=ed25519; p=8DxpXN0NcWzOTBX5b0pueRMGDT+BpUPT2mPWoqvR6Aw=",
+        "v=spf1 include:_spf.google.com ~all",
+        "MS=ms76145123",
+        "facebook-domain-verification=cjweiyluc03pqj4g7y5tpuqgyo2dcn",
+        "google-site-verification=Kf6PB_LPvOJnEf_UJCkf3akXfIM4DIgX7w87J-zfFs0",
+        "google-site-verification=V92j6CszFC0eme3eRNuogjpMYejfen0h56WZJdW7w9w",
+        "google-site-verification=YOhi5YZG7YQ4OvkSUwFeC7T8jGoMRwSHQmuAISdal0k",
+        "google-site-verification=b-01Qwp2wSwnHL-h_bMKmNAG0G6p-_cWVLw8SuFTBP0"
+      ],
+      "vendors": [
+        "Google Workspace (mail)",
+        "SPF/DMARC configured"
+      ]
+    }
+  ],
+  "ats": [],
+  "appStore": {
+    "query": "runable",
+    "results": [
+      {
+        "name": "Runable - AI for Work",
+        "seller": "Runable Inc",
+        "updated": "2026-09-27T14:39:03Z"
+      },
+      {
+        "name": "Runable",
+        "seller": "PragmaTec",
+        "updated": "2026-06-04T23:02:19Z"
+      },
+      {
+        "name": "러너블",
+        "seller": "RUNABLE Co., Ltd",
+        "updated": "2026-05-06T00:46:58Z"
+      },
+      {
+        "name": "Runable: Ranked Running",
+        "seller": "CURTIS POHAN LEE",
+        "updated": "2026-04-24T20:11:04Z"
+      },
+      {
+        "name": "Claude by Anthropic",
+        "seller": "Anthropic PBC",
+        "updated": "2026-10-24T15:18:20Z"
+      }
+    ]
+  },
+  "notRun": [
+    "GitHub org: node gh-tools/recon.mjs <org> --out",
+    "PR wedge: node gh-tools/pr-wedge.mjs <org>",
+    "Engineering blog, changelog, and status-page incident history: read them by hand"
+  ]
+}

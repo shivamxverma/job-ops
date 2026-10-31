@@ -1,0 +1,88 @@
+{
+  "pulled": "2026-10-27",
+  "scanned": 153,
+  "survived": 21,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/the-cool-company/jobs/full-stack-engineer",
+      "grade": "D",
+      "score": 37,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "The COOL Company",
+      "title": "Full Stack Engineer",
+      "url": "https://himalayas.app/companies/the-cool-company/jobs/full-stack-engineer?utm_source=api",
+      "posted": 1793100814,
+      "location": "India, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Full-Stack-Engineering",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Product-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "full-stack",
+          "full stack",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, full-stack, full stack",
+        "reachable: restrictions include India"
+      ]
+    },
+    {
+      "id": "rok:1137572",
+      "grade": "D",
+      "score": 30,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Wagmo",
+      "title": "Senior Software Engineer LATAM",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+      "posted": "2026-10-26T08:00:06+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "dev",
+        "design",
+        "react",
+        "sys admin",
+        "python",
+        "django",
+        "typescript",
+        "senior"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    }
+  ]
+}

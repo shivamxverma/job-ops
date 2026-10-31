@@ -11,3 +11,7 @@ No dossier or tech-read was done for this one.
 
 The full sent text lives in the Gmail thread; read it before drafting the follow-up so the
 nudge adds something new instead of repeating it.
+
+## Follow-up (touch 2), drafted 2026-10-25
+
+Gmail draft r2230168504757830141, a reply on the original thread. Adds one new proof point (Hireflow 4-source SHA-256 dedup) and the 23 Nov start date; checked 2026-10-25 that no reply or bounce came in. Send Monday 2026-10-26. This is touch 2 of 2: if silent 7 days after sending, mark ghosted.

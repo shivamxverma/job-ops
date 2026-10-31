@@ -1,0 +1,31 @@
+{
+  "company": "superapp",
+  "role": "Software Engineer, Full-Stack (Early Careers), Bengaluru",
+  "generated": "2026-10-25",
+  "channel": "Greenhouse https://job-boards.greenhouse.io/superapp/jobs/8829824002",
+  "identity": {
+    "first_name": "Shivam",
+    "last_name": "Verma",
+    "full_name": "Shivam Kumar Verma",
+    "email": "shivam0xverma@gmail.com",
+    "phone": "+91 91356 68614",
+    "location": "India",
+    "country": "India",
+    "linkedin": "https://www.linkedin.com/in/shivamv99/",
+    "github": "https://github.com/shivamxverma",
+    "portfolio": "https://www.shivamworks.dev/"
+  },
+  "resume_file": "resume.pdf",
+  "answers": [
+    {
+      "label": "Cover Letter",
+      "type": "textarea",
+      "value": "AI Hub's hard part looks like the one I keep running into: an extraction is only useful if you can tell when it's wrong. In DeepDoc I built a 36-case eval harness that separates indexing, retrieval and generation failures, and in Hireflow a validator rejects any LLM output that isn't in the source data, so the model can't invent a field. At poiro.com I built the node and group system for an AI workflow builder, where groups run as sub-workflows. I graduated from IIIT Nagpur in 2026, can work from Bengaluru, and can start on 23 November."
+    }
+  ],
+  "notes_for_shivam": [
+    "Greenhouse form: 6 required identity fields + resume upload + optional cover letter (paste the textarea value).",
+    "Resume: applications/superapp/resume.pdf (AI framing + Hireflow, 1 page).",
+    "Review every field, then click Submit yourself."
+  ]
+}

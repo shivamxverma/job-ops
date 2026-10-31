@@ -1,7 +1,84 @@
 {
-  "generated": "2026-10-23T14:03:53.977Z",
+  "generated": "2026-10-30T13:59:32.851Z",
   "note": "The queue behind `node scripts/actions.mjs`. Skills write items here; the board renders them and writes the result back into the repo when every step of a card is checked. Keep `steps` to things SHIVAM does with his own hands — anything Claude does is not a step, it is a sentence in `background`.",
   "items": [
+    {
+      "id": "reply-structured-ai-2026-10-25",
+      "kind": "action",
+      "company": "Structured AI",
+      "grade": "?",
+      "title": "Structured AI: Raymond replied in 3 minutes, answer him",
+      "sub": "Raymond (founder): \"How good are you at Mario Kart?\" A one-line vibe check right after your follow-up. Draft keeps it light and asks for a call.",
+      "links": [
+        {
+          "label": "The thread",
+          "url": "https://mail.google.com/mail/?authuser=shivam0xverma@gmail.com#all/thread-a:r-3709094380093312460"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Open the Gmail draft",
+          "action": "open",
+          "target": "https://mail.google.com/mail/u/0/#search/in%3Adrafts+structured"
+        },
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/structured-ai"
+        }
+      ],
+      "steps": [
+        "Read the draft, and swap the first line for your real Mario Kart answer if you have a better one",
+        "Send it"
+      ],
+      "background": "Your follow-up (touch 2) went out 2026-10-25 17:22 UTC and he answered 17:25 UTC. Mario Kart is not in your profile, so the draft does not claim any skill. If he is testing for culture, a real answer (your main, your track) beats a clever one. No dossier or tech-read exists for Structured AI yet: if he books a call, run /company-research and /tech-read first.",
+      "onDone": {
+        "tracker": {
+          "company": "Structured AI",
+          "status": "replied",
+          "followUp": "+7d"
+        }
+      }
+    },
+    {
+      "id": "reply-zerogrunt-2026-10-25",
+      "kind": "action",
+      "company": "Zerogrunt AI",
+      "grade": "A-",
+      "title": "ZeroGrunt: the CTO replied 3 days ago, answer him",
+      "sub": "Saurav (CTO): \"yours stood out enough that I want to take it forward\". Wants comp, start date and one real Claude Code/Cursor example before setting up a call.",
+      "links": [
+        {
+          "label": "The thread",
+          "url": "https://mail.google.com/mail/?authuser=shivam0xverma@gmail.com#all/thread-f:1879684446902753762"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Open the Gmail draft",
+          "action": "open",
+          "target": "https://mail.google.com/mail/u/0/#search/in%3Adrafts+zerogrunt"
+        },
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/zerogrunt-ai"
+        }
+      ],
+      "steps": [
+        "Write answer 3 yourself in the draft: a real example of using Claude Code / Cursor / Codex, 2-3 lines, link if you have one",
+        "Read the rest of the draft (comp, start date, the klimb correction)",
+        "Send it"
+      ],
+      "background": "Saurav replied 2026-10-22 15:47 IST and it sat unanswered until today. Answers 1 and 2 come from facts.yaml (Rs 35k/month stipend, expecting 10-18 LPA; start 23 Nov). Answer 3 is left blank on purpose: there is no AI-coding-tool story in your profile, and he says it will show if it is made up. The draft also corrects two lines from your first email that no longer match your profile: \"join immediately\" and the klimb.io AI interview platform claim. Afterwards, add your answer 3 to profile/stories.md so it can be reused.",
+      "onDone": {
+        "tracker": {
+          "company": "Zerogrunt AI",
+          "status": "replied",
+          "followUp": "+7d"
+        }
+      }
+    },
     {
       "id": "deciops-screening",
       "kind": "action",
@@ -1076,29 +1153,42 @@
       }
     },
     {
-      "id": "lead-kontxt-dev-2026-10-24",
-      "kind": "lead",
+      "id": "kontxt-dm-apply-2026-10-27",
+      "kind": "action",
       "company": "Kontxt.dev",
       "grade": "B",
-      "title": "Kontxt.dev: SDE (Full Stack + AI), first engineer, Remote India",
-      "sub": "0-3 yrs, remote India, first engineering hire.",
+      "title": "Kontxt.dev: DM Aman Singh, then apply on Weekday",
+      "sub": "First engineer, remote India. DM asks whether it is salaried before you invest more.",
       "links": [
         {
-          "label": "Posting",
+          "label": "Aman Singh (LinkedIn)",
+          "url": "https://www.linkedin.com/in/aman-singh91/"
+        },
+        {
+          "label": "Weekday listing",
           "url": "https://jobs.weekday.works/software-engineer-at-kontxt-dev-wkdybri15h"
         },
         {
-          "label": "Company",
-          "url": "https://kontxt.co.in"
+          "label": "kontxt.co.in",
+          "url": "https://www.kontxt.co.in"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Show folder",
+          "type": "reveal",
+          "path": "applications/kontxt-dev"
         }
       ],
       "steps": [
-        "Passing on this one"
+        "Send the DM in applications/kontxt-dev/outreach.md to Aman",
+        "Apply on Weekday with applications/kontxt-dev/resume.pdf"
       ],
-      "background": "0-3 yrs, remote India, first engineering hire. FastAPI + Next.js + Postgres + Qdrant + AWS Lambda/Bedrock, context orchestration for AI coding tools (GitHub/Jira/Slack integrations). Listing is on Weekday; find the founder and email direct. Check comp before investing, very early.\n\nSource: Weekday listing, date unknown. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Kontxt.dev\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
-      "onDone": {
-        "markProcessed": "skip"
-      }
+      "background": "Risk: every visible Kontxt person is a full-time DViO Digital SDE, no founder named, no funding, waitlist-only product. Could be equity-heavy. Aman owns the Kontxt-dev GitHub org, so he is the likely technical founder. Tracker row says sent, follow-up 2026-11-03.",
+      "tags": [
+        "apply",
+        "dm"
+      ]
     },
     {
       "id": "lead-wyre-ai-2026-10-24",
@@ -1151,104 +1241,682 @@
       }
     },
     {
-      "id": "lead-zoca-2026-10-24",
-      "kind": "lead",
-      "company": "Zoca",
+      "id": "lead-runable-2026-10-25",
+      "kind": "action",
+      "company": "Runable",
+      "grade": "A",
+      "title": "Runable: send the application email + alumni invite",
+      "sub": "AI agent that runs long jobs in secure sandboxes with resumable workflows: CodeSM is the same shape. New-grad seat, apply by email.",
+      "links": [
+        {
+          "label": "Posting",
+          "url": "https://runable.com/careers/software-engineer-intern-new-grad"
+        },
+        {
+          "label": "Company",
+          "url": "https://runable.com"
+        },
+        {
+          "label": "Ashutosh Singh (IIITN alum, eng @ Runable)",
+          "url": "https://www.linkedin.com/in/4shutosh/"
+        },
+        {
+          "label": "Co-founder Umesh Kumar",
+          "url": "https://www.linkedin.com/in/umesh-k-iitr/"
+        },
+        {
+          "label": "Gmail draft",
+          "url": "https://mail.google.com/mail/?authuser=shivam0xverma@gmail.com#drafts"
+        }
+      ],
+      "steps": [
+        "Open the Gmail draft to team@runable.com, type your two links where the [SHIVAM] markers are (code-sm.vercel.app and github.com/shivamxverma), then send",
+        "Send Ashutosh Singh the connection invite with the note from inbox/referrals.md"
+      ],
+      "background": "Runable ($21M raised, founded April 2025, ~14 engineers in Bengaluru) builds an AI agent for small-business ops: builds and deploys sites/apps, long-running work in secure sandboxes. The intern seat works on agent runtime, durable execution, evals, infra cost. Asks for ONE of: top academic distinction, strong CP record, or meaningful OSS (LeetCode top 5% / 1,800+ covers it), plus one system you can explain end to end (CodeSM: Docker sandboxes, 6 languages, BullMQ grading off the request path). Nice-to-haves are TypeScript, backend, sandboxed execution. Process: 15-min founder call, then a paid-style work-day trial in their office. Stipend Rs 80k/month per HireDoor (unverified). Bengaluru on-site; you are free from 23 Nov.\n\nApply: email team@runable.com with GitHub + one thing built + what you owned. \"A short note beats a long resume.\"\n\nWarm path: Ashutosh Singh (Engineering @ Runable, IIIT Nagpur alum, 2nd°, 200+ mutuals). Invite note + ask drafted in inbox/referrals.md (Run 2026-10-25).\n\nSource: X aggregator post (@RohoolAgi, L3 poster), verified on Runable own careers page 2026-10-25. Worked 2026-10-25: dossier, tech-read and the email are in applications/runable/. Tracker row logged sent, follow-up 2026-11-01.",
+      "buttons": [
+        {
+          "label": "Open Gmail drafts",
+          "action": "open",
+          "target": "https://mail.google.com/mail/u/0/#search/in%3Adrafts+runable"
+        },
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/runable"
+        }
+      ]
+    },
+    {
+      "id": "lumari-2026-10-25",
+      "kind": "action",
+      "company": "Lumari (YC X25)",
+      "grade": "B+",
+      "title": "Lumari: send the CTO a connection invite",
+      "sub": "AI agents that pull quotes out of supplier PDFs and emails. Own site says Remote (IN), new grads ok; the YC posting says US visa only, so ask before applying.",
+      "links": [
+        {
+          "label": "Sam Lamba (CTO)",
+          "url": "https://www.linkedin.com/in/samarthlamba/"
+        },
+        {
+          "label": "Posting (own site)",
+          "url": "https://lumari.io/careers/software-engineer"
+        },
+        {
+          "label": "YC posting (US visa only)",
+          "url": "https://www.ycombinator.com/companies/lumari/jobs/EaQMR7l-software-engineer"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/lumari"
+        }
+      ],
+      "steps": [
+        "Connect with Sam Lamba, pasting the invite note from applications/lumari/outreach.md (Stage 1)"
+      ],
+      "background": "Why not WaaS: it costs 1 of your 5 weekly YC applications and the YC version of the role is US citizen/visa only. The message for after he accepts is in outreach.md (Stage 2): it asks whether the India seat is real and offers the Hireflow validator as proof. The JD also asks for a power user of Cursor/Claude Code; that is the same story ZeroGrunt asked for, so writing it once covers both.",
+      "onDone": {
+        "tracker": {
+          "company": "Lumari (YC X25)",
+          "status": "awaiting-connection",
+          "followUp": "none"
+        }
+      }
+    },
+    {
+      "id": "superapp-2026-10-25",
+      "kind": "action",
+      "company": "Superapp",
       "grade": "B",
-      "title": "Zoca: SDE-1, Bangalore in-office",
-      "sub": "0-2 yrs, Bangalore in-office, 10-15 LPA.",
+      "title": "SuperApp (ex-Instabase): submit the Greenhouse form",
+      "sub": "Early-careers full-stack seat on AI Hub (agentic document extraction), Bengaluru. Resume + cover note ready.",
       "links": [
         {
+          "label": "Application form",
+          "url": "https://job-boards.greenhouse.io/superapp/jobs/8829824002"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/superapp"
+        }
+      ],
+      "steps": [
+        "Open the form, let the extension autofill from pack.json, attach applications/superapp/resume.pdf",
+        "Review every field and click Submit"
+      ],
+      "background": "SuperApp is Instabase renamed (same founder, Greylock lists it under /instabase/). The India team works mostly on AI Hub: extraction, workflow orchestration, evaluation and human review. Resume is your AI resume plus Hireflow (the validator that stops the model inventing fields). The optional cover-letter box gets the 97-word note in pack.json. Gap: they list Go, which you do not claim.",
+      "onDone": {
+        "tracker": {
+          "company": "Superapp",
+          "status": "sent",
+          "followUp": "+7d"
+        }
+      }
+    },
+    {
+      "id": "wyre-2026-10-25",
+      "kind": "action",
+      "company": "Wyre AI",
+      "grade": "B",
+      "title": "Wyre AI: fill and submit the Google Form",
+      "sub": "Junior AI Engineer, remote India, 0-2 yrs: RAG and extraction over construction PDFs. DeepDoc is the JD. Answers written.",
+      "links": [
+        {
+          "label": "Application form",
+          "url": "https://forms.gle/BNbu14ypHwg4x3LdA"
+        },
+        {
           "label": "Posting",
-          "url": "https://jobs.weekday.works/humanbit.ai-software-engineer"
+          "url": "https://wyreai.io/career/junior-ai-engineer-generative-ai/"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/wyre-ai"
+        }
+      ],
+      "steps": [
+        "Decide the Hyderabad question (drafted as No, per your Bangalore-only rule)",
+        "Paste the answers from applications/wyre-ai/application.md and upload resume.pdf",
+        "Review and Submit"
+      ],
+      "background": "Founder previously sold Pype to Autodesk. The form asks whether you would work from Hyderabad in future; your profile says onsite only in Bangalore, so it is drafted No. Change it if you would consider Hyderabad, because No may filter you out. Compensation answers: Rs 35k/month stipend now, 10-18 LPA expected. Start: 1 month (23 Nov).",
+      "onDone": {
+        "tracker": {
+          "company": "Wyre AI",
+          "status": "sent",
+          "followUp": "+7d"
+        }
+      }
+    },
+    {
+      "id": "binocs-2026-10-25",
+      "kind": "action",
+      "company": "Binocs.co",
+      "grade": "B",
+      "title": "Binocs: submit the form, then accept Satyam on LinkedIn",
+      "sub": "SDE I, 0-1 yrs, Bengaluru onsite, Rs 10-15L. Loan software for private-credit lenders. An intern there has a pending invite to you.",
+      "links": [
+        {
+          "label": "Application form",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSe1Qd58-AbBUn0bR-Iu4fK8WTMTD72gfTNQJGELma496sHBXA/viewform"
+        },
+        {
+          "label": "JD (Notion)",
+          "url": "https://binocsco.notion.site/Binocs-Open-positions-13dc18d836c34031a6108082e4986676"
+        },
+        {
+          "label": "Pending LinkedIn invitations",
+          "url": "https://www.linkedin.com/mynetwork/invitation-manager/"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/binocs"
+        }
+      ],
+      "steps": [
+        "Fill the form from applications/binocs/application.md, upload resume.pdf, Submit",
+        "Accept Satyam (SDE Intern @ Binocs) on LinkedIn and send the one-line ask in application.md"
+      ],
+      "background": "Current location is drafted as Warisaliganj, Bihar from your profile; change it if you are in Bengaluru now. Current salary is written as 0 LPA fixed plus the Rs 35k/month stipend, never annualised. Expected 10-18 LPA (their band is 10-15). Notice 30 days.",
+      "onDone": {
+        "tracker": {
+          "company": "Binocs.co",
+          "status": "sent",
+          "followUp": "+7d"
+        }
+      }
+    },
+    {
+      "id": "sarvam-infra-submit-2026-10-27",
+      "kind": "action",
+      "company": "Sarvam (Infrastructure Engineer)",
+      "grade": "B",
+      "title": "Sarvam: submit Infrastructure Engineer (CPU Infra)",
+      "sub": "Form is name, email, phone, resume. Upload resume-infra.pdf, not resume.pdf.",
+      "links": [
+        {
+          "label": "Apply on Ashby",
+          "url": "https://jobs.ashbyhq.com/sarvam/f09b6a35-e2d1-4833-8bc5-2b495991d882/application"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Show folder",
+          "type": "reveal",
+          "path": "applications/sarvam"
+        }
+      ],
+      "steps": [
+        "Upload applications/sarvam/resume-infra.pdf and submit"
+      ],
+      "background": "Dossier, tech-read and a resume tailored to infra (ats 88) are in applications/sarvam. Tracker row already says sent, follow-up 2026-11-03. Third Sarvam application this week.",
+      "tags": [
+        "apply"
+      ]
+    },
+    {
+      "id": "dm-vimal-superkalam-2026-10-26",
+      "kind": "network",
+      "company": "SuperKalam",
+      "grade": "?",
+      "title": "DM Vimal Singh Rathore: Founder, SuperKalam (YC W23)",
+      "sub": "AI UPSC learning, Bengaluru. Hook: DeepDoc eval harness with Hinglish cases.",
+      "links": [
+        {
+          "label": "LinkedIn profile",
+          "url": "https://www.linkedin.com/in/vimalsinghrathore/"
+        }
+      ],
+      "steps": [
+        "Open the thread and check you haven't already talked",
+        "Send the DM from inbox/replies.md (section {title.split(':')[0].replace('DM ','')})"
+      ],
+      "background": "Wave 1. Their YC page lists only content/educator roles and says to write in if nothing fits."
+    },
+    {
+      "id": "lead-rox-ai-2026-10-27",
+      "kind": "lead",
+      "company": "Rox AI",
+      "grade": "B",
+      "title": "Rox AI: Backend Platform Engineer (BLR), Bengaluru onsite",
+      "sub": "Agent workflows on SQS/Kafka/Python at a Sequoia/GV-backed startup; 2+ yrs only \"a plus\". Site lead is 2nd° and posting that he is hiring.",
+      "links": [
+        {
+          "label": "Posting (Ashby)",
+          "url": "https://jobs.ashbyhq.com/Rox-Data-Corp/6e6b44f9-8bc2-4dfa-9432-5a0d2931a113"
         },
         {
           "label": "Company",
-          "url": "https://zoca.com"
+          "url": "https://rox.com"
+        },
+        {
+          "label": "Chanakya Reddy (Site Lead, 2nd°)",
+          "url": "https://www.linkedin.com/in/chanakyareddy/"
+        },
+        {
+          "label": "Ben Lang thread (source)",
+          "url": "https://x.com/benln/status/2113624869493444837"
         }
       ],
       "steps": [
         "Passing on this one"
       ],
-      "background": "0-2 yrs, Bangalore in-office, 10-15 LPA. AI agents for local businesses (lead follow-up, SEO, loyalty); backend APIs powering AI workflows. Listing via Weekday (posted as humanbit.ai), date unknown: confirm on Zoca's own careers page.\n\nSource: Weekday listing. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Zoca\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
-      "onDone": {
-        "markProcessed": "skip"
-      }
+      "background": "Found by /x-scout on 2026-10-27 in Ben Lang's \"50+ startups hiring\" thread (2026-10-23), which lists Rox as hiring in Bengaluru. 1 of their 36 Ashby roles is in India.\n\nThe seat: multi-step agent workflows, evals, Aurora/DynamoDB/S3, SQS/Kafka/Spark, Python + Flask + Next.js on AWS/Vercel. \"2+ years of work experience is a plus\", so not a hard bar. Fit: poiro.com Python/FastAPI/Celery work plus the provider adapter layer with fail-closed spend caps, and Chatterly for Kafka.\n\nDocks: posting dated 2025-09-26 (evergreen req, though the thread and Chanakya's headline say hiring now), some US Pacific overlap expected, onsite.\n\nWarm path: Chanakya Reddy, Site Lead at Rox, headline \"Growing India Team | Hiring (Platform • Fullstack)\", 2nd°. Founding engineers Sanchit Gupta (18 mutuals) and Ayan Sharma (12 mutuals) are also 2nd°. The connect note to Chanakya is its own network card.\n\nTo work it, say \"work Rox\" in chat: dossier, tech-read, tailored resume, then the Ashby form. Tick the step only to drop it."
     },
     {
-      "id": "lead-lokal-2026-10-24",
-      "kind": "lead",
-      "company": "Lokal",
-      "grade": "B-",
-      "title": "Lokal (YC): Backend Developer, SDE 1, Bengaluru onsite",
-      "sub": "0-2 yrs, Bengaluru onsite, Series B, 45M downloads.",
+      "id": "signals-2026-10-27",
+      "kind": "signal",
+      "company": "BioStack Nets",
+      "grade": "A",
+      "title": "3 funding signals: BioStack, Matiks, axiTrust",
+      "sub": "None has an engineering opening anywhere I could find. BioStack (Peak XV seed, medical-AI datasets) is the only one worth a look.",
       "links": [
         {
-          "label": "Posting",
-          "url": "https://platform.uplers.com/talent/all-opportunities/HR1174289865212412"
+          "label": "BioStack (Inc42)",
+          "url": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/"
+        },
+        {
+          "label": "Matiks (Inc42)",
+          "url": "https://inc42.com/buzz/matiks-bags-10-mn-to-take-its-puzzle-gaming-platform-global/"
+        },
+        {
+          "label": "axiTrust careers",
+          "url": "https://www.axitrust.com/careers"
+        }
+      ],
+      "steps": [
+        "Passing on these"
+      ],
+      "onDone": {
+        "markProcessed": "signal-skip",
+        "slug": "BioStack Nets"
+      },
+      "background": "BioStack: $9.5M, Peak XV-led, builds training datasets for medical AI. biostack.ai is a parked domain for sale, and no Ashby/Lever/Greenhouse board exists. A data-pipeline seat is plausible, but the only way in is finding the founder on LinkedIn. Say \"work BioStack\" for that.\n\nMatiks: $10M, consumer puzzle-gaming app going global. Site 403s bots, no ATS board found. Graded B by the script, but it is consumer gaming with no stated backend hiring.\n\naxiTrust: raising $5M, surety-bond fintech for MSMEs. Careers page lists no engineering roles.\n\nTicking marks BioStack skipped in signals.md. Matiks and axiTrust stay [ ] until a sweep."
+    },
+    {
+      "id": "simplismart-signal-2026-10-27",
+      "kind": "signal",
+      "company": "Simplismart",
+      "grade": "B",
+      "title": "Simplismart raised $14M (Nvidia, Dallas VC)",
+      "sub": "AI inference infra, 11-50 people. Best infra fit of today's signals, but no openings posted anywhere.",
+      "links": [
+        {
+          "label": "The news",
+          "url": "https://inc42.com/buzz/simplismart-bags-14-mn-to-expand-ai-inference-platform/"
         },
         {
           "label": "Company",
-          "url": "https://getlokalapp.com"
+          "url": "https://simplismart.ai"
+        },
+        {
+          "label": "LinkedIn jobs (empty)",
+          "url": "https://www.linkedin.com/company/simplismart/jobs/"
         }
       ],
       "steps": [
         "Passing on this one"
       ],
-      "background": "0-2 yrs, Bengaluru onsite, Series B, 45M downloads. Python/Java/JS backend, SQL+NoSQL, websockets/video a plus. Via Uplers, posting date unknown: check Lokal's own careers page or a 1st-degree contact first.\n\nSource: Uplers listing. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Lokal\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
       "onDone": {
-        "markProcessed": "skip"
-      }
+        "markProcessed": "signal-skip",
+        "slug": "Simplismart"
+      },
+      "background": "Checked 2026-10-27: no Ashby/Lever/Greenhouse board, /careers redirects to the homepage, LinkedIn jobs tab says \"No jobs right now\", no IIIT Nagpur alumni there. Fresh $14M for an inference platform usually means hiring infra engineers soon. Say \"work Simplismart\" to find the founders and draft a direct note (Yuvro, the Kubernetes per-workspace runtime, is the artifact to lead with)."
     },
     {
-      "id": "lead-mindtickle-2026-10-24",
-      "kind": "lead",
-      "company": "Mindtickle",
-      "grade": "C+",
-      "title": "Mindtickle: AI Product Engineer, Pune / Bengaluru",
-      "sub": "internal 'enterprise brain': integrations/webhooks into CRM + ticketing, agentic workflows, RAG with evals.",
+      "id": "signals-sweep-2026-10-27b",
+      "kind": "signal",
+      "company": "Live2.ai",
+      "grade": "B",
+      "title": "4 more funding signals, none checked",
+      "sub": "Live2.ai (AI marketing SaaS, ₹130 Cr), Cent (preventive health, $15M), Mochatrade (US stocks for Indians, $5.5M). Troovy/Rotoris are consumer brands, ignore.",
       "links": [
         {
-          "label": "Posting",
-          "url": "https://jobs.lever.co/mindtickle/864ac315-d7c5-4cd5-ab44-0e33d08f48f1"
-        },
-        {
-          "label": "Company",
-          "url": "https://mindtickle.com"
+          "label": "inbox/signals.md",
+          "url": "file:///Users/shivamverma/projects/job-ops/inbox/signals.md"
         }
       ],
       "steps": [
-        "Passing on this one"
+        "Passing on these"
       ],
-      "background": "internal 'enterprise brain': integrations/webhooks into CRM + ticketing, agentic workflows, RAG with evals. 50% software / 30% AI / 20% SQL analytics. Live on Lever (ats-scout found it 2026-10-21, never graded). Years bar not stated in the excerpt; read the full JD.\n\nSource: ats-scout, Lever. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Mindtickle\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
       "onDone": {
-        "markProcessed": "skip"
-      }
+        "markProcessed": "signal-skip",
+        "slug": "Live2.ai"
+      },
+      "background": "Scripted grades only. None has a public ATS board on Ashby. Say \"work Live2\" / \"work Cent\" / \"work Mochatrade\" to check careers pages and warm paths. Ticking marks only Live2.ai skipped; the rest stay [ ]."
     },
     {
-      "id": "lead-wisdom-ai-2026-10-24",
-      "kind": "lead",
+      "id": "wisdom-ai-submit-2026-10-27",
+      "kind": "action",
       "company": "Wisdom AI",
-      "grade": "C+",
-      "title": "Wisdom AI: Software Engineer, Backend, Bengaluru onsite",
-      "sub": "founding-team backend/infra seat on latency-critical analytics data pipelines; customers Cisco, Patreon, Rubrik.",
+      "grade": "C",
+      "title": "Wisdom AI: submit Backend Engineer (founding team)",
+      "sub": "Form is name, email, phone, resume, and one on-site question.",
       "links": [
         {
-          "label": "Posting",
-          "url": "https://jobs.ashbyhq.com/wisdom-ai/38997748-01fd-4a16-84e9-a135fb056908"
+          "label": "Apply on Ashby",
+          "url": "https://jobs.ashbyhq.com/wisdom-ai/38997748-01fd-4a16-84e9-a135fb056908/application"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Show folder",
+          "type": "reveal",
+          "path": "applications/wisdom-ai"
+        }
+      ],
+      "steps": [
+        "Upload applications/wisdom-ai/resume.pdf, answer the Bangalore question with \"No, but willing to relocate\", submit"
+      ],
+      "background": "C+ long shot: they want large-scale data pipeline experience. Reused the Sarvam infra resume. Tracker row says sent, follow-up 2026-11-03.",
+      "tags": [
+        "apply"
+      ]
+    },
+    {
+      "id": "aditi-thanks-2026-10-27",
+      "kind": "network",
+      "company": "Moveworks",
+      "title": "Aditi Sahu replied: Moveworks not hiring freshers",
+      "sub": "Send a one-line thank-you; the referral path is closed for now.",
+      "links": [
+        {
+          "label": "LinkedIn messages",
+          "url": "https://www.linkedin.com/messaging/"
+        }
+      ],
+      "steps": [
+        "Send: Got it, thanks for the honest answer Aditi. I'll keep an eye on the ServiceNow careers page for Moveworks. Appreciate you taking the time!"
+      ],
+      "background": "Her reply 2026-10-27 20:31: check ServiceNow careers for Moveworks, mostly senior roles, no freshers. referrals.md row closed, no nudge.",
+      "tags": [
+        "reply"
+      ]
+    },
+    {
+      "id": "followup-hevo-data-2026-10-28",
+      "kind": "action",
+      "subkind": "followup",
+      "company": "Hevo Data",
+      "grade": "A",
+      "title": "Hevo: submit the Lever form, Samyak said apply direct",
+      "sub": "Samyak, Oct 29: his referral won't help, he has already referred others. The nudge is obsolete. Lever has never been submitted (no receipt in Gmail).",
+      "links": [
+        {
+          "label": "Samyak thread",
+          "url": "https://www.linkedin.com/messaging/thread/2-MTc3OTJiMGUtYzMxMy00OWRkLWIwYzItYjY2MTZiZjUzN2M1XzEwMA==/"
+        },
+        {
+          "label": "Lever form",
+          "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a/apply"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/hevo-data"
+        }
+      ],
+      "steps": [
+        "Rebuild the resume from resumes/base.md (the Oct 21 resume.pdf carries the retracted klimb.io bullet)",
+        "Submit the Lever form"
+      ],
+      "background": "Updated 2026-10-30 after reading the Samyak thread. Details in applications/hevo-data/outreach.md under 2026-10-30.",
+      "onDone": {
+        "tracker": {
+          "company": "Hevo Data",
+          "status": "followed-up",
+          "followUp": "+7d"
+        }
+      },
+      "workable": true
+    },
+    {
+      "id": "followup-answerthis-2026-10-28",
+      "kind": "action",
+      "subkind": "followup",
+      "company": "AnswerThis",
+      "grade": "A",
+      "title": "AnswerThis: follow up with Ayush, and correct the klimb line",
+      "sub": "A week since the YC application and DM, no reply. The resume behind the application has the retracted AI-interviewer bullet, so this follow-up fixes it in one line.",
+      "links": [
+        {
+          "label": "Ayush Garg (LinkedIn)",
+          "url": "https://www.linkedin.com/in/ayush4921/"
+        },
+        {
+          "label": "Posting (YC)",
+          "url": "https://www.ycombinator.com/companies/answerthis/jobs/GQBe22o-product-engineer-full-time-remote-india"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Reveal folder",
+          "action": "reveal",
+          "target": "applications/answerthis"
+        }
+      ],
+      "steps": [
+        "Send to Ayush, same thread: Hi Ayush, floating this back up in case it got buried. I applied for the India product engineer role on YC last week. One correction on that resume: the AI interview platform line under klimb.io shouldn't be there, the Hireflow dedup and DeepDoc eval work are what to judge me on. Still curious whether you merge preprint and journal versions before reranking. shivamworks.dev"
+      ],
+      "background": "Draft also in applications/answerthis/outreach.md. Fallback if this goes quiet too: intro via Devaansh Bhandari (1st°, mutual with Ayush).",
+      "onDone": {
+        "tracker": {
+          "company": "AnswerThis",
+          "status": "followed-up",
+          "followUp": "+7d"
+        }
+      },
+      "workable": true
+    },
+    {
+      "id": "network-chanakya-rox-2026-10-28",
+      "kind": "network",
+      "company": "Rox AI",
+      "grade": "B",
+      "title": "Chanakya (Rox site lead) accepted: send the stage-2 message",
+      "sub": "He accepted on Oct 27. Only the invite note is in the thread, so the real message is still owed. He is the hiring manager, not a referral.",
+      "links": [
+        {
+          "label": "Chanakya thread",
+          "url": "https://www.linkedin.com/in/chanakyareddy/"
+        },
+        {
+          "label": "Rox BLR posting",
+          "url": "https://jobs.ashbyhq.com/Rox-Data-Corp/6e6b44f9-8bc2-4dfa-9432-5a0d2931a113"
+        }
+      ],
+      "steps": [
+        "Send to Chanakya: Thanks for connecting, Chanakya. Short version of why I think I fit the BLR platform seat: at poiro.com I built the provider adapter layer that puts 3 image vendors behind one search contract, with org-scoped Redis caching and fail-closed spend caps of 500 calls/org/day. Most of my day is FastAPI plus Celery workers, which is close to the multi-step workflow side of the JD. I can join from 23 Nov. I applied for the BLR role on Ashby on 27 Oct. If it's useful, happy to send the resume to you directly or jump on a quick call. shivamworks.dev"
+      ],
+      "background": "Text from inbox/replies.md, section \"Rox AI: Chanakya Reddy\". Accepted 2026-10-27 per your connections list; checked the thread 2026-10-28.",
+      "onDone": {
+        "tracker": {
+          "company": "Rox AI",
+          "status": "followed-up",
+          "followUp": "+7d"
+        }
+      },
+      "tags": [
+        "referral"
+      ]
+    },
+    {
+      "id": "network-unmay-outboundo-2026-10-28",
+      "kind": "network",
+      "company": "Outboundo AI",
+      "title": "Unmay (IIITN alum, founder of Outboundo AI) accepted: send the direct ask",
+      "sub": "A founder alumnus can hire directly, so this asks whether he is adding engineers, not for a referral.",
+      "links": [
+        {
+          "label": "Unmay on LinkedIn",
+          "url": "https://www.linkedin.com/in/unmay-kharabe"
+        }
+      ],
+      "steps": [
+        "Send to Unmay: Hey Unmay, Shivam here, IIIT Nagpur '26 (CSE). Saw you're building Outboundo AI. I build backend at poiro.com: their AI workflow builder's node system, and an adapter over 3 paid APIs with Redis caching and hard caps of 500 calls per org per day. On the side, a sandboxed code execution engine for 6 languages (code-sm.vercel.app). Are you adding engineers at the moment? shivamworks.dev"
+      ],
+      "background": "Accepted 2026-10-27, no message in the thread yet (checked 2026-10-28). Text from inbox/referrals.md, Stage 2 asks. Whatever he answers, log it on his referrals.md row; a yes becomes a lead.",
+      "tags": [
+        "referral"
+      ]
+    },
+    {
+      "id": "signal-qwikbuild-2026-10-28",
+      "kind": "signal",
+      "company": "QwikBuild",
+      "grade": "B",
+      "title": "QwikBuild raised $2.3M: Bengaluru enterprise AI app builder",
+      "sub": "Founded 2025 by ex-slice exec Pradeep Ayyagari. No posting yet; the money goes to US sales and SEA, engineering hiring is likely but unstated.",
+      "links": [
+        {
+          "label": "Inc42",
+          "url": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/"
         },
         {
           "label": "Company",
-          "url": "https://askwisdom.ai"
+          "url": "https://qwikbuild.com"
+        },
+        {
+          "label": "Careers page",
+          "url": "https://qwikbuild.com/careers"
         }
       ],
       "steps": [
         "Passing on this one"
       ],
-      "background": "founding-team backend/infra seat on latency-critical analytics data pipelines; customers Cisco, Patreon, Rubrik. No years bar stated, but 'large scale data pipelines' experience is asked and he does not have it. Long shot.\n\nSource: Ashby API, posted 2026-09-16. Found 2026-10-24 by web search when every scout came back empty. To work it, say \"work Wisdom AI\" in chat and the pipeline (research, tech-read, resume, outreach) runs; ticking the box above skips it.",
       "onDone": {
-        "markProcessed": "skip"
-      }
+        "markProcessed": "signal-skip",
+        "slug": "QwikBuild"
+      },
+      "background": "Product: AI builds enterprise apps, developers step in for the hard parts; claims 20,000+ apps built, dedicated Postgres per tenant, SAP/Salesforce connectors. Careers page renders client-side and shows no role. To work it, say \"work QwikBuild\": find an engineer or the founder on LinkedIn, check for IIITN alumni, and draft the ask. Nova Spectral AI (the other signal today) is an infrared-chip hardware company, graded D, no card."
+    },
+    {
+      "id": "lead-mixrank-2026-10-28",
+      "kind": "lead",
+      "company": "Mixrank",
+      "grade": "A",
+      "title": "Mixrank: Junior Software Engineer, remote from anywhere",
+      "sub": "Entry-level, 0-3 years, no country restriction. Web-crawl data company (petabytes a month), profitable, employee-owned, YC S11. Backend/data-pipeline seat.",
+      "links": [
+        "https://himalayas.app/companies/mixrank/jobs/junior-software-engineer-remote-global-full-time",
+        "https://mixrank.com",
+        "https://www.ycombinator.com/companies/mixrank"
+      ],
+      "buttons": [
+        {
+          "label": "The job post",
+          "action": "open",
+          "target": "https://himalayas.app/companies/mixrank/jobs/junior-software-engineer-remote-global-full-time"
+        },
+        {
+          "label": "Mixrank site",
+          "action": "open",
+          "target": "https://mixrank.com"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "Found by the fixed Himalayas source (2026-10-28). The posting says remote junior engineers with 0-3 years of professional experience, open to every country, so your ~10 months at klimb.io and poiro.com sits inside the bar. 50+ people across 20+ countries, no outside funding. Founder on YC page: Scott Milliken. A mid-level twin req exists; one ask per company, so the junior one is the target. To work it, say \"work Mixrank\" in chat: dossier, tech-read (crawling at scale maps to the poiro.com asset backend and Storix), backend-framed resume, then the application and a founder note. The checkbox only records a pass.",
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "Mixrank"
+      },
+      "workable": true,
+      "tags": [
+        "himalayas",
+        "remote-global",
+        "new-grad"
+      ]
+    },
+    {
+      "id": "lead-alkira-2026-10-28",
+      "kind": "lead",
+      "company": "Alkira",
+      "grade": "B",
+      "title": "Alkira: Backend Engineer (India)",
+      "sub": "Cloud networking startup, India seat, owns services from blank page to production. Asks for 2 years, so a stretch on ~10 months.",
+      "links": [
+        "https://himalayas.app/companies/alkira-inc/jobs/software-engineer-backend-engineer-india-1883162452",
+        "https://www.alkira.com"
+      ],
+      "buttons": [
+        {
+          "label": "The job post",
+          "action": "open",
+          "target": "https://himalayas.app/companies/alkira-inc/jobs/software-engineer-backend-engineer-india-1883162452"
+        },
+        {
+          "label": "Alkira site",
+          "action": "open",
+          "target": "https://www.alkira.com"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "Found by the fixed Himalayas source (2026-10-28). Distributed systems behind their Cloud Services Exchange; the JD wants a B.S./M.S. plus 2 years of software engineering. Real product company with an India team, not a services shop, which is why it is B despite the years bar. Worth an IIIT Nagpur alum check via /network-scout before a cold apply. Say \"work Alkira\" in chat to run the pipeline; the checkbox only records a pass.",
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "Alkira"
+      },
+      "workable": true,
+      "tags": [
+        "himalayas",
+        "india"
+      ]
+    },
+    {
+      "id": "lead-clera-2026-10-30",
+      "kind": "lead",
+      "company": "Clera",
+      "grade": "B",
+      "title": "Clera: Platform Engineer (remote, India preferred)",
+      "sub": "Core infra for an AI/ML data platform, works with the founding team, $50K USD. Asks for 3+ years, so a stretch on ~10 months.",
+      "links": [
+        "https://himalayas.app/companies/clera/jobs/platform-engineer",
+        "https://himalayas.app/companies/clera"
+      ],
+      "buttons": [
+        {
+          "label": "The job post",
+          "action": "open",
+          "target": "https://himalayas.app/companies/clera/jobs/platform-engineer"
+        },
+        {
+          "label": "Clera on Himalayas",
+          "action": "open",
+          "target": "https://himalayas.app/companies/clera"
+        }
+      ],
+      "steps": [
+        "Passing on this one"
+      ],
+      "background": "Found by the Himalayas source 2026-10-30. Graded B- by hand (script said B). This is a new req, not the founding/EUR-paid one passed on 2026-10-28: it states remote with India or LatAm preferred and a $50K USD salary. They want at least 3 years as platform/SRE/DevOps/backend engineer, which is the stretch; the overlap is Yuvro (K8s orchestrator), the CodeSM sandbox and BullMQ retries. Only apply channel found so far is Himalayas; the next step is finding their own site/ATS and the founders. Say \"work Clera\" in chat to run the pipeline; the checkbox only records a pass.",
+      "onDone": {
+        "markProcessed": "skip",
+        "slug": "Clera"
+      },
+      "workable": true,
+      "tags": [
+        "himalayas",
+        "remote-india"
+      ]
     }
   ]
 }

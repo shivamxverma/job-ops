@@ -24,3 +24,10 @@ Why Sarvam / this role:
 - Notice period: none. Internship ends 22 November, available from 23 November.
 - Location: open to fully remote, or onsite/hybrid in Bangalore.
 - Graduation: B.Tech CSE, IIIT Nagpur, May 2026
+
+## 3. Infrastructure Engineer, CPU Infra (B, 2026-10-27)
+Apply: https://jobs.ashbyhq.com/sarvam/f09b6a35-e2d1-4833-8bc5-2b495991d882/application
+Upload **applications/sarvam/resume-infra.pdf** (not resume.pdf). Form is name, email, phone, resume only.
+Questions for any infra call: applications/sarvam/tech-read.md section 4.
+Warm path to watch: Kartik K. (IIIT Nagpur, ex-Sarvam FDE), invite pending. Once accepted, ask who
+runs CPU infra and whether he can pass the name along.

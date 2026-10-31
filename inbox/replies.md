@@ -137,3 +137,133 @@ is an AI gateway; poiro's provider adapter + caching + fail-closed caps is a sma
 > Straight about the gaps: I haven't shipped Go in production, and I'm about a year of
 > internships out of college. Is that a dealbreaker for this seat, or worth a conversation?
 > shivamworks.dev
+
+## 1st° connection DMs (network-scout lens 1, drafted 2026-10-26)
+**Outcome 2026-10-26 (each checked in the live thread):** SENT by Shivam: Mayank, Sandeep, Tapan, Sunit, Vivek, Pranav, Siddhartha, Akhshay, Vijay. SKIPPED: Vimal (Shivam's call). Harsh/Karta: the ORIGINAL draft already went out 2026-10-23, so the corrected one below was not sent. Nudges (one each, only if silent): 2026-11-02; Harsh 2026-10-30.
+Source: `inbox/network.md` (mapped through this morning). Chrome was not connected, so these were
+not re-checked live: open each thread before sending, in case you've already talked.
+Everyone below is already a 1st° connection, so the Message button works and no invite is needed.
+Send Wave 1 this week and Wave 2 next week rather than all ten in one day.
+
+### Wave 1
+
+#### Mayank Shekhar (Co-founder & CTO, Robylon AI) — https://www.linkedin.com/in/mshekhar7/
+Why: CTO can hire directly. Robylon sells AI support agents (chat, email, WhatsApp, voice) priced per resolution, Bengaluru. No public careers page found.
+> Hi Mayank, Shivam here. We're connected but haven't talked before. Robylon charging per resolution instead of per seat caught my eye, since I'd guess every agent action then has to be metered against a ticket. I built something close at klimb.io: a Postgres credit ledger that logs usage per feature across 6+ AI features, so customers could be billed by usage instead of on/off flags. I'm a 2026 IIIT Nagpur grad doing backend at poiro.com, based in Bengaluru, free to join from 23 Nov. Are you adding backend engineers? shivamworks.dev
+
+#### Vimal Singh Rathore (Founder & CEO, SuperKalam, YC W23) — https://www.linkedin.com/in/vimalsinghrathore/
+Why: YC founder in Bengaluru. Their YC page lists only content/educator roles, but says to write in if no role fits.
+> Hi Vimal, Shivam here, 2026 IIIT Nagpur grad doing backend at poiro.com. I'm guessing a lot of SuperKalam's answer quality comes down to retrieval holding up on Hinglish questions and messy follow-ups. That's what I've spent the most time on: DeepDoc, a RAG app with a 36-case eval harness (Hinglish and prompt-injection cases included) that separates retrieval failures from generation failures. github.com/shivamxverma/DeepDoc. I didn't see an engineering role on your YC page. Are you adding engineers at the moment? I'm in Bengaluru, free from 23 Nov. shivamworks.dev
+
+#### Sandeep Jaiswal (Product, GeoServe) — https://www.linkedin.com/in/sandeepj1991/
+Why: a "Software Engineer, Bengaluru" role for GeoServe showed up on an aggregator (2026-10-24) but no company site could be found. He can confirm it and name the hiring person.
+> Hi Sandeep, Shivam here. I saw a Software Engineer opening in Bengaluru for GeoServe on a job board, but couldn't find it on a company site, so I thought I'd check with you directly. I'm a 2026 IIIT Nagpur grad doing backend at poiro.com (FastAPI, MongoDB, Redis), where I replaced a query-per-level folder lookup with one $graphLookup and cut folder edits from 3 database round-trips to 1. Is that role still open? If so, could you point me at whoever's hiring for it? No stress if not. shivamworks.dev
+
+#### Tapan Barman (Co-founder, Mihup.ai) — https://www.linkedin.com/in/tapan-barman-53a31870/
+Why: Mihup had an SDE-1 Backend (automotive AI assistant, Bengaluru) on its Keka board; it closed before today. Keka boards are invisible to the ATS scout, so asking is the only way to know.
+> Hi Tapan, Shivam here, 2026 IIIT Nagpur grad doing backend at poiro.com. I saw Mihup had an SDE-1 Backend opening for the automotive voice assistant on your careers page, but it's closed now. The closest thing I've built is CodeSM: requests queue on BullMQ + Redis and untrusted code runs in locked-down Docker containers across 6 languages, so grading never blocks the API. Live at code-sm.vercel.app. Is the Bengaluru team still adding backend engineers? Happy to send whatever's useful. shivamworks.dev
+
+#### Sunit Gautam (Co-Founder & CEO, Modus AI) — https://www.linkedin.com/in/gsunit/
+Why: 2025-founded AI fraud/risk startup for Indian financial institutions (RBI/SEBI focus), Bengaluru. No site or jobs page found.
+> Hi Sunit, Shivam here, 2026 IIIT Nagpur grad doing backend at poiro.com. Risk tooling for banks lives or dies on its audit trail, so this felt like the closest thing I've built: at klimb.io I designed a Postgres credit ledger that replaced on/off feature flags with an auditable per-feature log across 6+ AI features. At poiro I added fail-closed spend caps (500 calls per org per day) on 3 paid APIs. Is Modus adding engineers yet? I'm in Bengaluru, free from 23 Nov. shivamworks.dev
+
+### Wave 2
+
+#### Vivek D K ("Building!", ex-Co-Founder & CTO, Zorp.One) — https://www.linkedin.com/in/vivekdk/
+Why: ex-CTO starting something new = a possible first-engineer seat. Bengaluru.
+> Hi Vivek, Shivam here, 2026 IIIT Nagpur grad doing backend at poiro.com. Saw your headline just says "Building!" after Zorp, so I wanted to ask early: are you looking for a first engineer on the new thing? Early infra is the work I like most. I built Yuvro, a cloud IDE where an orchestrator gives every project its own Kubernetes deployment, service and ingress, with terminals streamed over WebSockets. github.com/shivamxverma/yuvro. I'm in Bengaluru, free from 23 Nov. No stress if it's too early. shivamworks.dev
+
+#### Pranav Gupta (Founder, CargoPro, formerly Liveasy) — https://www.linkedin.com/in/pranavgupta00/
+Why: AI transport management SaaS (dispatch planning, SIM-based tracking). Wellfound page lists no jobs, so ask directly.
+> Hi Pranav, Shivam here, 2026 IIIT Nagpur grad doing backend at poiro.com. Tracking and dispatch planning at CargoPro probably means a lot of work running off the request path. That's most of what I build: Storix is a FastAPI + Celery pipeline that pushes each processing stage to the client live through Redis pub/sub and WebSockets, async-doc.vercel.app. Is CargoPro adding backend engineers? I'm in Bengaluru, free from 23 Nov. shivamworks.dev
+
+#### Siddhartha Singh (Co-Founder & CTO, EliteFolks) — https://www.linkedin.com/in/siddhartha-singh-3ab11426b/
+Why: CTO can hire directly, Bengaluru. Nothing about EliteFolks is findable online, so the message asks plainly.
+> Hi Siddhartha, Shivam here, 2026 IIIT Nagpur grad doing backend at poiro.com. I couldn't find much about EliteFolks online, so a direct question: are you hiring engineers right now? What I'd bring: I built CodeSM, a code execution engine that queues submissions on BullMQ + Redis and runs untrusted code for 6 languages in locked-down Docker containers, live at code-sm.vercel.app. I'm in Bengaluru, free from 23 Nov. shivamworks.dev
+
+#### Akhshay Kumar (Talent Acquisition, Freshworks) — https://www.linkedin.com/in/akhshay-kumar-mainprofile/
+Why: in-house recruiter at a product company, headline says hiring engineering. Public Freshworks roles look senior/staff, so ask for a junior Bengaluru seat (you're onsite in Bangalore only, not Chennai).
+> Hi Akhshay, Shivam here, 2026 IIIT Nagpur CSE grad, currently a backend intern at poiro.com (FastAPI, MongoDB, Redis). Saw you're hiring for engineering at Freshworks. Most of the openings I can find are senior or staff. Is there a new-grad or SDE-1 backend role in Bengaluru open or coming up? Quick background: LeetCode top 5% (1,800+), and I built CodeSM, a sandboxed code execution engine for 6 languages, code-sm.vercel.app. Free to join from 23 Nov, happy to send my resume. shivamworks.dev
+
+#### Vijay Jagoori (Co-Founder & CTO, Readyly) — https://www.linkedin.com/in/vjagoori/
+Why: CTO; Readyly is a small New York company (AI support tools, Zendesk agent-assist app), so this only works as a remote seat.
+> Hi Vijay, Shivam here, 2026 IIIT Nagpur grad doing backend at poiro.com. Readyly sits between a support desk and paid model calls, which is close to what I do at poiro: I put 3 paid APIs behind one adapter with org-scoped Redis caching and fail-closed caps of 500 calls per org per day. Do you hire remote engineers from India? I can overlap 4+ hours with US hours and I'm free from 23 Nov. shivamworks.dev
+
+### Corrected older drafts (the originals used klimb.io AI-interviewer claims you removed on 23 Oct)
+
+#### Harsh Yadav (Karta) — https://www.linkedin.com/in/harsh-yadav5554/ — REPLACES the 2026-10-22 draft above, if that one wasn't sent
+> Hey Harsh, saw Karta closed the $3M seed last week, congrats to the team. I'm Shivam, 2026 IIIT Nagpur grad doing backend at poiro.com, looking for my first full-time role in Bengaluru. Voice agents for banks mean a lot of paid model calls per conversation, and at poiro I put 3 paid APIs behind one adapter with Redis caching and fail-closed caps of 500 calls per org per day. Is Karta adding engineers after the raise? If yes, would you be up for pointing me at whoever's hiring? No stress if that's awkward. shivamworks.dev
+
+#### Aditi Sahu (Moveworks) — https://www.linkedin.com/in/aditi-sahu-95b320188/ — REPLACES her stage-2 ask in inbox/referrals.md; send only after she accepts
+> Hey Aditi, thanks for connecting. Quick and blunt one, and a no is completely fine.
+>
+> I graduated IIIT Nagpur this year and I'm a backend intern at poiro.com, looking for a full-time backend seat. At klimb.io I built a Postgres credit ledger that meters usage across 6+ AI features so customers could be billed by usage.
+>
+> Is your team at Moveworks taking anyone on right now? And if there's anything open that fits, would you be up for dropping my name in the referral portal? Takes you two minutes and I'll send whatever you need. If it's not a good time, no stress, still glad to be connected. shivamworks.dev
+
+## Modus AI: Sunit Gautam replied (2026-10-26 21:57 IST)
+His reply on LinkedIn: "Hi Shivam, can you share your resume over whatsapp? +91-8168716312"
+Resume to send: resumes/base.pdf (regenerated 2026-10-23, no retired klimb claims).
+
+LinkedIn reply:
+> Sure, sending it on WhatsApp now. Thanks Sunit!
+
+WhatsApp message to +91 81687 16312, with resumes/base.pdf attached:
+> Hi Sunit, Shivam here, from LinkedIn. Sharing my resume as you asked. Short version: I'm a backend intern at poiro.com (FastAPI, MongoDB, Redis, Celery), and before that at klimb.io I built the credit ledger that meters usage across 6+ AI features. I'm in Bengaluru and can join from 23 Nov. Happy to get on a call whenever works for you.
+
+## 1st° DMs, batch 2 (founder query page 8, drafted 2026-10-26 night)
+**Outcome:** Siddharth Shahi SENT 22:04 IST (verified). Raghvendra and Jatin SKIPPED by Shivam.
+
+#### Siddharth Shahi (Co-Founder & CTO, TrueGradient) — https://www.linkedin.com/in/siddharthshahi/
+> Hi Siddharth, Shivam here, 2026 IIIT Nagpur grad doing backend at poiro.com. TrueGradient pulling demand and inventory data from Shopify, ERPs and marketplaces into one planning layer looks like a lot of connector work. That's the part of my job I know best: at poiro I put Pixabay, Unsplash and Pinterest behind one search/download contract, with org-scoped Redis caching and fail-closed caps of 500 calls per org per day. Are you adding backend engineers? I'm in Bengaluru, free from 23 Nov. shivamworks.dev
+
+#### Raghvendra Singh Dhakad (Product Engineer 1, Juspay, IIITN'26) — https://www.linkedin.com/in/raghvendradhakar/
+> Hey Raghvendra, congrats on Juspay! Quick one: is Juspay taking any backend or product engineers off-campus right now? The careers page shows nothing open, so I thought I'd ask someone inside. If there's a route, would you be up for referring me? I'm doing backend at poiro.com (FastAPI, MongoDB, Redis) till 22 Nov and can join right after. Happy to send my resume.
+
+#### Jatin Chhangani (Co-Founder & CTO, Curo, Bengaluru; IIITN CSE 2019-23; earlier unanswered DM 2025-06-24) — https://www.linkedin.com/in/jatinchhangani/
+> Hi Jatin, Shivam here, IIIT Nagpur '26, a few batches after you. I'm doing backend at poiro.com now. Saw you're building Curo, and the whiteboard lessons that answer questions as you go caught my eye. Answering well from papers and articles is mostly a retrieval problem, which is what I spent the most time on in DeepDoc: section-aware chunking, follow-ups rewritten into standalone queries, and a 36-case eval harness that separates retrieval failures from generation failures. github.com/shivamxverma/DeepDoc. Are you looking for an early engineer? I'm in Bengaluru, free from 23 Nov. shivamworks.dev
+
+### Modus AI on WhatsApp, 2026-10-26 22:05 onwards
+Sunit asked: what you want to work on / expected comp / preferred location. Answered:
+> Hi Sunit! Mostly backend, infra and AI systems: APIs, data pipelines, and LLM-based workflows. Expecting 10-18 LPA. Bengaluru works for me, and I can join from 23 Nov.
+Sunit: "We do a lot of work on AI agents. But have hired recently, so not increasing engineering headcount immediately. I can have my head of engineering interview you some time later if you want."
+Reply (accept + pin a timeline):
+> That sounds great, thanks Sunit! Yes, I'd love to talk to your head of engineering whenever it works. Roughly when do you think that could be? AI agents is exactly the kind of work I want to do, so happy to stay in touch till then.
+Next: if no date given, check back ~2026-11-20.
+
+
+## Rox AI: Chanakya Reddy (Site Lead, India), drafted 2026-10-27 — https://www.linkedin.com/in/chanakyareddy/
+
+Lead: Backend Platform Engineer (BLR), grade B, in inbox/leads.md. He is 2nd° (mutuals Shalini Rajput, Suhani Srivastava +1) and his headline says "Growing India Team | Hiring (Platform • Fullstack)", so he is the hiring manager, not a referral. Not sent; Shivam's to review and send.
+
+**Stage 1, connection note (239/300 chars):**
+> Hi Chanakya, saw you're growing the Rox India team. I'm Shivam, IIIT Nagpur '26, doing backend at poiro.com (FastAPI, Celery, Redis). I'd like to apply for the Backend Platform Engineer (BLR) role and would value connecting with you first.
+
+**Stage 2, after he accepts:**
+> Thanks for connecting, Chanakya. Short version of why I think I fit the BLR platform seat: at poiro.com I built the provider adapter layer that puts 3 image vendors behind one search contract, with org-scoped Redis caching and fail-closed spend caps of 500 calls/org/day. Most of my day is FastAPI plus Celery workers, which is close to the multi-step workflow side of the JD. I can join from 23 Nov.
+>
+> I applied for the BLR role on Ashby on 27 Oct. If it's useful, happy to send the resume to you directly or jump on a quick call. shivamworks.dev
+
+If he doesn't accept within a week, apply on Ashby directly: https://jobs.ashbyhq.com/Rox-Data-Corp/6e6b44f9-8bc2-4dfa-9432-5a0d2931a113
+
+**Rox / Chanakya, outcome 2026-10-27 ~19:40 IST:** connection request SENT by Claude at Shivam's request, LinkedIn confirmed "Invitation sent". The note box caps free accounts at 200 chars (not 300) and this was the last personalised invite of the month, so the note went out trimmed (192 chars):
+> Hi Chanakya, saw you're growing the Rox India team. I'm Shivam, IIIT Nagpur '26, backend at poiro.com (FastAPI, Celery, Redis). Would value connecting before I apply for the BLR platform role.
+State: awaiting-connection. On accept, send the stage-2 message above. If not accepted by 2026-11-03, apply on Ashby directly.
+
+### Aditi Sahu (Moveworks), 2026-10-27
+Her reply on LinkedIn (20:31): "You can checkout on servicenow career once for moveworks. I don't think we are hiring freshers. Its mostly senior role"
+Reply for Shivam to send (thread: linkedin.com/messaging, Aditi Sahu):
+> Got it, thanks for the honest answer Aditi. I'll keep an eye on the ServiceNow careers page for Moveworks. Appreciate you taking the time!
+
+## Jumbo Homes: X DM to @Jumbohomes_, corrected first touch (drafted 2026-10-29, not sent)
+Supersedes the 2026-10-21 draft above, which never went out (no @Jumbohomes_ thread in X chat on
+2026-10-29) and carried the klimb.io AI-interview claim retracted in facts.yaml on 2026-10-23.
+Their post: https://x.com/Jumbohomes_/status/2112446911060058170 ("DM us"). Open https://x.com/messages,
+New chat, @Jumbohomes_. Paste it, don't type it fast. If their DMs are closed, reply under the post instead.
+
+> Hi, saw your product engineer post. I'm Shivam, backend and full-stack at poiro.com, based in Bengaluru. Before that at klimb.io I built a Postgres credit ledger that tracked usage across 6+ AI features so customers could be billed per use. Happy to work directly with the founders and own things end to end, and I can start from 23 November. What's the biggest thing you're rebuilding first in the buying flow? shivamworks.dev
+
+## Hank (hank.bid): X reply to @liquidriemann's backend post (drafted 2026-10-30, not sent)
+Post: https://x.com/liquidriemann/status/2115991979645620404 ("looking to hire a good backend engineer. fully remote."). L2: his link to Hank is unverified (no bio) and hank.bid/careers says no open roles, so this is a short reply, not a pipeline. Reply under the post (his DMs may be closed). If he answers that it's US-only, stop there. Fallback: a two-line note to careers@hank.bid.
+
+> Hi, saw this. Reading board minutes and permits from thousands of places is mostly an ingestion and dedup problem, which is what I built in Hireflow: each source runs on its own BullMQ queue so one blocked site can't stall the rest, and SHA-256 fingerprints merge the same listing found in two places. github.com/shivamxverma/hireflow. I'm based in India, is the role open outside the US? - Shivam

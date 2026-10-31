@@ -9,3 +9,4 @@
   DeepDoc eval harness. One page at 95%, verbs unique, 0 em dashes.
 - outreach.md: mock-interview worksheet + email with 3 slots only Shivam can fill. Not drafted in
   Gmail on purpose (placeholders must not be sendable).
+- 2026-10-27: removed every retracted klimb AI-interviewer claim from resume.md/pdf and outreach.md; CodeSM (sandbox + Gemini/Murf interview practice) now carries the fit. Still blocked on Shivam's 3 Maya mocks.

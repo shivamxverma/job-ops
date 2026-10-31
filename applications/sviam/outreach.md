@@ -1,4 +1,4 @@
-# SViam — application (2026-10-22, prepared, NOT sent)
+# SViam — application (2026-10-22, prepared, NOT sent; klimb claims removed 2026-10-27)
 
 Channel: email to **vikas.kumar@sviam.in**, subject **"Application: Founding AI Engineer"**,
 resume.pdf attached. Their bar: take **3 mock interviews with Maya at sviam.in first**, then send
@@ -12,7 +12,7 @@ sviam.in → Start practicing → sign up as a candidate. While doing them, jot 
    misheard term, or feedback that didn't match what you actually did.
 3. **The scorecard**: did it point to specific moments (a line you said, a line of code), or only
    give summary judgments? This is the one to watch: it's their "structured evidence" problem and
-   the thing your klimb.io transcript scoring is closest to.
+   the thing your DeepDoc eval harness is closest to (splitting where a failure came from).
 4. Anything on integrity signals (tab switches, paste detection) you noticed.
 
 ## Step 2: the email (fill the three [brackets] from your notes, keep everything else)
@@ -27,7 +27,7 @@ sviam.in → Start practicing → sign up as a candidate. While doing them, jot 
 >
 > What I'd build: [your observation about the scorecard], so I'd tie every scorecard claim to the exact transcript span or code change behind it, so a hiring team can check the evidence instead of trusting the summary. I'd also keep a replay set of recorded sessions to re-run whenever the prompt or model changes, the way my DeepDoc eval harness replays 36 cases and splits retrieval failures from generation failures.
 >
-> Why me: at klimb.io I built the backend for a 3-stage AI interview platform that hundreds of candidates went through, with automated proctoring and a live voice round on OpenAI Realtime that asked questions from the candidate's resume and scored the transcript. I also built CodeSM, which runs untrusted code in 6 languages in locked-down Docker containers.
+> Why me: I built CodeSM, which runs untrusted code in 6 languages in locked-down Docker containers (no network, read-only filesystem, 256 MB and 0.5 CPU per run), graded on BullMQ workers, and adds interview practice on top: resume-personalized questions with written-answer scoring, voiced through Murf AI. That's the same shape as Maya's coding workspace. At poiro.com I'm building the DAG workflow engine behind their AI generation steps.
 >
 > Resume attached. CodeSM: code-sm.vercel.app
 >

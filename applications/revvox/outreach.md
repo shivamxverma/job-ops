@@ -58,3 +58,14 @@ above was never sent. This replaces both. Attach applications/revvox/resume.pdf 
 > voice round on OpenAI Realtime, hundreds of candidates through it, and CodeSM, a Docker sandbox
 > that runs untrusted code in 6 languages, which is close to your coding round. Resume attached.
 > Is the team adding an engineer before the 16 Nov launch? shivamworks.dev
+
+
+## Follow-up 1: LinkedIn nudge to Prince (drafted 2026-10-30, not sent)
+Thread checked 2026-10-30: last message is your 10-23 v2 DM with the resume, no reply. The v2 DM
+said the klimb.io AI interview + voice round was your work, which facts.yaml retracted on 10-23, so
+this nudge corrects it in one line. Target: https://www.linkedin.com/in/iprincekumarsingh/ (Message).
+Two touches max: if he is silent by 2026-11-06, Revvox goes to ghosted.
+
+> Hey Prince, floating this back up in case it got buried. One correction to my last message: the AI interview and voice round at klimb.io weren't my work. What I built there was the Postgres credit ledger that tracks usage across 6+ AI features. CodeSM stands as written. Is Revvox adding an engineer before the 16 Nov launch? No worries if not.
+
+**SENT 2026-10-30 19:25 IST** (Follow-up 1 above), verified in the LinkedIn thread.

@@ -1,7 +1,7 @@
 {
   "pulled": "2026-10-31",
-  "scanned": 312,
-  "survived": 55,
+  "scanned": 651,
+  "survived": 233,
   "hits": [
     {
       "id": "rok:1137600",
@@ -76,6 +76,184 @@
       "why": [
         "stack (weak): full-stack, full stack",
         "reachable: restrictions include India"
+      ]
+    },
+    {
+      "id": "rmv:2091165",
+      "grade": "B",
+      "score": 78,
+      "source": "remotive.com",
+      "kind": "remote",
+      "company": "Fluence International, Inc.",
+      "title": "Full-Stack Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "posted": "2026-10-29T18:22:41",
+      "location": "Worldwide",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include Worldwide"
+      },
+      "tags": [
+        "admin",
+        "api",
+        "AWS",
+        "backend",
+        "cloud",
+        "docker",
+        "frontend",
+        "fullstack"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "javascript",
+          "aws",
+          "s3",
+          "full-stack",
+          "backend",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: typescript, docker, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include Worldwide",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/highlevel/jobs/sr-sde-email",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "HighLevel",
+      "title": "Sr. SDE (Email)",
+      "url": "https://himalayas.app/companies/highlevel/jobs/sr-sde-email?utm_source=api",
+      "posted": "2026-10-30T15:12:45.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Full-Stack-Engineer",
+        "Platform-Engineer",
+        "Email-Platform-Engineering"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "llm"
+        ],
+        "weak": [
+          "node",
+          "full-stack",
+          "backend",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/netapp/jobs/senior-software-engineer-ai-golang-python-distributed-cloud-bangalore",
+      "grade": "F",
+      "score": 3,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "NetApp",
+      "title": "Senior Software Engineer (AI / Golang / Python / Distributed / Cloud) (Bangalore",
+      "url": "https://himalayas.app/companies/netapp/jobs/senior-software-engineer-ai-golang-python-distributed-cloud-bangalore?utm_source=api",
+      "posted": "2026-10-30T15:27:19.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Platform-Engineer",
+        "Distributed-Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "redis"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: postgresql, redis",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/datahash/jobs/staff-software-engineer-hands-on-architect",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Datahash",
+      "title": "Staff Software Engineer (Hands-on Architect)",
+      "url": "https://himalayas.app/companies/datahash/jobs/staff-software-engineer-hands-on-architect?utm_source=api",
+      "posted": "2026-10-30T14:33:01.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Software-Architect",
+        "Full-Stack-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, full-stack, backend",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
       ]
     }
   ]

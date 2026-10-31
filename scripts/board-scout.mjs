@@ -144,18 +144,38 @@ const SOURCES = [
     kind: "remote",
     async fetch() {
       // The only source with structured restrictions — reachability uses them directly.
-      const { jobs } = await getJSON("https://himalayas.app/jobs/api?limit=500");
+      // Measured 2026-10-28: the browse feed (/jobs/api) ignores ?limit and returns the newest
+      // 20 of ~131k jobs in any field, so this source was reading 20 random sales/ops roles a
+      // run. The search endpoint takes a query + country, 20 per page via ?page=N.
+      const QUERIES = ["backend engineer", "software engineer", "full stack engineer",
+        "platform engineer", "founding engineer", "AI engineer"];
+      const cutoff = Date.now() / 1000 - 14 * 86400;
+      const byId = new Map();
+      for (const q of QUERIES) {
+        for (let page = 1; page <= 3; page++) {
+          // One reset page must not throw away the other 17 (ECONNRESET seen 2026-10-28).
+          const { jobs = [] } = await getJSON(
+            `https://himalayas.app/jobs/api/search?q=${encodeURIComponent(q)}&country=IN&sort=recent&page=${page}`
+          ).catch(() => ({ jobs: [] }));
+          for (const j of jobs) byId.set(j.guid ?? j.title + j.companyName, j);
+          if (jobs.length < 20 || jobs.every((j) => (j.pubDate ?? 0) < cutoff)) break;
+        }
+      }
+      const jobs = [...byId.values()];
       return jobs.map((j) => ({
         id: `him:${j.guid ?? j.title + j.companyName}`,
         title: j.title,
         company: j.companyName,
         url: j.applicationLink || `https://himalayas.app/companies/${j.companySlug}`,
-        posted: j.pubDate ?? null,
+        // pubDate is unix seconds; days() needs a parseable date or the freshness bonus is lost.
+        posted: j.pubDate ? new Date(j.pubDate * 1000).toISOString() : null,
         location: (j.locationRestrictions ?? []).join(", "),
         locationRestrictions: j.locationRestrictions,
         seniority: j.seniority ?? [],
         tags: j.categories ?? [],
-        text: `${j.title} ${(j.categories ?? []).join(" ")} ${strip(j.excerpt ?? "")} ${(j.seniority ?? []).join(" ")}`,
+        // The full description, not the excerpt: "8+ years" lives in the body (Mirantis and
+        // Lingaro graded B on 2026-10-28 because only the excerpt was read).
+        text: `${j.title} ${(j.categories ?? []).join(" ")} ${strip(j.description || j.excerpt || "").slice(0, 3000)} ${(j.seniority ?? []).join(" ")}`,
       }));
     },
   },
@@ -247,9 +267,14 @@ for (const j of live) {
   // Only a genuinely crypto-native board earns the bonus, and RemoteOK only when the posting
   // itself is crypto — it is a general board that merely carries some web3 roles.
   const crypto = j.source === "cryptocurrencyjobs.co";
+  // Himalayas tags seniority as a field. Senior/Executive/Director with no Entry/Junior/Mid
+  // tag is the same wall as a senior title, even when the title itself is plain.
+  const sen = j.seniority ?? [];
+  const seniorOnly = sen.length > 0 && !sen.some((s) => /entry|junior|intern|mid/i.test(s));
   const { score, grade, why } = scorePosting({
     title: j.title, text: j.text ?? "", matched: { strong, weak }, reach, ageDays: days(j.posted),
-    bonus: crypto ? 6 : 0, bonusWhy: crypto ? "crypto-native board" : "",
+    bonus: (crypto ? 6 : 0) - (seniorOnly ? 15 : 0),
+    bonusWhy: [crypto && "crypto-native board", seniorOnly && `board tags it ${sen.join("/")}`].filter(Boolean).join(", "),
   });
   hits.push({
     id: j.id, grade, score, source: j.source, kind: j.kind,

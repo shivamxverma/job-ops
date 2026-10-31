@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **CapGrid** — D | Sat, 31 Oct 2026 | Inc42: https://inc42.com/buzz/capgrid-secures-%e2%82%b950-cr-funding-to-deepen-its-manufacturing-play/ | why: funding: raised
+
 - [ ] **From To Cent to Matiks — Indian Startups** — C | Sat, 31 Oct 2026 | Inc42: https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/ | why: funding: raised
 
 - [ ] **Exclusive: Manastu Space** — C | Fri, 30 Oct 2026 | Inc42: https://inc42.com/buzz/exclusive-manastu-space-raises-%e2%82%b922-cr-in-ongoing-funding-round/ | why: funding: raises

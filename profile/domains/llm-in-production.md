@@ -112,8 +112,8 @@ seconds.
   consumption accounting, the thing a cost cap is built on. It metered usage; it did not cap
   token spend per run, so say "metering", not "cost control".
 - **Problem 4 (idempotent retries): adjacent.** Content-hash dedup three times over: SHA-256
-  fingerprints of normalised postings in Hireflow, server-verified SHA-256 asset dedup with a DB
-  uniqueness constraint at poiro.com, content-addressed S3 in Yuvro. Dedup, not run-level
+  fingerprints of normalised postings in Hireflow, AI generations stored once under a
+  content-derived key at poiro.com, content-addressed S3 in Yuvro. Dedup, not run-level
   checkpointing.
 - **Problem 6 (noisy neighbours): partial.** Strict candidate-level data isolation across
   concurrent live sessions on the klimb.io AI interview platform; per-workspace Kubernetes
@@ -121,6 +121,8 @@ seconds.
 - **Problems 7, 8, 9 (run explainability, prompt versioning, the human gate):** no real
   experience. Ask them instead.
 
-Also on-point when the company generates media: poiro.com is the asset layer behind
-AI-generation surfaces (lineage between generated and derived assets, dedup, reference
-integrity), which is the durable-store piece of the shape above.
+Also on-point when the company generates media: poiro.com's CAM is the asset layer every
+AI-generation path files into (one filing function, model/prompt/reference provenance per asset,
+filing that never fails the job and retries in the background), which is the durable-store piece
+of the shape above. If they expose agents: poiro.com MCP grants carry scopes plus per-day and
+per-run credit caps, re-checked on every request.

@@ -24,8 +24,9 @@ two are flagged inline below with *ask Shivam*: don't tell them until he confirm
 CSE at IIIT Nagpur, graduated May 2026. Gravitated to the backend work nobody sees but everyone
 feels: queues, sandboxes, storage layers. Interned at klimb.io (Nov 2025 to May 2026), where he
 built a usage-based credit ledger across 6+ AI features. Now a Fullstack Developer Intern at poiro.com,
-building the asset service shared by 3 apps and the node and group system of their AI workflow
-builder. On the side he builds the systems he wants to understand end to end: a sandboxed code
+building the asset library every AI generation files into (shared by 3 web apps), the async
+worker runtime under their Celery jobs, and the auth that lets outside AI agents run apps over
+MCP. On the side he builds the systems he wants to understand end to end: a sandboxed code
 execution engine (CodeSM), a Kubernetes-backed cloud IDE (Yuvro), and a RAG app with its own
 evaluation harness (DeepDoc). Top 5% on LeetCode. The through-line: async processing,
 isolation, and data integrity. Looking for a full-time team where those are the core problems.
@@ -35,90 +36,113 @@ He wants a full-time role where backend and infrastructure problems are the core
 more depth and scale than an internship gives him. Frame it as moving toward harder problems,
 never away from poiro.com, and never mention poiro internals beyond `facts.yaml`.
 
-## poiro.com: deduplication I built, measured, and the team didn't ship (prototype)
-**Problem:** AI-generation surfaces create lots of duplicate uploads, and a hash the browser
-sends can't be trusted for correctness.
-**What he did:** benchmarked 5 hashes (SHA-256, pHash, dHash, colorhash, xxHash) and picked
-xxHash64 for exact duplicates, with pHash planned for near-duplicates. The prototype had a
-browser preflight to skip known duplicates, server-side re-verification against R2, and a
-database uniqueness index so concurrent uploads couldn't race past the check. Stress test:
-10,000 uploads at concurrency 64.
-**Outcome:** the team removed content deduplication and kept operation-key idempotency
-instead. The asset service today ships "duplicate blocking" at that level, not content hashing.
-**How to tell it:** as a design trade-off, not a win. Why server re-verification matters, why
-the uniqueness constraint and not an app-level check, and why a team might prefer idempotency
-keys over content hashing. **Never say poiro.com storage is SHA-256 deduplicated.**
+<!-- poiro.com stories replaced 2026-10-28 from self-profile/projects/poiro-work-report.md (read
+from the code on `dev`). The earlier poiro stories were removed at Shivam's request. -->
 
-## poiro.com: the folder tree and the bugs hiding assets (shipped)
-**Problem:** production endpoint failures and reference-integrity defects could hide nested
-folders and AI-lineage assets, and the folder tree ran one subtree query per nesting level.
-**Decision:** replaced the per-level traversal with a single MongoDB `$graphLookup`, and folded
-rename, recolor and move into one PATCH so a folder edit takes 1 database round-trip instead of
-up to 3. Fixed a crashing `GET /assets/global`, an `AttributeError` at 3 call sites, and
-string/ObjectId inconsistencies, with a migration script for the stored data.
-**Result:** nested folders and lineage assets resolve again, and the tree lookup is one query
-regardless of depth. Context: the asset service is team-built (3 Next.js apps, 32 FastAPI
-routes); his part is the core org-scoped models and backend and most of the shared frontend.
+## poiro.com: one library every generation files into (shipped on dev)
+**Problem:** AI generations came from many surfaces (boards, app runs, storyboards and more),
+and a provider's output URL expires. A library that only stores the URL ends up showing broken
+pictures, each surface would save results its own way or not at all, and without the model and
+prompt nobody can see how an asset was made or make it again.
+**Decision:** one Creative Asset Manager (CAM) with three ways in: presigned upload, stock
+import, and one function, `register_produced_asset`, that every generation path calls. It copies
+the bytes into our own storage under a key built from the content, so the same file is stored
+once, and skips the download when the URL is already ours. Model, prompt and reference images
+are stored with the asset. Saving an asset never fails the user's job: if it can't save now, the
+call is written down as a pending filing and a background task retries it.
+**Result:** one library and one shared UI package used by 3 web apps, no dead provider links,
+and provenance for every generation. Good for "design a durable store behind flaky upstreams"
+and "how do you keep a side effect from failing the main request".
 
-## poiro.com: Pinterest without an open-ended bill (shipped)
-**Problem:** stock search across providers needed consistent results, and Pinterest access goes
-through paid third-party vendors, so every search costs money.
-**Decision:** put Pixabay, Unsplash and Pinterest behind one search/download adapter contract.
-Compared 2 vendors on 20+ edge-case queries at 30 concurrent requests and chose ScrapeCreators
-(full-size images with dimensions in one call, lower cost; the faster one lacked usable
-dimensions). Org-scoped Redis cache keyed on provider, media type, org, query and cursor; the
-browser gets a 32-character token instead of the ~2 KB vendor cursor; fail-closed caps of 500
-vendor calls per org per day and 5,000 globally, charged only on cache misses.
-**Result:** repeat searches cost nothing, and a bug or abuse can't run the vendor bill past a
-known ceiling. Good for "tell me about a cost or rate-limit problem".
+## poiro.com: three stock providers, one adapter, a spend limit on every call (shipped on dev)
+**Problem:** users need stock photos and video next to their own assets, every provider's API
+is different, and Pinterest is paid per call.
+**Decision:** a `StockAssetAdapter` base class with two methods, `search` and `get_download`,
+one adapter per provider (Unsplash, Pixabay, Pinterest). A runtime picks the adapter and, before
+every call, checks the provider is switched on and the spend limit allows it; Pinterest is only
+offered when its key is set. Search results are cached in Redis per org. **Not shared across
+orgs on purpose:** a faster answer would reveal what another org searched for. Imports cap the
+bytes one import reads and how many run at once, rate-limit each user, and hash the bytes that
+actually arrived. When a provider changes its response shape, the user gets a 502 naming the
+missing field instead of a crash.
+**Result:** adding a provider is one adapter, a teammate's repeat search isn't paid for twice,
+and a schema change upstream is a clear error, not an outage. Good for cost, rate-limit and
+"third-party API changed under you" questions; the per-org cache is a nice privacy trade-off.
 
-## poiro.com: the node and group system for the AI workflow builder (shipped)
-**Problem:** in the visual workflow builder (Flowboard), users needed to bundle steps into
-reusable sub-workflows, and collapsed groups had to expose typed inputs and outputs while
-nested nodes live in their parent's coordinate space.
-**Decision:** he implemented the node and group concept: node types, typed ports (text, image,
-video, audio and more), execution order, and nested, collapsible groups that run as
-sub-workflows. In #697 he fixed collisions that compared canvas positions with group-relative
-ones (now only nodes with the same parent are compared) and shipped collapsed group cards with
-typed boundary ports and live child progress.
-**Result:** a group can be collapsed into one card that still wires and runs like a single step.
-Good for full-stack and "hard frontend state" questions.
+## poiro.com: async code inside synchronous Celery workers (shipped on dev)
+**Problem:** Celery can't run `async` tasks. Making a new event loop per task breaks every
+client bound to the previous loop (httpx, PyMongo, R2), and a loop that stops between tasks also
+stops the Mongo heartbeats, so after a server restart the next write fails on a dead connection.
+**Decision:** one asyncio loop per worker process, running forever on its own thread, never
+replaced. A task hands it a function that builds the coroutine, not the coroutine itself, so a
+Celery retry gets a fresh one. Many Celery threads share the loop so their waits overlap. On a
+timeout the coroutine is cancelled and given time to clean up. If the loop dies, the process
+exits so Celery starts a clean one; a forked child starts its own loop. Shutdown closes things in
+a fixed order: Mongo, leftover work, Redis, Forge, R2. In auth-service, retries are carried back
+to the task's own thread.
+**Result:** heartbeats keep running between tasks and loop-bound clients stay valid. Strong
+interview topic: event-loop affinity, fork boundaries, cancellation and ordered shutdown.
 
-## poiro.com: 1,041 lint findings, and making it stick (shipped)
-**Problem:** 1,041 Ruff findings across 7 Python packages, checks that were advisory
-(`|| true`, changed files only), and new packages never covered.
-**Decision:** cleared them (autofix, then manual import-order, unused-import, undefined-name and
-bare-except fixes), made whole-tree `ruff format --check` and `ruff check` blocking in CI and
-pre-push, and made package discovery read `pyproject.toml` under apps/packages/services instead
-of a hand-kept list (4 packages got checked for the first time). When fixing undefined names
-would have meant writing missing functions, he reverted that to keep the PR scoped.
-**Why it's a story:** rolling strict enforcement out across an existing codebase without
-breaking anyone; the fix that lasts is the discovery, not the cleanup. (Another engineer wrote
-`ruff.toml` and the lint-staged hook; don't claim them.)
+## poiro.com: one database client per process instead of one per task (shipped on dev)
+**Problem:** a new Mongo client per task means a new connection pool and new background
+monitors every time, which is a lot of churn under load, and an async client only works on the
+loop that created it.
+**Decision:** in the Forge worker, one Mongo client, one Redis pool and one orchestrator per
+loop, shared by every task, replacing the per-task context. Redis uses a blocking pool, so in a
+burst a task waits briefly for a connection instead of failing mid-job. In the main backend, a
+`LoopBoundMongoClient` holds the process's one client and refuses any other loop, and Beanie is
+set up once when the worker starts.
+**Trade-offs he can defend:** one client per loop means every task must run on that loop and
+nothing on it may block; process-wide state is easy to reach but has to be reset after `fork`
+(the code does); Forge still uses **Motor, not Beanie**, because moving it is a larger change
+across the Forge repositories. No measured numbers: never quote connection or latency savings.
 
-## poiro.com: upgrading 70 dependencies and what it turned up (shipped)
-**Problem:** a stale Python baseline and dependency set across 12 lock files.
-**Decision:** moved the baseline and CI matrix to Python 3.13, keeping one image (LaMa) on 3.12
-because its libraries weren't compatible, rather than forcing it. Refreshed 70 dependencies
-(Starlette, langchain-core, Pillow, OpenCV and more), removed ~20 unused direct dependencies
-and ~2,500 dead lines; locked entries went 951 to 841.
-**What he found on the way:** a route-coverage test that only checked 3 of 443 routes, and
-provider API keys committed in old config files. He removed the files and flagged the keys for
-rotation (deleting a file doesn't remove it from Git history, so rotation was the real fix).
-**Good for:** "tell me about a time you found something nobody asked you to look for".
+## poiro.com: letting outside AI agents run apps over MCP (shipped on dev, server not in repo)
+**Problem:** users want to drive Poiro from their AI assistant, but an agent needs hard limits
+on what it can do and how much it can spend.
+**Decision:** one MCP connection is one grant: one user, one org, scopes (`apps:read`,
+`apps:run`, `assets:write`) and credit caps per day and per run. Access tokens are RS256 and
+last up to an hour; refresh tokens rotate, and reusing an old one revokes the grant. Other
+services verify tokens against auth-service's public keys (JWKS), so they can check tokens but
+can't mint them. Every request re-checks the grant: user active, still in the org, and the org
+has both the `mcp` and `infinite` apps on. Agent-started runs and assets are labelled
+`submitted_via="mcp"`.
+**Trade-offs:** RS256 over HS256 costs key management and rotation; the per-request grant check
+is one extra call but makes revocation immediate; v1 grants all scopes at consent, so users
+can't pick narrower permissions yet. **The MCP server and its tool definitions are not in this
+repo; never claim them.**
 
-## poiro.com: the Celery event-loop problem (open branch, #789)
-**Problem:** migrating from Motor to PyMongo async (Beanie 1 to 2, 6 packages, ~250 files). The
-new client is bound to the first event loop it sees, but the Celery tasks created a fresh loop
-per task and left none running between tasks, so idle heartbeats stopped. After an idle period
-plus a MongoDB restart, the next write could fail with `AutoReconnect`.
-**Decision:** one long-lived event loop per worker process that tasks submit work to (if it
-dies, the process exits and gets replaced), one process-local client that rejects cross-loop
-use, forked children drop inherited clients, and transaction startup is properly awaited.
-**Result on the branch:** idle heartbeats went from 0 to 11 in 6 seconds; strict test fakes
-caught missing `await`s in 13 tests. **Not merged as of 2026-10-08: say "I'm leading the
-migration", never "shipped".** Strong interview topic: event-loop affinity, fork boundaries,
-async work inside synchronous workers.
+## poiro.com: Elements, consistent characters across generations (partly built)
+**Problem:** keeping a character, prop or place looking the same across many generations
+without re-uploading the same reference images every time.
+**What is built:** an element is a named set of reference images with a handle like
+`@char_hero`. Create, edit, delete, restore and add images. Handles come from the name
+(`char_`, `prop_`, `loc_`) and a clash is refused rather than silently suffixed. The 8-image cap
+is checked under an org lock so two concurrent adds can't both slip past it.
+**What is not:** nothing on dev turns `@handle` in a prompt into the element's images yet. Say
+"the handle resolution is the next step", never that it works.
+**Trade-offs:** an element is a root folder with a category and handle, not its own collection,
+so it reuses the folder tree and its locking, but ordinary folders share those fields and the
+code has to guard them (category and handle can't change once set). Refusing a duplicate handle
+is stricter, but the user always gets the handle they typed. A small image cap keeps the
+conditioning input predictable but limits how many angles a user can store.
+
+## poiro.com: Flowboard drag performance (plan only, nothing built)
+**Problem:** on a big board, each drag frame re-runs the whole board page (about 8,600 lines),
+including turning the whole board into a JSON string even when the dialog that uses it is closed.
+**The plan:** only the canvas re-renders. Keep React Flow in controlled mode (uncontrolled
+applies changes before our handler runs, breaking selection rules and undo/save), move nodes to
+a zustand store so readers fetch only what they need (cost: about 50 `setNodes` call sites and
+many hooks), accept that selectors still scan every node per frame (fine around 280 nodes, may
+need an index beyond), and leave the load freeze to a separate plan.
+**How to tell it:** as a design you wrote and can defend. **Nothing is implemented and there are
+no before/after numbers.**
+
+## poiro.com: element tagging (not built)
+No source on dev. The open design questions, from session notes: tag by asset id (survives URL
+changes, but every reader looks it up) or by URL, and rewrite tags in Forge's transformer layer
+(one place for every provider and app, but the backend must understand the tag format) or in the
+frontend. Use only as "how would you design this".
 
 ## klimb.io: feature flags to a credit ledger (shipped)
 **Problem:** premium AI capabilities were gated by on/off feature flags, so finance couldn't
@@ -208,3 +232,18 @@ LeetCode top 5% globally (1,800+, 800+ problems), CodeChef 3-star (1,700+), Code
 until the job is done. Say warehouse 1 sees a demand spike and needs 500 units now: the agent
 detects it, checks stock at warehouse 2, and creates the transfer. Above a confidence threshold
 it runs on its own; below it a planner approves." Reuse the shape: definition, then their case.
+
+## How I use Claude Code on a feature (Shivam's own words, 2026-10-25)
+Source: Shivam, in chat, for the ZeroGrunt Q3 answer. Reusable for any "how do you use AI coding
+tools" question (Lumari, SuperApp, ZeroGrunt).
+1. Understand the requirement, the feature, and the existing code's behaviour and design first.
+2. Come up with his own solution, then use Claude to challenge it (why the design is good or bad,
+   what to improve). He built a skill that reviews a plan before execution.
+3. Split the plan into phases, PRs of about 1,000 lines each; a small change stays one PR.
+4. Execute the plan.
+5. Review the code and fix it with a Claude review skill.
+6. Test: written test cases, manual testing in Chrome, Playwright tests.
+7. Open the PR.
+8. Repeat the tests on staging and prod.
+Gap: no single concrete feature named yet. Ask for one example (what feature, what Claude got
+wrong, what he fixed) before using this where a "real problem" example is required.

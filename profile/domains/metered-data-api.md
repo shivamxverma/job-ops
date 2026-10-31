@@ -42,8 +42,8 @@ SerpApi all sit here.
   per-feature consumption records for finance. In-process, no edge counter, so the settlement
   window is new to him.
 - **Problem 6, direct:** Hireflow ingests **4 sources** and drops cross-source duplicates with
-  **SHA-256 fingerprints** of normalised title, company and description. poiro.com's SHA-256
-  dedup with a **DB uniqueness guarantee** is the same "hash is a correctness key" idea.
+  **SHA-256 fingerprints** of normalised title, company and description. poiro.com storing each
+  AI generation once under a content-derived key is the same "hash is a correctness key" idea.
 - **Problem 5, adjacent:** none at dataset scale. Yuvro's content-addressed S3 with garbage
   collection is the nearest (content hashes decide what changed), at small scale.
 - **Nothing** on problems 3 and 4. Don't stretch.

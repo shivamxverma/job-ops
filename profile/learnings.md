@@ -1321,3 +1321,25 @@ The tracker had logged it `sent` on folder-complete, and the bounce sat unread f
 the send was 3 KB, i.e. "Resume attached" with no attachment, the same bug as DeciOps'
 first email. Rule: after any application email, search Gmail for a mailer-daemon reply and check
 the SENT message size (resume adds ~130 KB) before trusting `sent`.
+
+## Gmail drafts: `htmlBody` no longer protects links (2026-10-25)
+Measured on 11 drafts: `create_draft`/`update_draft` with `htmlBody` and explicit
+`<a href="https://...">` still stores the href AND the plain-text part as
+`https://www.google.com/url?q=...` (confirmed in the RAW MIME, so recipients get it). Bare company
+domains in prose ("poiro.com", "klimb.io") are linkified and wrapped too. The 2026-10-21 rule
+("always pass htmlBody") is not enough. Rules now: (1) **no URLs and no bare domains in any draft
+the API writes**: write "Poiro", "Klimb", "on my GitHub"; (2) a follow-up relies on the quoted
+first email for its link; (3) when a link is required (a first email), leave
+`[SHIVAM: type the X link here yourself]` and put that as a step on the card; (4) still `get_draft`
+and grep `google.com/url` before calling any draft ready.
+
+## Weekday / Uplers / HumanBit reposts (2026-10-27)
+- **A job-platform listing is not evidence the seat is open.** Zoca's SDE-1 on Weekday traced to a
+  HumanBit post dated 2025-10-13, and Zoca's own PyjamaHR board had no SDE-1. Lokal's SDE-1 on Uplers
+  was absent from Lokal's own Workable board (89 roles, one engineering seat, SDE-2 at 3+ yrs). Two of
+  the three Weekday/Uplers leads from 2026-10-24 were dead. Check the company's own board first, before
+  any research. Workable lists via `POST apply.workable.com/api/v3/accounts/{slug}/jobs` (paged with
+  `token: nextPage`); PyjamaHR boards render in the careers page itself.
+- **Read who is on the company's LinkedIn People page before writing.** Kontxt.dev's "first founding
+  engineer" listing: all 4 visible people were full-time DViO Digital SDEs and the GitHub-org owner had
+  #OpenToWork on. That is a side project, so the first message has to ask whether the role is salaried.

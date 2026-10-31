@@ -42,17 +42,16 @@ Portable, and any startup whose product is "move data from SaaS X into warehouse
 - **Recorded-response tests vs live sandbox tests** for connectors: determinism vs drift.
 
 ## 4. Where Shivam's real work touches this
-- **Third-party API adapter layer (poiro.com) — closest seam.** Pixabay, Unsplash and Pinterest
-  behind one search/download contract; ~2 KB vendor cursors replaced with 32-char cursor tokens;
-  org-scoped Redis caching; fail-closed spend caps of 500 calls/org/day and 5,000/day globally;
-  2 Pinterest vendors evaluated at 30 concurrent requests. That is problems 2 and 3 at small
-  scale (3 sources, not hundreds). Say "three providers", never "connectors at scale".
+- **Third-party API adapter layer (poiro.com) — closest seam.** Unsplash, Pixabay and Pinterest
+  behind one adapter base class (`search`, `get_download`); on-switch and spend-limit check
+  before every call; per-org Redis search cache; imports capped on bytes, concurrency and
+  per-user rate; a changed provider response returns a 502 naming the missing field instead of
+  crashing (schema drift handled at the edge). That is problems 2 and 3 at small scale (3
+  sources, not hundreds). Say "three providers", never "connectors at scale".
 - **Multi-source ingestion with dedup (Hireflow).** LinkedIn, Wellfound, YC WaaS and Telegram
   ingested on BullMQ queues so a block in one stage can't stall the others; cross-source dedup on
   SHA-256 fingerprints of normalised title + company + description. Problems 4 and 2, personal
   project, adjacent.
-- **Keyset pagination (poiro.com asset service).** Problem 3 from the API-provider side, not the
-  consumer side. Adjacent.
 - **Replay-style test harness (DeepDoc).** 36-case eval harness that replays parameter sweeps and
   separates failure stages. Adjacent to problem 6 (recorded-response connector tests), different
   domain (RAG, not APIs).

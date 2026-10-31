@@ -39,11 +39,11 @@ First written 2026-10-06 for SingleStore. Covers companies whose product *is* th
 - Shared-nothing local disk vs object storage bottom tier: latency vs elasticity and cost.
 
 ## 4. Where Shivam's real work touches this
-- **Uniqueness under concurrency (user side):** poiro.com dedup relies on a database uniqueness
-  constraint so concurrent uploads can't race (facts.yaml). Adjacent: he used the guarantee, didn't
-  build it.
-- **Query shape and cost (user side):** poiro.com replaced depth-dependent tree traversal with a
-  single aggregation query; klimb.io query rewrites cut p95 (no figure recorded, never quote one).
+- **Limits under concurrency (user side):** poiro.com Elements check their 8-image cap under an
+  org lock so two concurrent adds can't both slip past it (facts.yaml). Adjacent: he used the
+  lock, didn't build the database guarantee.
+- **Query shape and cost (user side):** klimb.io query rewrites cut p95 (no figure recorded,
+  never quote one).
 - **Pay setup once, reuse:** CodeSM reuses containers instead of per-submission cold starts, and
   bounds per-job memory by fetching test cases one at a time. Analogy to plan caching and memory
   accounting, not the same thing.

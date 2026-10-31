@@ -208,6 +208,19 @@ link, no numbers, no request.
 > now. Been following what you're up to at {Company} and would like to stay connected with
 > seniors from campus.
 
+**Opening check before any stage-2 ask (mandatory, re-run on the day it is sent).** Before
+drafting or sending the ask, check the company's own careers board for a seat at his level
+(new grad / SDE-1 / AMTS / 0–2 yrs, in India or remote-India) and read the posting's stated
+years, because titles lie (Salesforce "SMTS/MTS" JR338172 asked for 6+ years).
+- **Big company with a public board** (Workday, Greenhouse, Lever, Ashby, own careers site):
+  no fitting opening → **do not send the ask.** Leave the row `accepted`, note
+  `ask parked: no junior India opening on {date}`, and re-check each run. Opening found → the
+  ask names that exact job ID + link and says the resume is attached. Measured 2026-10-23:
+  Mahesh Vaishnav (Walmart) and Satyajit Ghosh (Eightfold) both answered the open ask with
+  "send the job id", which spends the one ask for nothing.
+- **Startup with no public board:** the open "is your team taking anyone on" question below is
+  the right ask, because no board exists to check and a senior is the only way to find out.
+
 **Stage 2, the ask (after they accept).** The whole design point: **ask the question whose
 answer nobody else has, and attach the referral to it conditionally**, so one message does both
 jobs and neither one is a dead end. Never open with "are you hiring" as a bare yes/no, never

@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-01",
-  "scanned": 336,
-  "survived": 178,
+  "scanned": 673,
+  "survived": 363,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/attainsolutions/jobs/senior-full-stack-engineer-conversational-ai-and-voice-applications",
@@ -129,6 +129,527 @@
       "why": [
         "stack (weak): javascript, mongodb, full-stack",
         "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/dysrupit/jobs/ai-ml-engineer-databricks",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "DysrupIT",
+      "title": "AI/ML Engineer (Databricks)",
+      "url": "https://himalayas.app/companies/dysrupit/jobs/ai-ml-engineer-databricks?utm_source=api",
+      "posted": "2026-11-01T00:48:39.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-ML-Engineer",
+        "Machine-Learning-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "Data-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i/jobs/ai-engineer-llm-engineer-talent-pool",
+      "grade": "C",
+      "score": 60,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i",
+      "title": "AI Engineer / LLM Engineer - Talent Pool",
+      "url": "https://himalayas.app/companies/g2i/jobs/ai-engineer-llm-engineer-talent-pool?utm_source=api",
+      "posted": "2026-11-01T02:04:26.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "AI-LLM-Engineer",
+        "AI-Engineering-Jobs",
+        "AI-ML-Engineering-Jobs",
+        "AI-ML-Engineer-Jobs",
+        "AI-LLM-Software-Engineer",
+        "Senior-AI-LLM-Engineer",
+        "LLM-Engineer",
+        "Artificial-Intelligence-Engineer-Jobs"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i/jobs/ai-engineer-llm-engineer-g2i-talent-pool-5753734984",
+      "grade": "C",
+      "score": 60,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i",
+      "title": "AI Engineer / LLM Engineer - G2i Talent Pool",
+      "url": "https://himalayas.app/companies/g2i/jobs/ai-engineer-llm-engineer-g2i-talent-pool-5753734984?utm_source=api",
+      "posted": "2026-11-01T00:06:21.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "AI-LLM-Engineer",
+        "AI-ML-Engineer",
+        "AI-Engineering-Jobs",
+        "Senior-AI-LLM-Engineer",
+        "AI-ML-Engineering-Jobs",
+        "AI-LLM-Software-Engineer",
+        "AI-Engineer",
+        "LLM-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/crowdstrike/jobs/senior-android-developer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Crowdstrike",
+      "title": "Senior Android Developer",
+      "url": "https://himalayas.app/companies/crowdstrike/jobs/senior-android-developer?utm_source=api",
+      "posted": "2026-11-01T00:13:00.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Android-Developer",
+        "Mobile-Software-Engineer",
+        "Android-Engineer",
+        "Mobile-Application-Developer",
+        "Software-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems"
+        ],
+        "weak": [
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i/jobs/backend-developer-g2i-talent-pool-4846950038",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i",
+      "title": "Backend Developer - G2i Talent Pool",
+      "url": "https://himalayas.app/companies/g2i/jobs/backend-developer-g2i-talent-pool-4846950038?utm_source=api",
+      "posted": "2026-11-01T02:55:33.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Backend-API-Developer",
+        "Backend-Platform-Developer",
+        "Backend-Web-Developer",
+        "Backend-Engineer",
+        "Backend-JavaScript-Developer",
+        "Cloud-Backend-Developer",
+        "Remote-Backend-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "backend developer"
+        ],
+        "weak": [
+          "javascript",
+          "backend",
+          "platform",
+          "remote",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: backend developer",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/diligencevault/jobs/software-engineer-backend-intern",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "DiligenceVault",
+      "title": "Software Engineer (Backend) Intern",
+      "url": "https://himalayas.app/companies/diligencevault/jobs/software-engineer-backend-intern?utm_source=api",
+      "posted": "2026-11-01T02:44:34.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer-Intern",
+        "Backend-Engineer",
+        "Python-Developer",
+        "Software-Engineering-Intern"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "backend",
+          "platform",
+          "remote",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack (weak): python, backend, platform",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/pythian/jobs/devops-engineer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Pythian",
+      "title": "DevOps Engineer",
+      "url": "https://himalayas.app/companies/pythian/jobs/devops-engineer?utm_source=api",
+      "posted": "2026-11-01T02:26:47.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Cloud-Engineer",
+        "Infrastructure-Engineer",
+        "Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, automation",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/zup-innovation/jobs/pessoa-desenvolvedor-back-end-senior-ai-advocate",
+      "grade": "D",
+      "score": 40,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Zup Innovation",
+      "title": "Pessoa Desenvolvedor Back-end Senior (AI Advocate)",
+      "url": "https://himalayas.app/companies/zup-innovation/jobs/pessoa-desenvolvedor-back-end-senior-ai-advocate?utm_source=api",
+      "posted": "2026-11-01T05:06:57.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Java-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "kafka",
+          "docker",
+          "kubernetes",
+          "rag"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack: kafka, docker, kubernetes, rag",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i/jobs/full-stack-developer-g2i-talent-pool-2528939820",
+      "grade": "D",
+      "score": 35,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i",
+      "title": "Full Stack Developer - G2i Talent Pool",
+      "url": "https://himalayas.app/companies/g2i/jobs/full-stack-developer-g2i-talent-pool-2528939820?utm_source=api",
+      "posted": "2026-11-01T01:21:23.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-Developer-Jobs",
+        "Full-Stack-Developer",
+        "Full-Stack-Development-Jobs",
+        "Full-Stack-Engineer-Jobs",
+        "Full-Stack-Software-Developer",
+        "Full-Stack-Engineer",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Engineering-Jobs"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "full stack",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, full stack, graduate",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/kantiv-formerly-joist-ai/jobs/senior-ai-engineer-chat-agent-systems",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Kantiv (formerly Joist AI)",
+      "title": "Senior AI Engineer - Chat & Agent Systems",
+      "url": "https://himalayas.app/companies/kantiv-formerly-joist-ai/jobs/senior-ai-engineer-chat-agent-systems?utm_source=api",
+      "posted": "2026-11-01T04:37:59.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-AI-Agent-Engineer",
+        "Senior-AI-Engineer",
+        "Senior-AI-Software-Engineer",
+        "AI-Agent-Systems-Engineer",
+        "Senior-AI-Engineering",
+        "Senior-Agentic-AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "agentic",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i/jobs/remote-python-senior-software-engineer-ai-training",
+      "grade": "F",
+      "score": 15,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i",
+      "title": "Remote Python Senior Software Engineer, AI Training",
+      "url": "https://himalayas.app/companies/g2i/jobs/remote-python-senior-software-engineer-ai-training?utm_source=api",
+      "posted": "2026-11-01T01:07:52.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Remote-Senior-AI-Engineer",
+        "Senior-Python-Developer-AI-ML",
+        "Senior-Python-Software-Engineer",
+        "Senior-Python-Engineer",
+        "Remote-AI-Engineer",
+        "Remote-AI-Training-Specialist",
+        "Senior-AI-Software-Engineer",
+        "Python-AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i/jobs/remote-senior-software-engineer-openai-codex-claude-code-or-cursor",
+      "grade": "F",
+      "score": 15,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i",
+      "title": "Remote Senior Software Engineer, (OpenAI Codex, Claude Code or Cursor)",
+      "url": "https://himalayas.app/companies/g2i/jobs/remote-senior-software-engineer-openai-codex-claude-code-or-cursor?utm_source=api",
+      "posted": "2026-10-31T23:55:56.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Remote-Senior-Developer",
+        "Senior-AI-Software-Engineer",
+        "Senior-Software-AI-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/dmi/jobs/power-bi-developer-bi-engineer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "DMI",
+      "title": "Power BI Developer / BI Engineer",
+      "url": "https://himalayas.app/companies/dmi/jobs/power-bi-developer-bi-engineer?utm_source=api",
+      "posted": "2026-11-01T04:49:25.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Power-BI-Developer",
+        "Business-intelligence-Engineer",
+        "Data-Engineer",
+        "Analytics-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "automation",
+          "etl",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): automation, etl, pipeline",
         "5+ years stated",
         "reachable: restrictions include India",
         "board tags it Senior",

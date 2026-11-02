@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Clinics On Cloud** — B | Mon, 02 Nov 2026 | Inc42: https://inc42.com/buzz/clinics-on-cloud-bags-%e2%82%b9120-cr-to-take-its-health-atms-global/ | why: sector: cloud; funding: raised; also: YourStory
+- [ ] **ValueQuest Tristar Fund** — D | Mon, 02 Nov 2026 | YourStory: https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close | why: funding: raises
+
 - [ ] **Two Point O** — C | Mon, 02 Nov 2026 | Inc42: https://inc42.com/buzz/two-point-o-bags-10-mn-to-bridge-the-financing-gap-in-clean-energy/ | why: funding: bags; also: YourStory
 
 - [ ] **CapGrid** — D | Sat, 31 Oct 2026 | Inc42: https://inc42.com/buzz/capgrid-secures-%e2%82%b950-cr-funding-to-deepen-its-manufacturing-play/ | why: funding: raised

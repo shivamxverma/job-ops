@@ -1,0 +1,321 @@
+{
+  "thread": "Ask HN: Who is hiring? (November 2026)",
+  "threadId": "50338728",
+  "pulled": "2026-11-03",
+  "hits": [
+    {
+      "id": "50343555",
+      "author": "kisamoto",
+      "created": "2026-11-02T20:52:56Z",
+      "url": "https://news.ycombinator.com/item?id=50343555",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Virtusan | Switzerland, EU (Remote) | Full-time Virtusan is a Swiss based health coaching platform for sleep, stress and recovery that works with any wearable, ",
+      "text": "Virtusan | Switzerland, EU (Remote) | Full-time Virtusan is a Swiss based health coaching platform for sleep, stress and recovery that works with any wearable, including our own smart ring. We&#x27;re hiring our first AI Tech Lead to build the intelligence behind our coach: turning biometric and behavioural signals into personalised programmes that help people sleep better and stress less. You’ll be the technical authority for AI across engineering; you make the calls on architecture and approach, set the standards others build to and stay hand-on in the code. To apply: https://join.com/companies/virtusan/16904650-ai-tech-lead-re..."
+    },
+    {
+      "id": "50343534",
+      "author": "Eleshop",
+      "created": "2026-11-02T20:51:27Z",
+      "url": "https://news.ycombinator.com/item?id=50343534",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote incl. India/Asia"
+      },
+      "firstLine": "Eleshop | Senior PHP Full-stack engineer | REMOTE (Europe, Africa, W Asia) Eleshop is a supplier of test, measurement and soldering equipment run by engineers. ",
+      "text": "Eleshop | Senior PHP Full-stack engineer | REMOTE (Europe, Africa, W Asia) Eleshop is a supplier of test, measurement and soldering equipment run by engineers. Interesting projects with a code base which is easy to understand, well-maintained and uses state-of-art technologies. For more information, visit: https://www.eleshop.nl/vacatures.html (English)"
+    },
+    {
+      "id": "50342723",
+      "author": "phw",
+      "created": "2026-11-02T19:55:24Z",
+      "url": "https://news.ycombinator.com/item?id=50342723",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "infra",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Fly.io | REMOTE (multiple countries) | Full time | $190k USD + equity Hey folks, Fly.io is a developer-focused public cloud. We are currently hiring for three r",
+      "text": "Fly.io | REMOTE (multiple countries) | Full time | $190k USD + equity Hey folks, Fly.io is a developer-focused public cloud. We are currently hiring for three roles: * Networking Engineer: Proxy and Corrosion - https://fly.io/jobs/networking-engineer/ * Infrastructure Operations Engineer - https://fly.io/jobs/infra-engineer/ * Fullstack Engineer - https://fly.io/jobs/fullstack-engineer/ Here&#x27;s how we hire: https://docs.fly.io/hiring"
+    },
+    {
+      "id": "50342697",
+      "author": "hartator",
+      "created": "2026-11-02T19:53:24Z",
+      "url": "https://news.ycombinator.com/item?id=50342697",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "python",
+          "mongodb",
+          "remote",
+          "junior"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "SerpApi | https://serpapi.com | Junior to Senior Fullstack Engineer multiple positions | Customer Success Engineer | Hiring Coordinator | Python/Ruby/PHP/Js/Rus",
+      "text": "SerpApi | https://serpapi.com | Junior to Senior Fullstack Engineer multiple positions | Customer Success Engineer | Hiring Coordinator | Python/Ruby/PHP/Js/Rust/Kotlin/C#/Crystal/Nim/Elixir Developer Advocate positions | Based in Austin, TX but remote-first structure | Full-time | ONSITE or FULLY REMOTE | $150K - 180K a year 1099 for US or local avg + 20% for outside the US SerpApi is the leading API to scrape and parse search engine results. We provide 100+ APIs to Google, Google Maps, Google Images, Bing, Baidu, and more. Our current stack is Ruby, Rails, MongoDB, and React.JS. We are looking for more Junior and Senior FullStack Engineers. We have an awesome work environment: We are a remote first company (before Covid!). We do continuous integration, continuous deployments, code reviews, code pairings, profit sharing, and most of communication is async via GitHub. We value super strongly transparency, do open books, have a public roadmap, and contribute to the EFF. Apply at: https://serpapi.com/careers"
+    },
+    {
+      "id": "50341833",
+      "author": "robz75",
+      "created": "2026-11-02T19:00:38Z",
+      "url": "https://news.ycombinator.com/item?id=50341833",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "automation",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Evaboot | Agentic Python Engineer | REMOTE worldwide | Full-time | $60-120K USD/year Evaboot turns LinkedIn Sales Navigator searches into clean, verified prospe",
+      "text": "Evaboot | Agentic Python Engineer | REMOTE worldwide | Full-time | $60-120K USD/year Evaboot turns LinkedIn Sales Navigator searches into clean, verified prospecting lists. Demo: https://www.youtube.com/watch?v=khYgyDlo2Iw Bootstrapped, $2.2M+ ARR, team of 5, remote since day one. What we&#x27;re doing: building agentic products, workflows and architectures. Agentic products you&#x27;ll work on: SDR agent (sales navigator agent, emailing outreach agent). Agentic workflows you&#x27;ll build: coding, support, SEO & content, acquisition automations, and analytics. Agentic architectures you&#x27;ll work on: company-wide systems, memory, tooling, security, and evaluations. You will work directly with me (co-founder & CEO). Requirements: strong Python engineering, power user of agentic coding, strong architectural thinking. Bonus points: AWS deployment & infrastructure, Langfuse for observability & evaluations. What&#x27;s guaranteed: intense execution pace & exponential learning curve. Zero bullshit environment, we focus mostly on results and KPIs. Autodidacts are welcome. Two weeks maximum from apply to reply. Apply right here: https://forms.gle/ALgZfzwpZU8UXvxg8"
+    },
+    {
+      "id": "50341824",
+      "author": "felix-h",
+      "created": "2026-11-02T19:00:07Z",
+      "url": "https://news.ycombinator.com/item?id=50341824",
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "full-stack",
+          "full stack",
+          "backend",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "eventfirst | Senior Full-Stack Engineer | Berlin, Germany | REMOTE (CET) | Full-time | eventfirst.com We are applying AI to organize corporate events. We are lo",
+      "text": "eventfirst | Senior Full-Stack Engineer | Berlin, Germany | REMOTE (CET) | Full-time | eventfirst.com We are applying AI to organize corporate events. We are looking for a senior engineer with at least ten years of full stack experience, a strong focus on product and UX, and some experience building an AI chat based product. Our tech stack is Typescript, React, Next.js and Tailwind. On the backend we use Drizzle with Neon, deployed and monitored via Vercel. Agents and background jobs are executed via trigger.dev. This gives us a killer DX because the entire tech stack supports preview branching. This allows coding agents to work in parallel on different features and verify their work independently very close to what will run in prod. CI is fast (2-3 min) and coverage is good enough to deploy to prod many times per day. Please note that we are working remotely in the CET timezone. Having some remote experience is a plus. We have pre-seed funding from a major US VC and are experienced founders. You’ll be working alongside the founders (ex-Apple, ex-Airbnb, ex-Tulip, ex-Tourlane) and will have a chance to shape the company, product and of course the engineering culture. Apply here: https://eventfirst.jobs.personio.com/job/2870690"
+    },
+    {
+      "id": "50341745",
+      "author": "bill_duckduckgo",
+      "created": "2026-11-02T18:55:20Z",
+      "url": "https://news.ycombinator.com/item?id=50341745",
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "c++",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "DuckDuckGo - we are looking for candidates that are excited to join us on a mission to raise the standard of trust online. All of our roles are fully-remote, ex",
+      "text": "DuckDuckGo - we are looking for candidates that are excited to join us on a mission to raise the standard of trust online. All of our roles are fully-remote, except where specific locations are noted. Senior Web Security Engineer, Browser Platform - https://jobs.ashbyhq.com/duck-duck-go/a447e823-fd8f-438f-909 ... Senior Backend Engineer - https://jobs.ashbyhq.com/duck-duck-go/53022b02-da3d-4fda-827... Staff Data Scientist - https://jobs.ashbyhq.com/duck-duck-go/9c381171-f346-4d7a-876... Senior Data Scientist - https://jobs.ashbyhq.com/duck-duck-go/a447e823-fd8f-438f-909... Director, Paid Marketing (Subscriptions) - (Remote within USA) - https://jobs.ashbyhq.com/duck-duck-go/f8570953-8ea3-4955-bfb... Senior Product Partnerships Manager (Remote within USA or Canada) - https://jobs.ashbyhq.com/duck-duck-go/dc1027ae-8f6a-44eb-b11... Senior C++ Engineer - https://jobs.ashbyhq.com/duck-duck-go/af93b075-d60a-4686-abe... Senior Privacy Engineer - https://jobs.ashbyhq.com/duck-duck-go/80797cf4-64b2-4e94-9d8... Senior Web Compatibility Engineer - https://jobs.ashbyhq.com/duck-duck-go/d02d7598-141b-4a84-bdf... and MORE: https://duckduckgo.com/hiring"
+    },
+    {
+      "id": "50341570",
+      "author": "mslzed",
+      "created": "2026-11-02T18:45:36Z",
+      "url": "https://news.ycombinator.com/item?id=50341570",
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "backend",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Zed Industries | North America, South America, Europe REMOTE | https://zed.dev/ Zed is a company for developers, by developers. All 3 of our founders have spent",
+      "text": "Zed Industries | North America, South America, Europe REMOTE | https://zed.dev/ Zed is a company for developers, by developers. All 3 of our founders have spent years in the trenches writing software and still do it almost every single day. We&#x27;ve raised $42M to support our ultimate vision, a new way to collaborate on software, where conversations about code remain connected to the code itself, instead of being tied to aging snapshots or scattered across different tools. The first step was creating a high-quality editor to serve as the user interface. Now this new investment lets us expand to tackle the next phase of our plan. We&#x27;re developing a new kind of operation-based version control ( https://delta.dev/ ) that incrementally tracks the evolution of your code with edit-level granularity, and we&#x27;re integrating it into Zed to make collaboration, both with agents and teammates, a first-class part of the coding experience. What we look for and how we build - https://zed.dev/blog/hiring Backend Engineer, Cloud - https://zed.dev/jobs/backend-engineer Product Designer - https://zed.dev/jobs/product-designer"
+    },
+    {
+      "id": "50340985",
+      "author": "kirin_memorang",
+      "created": "2026-11-02T18:10:07Z",
+      "url": "https://news.ycombinator.com/item?id=50340985",
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgres"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "aws",
+          "backend",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Memorang | Product Engineers + Technical Project Manager | Full-Time | Los Angeles (or US remote for exceptional hires) Memorang is an \"AI stack for education\" ",
+      "text": "Memorang | Product Engineers + Technical Project Manager | Full-Time | Los Angeles (or US remote for exceptional hires) Memorang is an \"AI stack for education\" that helps organizations build, launch, and monetize AI-powered learning and assessment products. Think Vercel plus Shopify for EdTech. We currently operate on an enterprise model, serving as the AI technology and commercial partner behind new product lines for organizations like ETS, McGraw-Hill, Pearson, and the ACT. We’re hiring for two roles: Product Engineers Own features from the first rough idea to production. You’ll work across AI workflows, backend systems, and user interfaces, making product decisions along the way. We’re looking for engineers who ask good questions, care about the details users notice, and can turn an ambiguous problem into something useful and shipped. Stack: TypeScript, React/Next.js, React Native, Node.js, AWS Lambda, Postgres, and Neo4j. Technical Project Manager Turn complex work into clear plans and keep delivery moving. You’ll coordinate across engineering, design, and customer needs, surface dependencies early, resolve blockers, and keep owners and timelines clear as priorities change. Ideal background: an engineer who moved into project management, with startup experience and enough technical depth to discuss APIs, architecture, and AI workflows with the people building them. Why join? A small team, meaningful ownership, and products used by millions. You’ll help shape what we build and how we work, with a short path from an idea to seeing it in users’ hands. Remote-first, async-friendly, with health and wellness stipends, home-office support, and paid time off. Apply: Email careers@memorang.com with your CV, a few sentences about what interests you, and something you’re proud to have built or delivered."
+    },
+    {
+      "id": "50339895",
+      "author": "JeremyTheo",
+      "created": "2026-11-02T17:04:21Z",
+      "url": "https://news.ycombinator.com/item?id=50339895",
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "platform",
+          "real-time",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Cologne, Germany | UMH | Product Engineer | Full-time | 70k - 100k EUR | ONSITE (part remote) Hi, Alex and Jeremy here from UMH. 8 years ago, Jeremy was absolut",
+      "text": "Cologne, Germany | UMH | Product Engineer | Full-time | 70k - 100k EUR | ONSITE (part remote) Hi, Alex and Jeremy here from UMH. 8 years ago, Jeremy was absolutely frustrated with the status quo of data infrastructure in manufacturing. Companies paid millions per year for \"shitty 90s software\" and are still doing that today, when there is much better software out there for open-source. So we decided that we can do this better, first founded a System Integrator, realized most of the tasks in setting up and maintaining a data infrastructure can be standardized, and decided to found the currently VC-backed UMH, which is built on open source software and is open source itself. What we&#x27;re actually building: We build and scale a real-time data platform that runs hundreds of Benthos pipelines inside a single Docker container (UMH Core), processing millions of industrial messages that control actual production processes. Plus a local-first user interface (Management Console) where both non-technical factory workers and power-users/developers can work together. And yes, we care about UI in enterprise/industrial software. https://www.umh.app/careers/product-engineer-f-m-d-70-100k-e..."
+    },
+    {
+      "id": "50339514",
+      "author": "RitaSand",
+      "created": "2026-11-02T16:41:44Z",
+      "url": "https://news.ycombinator.com/item?id=50339514",
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "infra",
+          "platform",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Mastra | Founding Sales (Founding AE) | US Remote | Full-time Mastra is the open-source TypeScript framework for building AI agents (agents, workflows, memory, ",
+      "text": "Mastra | Founding Sales (Founding AE) | US Remote | Full-time Mastra is the open-source TypeScript framework for building AI agents (agents, workflows, memory, evals, tracing). From the team behind Gatsby, YC-backed, https://github.com/mastra-ai/mastra Why: Four months ago Mastra was a very popular open-source agent framework with very little monetization. Then we launched our platform, and now we&#x27;re closing a couple of deals a week. Pipeline is growing faster than one person can work it, so this is our second dedicated sales hire. You start day 1 with a warm pipe: most leads are already using the open-source framework. What you&#x27;d sell: Platform (Studio, Server, infra to run/debug/observe agents in production, hosted or self-hosted for regulated orgs), Agent Builder (agents without code), and Concierge (embedded Mastra engineers working alongside customer teams). Full-cycle, mid-market: Series A–C, often with regulatory or infra constraints, sales cycles of a few weeks, talking to eng leaders. You have: Closed full-cycle deals in dev tools, OSS, infra, or AI. Enough technical depth to come across as a smart PM with engineers: understand their use cases and scope a solution. Founder or founder mentality. Comfort with a product that ships something new every week. Apply: { https://jobs.ashbyhq.com/Mastra/d5fe8d36-843a-4f9b-9d65-779e... } We get back to everyone."
+    },
+    {
+      "id": "50339013",
+      "author": "Kiran_MixRank",
+      "created": "2026-11-02T16:15:14Z",
+      "url": "https://news.ycombinator.com/item?id=50339013",
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "typescript",
+          "postgresql"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "linux",
+          "backend",
+          "automation",
+          "etl",
+          "remote",
+          "junior"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "MixRank (YC S11) | Software Engineers | 100% Remote (Global) | Full-Time MixRank processes petabytes of data every month through web crawling. Hundreds of custo",
+      "text": "MixRank (YC S11) | Software Engineers | 100% Remote (Global) | Full-Time MixRank processes petabytes of data every month through web crawling. Hundreds of customers use our data products, including Google, Amazon, Facebook, Intel, and Adobe, across industries such as finance, recruiting, sales, marketing, and security. We’re a fully remote company with a global footprint across 20+ countries. We’re growing, profitable, employee-owned, and have no dependence on outside funding. Applicants from all geographies and backgrounds are welcome. We’re looking for passionate individuals for whom programming is not just a job, but something they genuinely love to do. We’re obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team. Our codebase is friendly to new contributors. You’ll have a fully functional development environment within hours through full automation and will be pushing commits on your first day. Deployments to production happen multiple times per day and finish in under two minutes.Effectively all of our codebase is written in Python, Rust, SQL, JavaScript/TypeScript, and Nix. The core technologies you’ll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git. We operate at a larger scale than typical startups. We run two datacenters with high-performance servers we’ve built ourselves, capable of handling the volumes of data we process. We’ve implemented our own distributed file system, perform full-scale web crawls, and download and run static analysis on the entire universe of published Android APKs and iOS IPAs. Unlike a typical startup where you might spend half your time in meetings and the other half fixing Jira tickets, at MixRank you’ll challenge yourself with difficult technical problems that help you grow as an individual. We’re continuously hiring for the positions below; these aren’t singular roles that close once filled. Our philosophy is that the candidate is more important than the position. For each new member of the team, we design a custom role and responsibilities around their interests. Other companies may create a long list of specific requirements with the expectation that you’ll exactly replace someone on the team or fit a role defined by committee. MixRank is more pragmatic: we first get excited about bringing a unique individual onto the team, then figure out the best way to support their specific talents. Junior Software Engineer - Remote (Global), Full-Time We’re looking for remote junior engineers with 0–3 years of professional software experience and 5+ years of curiosity exploring computers, programming, and technical hobby projects. This is an open-ended entry role with mentorship and diverse opportunities to work across all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend/backend web development, APIs, data mining, data modeling, and more. To stand out, please highlight what makes you unique: passion for computing, curiosity and side projects, work ethic, niche research, or anything else that shows how you think and build. Ideally, you’ve already graduated. But if you still have one or more years left of school, please feel free to apply anyway. If you’re the right fit for the team, we’ll figure out a way to accommodate your schedule. Apply here: https://www.ycombinator.com/companies/mixrank/jobs/Fnwsojk-j Software Engineer - Remote (Global), Full-Time We’re hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, DevOps, and more. We’ll tailor the role to the subset of areas that best match your interests. Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining. Apply here: https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-s I’m Kiran, Chief of Staff at MixRank, a fully remote data startup building go-to-market intelligence. We’re US-incorporated but hire globally, and we’re bringing on new teammates to join a fast-moving team with real ownership and impact."
+    },
+    {
+      "id": "50338830",
+      "author": "offscript",
+      "created": "2026-11-02T16:06:41Z",
+      "url": "https://news.ycombinator.com/item?id=50338830",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ai agent",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "We The Flywheel | Remote | Brand Identity Designer (AI-agent team) | Hourly, flexible hours We build and run our own brands (race finders, training tools, AI gu",
+      "text": "We The Flywheel | Remote | Brand Identity Designer (AI-agent team) | Hourly, flexible hours We build and run our own brands (race finders, training tools, AI guides, sports media) with a small remote team and a lot of AI agents. Most of our brands have an identity that is good enough. We want someone with a sharp eye to make them good: logo refinements, lockups, favicons, social and OG images, colour and type rules. It&#x27;s polish and judgment, not starting from scratch. Our agents do the digging, so you spend your time designing. Please include identity work that is live somewhere. There&#x27;s a short assessment, read by a person. https://wetheflywheel.com/en/careers/brand-product-designer/..."
+    },
+    {
+      "id": "50338732",
+      "author": "AdriaanvRossum",
+      "created": "2026-11-02T16:01:43Z",
+      "url": "https://news.ycombinator.com/item?id=50338732",
+      "matched": {
+        "strong": [
+          "typescript",
+          "docker"
+        ],
+        "weak": [
+          "infra",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000/month (full-time) | https://www.simpleanalytics.co",
+      "text": "Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000/month (full-time) | https://www.simpleanalytics.com/jobs/devops Hi HN, I&#x27;m Adriaan. Simple Analytics exists thanks to HN: it started with my Show HN in 2018 [1]. Today we&#x27;re a self-funded, profitable team of four building privacy-first analytics. Privacy is why we run our own bare-metal servers instead of the cloud. We&#x27;re preparing for a LOT more traffic, and you&#x27;ll own the infrastructure and its reliability. We have good documentation. First project: leading the infra side of our Elasticsearch to ClickHouse migration, with Alex, our developer. Stack: Ansible, OpenTofu, Docker Compose, Grafana, GitHub Actions, TypeScript. Clear async communication matters more than knowing every tool. You can apply from your terminal: curl https://www.simpleanalytics.com/jobs/devops.md [1] https://news.ycombinator.com/item?id=18024277"
+    }
+  ]
+}

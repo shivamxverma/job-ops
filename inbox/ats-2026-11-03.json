@@ -1,0 +1,41 @@
+{
+  "pulled": "2026-11-03",
+  "scanned": 891,
+  "survived": 77,
+  "hits": [
+    {
+      "id": "greenhouse:observeai:5457986008",
+      "grade": "F",
+      "score": 43,
+      "source": "greenhouse (seed list)",
+      "company": "Observe",
+      "domain": "observe.ai",
+      "title": "Technical Support Engineer - 3",
+      "url": "https://www.observe.ai/position?gh_jid=5457986008",
+      "posted": "2026-11-02T09:41:24-05:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): python, aws, platform",
+        "non-eng title: Support Engineer",
+        "non-engineering seat",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "pulled": "2026-11-03",
+  "scanned": 335,
+  "survived": 184,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/asset-bridge/jobs/web3-engineer-contract-role",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Asset Bridge",
+      "title": "Web3 Engineer (Contract Role)",
+      "url": "https://himalayas.app/companies/asset-bridge/jobs/web3-engineer-contract-role?utm_source=api",
+      "posted": "2026-11-02T14:30:46.000Z",
+      "location": "Afghanistan, Albania, Andorra, Argentina, Armenia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Belize, Bhutan, Bolivia, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Cambodia, Chile, China, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, French Guiana, Georgia, Germany, Gibraltar, Greece, Guatemala, Guernsey, Guyana, Holy See (Vatican City State), Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kosovo, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Malta, Moldova, Monaco, Mongolia, Montenegro, Myanmar, Nepal, Netherlands, Nicaragua, North Macedonia, Norway, Oman, Pakistan, Palestine, State of, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Romania, Russian Federation, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Korea, Spain, Sri Lanka, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Taiwan, Tajikistan, Thailand, Timor-Leste, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, Uruguay, Uzbekistan, Venezuela, Vietnam, Yemen, Åland Islands",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Web3-Engineer",
+        "Blockchain-Engineer",
+        "Smart-Contract-Engineer",
+        "Software-Engineer",
+        "Full-Stack-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgres"
+        ],
+        "weak": [
+          "next.js",
+          "python",
+          "aws",
+          "full-stack",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: postgres",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/motu-novu-llc/jobs/php-developer-flex-time-global",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Motu Novu LLC",
+      "title": "PHP Developer (Flex-Time) (Remote/Global)",
+      "url": "https://himalayas.app/companies/motu-novu-llc/jobs/php-developer-flex-time-global?utm_source=api",
+      "posted": "2026-11-02T18:19:01.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "tags": [
+        "Remote-PHP-Developer",
+        "PHP-Developer",
+        "Senior-PHP-Developer",
+        "Mid-Level-Full-Stack-Developer-(PHP)",
+        "PHP-Full-Stack-Developer",
+        "PHP-Software-Engineer",
+        "Developer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql"
+        ],
+        "weak": [
+          "react",
+          "javascript",
+          "full-stack",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: postgresql",
+        "reachable: remote worldwide",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/asset-bridge/jobs/full-stack-developer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Asset Bridge",
+      "title": "Full-Stack Developer",
+      "url": "https://himalayas.app/companies/asset-bridge/jobs/full-stack-developer?utm_source=api",
+      "posted": "2026-11-02T18:40:59.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Front-End-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "redis",
+          "docker"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "python",
+          "javascript",
+          "aws",
+          "s3",
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: postgresql, redis, docker",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/gitlab-com/jobs/staff-software-engineer",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "GitLab",
+      "title": "Staff Software Engineer",
+      "url": "https://himalayas.app/companies/gitlab-com/jobs/staff-software-engineer?utm_source=api",
+      "posted": "2026-11-02T13:55:54.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql"
+        ],
+        "weak": [
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: postgresql",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

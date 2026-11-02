@@ -1,0 +1,177 @@
+{
+  "pulled": "2026-11-02",
+  "scanned": 338,
+  "survived": 187,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/arangodb/jobs/software-engineer-intern-arango-cookbooks",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "ArangoDB",
+      "title": "Software Engineer Intern - Arango Cookbooks",
+      "url": "https://himalayas.app/companies/arangodb/jobs/software-engineer-intern-arango-cookbooks?utm_source=api",
+      "posted": "2026-11-02T04:17:19.000Z",
+      "location": "India, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Software-Developer",
+        "Machine-Learning-Engineer",
+        "Data-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "platform",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: postgresql, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/sumatosoft/jobs/qa-engineer",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "SumatoSoft",
+      "title": "QA Engineer",
+      "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+      "posted": "2026-11-02T04:06:16.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "tags": [
+        "QA-Engineer",
+        "Software-Quality-Assurance-Engineer",
+        "Test-Engineer",
+        "Manual-QA-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "nodejs",
+          "developer tools"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: node.js, nodejs, developer tools",
+        "story fit: CodeSM/Yuvro/Storix (developer tools)",
+        "reachable: remote worldwide",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tangem-ag/jobs/senior-kotlin-java-developer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tangem AG",
+      "title": "Senior Kotlin/Java Developer",
+      "url": "https://himalayas.app/companies/tangem-ag/jobs/senior-kotlin-java-developer?utm_source=api",
+      "posted": "2026-11-02T01:26:07.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Senior-Kotlin-Developer",
+        "Java-Developer",
+        "Payment-Systems-Engineer",
+        "Senior-Java-Kotlin-Developer",
+        "Senior-Backend-Engineer-(Java-Kotlin)",
+        "Java-Kotlin-Developer",
+        "Senior-Java-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "postgresql",
+          "redis",
+          "kafka",
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, postgresql, redis, kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "reachable: remote worldwide",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/trinzic/jobs/senior-bi-platform-and-analytics-engineer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Trinzic",
+      "title": "Senior BI Platform and Analytics Engineer",
+      "url": "https://himalayas.app/companies/trinzic/jobs/senior-bi-platform-and-analytics-engineer?utm_source=api",
+      "posted": "2026-11-01T23:06:08.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Business-intelligence-Engineer",
+        "Analytics-Engineer",
+        "Data-Engineer",
+        "BI-Platform-Engineer",
+        "Reporting-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

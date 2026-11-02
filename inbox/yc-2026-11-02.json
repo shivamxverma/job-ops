@@ -1,0 +1,51 @@
+{
+  "pulled": "2026-11-02",
+  "scanned": 774,
+  "survived": 6,
+  "hits": [
+    {
+      "id": 119478,
+      "grade": "A",
+      "score": 82,
+      "company": "LegalOS",
+      "batch": "W26",
+      "title": "Founding Engineer",
+      "location": "San Francisco, CA, US / Remote",
+      "visa": "Will sponsor",
+      "minExperience": "3+ years",
+      "salaryRange": "$175K - $265K",
+      "equityRange": "0.75% - 2.25%",
+      "skills": [
+        "PostgreSQL",
+        "React",
+        "TypeScript",
+        "Next.js",
+        "LLMs",
+        "Evals",
+        "AI Agents",
+        "Supabase"
+      ],
+      "oneLiner": "The AI-Native Immigration Law Firm",
+      "createdAt": "3 days",
+      "lastActive": null,
+      "teamSize": 3,
+      "stage": "Early",
+      "tags": [],
+      "website": "https://www.legalos.ai",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/legalos/jobs/jZy2UFU-founding-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/legalos",
+      "why": [
+        "stack: typescript, postgresql, llm, founding engineer",
+        "3-person team",
+        "founding-eng seat",
+        "story fit (AI vocab only): ai, ai agent, agents",
+        "remote",
+        "will sponsor",
+        "3+ years stated (stretch)",
+        "posted 3 days ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

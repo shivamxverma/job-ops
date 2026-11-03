@@ -1,40 +1,81 @@
 {
   "pulled": "2026-11-03",
-  "scanned": 891,
-  "survived": 77,
+  "scanned": 1584,
+  "survived": 154,
   "hits": [
     {
-      "id": "greenhouse:observeai:5457986008",
-      "grade": "F",
-      "score": 43,
-      "source": "greenhouse (seed list)",
-      "company": "Observe",
-      "domain": "observe.ai",
-      "title": "Technical Support Engineer - 3",
-      "url": "https://www.observe.ai/position?gh_jid=5457986008",
-      "posted": "2026-11-02T09:41:24-05:00",
+      "id": "greenhouse:razorpaysoftwareprivatelimited:4731054005",
+      "grade": "C",
+      "score": 51,
+      "source": "greenhouse (YC Winter 2015)",
+      "company": "Razorpay",
+      "domain": "razorpay.com",
+      "title": "Frontend Engineer ",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4731054005",
+      "posted": "2026-09-22T02:24:09-04:00",
       "location": "Bengaluru",
       "reachability": {
         "status": "open",
         "reason": "India-based"
       },
       "matched": {
-        "strong": [],
+        "strong": [
+          "backend engineer"
+        ],
         "weak": [
-          "python",
-          "aws",
+          "react",
+          "javascript",
+          "full-stack",
+          "backend",
           "platform",
+          "real-time",
           "automation",
-          "ai agent",
           "agentic"
         ]
       },
       "why": [
-        "stack (weak): python, aws, platform",
-        "non-eng title: Support Engineer",
-        "non-engineering seat",
+        "stack: backend engineer",
+        "0-1 years ok",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:meesho:9b5a5436-cdc3-4bcd-8e5e-b7294af185d5",
+      "grade": "C",
+      "score": 48,
+      "source": "lever (seed list)",
+      "company": "Meesho",
+      "domain": "meesho.com",
+      "title": "Security Engineer III - Infra Security",
+      "url": "https://jobs.lever.co/meesho/9b5a5436-cdc3-4bcd-8e5e-b7294af185d5",
+      "posted": "2026-11-02T04:17:33.039Z",
+      "location": "Bangalore, Karnataka",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "linux",
+          "ci/cd",
+          "infra",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kubernetes, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "5+ years stated",
         "reachable: India-based",
-        "posted 0d ago"
+        "posted 1d ago"
       ]
     }
   ]

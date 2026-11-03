@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-03",
-  "scanned": 335,
-  "survived": 184,
+  "scanned": 666,
+  "survived": 364,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/asset-bridge/jobs/web3-engineer-contract-role",
@@ -166,6 +166,250 @@
       "why": [
         "stack: postgresql",
         "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/revenuebase-inc/jobs/full-stack-developer-backend",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RevenueBase Inc",
+      "title": "Full Stack Developer (Backend)",
+      "url": "https://himalayas.app/companies/revenuebase-inc/jobs/full-stack-developer-backend?utm_source=api",
+      "posted": "2026-11-03T02:28:07.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Backend-Engineering",
+        "Full-Stack-Developer",
+        "Full-Stack-Software-Developer",
+        "Full-Stack-Engineer",
+        "Backend-Web-Developer",
+        "Full-Stack-Web-Developer",
+        "Developer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems",
+          "fastapi",
+          "postgresql",
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems, fastapi, postgresql",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "grade": "C",
+      "score": 49,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Upgrade",
+      "title": "AI Experience Engineer (Conversational AI)",
+      "url": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+      "posted": "Thu, 15 Oct 2026 07:31:14 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Canada (Remote) </p> <p><span><strong>About the Role:</strong><br><br>An AI Experience Engineer owns the full lifecycle of the journeys our customers have with Upgrade's AI agent on chat, voice and email: creation, optimization, edge case handling and containment growth. They build journeys in Sierra's no-code tooling, partner with Upgrade's product groups to bring their servicing flows to the agent, and are accountable for whether the agent resolves the customer's issue safely, accurately and without a human.</span></p> <p><span>We are hiring an AI Experience Engineer to own Upgrade's customer-facing AI agent. You will sit between engineering, product and customer operations. You will turn servicing workflows, such as making a payment, checking loan details, updating an address or enabling autopay, into production journeys and keep improving them after launch. </span><span>You will build and own the journeys end to end, from first draft to steady state. The work is part builder, part analyst: design the flow, handle the edge cases, read the transcripts, and keep raising containment. Containment, CSAT, transfer quality and hallucination rate are your metrics.</span></p> <p><span>Within your first year, you will own a portfolio of journeys across products (Personal Loans, Card, BNPL, HELOC, Deposits) and help set the standards for how Upgrade builds, tests and ships AI experiences.</span></p> <p>&nbsp;</p> <p><span><strong>Our Core Technologies</strong></span></p> <p><span>Sierra Agent Studio (no-code journeys), Sierra simulations and conversation analytics, GraphQL and REST APIs (as journey tools), Genesys (contact center handoff), SumoLogic, Grafana, SQL, Javascript/Typescript, Claude and other LLM tools.</span></p> <p>&nbsp;</p> <p><span><strong>What You'll Do</strong></span></p> <p><span>• <strong>Journey creation:</strong> Design and build Sierra journeys in Agent Studio for chat, voice and email, from discovery with operations through production rollout</span></p> <p><span>• <strong>Optimization:</strong> Review transcripts, recordings and analytics every week, find where conversations fail or transfer, and ship fixes to journey logic, instructions and knowledge</span></p> <p><span>• <strong>Edge case handling: </strong>Map the unhappy paths (failed payments, mismatched identity, delinquent accounts, unsupported requests) and make sure each ends in a correct answer or a clean handoff</span></p> <p><span>• <strong>Containment:</strong> Own containment and CSAT targets per journey, run staged rollouts (1% → 100%), and prioritize the work that moves those numbers most</span></p> <p><span>• <strong>Product partnership:</strong> Work with product groups (Personal Loans, Card, BNPL, Deposits) to scope new journeys, keep journeys current as products change, and define the APIs the agent needs</span></p> <p><span>• <strong>Safety and compliance:</strong> Apply tiered authentication and step-up verification, verbatim compliance language and guardrails against hallucination and off-policy answers</span></p> <p><span>• <strong>Handoffs:</strong> Design transfers to human agents in Genesys with accurate summaries and auth context</span></p> <p><span>• <strong>Testing:</strong> Build simulation and regression suites so every journey change ships with evidence it did not break existing behavior</span></p> <p><span>• <strong>Monitoring: </strong>Watch latency, errors and drop-offs in SumoLogic and Grafana, and own the alerts</span></p> <p><span>• <strong>Voice tuning:</strong> Latency, filler phrases, interruptions, personality and tone</span></p> <p><span>• <strong>Sierra relationship: </strong>Be the technical owner on our side, escalate platform issues and shape roadmap asks</span></p> <p>&nbsp;</p> <p><span><strong>What We Look For:</strong></span></p> <p><span>• 3–5 years of Frontend Software Engineering experience, or equivalent experience in Solutions Engineering, Conversational AI or Technical Product roles</span></p> <p><span>• Working knowledge of how LLM agents behave: instructions, tool calls, knowledge retrieval, and where each one fails</span></p> <p><span>• Experience building evaluations for non-deterministic systems: test sets, simulations, LLM-as-judge, regression gates</span></p> <p><span>• Enough technical depth to read API specs, work with backend engineers on REST and GraphQL integrations, and reason about authorization and permission scopes</span></p> <p><span>• Working knowledge of JavaScript/TypeScript, with the ability to build and maintain coded journeys and integrate APIs within conversational AI platforms.</span></p> <p><span>• Product and customer mindset: you understand ops procedures, you read transcripts, care about tone, and measure success by whether the customer's problem got solved</span></p> <p><span>• Ownership in production: rollouts, monitoring, log analysis and incident response</span></p> <p><span>• Clear writing and the ability to work with non-engineers in operations, compliance and legal</span></p> <p>&nbsp;</p> <p><span><strong>Nice To Have:</strong></span></p> <p><span>• Hands-on experience with Sierra Agent Studio, or a comparable no-code agent platform (Decagon, Ada, Kore.ai, Google CCAI, Amazon Lex/Connect)</span></p> <p><span>• Voice AI experience: speech-to-text, text-to-speech, latency tuning, barge-in handling</span></p> <p><span>• Contact center systems such as Genesys, and agent handoff design</span></p> <p><span>• Background in fintech or another regulated industry (UDAAP, FDCPA, TCPA, PCI, SOC 2)</span></p> <p><span>• Conversation design or UX writing experience</span></p> <p>&nbsp;</p> <p><span><strong>What We Offer You:&nbsp;</strong></span></p> <p><span>• Competitive salary ($140K-$180K CAN) and stock option plan</span></p> <p><span>• Paid coverage of medical, dental and vision insurance&nbsp;</span></p> <p><span>• Flexible PTO</span></p> <p><span>• Opportunities for professional growth and development<br>• Paid parental leave</span></p> <p><span>• Health &amp; wellness initiatives</span></p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai\">https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "javascript",
+          "backend",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/clanx/jobs/product-engineer-remote",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "ClanX",
+      "title": "Product Engineer - Remote",
+      "url": "https://himalayas.app/companies/clanx/jobs/product-engineer-remote?utm_source=api",
+      "posted": "2026-11-03T00:35:44.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Product-Engineer",
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "AI-Engineer",
+        "Technical-Product-Manager"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "automation",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, automation, ai agent",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/twilio/jobs/software-engineer-l3-333774507",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "url": "https://himalayas.app/companies/twilio/jobs/software-engineer-l3-333774507?utm_source=api",
+      "posted": "2026-11-02T22:50:05.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Data-Platform-Engineer",
+        "Distributed-Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/parexel/jobs/senior-salesforce-developer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Parexel",
+      "title": "Senior Salesforce Developer",
+      "url": "https://himalayas.app/companies/parexel/jobs/senior-salesforce-developer?utm_source=api",
+      "posted": "2026-11-02T13:21:06.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Developer",
+        "Salesforce-Engineer",
+        "CRM-Developer",
+        "Salesforce-Platform-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, real-time",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/vrinda-international/jobs/senior-data-ingestion-engineer-fivetran",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Vrinda International",
+      "title": "SENIOR DATA INGESTION ENGINEER (FIVETRAN)",
+      "url": "https://himalayas.app/companies/vrinda-international/jobs/senior-data-ingestion-engineer-fivetran?utm_source=api",
+      "posted": "2026-11-02T23:58:12.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Ingestion-Engineer",
+        "Data-Engineer",
+        "Data-Integration-Engineer",
+        "Data-Pipeline-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "real-time",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, real-time, pipeline",
+        "senior-titled",
+        "6+ years stated",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

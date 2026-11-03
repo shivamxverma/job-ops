@@ -316,6 +316,228 @@
       },
       "firstLine": "Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000/month (full-time) | https://www.simpleanalytics.co",
       "text": "Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000/month (full-time) | https://www.simpleanalytics.com/jobs/devops Hi HN, I&#x27;m Adriaan. Simple Analytics exists thanks to HN: it started with my Show HN in 2018 [1]. Today we&#x27;re a self-funded, profitable team of four building privacy-first analytics. Privacy is why we run our own bare-metal servers instead of the cloud. We&#x27;re preparing for a LOT more traffic, and you&#x27;ll own the infrastructure and its reliability. We have good documentation. First project: leading the infra side of our Elasticsearch to ClickHouse migration, with Alex, our developer. Stack: Ansible, OpenTofu, Docker Compose, Grafana, GitHub Actions, TypeScript. Clear async communication matters more than knowing every tool. You can apply from your terminal: curl https://www.simpleanalytics.com/jobs/devops.md [1] https://news.ycombinator.com/item?id=18024277"
+    },
+    {
+      "id": "50348531",
+      "author": "msai",
+      "created": "2026-11-03T05:45:38Z",
+      "url": "https://news.ycombinator.com/item?id=50348531",
+      "matched": {
+        "strong": [
+          "postgresql",
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "c++",
+          "backend",
+          "platform",
+          "real-time",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Location: Istanbul, Türkiye Remote: Yes Willing to relocate: Yes Technologies: C/C++, Rust, Python, Linux, RTOS, TCP/IP, eBPF/XDP, WebRTC, UWB/BLE, embedded/IoT",
+      "text": "Location: Istanbul, Türkiye Remote: Yes Willing to relocate: Yes Technologies: C/C++, Rust, Python, Linux, RTOS, TCP/IP, eBPF/XDP, WebRTC, UWB/BLE, embedded/IoT & mesh-connected devices, PostgreSQL, Docker, AI/LLM systems Résumé / Portfolio: https://msakg.com GitHub: https://github.com/imsakg LinkedIn: https://linkedin.com/in/msakg Email: contact@msakg.com Lead AI Agent Software Engineer focused on real-time, performance-critical systems across AI, networking, embedded devices, and production infrastructure. My background sits at the intersection of software and the physical world: • Currently leading architecture and production hardening of a real-time multimodal AI agent platform — streaming STT → LLM/tools → TTS, WebRTC, asyncio, long-lived state/memory, retrieval, observability, failure handling, cancellation, backpressure, and latency-sensitive execution. • Previously built real-time networking software for aerial systems using Rust, Linux, eBPF/XDP and IEEE 802.1 TSN concepts, including reliability mechanisms where deterministic behavior and low fast-path overhead matter. • Earlier developed C/C++ bare-metal and RTOS firmware for access-control/security and embedded/IoT devices — TCP/IP, UART/I2C/SPI, RS232/RS485, Modbus, secure device communication, UWB/BLE localization, sensors, relays and constrained hardware. I’m most interested in difficult engineering problems where timing, reliability, networking, hardware constraints, and user-facing behavior meet: mission/performance-critical software, real-time systems, embedded/IoT, access control, UWB, distributed device systems, AI infrastructure, backend/platform engineering, and systems software. I enjoy owning systems end-to-end — architecture, implementation, debugging, benchmarking, deployment, production incidents, and the less glamorous failure modes that only appear in real environments. I’m looking for a strong engineering team tackling genuinely hard technical problems. Open to Lead/Senior Software, Systems, Embedded, Platform, Backend, Real-Time AI, or similarly hands-on engineering roles. If you&#x27;re building something where milliseconds, reliability, hardware, networks, or production correctness actually matter, I&#x27;d be very happy to talk."
+    },
+    {
+      "id": "50348055",
+      "author": "csprabala",
+      "created": "2026-11-03T04:26:01Z",
+      "url": "https://news.ycombinator.com/item?id=50348055",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "platform"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "firstLine": "Tech Mahindra’s Cloud Advisory division is hiring engineers (4+YoE) and cloud solution architects (8+YoE) to help enterprises modernize and operate at scale on ",
+      "text": "Tech Mahindra’s Cloud Advisory division is hiring engineers (4+YoE) and cloud solution architects (8+YoE) to help enterprises modernize and operate at scale on AWS, Azure, and GCP. We value folks with a strong software development background who have grown into cloud and platform engineering roles. Our work spans cloud application modernization, platform engineering, DevOps, SRE, SecOps, and FinOps. Any experience with using AI to improve cloud platforms, DevOps or operations is a plus. We’re hiring across geographies (India, Mexico, Canada, USA). Roles include: Cloud Engineers, Platform/DevOps/SRE, Cloud Architects, DevSecOps, Tech Leads, and Engineering Managers. Apply: Send your resume to cprabala@techmahindra.com (mention HN – Cloud Advisory)."
+    },
+    {
+      "id": "50347792",
+      "author": "ksctrading",
+      "created": "2026-11-03T03:45:03Z",
+      "url": "https://news.ycombinator.com/item?id=50347792",
+      "matched": {
+        "strong": [
+          "postgres"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "KSC Trading | Remote | Full-Time | Senior Backend Software Engineer | $200k to $250k USD Total Compensation + Benefits KSC Trading is a proprietary algorithmic ",
+      "text": "KSC Trading | Remote | Full-Time | Senior Backend Software Engineer | $200k to $250k USD Total Compensation + Benefits KSC Trading is a proprietary algorithmic trading firm founded in 2020. The company creates software to engage in automated trading in sports and prediction markets. The focus has been on statistical arbitrage and liquidity provision. We are currently a team of two, expecting to grow to a team of six over the next year. The role would include maintaining and expanding the trading infrastructure. Example projects would be to integrate new exchanges and data sources, normalize market data feeds, optimize backtest performance, and build systems to monitor and analyze live trading. The current tech stack is based on Java, Google Cloud Platform, and Postgres. Experience with the tech stack is not expected. Location: Remote with at least 4 hours overlap with US east coast working hours. The company donates 20% of its profits. To apply reach out at hiring@ksctrading.com with your resume."
+    },
+    {
+      "id": "50347596",
+      "author": "christyfthk",
+      "created": "2026-11-03T03:18:22Z",
+      "url": "https://news.ycombinator.com/item?id=50347596",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "c++",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Flow Traders | Research Engineer | Hong Kong | Full Time | Visa | Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and inno",
+      "text": "Flow Traders | Research Engineer | Hong Kong | Full Time | Visa | Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hong Kong office. Join us build and scale the research framework behind our systematic trading models. You’ll work closely with Quantitative Researchers, drive end‑to‑end ML pipelines, and shape global standards for data‑driven model development. Research Engineers have joint responsibility for conducting research and delivering models. You’ll thrive if you have: - 8+ years in ML / Data Science / Research Engineering (Postdoc/Faculty can count towards this); - Strong Python and libraries such as Ray, numpy, PyTorch, and pandas; - Solid math/stats background; - Experience with modern dev practices & cloud technologies. If you&#x27;re interested, apply here: https://www.flowtraders.com/careers/job-description/7431246 Flow Traders | C++ Senior Software Engineer | Hong Kong | Full Time | Visa | Relocation We are looking for a Senior C++ Software Engineer, you&#x27;ll help design and optimize next-generation market data and execution platforms powering systematic trading across hundreds of venues. The role covers high performance market data ingestion and order execution, building and optimizing trading systems. To succeed you will need to have: - 5+ years of C++ experience in HFT/ financial sector -Strong knowledge in one or more APAC markets If you are interested, apply here: https://www.flowtraders.com/careers/job-description/8212740 Or if you&#x27;d like to see other roles at Flow Traders, please check our careers website: https://flowtraders.com/careers/"
+    },
+    {
+      "id": "50345770",
+      "author": "ncaroyannis",
+      "created": "2026-11-02T23:35:49Z",
+      "url": "https://news.ycombinator.com/item?id=50345770",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US/Canada remote available) | Contract Sendery is a transactional email platform ",
+      "text": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US/Canada remote available) | Contract Sendery is a transactional email platform built for global teams. We provide developers, designers, and operations with the tools they need to manage their product emails without development overhead. We&#x27;re currently looking for a capable iOS Engineer to join our team on a contract basis to start as we build out our mobile stack. The ideal candidate has 5+ years experience building iOS apps from zero to production (Swift, SwiftUI, UIKit, and modern iOS frameworks), and has worked in a startup environment in the past. Positive experience with AI coding tools is a plus. Applicants who take the time to use the platform and test it out and give their thoughts, will be given priority. We are only hiring applicants in the US, Canada, and Japan at the moment. To apply, please contact jobs@sendery.co (we don&#x27;t respond to other email addresses for job postings) with your resume and github."
+    },
+    {
+      "id": "50345025",
+      "author": "kollmar28",
+      "created": "2026-11-02T22:37:25Z",
+      "url": "https://news.ycombinator.com/item?id=50345025",
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "aws",
+          "full-stack",
+          "infra",
+          "platform",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Railway | Senior Growth Marketer, Senior Product Marketer, Account Executive, Scale, Senior Product Eng (full-stack) | REMOTE (Worldwide) | https://railway.com/",
+      "text": "Railway | Senior Growth Marketer, Senior Product Marketer, Account Executive, Scale, Senior Product Eng (full-stack) | REMOTE (Worldwide) | https://railway.com/careers Do you feel scared and alone when opening the AWS console? Do you wish you could just tell Claude to manage your infra, and it would just work? Do you dream of a future where software is abundant and developers and normies alike are free to build their wildest dreams? We&#x27;re Railway, and we think infrastructure can be better. We&#x27;re working at the forefront distributed systems engineering, interface design, and agentic computing to bring about the infrastructure platform we&#x27;ve always wanted. So far we&#x27;ve built out a platform loved by 4M+ users and we&#x27;re just getting started. Fair warning! The problems are complex: racking and stacking servers, home-rolled hypervisors, cut-above container orchestration, over/under/whateverlay networks, virtio device drivers, edge proxies, IAM that doesn&#x27;t suck, kitchen sinks - we need to build it and we&#x27;re looking for likeminded individuals who think this stuff is fun. Four open roles (apply below!): +Senior Growth Marketer: -Apply here: ( https://railway.com/careers/growth-marketer ) +Senior Product Marketer: -Apply here: ( https://railway.com/careers/product-marketer ) +Account Executive, Scale -Apply here: ( https://railway.com/careers/account-executive-scale ) +Senior Product Engineer (full-stack): -Apply here: ( https://railway.com/careers/full-stack )"
+    },
+    {
+      "id": "50344773",
+      "author": "r3tr0",
+      "created": "2026-11-02T22:21:51Z",
+      "url": "https://news.ycombinator.com/item?id=50344773",
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "linux",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "yeet | Chicago, IL / Remote | Full-Time Building a dynamic runtime on top of the Linux BPF sub-system. Looking for extremely talented / passionate product manag",
+      "text": "yeet | Chicago, IL / Remote | Full-Time Building a dynamic runtime on top of the Linux BPF sub-system. Looking for extremely talented / passionate product managers with a deep interest in Linux internals, Distributed Systems, Dev Tools, Great Developer Experiences and Systems programming. Feel free to tell us all about your favorite GNU core utilities / Linux system calls / kernel sub-systems at: work [at] yeet.cx You can visit us at https://yeet.cx/ For more jobs check out https://yeet.cx/careers"
+    },
+    {
+      "id": "50344646",
+      "author": "mooreds",
+      "created": "2026-11-02T22:12:30Z",
+      "url": "https://news.ycombinator.com/item?id=50344646",
+      "matched": {
+        "strong": [
+          "postgresql",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "FusionAuth | Senior/Staff Java Engineers, Account Executive | Varies between REMOTE (in Europe but only for the account exec position) and ONSITE in Denver, CO,",
+      "text": "FusionAuth | Senior/Staff Java Engineers, Account Executive | Varies between REMOTE (in Europe but only for the account exec position) and ONSITE in Denver, CO, USA, details in each job desc | Salary ranges for the Java Engineers range from 140k-230k, but the Euro positions don&#x27;t have them :( At FusionAuth, our mission is to make authentication and authorization simple and secure for every developer building web and mobile applications. We want devs to stop worrying about auth and focus on building something awesome. There are a lot of companies in the auth space, but we feel like we have something special: * a relatively unique deployment model (self-host on-prem, run in your cloud or let us operate it for you in ours) * A well designed API first approach; one customer compared our APIs to petrichor * a mature product (the code base is nine+ years old and we&#x27;ve found and fixed a lot of the sharp edges around core login use cases, but don&#x27;t worry, there are plenty more features to add) * a full featured free-as-in-beer version which makes the sales cycle easier; prospects often come in having prototyped an integration Our core software is commercial. We open source much of our supporting infrastructure. Technologies and standards that you will work with: modern Java, PostgreSQL, Docker, Kubernetes, MySQL, OAuth, SAML, OIDC. Learn more, including benefits and salaries, and apply here: https://fusionauth.io/careers/ ( Click/tap the &#x27;View open positions&#x27; orange button. )"
+    },
+    {
+      "id": "50344555",
+      "author": "jandekkers",
+      "created": "2026-11-02T22:06:30Z",
+      "url": "https://news.ycombinator.com/item?id=50344555",
+      "matched": {
+        "strong": [
+          "typescript",
+          "postgresql"
+        ],
+        "weak": [
+          "react",
+          "linux",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/.NET, TypeScript, React, PostgreSQL, Linux, AI-assisted development (Cl",
+      "text": "Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/.NET, TypeScript, React, PostgreSQL, Linux, AI-assisted development (Claude Code and similar) Résumé/CV: https://aiwebcenter.com/about/resume/ Email: hello@aiwebcenter.com Fractional CTO and contract work: web apps that do real work (booking, ordering, portals, quoting), modernizing older systems, and shipping faster with AI coding tools without losing quality. Twelve working examples you can click through: https://aiwebcenter.com/work/examples/"
+    },
+    {
+      "id": "50344410",
+      "author": "HenryKest",
+      "created": "2026-11-02T21:56:10Z",
+      "url": "https://news.ycombinator.com/item?id=50344410",
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "c++",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Vivral (Nair Engineering) | ML, Systems (GPU), Hardware, and Embedded Engineers | Gainesville, FL (UF students) | Part-time | Equity Vivral is an AI health assi",
+      "text": "Vivral (Nair Engineering) | ML, Systems (GPU), Hardware, and Embedded Engineers | Gainesville, FL (UF students) | Part-time | Equity Vivral is an AI health assistant that helps people understand their health. We run frontier-grade medical AI on ordinary computers instead of the cloud, so health support can reach remote, underserved communities. Already tested by researchers at UF, Michigan, and Princeton. We&#x27;re hiring part-time student engineers (sophomores through PhD): Machine Learning (PyTorch, LLMs), Systems (CUDA/Triton, making large models run fast on everyday hardware), Hardware (FPGA, digital design), and Embedded (C/C++ firmware). Roles are built around class schedules and come with equity that vests over time. Apply (10 minutes): https://forms.gle/PrewX9oGEj7fCMR46 More: nairengineering.com"
     }
   ]
 }

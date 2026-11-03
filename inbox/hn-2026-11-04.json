@@ -1,0 +1,278 @@
+{
+  "thread": "Ask HN: Who is hiring? (November 2026)",
+  "threadId": "50338728",
+  "pulled": "2026-11-04",
+  "hits": [
+    {
+      "id": "50356058",
+      "author": "Estuary",
+      "created": "2026-11-03T18:28:39Z",
+      "url": "https://news.ycombinator.com/item?id=50356058",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "real-time",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Estuary | US-Based / Remote | Full-time – https://estuary.dev/ Estuary is a VC-backed, post–Series A startup powering real-time data replication and transform —",
+      "text": "Estuary | US-Based / Remote | Full-time – https://estuary.dev/ Estuary is a VC-backed, post–Series A startup powering real-time data replication and transform — from sub-second CDC replication to terabyte-scale OLAP data flows. We’re open-source, developer-first, and focused on making data movement radically simpler across both our Platform and Applications layers. We’re hiring for: Head of Engineering — Own the engineering function end-to-end as a partner to our founder CTO: strategy, people, delivery, and operations across a compact but high-leverage team. You’ll grow the leaders already running our teams, set technical strategy jointly with the CTO, and be accountable for what engineering ships and what it costs. Senior Systems Engineer (Control & Data Plane) — Build the high-performance backbone of our platform: the orchestration, distributed state, and stream transport that keep pipelines at sub-second latency under massive throughput. You’ll work primarily in Rust on fault tolerance, consensus, and networking, and help set the bar for correctness and performance across the team. Product Manager — Own product areas end-to-end, working closely with engineering and design to shape the roadmap and deliver a great developer experience. Engage with users, translate real-world use cases into product decisions, and help define how modern data infrastructure should feel to build with. Head of Product Marketing — Lead product marketing as we bring real-time, agent-ready data pipelines to technical buyers, partnering closely with our Head of Marketing, Developer Relations, and the founders. Own positioning, messaging, launches, and competitive narrative, turning what our engineers ship into stories data teams actually care about. Solutions Engineer — Partner with sales and customers from the first technical call through production, running discovery, demos, and proofs of concept for data engineering and platform teams. You’ll design CDC, streaming, and batch pipelines on Estuary, solve real integration problems hands-on, and feed what you learn back to Product and Engineering. Customer Success Manager — Own the post-sale relationship for our data engineering and platform customers as our first CS hire. You’ll build onboarding, account health monitoring, and the expansion playbook from scratch while staying technical enough to resolve most issues yourself. Senior Compliance Engineer — Own our GDPR and PCI DSS programs while keeping our audited SOC 2 and HIPAA programs running smoothly, alongside hands-on ownership of identity, endpoint, and SaaS estate management. This is a governance-first role for someone who has run a compliance program end-to-end, not just contributed to one. What we’re looking for: People who care about building reliable, maintainable systems and processes and enjoy working with complex APIs, data flows, or customer relationships. We value curiosity, clear communication, and a willingness to learn. Bonus points for experience with CDC tools, open source contributions, or fast-paced startups. To apply: Email your resume to careers@estuary.dev"
+    },
+    {
+      "id": "50355834",
+      "author": "lulicaffarini",
+      "created": "2026-11-03T18:15:08Z",
+      "url": "https://news.ycombinator.com/item?id=50355834",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "javascript",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Tether | Product Engineering Lead, Keet | REMOTE (Worldwide) We&#x27;re looking for a Product Engineering Lead to help build and scale Keet, a fully peer-to-pee",
+      "text": "Tether | Product Engineering Lead, Keet | REMOTE (Worldwide) We&#x27;re looking for a Product Engineering Lead to help build and scale Keet, a fully peer-to-peer messaging and video calling app. You&#x27;ll lead API and frontend engineering teams, working closely with Product to turn the roadmap into high-quality features. We&#x27;re looking for someone with: - Experience leading engineering teams building consumer products. - Strong JavaScript and React skills. - Solid product sense and technical leadership. - Understanding of distributed, local-first or P2P systems. Apply: https://tether.recruitee.com/o/product-engineering-lead-keet..."
+    },
+    {
+      "id": "50353980",
+      "author": "theghost1980",
+      "created": "2026-11-03T16:21:48Z",
+      "url": "https://news.ycombinator.com/item?id=50353980",
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "prisma",
+          "ci/cd",
+          "full-stack",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Location: Andalucía, Spain (CET) Remote: Yes – remote only Willing to relocate: No (EU citizen – no visa or work permit needed for EU employers) Technologies: T",
+      "text": "Location: Andalucía, Spain (CET) Remote: Yes – remote only Willing to relocate: No (EU citizen – no visa or work permit needed for EU employers) Technologies: TypeScript, React, Next.js, Node.js, Fastify, React Native, PostgreSQL, Prisma, Supabase, Anthropic SDK (Claude), LLM pipelines, Vitest/Jest, CI/CD Résumé/CV: https://saturnodev.netlify.app/ · linkedin.com/in/saturno-mangieri · github.com/theghost1980 Email: saturnob612 [at] gmail.com Full-stack engineer, 6+ years on 100% remote teams, focused on shipping LLM features to production. Last role: tech lead for AI call analysis at a US marketing agency. Took the MVP from design to validated delivery in 2 months: a Claude-based pipeline that turns a month of customer calls into coaching reports, with model-free quote verification (every quoted sentence is checked against the transcript, so no fabricated quote reaches a client), batch runs of up to 300 calls with live progress, and cost protection so no paid model response is ever lost. Before that: product engineer on a crypto wallet with 10k+ users, where I shipped a swap widget that generated $10k+ in direct revenue in its first 5 months and set up the project&#x27;s first testing/CI environment. Looking for: full-time or contract roles in AI product engineering or full-stack. Available now. English C2, Spanish native."
+    },
+    {
+      "id": "50353951",
+      "author": "kyry_cz",
+      "created": "2026-11-03T16:19:36Z",
+      "url": "https://news.ycombinator.com/item?id=50353951",
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "typescript",
+          "postgresql",
+          "redis"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "backend",
+          "realtime",
+          "scraping",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "ThreatMark | Security, Machine Learning | REMOTE(World) / Brno, Czech Republic | Equity ThreatMark protects >60M end users from finacial fraud and saves > $1.2M",
+      "text": "ThreatMark | Security, Machine Learning | REMOTE(World) / Brno, Czech Republic | Equity ThreatMark protects >60M end users from finacial fraud and saves > $1.2M every day in losses. We are working with banks in EU and US to protect their end users. We develop large-behavioral models that recognizes returning users by their mouse movements, keystroke timings and sensoric data (accelerometer, gyroscope). We detect cyberthreats (e.g. malware, phishing, scraping) by exploiting browsers/sandboxes of devices. We manage ~PB scale of data and provide realtime scoring in milliseconds driving authentication/authorization flow (2nd factor). Stack: [python, typescript, rust], [redis, postgresql], [aws, terraform] ... We are looking for exceptional engineers to build with us and be part of the success: - Backend Engineer [rust, python] - low-latency stream processing engine, rewrite python microservices to rust, build new detection features - DevOps Engineer (IaaC in AWS) - DevSecOps Engineer - AI Tech Lead (loops & graphs guru, real ML background) - Security Researcher/Engineer - Product Manager [USA] - Fraud Detection Specialist - Partner Manager If you are interested, please email us @ career@threatmark.com with subject \"HN Who&#x27;s Hiring\" If you don&#x27;t find the right role here or at https://www.threatmark.com/careers/ , write us anyway if you believe you can be good fit :) Krystof Hilar, Co-Founder & CTO"
+    },
+    {
+      "id": "50352937",
+      "author": "therapluginc",
+      "created": "2026-11-03T15:06:02Z",
+      "url": "https://news.ycombinator.com/item?id=50352937",
+      "matched": {
+        "strong": [
+          "founding engineer"
+        ],
+        "weak": [
+          "full-stack",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "TheraPlug | Founding CTO / Technical Lead | Detroit preferred; remote considered | Equity-first, pre-funding I’m Marcelus Brice, founder of TheraPlug ( https://",
+      "text": "TheraPlug | Founding CTO / Technical Lead | Detroit preferred; remote considered | Equity-first, pre-funding I’m Marcelus Brice, founder of TheraPlug ( https://theraplug.health ). We’re building a behavioral health platform focused on making it easier for patients to find appropriate therapists and access care through insurance, starting in Detroit. We’re looking for a hands-on technical leader who can build alongside a lean team and help recruit its founding engineers. You don’t need a previous CTO title, but you should have shipped and operated production software. The product will support iOS, Android and responsive web, including: • Patient and provider onboarding, scheduling and secure messaging. • AI-assisted therapist matching based on clinical needs, preferences, insurance and availability. • Provider credential verification and payer enrollment workflows. • Insurance eligibility checks and estimated patient costs. • Secure video sessions and clinician-reviewed AI documentation. Relevant experience includes full-stack development, mobile apps, healthcare integrations, sensitive-data security and practical AI implementation. We value clear architecture, accessible design and thoughtful use of established services. Compensation: We are pre-funding and cannot offer an immediate cash salary. We’re seeking someone interested in an equity-first founding role, with a planned transition to salary when funding supports payroll. Equity, responsibilities, time commitment and compensation triggers would be agreed in writing before work begins. Funding timing is not guaranteed. To start a conversation, email marcelus@theraplug.health with: • Products you’ve built and your specific contribution. • Relevant healthcare, security or AI experience. • Your location and realistic availability before funding. • Your interest in leading and assembling a small development team. I can share the detailed product scope and team requirements."
+    },
+    {
+      "id": "50352541",
+      "author": "RedSeal",
+      "created": "2026-11-03T14:38:33Z",
+      "url": "https://news.ycombinator.com/item?id=50352541",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "RedSeal | Sales Engineer | REMOTE | Full-time | https://www.redseal.net RedSeal is an exposure management platform. We integrate agentlessly with 2,000+ securit",
+      "text": "RedSeal | Sales Engineer | REMOTE | Full-time | https://www.redseal.net RedSeal is an exposure management platform. We integrate agentlessly with 2,000+ security and infrastructure systems and devices to model the full hybrid environment (on-prem, cloud, OT, IoT) and show which attack paths and vulnerabilities actually matter. Used by hundreds of Fortune 1000 companies and 75+ U.S. government agencies, including every branch of the U.S. military. Looking for 4+ years of security presales or consulting, plus deep networking: L2-L4, routing, and multi-vendor firewall/load balancer config. Comfortable with REST APIs and scripting. Bonus: BGP/MPLS/SD-WAN, cloud networking, OT/ICS, CCIE/CCNP/CISSP. Apply: https://redseal.applytojob.com/apply/GOBu1zg3ZL/Sales-Engine..."
+    },
+    {
+      "id": "50351981",
+      "author": "terpimost",
+      "created": "2026-11-03T13:53:02Z",
+      "url": "https://news.ycombinator.com/item?id=50351981",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Antithesis | Washington, DC, London | Remote or In Office (US, UK) | Design Engineer We create an expert system that verifies software and becomes an essential ",
+      "text": "Antithesis | Washington, DC, London | Remote or In Office (US, UK) | Design Engineer We create an expert system that verifies software and becomes an essential part of agentic workflows. https://antithesis.com I’m Vlad, Director of Product Design, engineer, and manager. I’m looking for a design engineer to help build our design system https://anta.design , improve the UI of our apps, and improve AI’s ability to generate high-quality interfaces. Send me a link to your website (it doesn’t have to be perfect; I just want to see what you’ve worked on). vlad.korobov@antithesis.com There are other open roles, including SF: https://antithesis.com/company/careers/#open-roles"
+    },
+    {
+      "id": "50350810",
+      "author": "mohsen1",
+      "created": "2026-11-03T11:47:50Z",
+      "url": "https://news.ycombinator.com/item?id=50350810",
+      "matched": {
+        "strong": [
+          "typescript",
+          "postgresql",
+          "developer tools"
+        ],
+        "weak": [
+          "react",
+          "aws",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Proofline | Founding Staff / Principal Engineer | REMOTE (Worldwide, Berlin timezone overlap preferred) | Full-time | €120k-€200k + equity | https://proofline.s",
+      "text": "Proofline | Founding Staff / Principal Engineer | REMOTE (Worldwide, Berlin timezone overlap preferred) | Full-time | €120k-€200k + equity | https://proofline.sh/careers/founding-staff-principal-engine... Hi HN, I&#x27;m the founder of Proofline. We&#x27;re building an infrastructure-aware AI code reviewer that catches deployment failures before they reach production. Think of it as a type checker for your cloud infrastructure. We analyze code changes against Terraform, live cloud environments, and deployment evidence rather than just reading diffs. We&#x27;re hiring a hands-on Staff / Principal Engineer to help us build. You&#x27;ll own core SaaS architecture, cloud integrations, developer tools, and product delivery, with a path toward engineering leadership. Stack: Rust, Go, PostgreSQL, React/TypeScript, Terraform, AWS, GCP. We&#x27;re looking for someone with 10+ years of hands-on infrastructure engineering experience, deep SaaS and cloud expertise, extensive use of AI coding agents, and a track record of shipping end to end. Remote globally, flexible hours, regular Berlin visits required. Salary: €120k-€200k depending on experience and location, plus meaningful founding equity. No visa sponsorship. To apply, ship a small feature PR to one of our open-source developer tools and email careers@proofline.sh with the link. If you have 10+ years of relevant experience and an established online presence showcasing your technical work, you can skip the PR and share your best work with us instead. Details: https://proofline.sh/careers/founding-staff-principal-engine..."
+    },
+    {
+      "id": "50349800",
+      "author": "ThorAndZeus",
+      "created": "2026-11-03T09:23:15Z",
+      "url": "https://news.ycombinator.com/item?id=50349800",
+      "matched": {
+        "strong": [
+          "typescript",
+          "fastapi",
+          "postgresql"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "aws",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Location: Dorset, UK Remote: Yes (UK, US and EU time zones) Willing to relocate: No Technologies: Ruby on Rails, Python (FastAPI), TypeScript/Node, Go, PostgreS",
+      "text": "Location: Dorset, UK Remote: Yes (UK, US and EU time zones) Willing to relocate: No Technologies: Ruby on Rails, Python (FastAPI), TypeScript/Node, Go, PostgreSQL, AWS, Hotwire Résumé/CV: https://wagnermatos.co.uk Email: wm@wagnermatos.co.uk Senior engineer, 15 years. I build complete products on a fixed scope and fixed price: one senior engineer accountable end to end, AI-accelerated. Recent work includes a clinical alerting platform used by NHS trusts, an edge-to-cloud analytics platform for Johnson & Johnson Medical, and the cloud platform behind a fielded detection-hardware fleet. Also open to contract engagements (Rails). Case studies and client testimonials on the site."
+    },
+    {
+      "id": "50349755",
+      "author": "openrent",
+      "created": "2026-11-03T09:15:12Z",
+      "url": "https://news.ycombinator.com/item?id=50349755",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "OpenRent | London, UK | Full-Time | ONSITE+PART REMOTE | https://www.openrent.co.uk What sucked the last time you rented a house or flat? Come and fix it. OpenR",
+      "text": "OpenRent | London, UK | Full-Time | ONSITE+PART REMOTE | https://www.openrent.co.uk What sucked the last time you rented a house or flat? Come and fix it. OpenRent is force for good in an industry tarnished by rip-off agencies and one of the biggest UK websites by traffic. Enabled by an unrelenting focus on technology, we let more properties than any agency in the UK. In the last 12m we let over £50 billion worth of property, to over 8 million registered users, without ever charging any admin fees. You&#x27;ll be working on solving every aspect of the rental journey, from models to predict the right price of a property, to building the future of property management, all to help tenants find their dream home, and landlords their ideal tenant. We&#x27;re PE backed, profitable, and have plenty of ambition to maintain our fast growth in this absolutely massive market. Roles currently available: - Senior Full-Stack Engineer | 110k+ (based on experience) + quarterly bonus All roles visible here: https://www.openrent.co.uk/jobs"
+    },
+    {
+      "id": "50349615",
+      "author": "harrywilsontypi",
+      "created": "2026-11-03T08:51:50Z",
+      "url": "https://news.ycombinator.com/item?id=50349615",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits We&#x27;re building a marketplace where local ISPs connect schools and health cen",
+      "text": "UNICEF - REMOTE backend dev - Digital Inclusion Division, Connectivity Credits We&#x27;re building a marketplace where local ISPs connect schools and health centers to the internet, prove it via telemetry, and get access to discounted backhaul, IP transit and compute from large infracos. Currently in pilots in Mexico, Kenya, South Africa, Malawi. Looking for 1 dev to join a small tech team (3 people) working on this protocol and marketplace, which sits on top of a larger tech team of 30 people at UNICEF Digital Inclusion. Not your typical UN job or culture. https://jobs.unicef.org/en-us/job/596538/consultancy-connect... The rest of the team are in Barcelona/Geneva, but this role is remote. 6 month contract to start, with the aim to continue long term."
+    },
+    {
+      "id": "50349129",
+      "author": "Bat-elN",
+      "created": "2026-11-03T07:31:55Z",
+      "url": "https://news.ycombinator.com/item?id=50349129",
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Opsfleet | AI Engineer (Agentic / GenAI) | REMOTE (EEA) | Full-time Fully remote cloud & AI services company (founded 2015, 70+ engineers, AWS Premier, Google C",
+      "text": "Opsfleet | AI Engineer (Agentic / GenAI) | REMOTE (EEA) | Full-time Fully remote cloud & AI services company (founded 2015, 70+ engineers, AWS Premier, Google Cloud & Snowflake Partner) with a growing GenAI practice and several active client projects. You&#x27;ll build production LLM agents for clients: multi-agent systems, tool use and RAG, in Python, on AWS Bedrock and GCP Vertex AI. Direct client contact. We&#x27;re looking for a hands-on engineer (not a research or prompt-only role) who has built and shipped LLM agents to production, with frameworks like Strands Agents, LangChain, Agno, Deep Agents, Google ADK or Claude Agent SDK. Just as important: we hire good people. Communicative, collaborative, eager to learn and happy to take ownership. That&#x27;s what makes people succeed here, with clients and with the team. Process: intro call -> take-home assignment -> technical interview -> offer. Apply: https://www.linkedin.com/jobs/view/4478769287/ or hiring@opsfleet.com, please mention HN"
+    }
+  ]
+}

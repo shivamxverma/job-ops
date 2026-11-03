@@ -1,0 +1,85 @@
+{
+  "pulled": "2026-11-04",
+  "scanned": 692,
+  "survived": 6,
+  "hits": [
+    {
+      "id": 120102,
+      "grade": "B",
+      "score": 67,
+      "company": "InferEdge",
+      "batch": "W22",
+      "title": "Software Engineer - AI Platform",
+      "location": "Mumbai, MH, IN",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "2+ years",
+      "salaryRange": "₹3.5M - ₹4.5M INR",
+      "equityRange": "0.50%",
+      "skills": [
+        "Kubernetes",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Airflow"
+      ],
+      "oneLiner": "Agentic AI for buy-side firms",
+      "createdAt": "about 15 hours",
+      "lastActive": null,
+      "teamSize": 20,
+      "stage": "Early",
+      "tags": [
+        "Fintech",
+        "B2B",
+        "Enterprise Software",
+        "Investments",
+        "AI"
+      ],
+      "website": "https://www.inferedge.com",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/inferedge/jobs/cnf3ckF-software-engineer-ai-platform",
+      "companyUrl": "https://www.ycombinator.com/companies/inferedge",
+      "why": [
+        "stack: postgresql, kubernetes",
+        "20-person team",
+        "story fit (AI vocab only): ai, agentic",
+        "India-based",
+        "2+ years stated",
+        "posted about 15 hours ago"
+      ],
+      "source": "yc-grid"
+    },
+    {
+      "id": 120168,
+      "grade": "D",
+      "score": 31,
+      "company": "erad",
+      "batch": "S22",
+      "title": "Cybersecurity Engineer (Cloud & IT) - Remote",
+      "location": "Remote",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "3+ years",
+      "salaryRange": "$2.5K / monthly",
+      "equityRange": "",
+      "skills": [
+        "Linux"
+      ],
+      "oneLiner": "Non-dilutive funding and payments in the Middle East",
+      "createdAt": "about 11 hours",
+      "lastActive": "about 10 hours",
+      "teamSize": null,
+      "stage": null,
+      "tags": [],
+      "website": null,
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/erad/jobs/mcNDG9p-cybersecurity-engineer-cloud-it-remote",
+      "companyUrl": "https://www.ycombinator.com/companies/erad",
+      "why": [
+        "stack (weak): linux, remote",
+        "remote",
+        "3+ years stated (stretch)",
+        "posted about 11 hours ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "pulled": "2026-11-04",
+  "scanned": 336,
+  "survived": 185,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/hewlett-packard-enterprise/jobs/senior-application-security-engineer",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Senior Application Security Engineer",
+      "url": "https://himalayas.app/companies/hewlett-packard-enterprise/jobs/senior-application-security-engineer?utm_source=api",
+      "posted": "2026-11-03T02:24:04.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Application-Security-Engineer",
+        "Product-Security-Engineer",
+        "DevSecOps-Engineer",
+        "Cloud-Security-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/software-engineer-open-3d-engine",
+      "grade": "D",
+      "score": 35,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Software Engineer (Open 3D Engine)",
+      "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-open-3d-engine?utm_source=api",
+      "posted": "2026-11-03T15:26:11.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "3D-Graphics-Software-Engineer",
+        "Software-Engineer-(Game)",
+        "Game-Engine-Programmer",
+        "Open-Source-Software-Engineer",
+        "3D-Graphics-Engineer",
+        "Graphics-Software-Engineer",
+        "Graphics-Programming-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "c++",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, c++, automation",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/kong/jobs/senior-software-engineer",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Kong",
+      "title": "Senior Software Engineer",
+      "url": "https://himalayas.app/companies/kong/jobs/senior-software-engineer?utm_source=api",
+      "posted": "2026-11-03T05:16:15.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Software-Engineer-Jobs",
+        "Senior-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes",
+          "developer tools"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kubernetes, developer tools",
+        "story fit: CodeSM/Yuvro/Storix (developer tools)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/twilio/jobs/principal-engineer-l5",
+      "grade": "F",
+      "score": 3,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Twilio",
+      "title": "Principal Engineer (L5)",
+      "url": "https://himalayas.app/companies/twilio/jobs/principal-engineer-l5?utm_source=api",
+      "posted": "2026-11-03T08:16:01.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Principal-Engineer",
+        "Staff-Engineer",
+        "Software-Engineer",
+        "Data-Platform-Engineer",
+        "Distributed-Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Principal-level title",
+        "12+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/twilio/jobs/staff-software-engineer-l4-5315395992",
+      "grade": "F",
+      "score": 3,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Twilio",
+      "title": "Staff, Software Engineer (L4)",
+      "url": "https://himalayas.app/companies/twilio/jobs/staff-software-engineer-l4-5315395992?utm_source=api",
+      "posted": "2026-11-03T07:15:57.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Distributed-Systems-Engineer",
+        "Data-Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kafka",
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "linux",
+          "ci/cd",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kafka, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "Staff-level title",
+        "8+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/android-engineer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "PradeepIT Consulting Services Pvt Ltd",
+      "title": "Android Engineer",
+      "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/android-engineer?utm_source=api",
+      "posted": "2026-11-03T00:03:09.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Android-Engineer",
+        "Mobile-Software-Engineer",
+        "Android-Developer",
+        "Mobile-Application-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, remote",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/vcluster-labs/jobs/staff-network-engineer-ai-infrastructure-4191862459",
+      "grade": "F",
+      "score": -10,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "vCluster Labs",
+      "title": "Staff Network Engineer (AI Infrastructure)",
+      "url": "https://himalayas.app/companies/vcluster-labs/jobs/staff-network-engineer-ai-infrastructure-4191862459?utm_source=api",
+      "posted": "2026-11-03T02:27:36.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Staff-Network-Engineer",
+        "Senior-Network-Infrastructure-Engineer",
+        "Network-Infrastructure-Engineer",
+        "Network-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "linux",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): python, linux, platform",
+        "Staff-level title",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/clanx/jobs/staff-software-engineer-nodejs-python-go-bengaluru",
+      "grade": "F",
+      "score": -12,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "ClanX",
+      "title": "Staff Software Engineer (NodeJS, Python, Go) - Bengaluru",
+      "url": "https://himalayas.app/companies/clanx/jobs/staff-software-engineer-nodejs-python-go-bengaluru?utm_source=api",
+      "posted": "2026-11-03T13:55:28.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "nodejs",
+          "typescript",
+          "fastapi",
+          "postgresql"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "full-stack",
+          "backend",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: nodejs, typescript, fastapi, postgresql",
+        "Staff-level title",
+        "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

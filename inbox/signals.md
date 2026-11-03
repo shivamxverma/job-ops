@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **GIVA** — D | Tue, 03 Nov 2026 | Inc42: https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/ | why: funding: raises; 📍 bengaluru
+- [ ] **Jewellery brand GIVA** — D | Tue, 03 Nov 2026 | YourStory: https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe | why: funding: raises; 📍 bengaluru
+
 - [ ] **PowerUp Money** — B | Tue, 03 Nov 2026 | YourStory: https://yourstory.com/2026/11/powerup-money-raises-10m-expand-ai-led-wealth-management-india | why: sector: ai, platform; funding: raises; 📍 bengaluru; also: Inc42
 - [ ] **Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation** — D | Tue, 03 Nov 2026 | Inc42: https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/ | why: funding: raising
 

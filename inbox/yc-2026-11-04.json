@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-04",
-  "scanned": 692,
-  "survived": 6,
+  "scanned": 1615,
+  "survived": 16,
   "hits": [
     {
       "id": 120102,
@@ -78,6 +78,43 @@
         "remote",
         "3+ years stated (stretch)",
         "posted about 11 hours ago"
+      ],
+      "source": "yc-grid"
+    },
+    {
+      "id": 119870,
+      "grade": "B",
+      "score": 77,
+      "company": "Nucleo",
+      "batch": "F25",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA, US / Remote",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "Any (new grads ok)",
+      "salaryRange": "$70K - $120K",
+      "equityRange": "",
+      "skills": [
+        "Python",
+        "TypeScript",
+        "Machine Learning"
+      ],
+      "oneLiner": "The first Agentic platform for Oncology",
+      "createdAt": "2 days",
+      "lastActive": null,
+      "teamSize": 2,
+      "stage": "Early",
+      "tags": [],
+      "website": "https://nucleoresearch.com/",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/nucleo/jobs/SqQtFek-ai-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/nucleo",
+      "why": [
+        "stack: typescript",
+        "2-person team",
+        "story fit (AI vocab only): ai, agentic",
+        "remote",
+        "0-1 years ok",
+        "posted 2 days ago"
       ],
       "source": "yc-grid"
     }

@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **EloElo Group** — C | Wed, 04 Nov 2026 | Inc42: https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/ | why: stage: late-stage; sector: platform; funding: raised; also: YourStory
+- [ ] **GIVA** — D | Wed, 04 Nov 2026 | YourStory: https://yourstory.com/2026/11/giva-raises-100m-in-multiples-led-round | why: funding: raises
+
 - [ ] **GIVA** — D | Tue, 03 Nov 2026 | Inc42: https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/ | why: funding: raises; 📍 bengaluru
 - [ ] **Jewellery brand GIVA** — D | Tue, 03 Nov 2026 | YourStory: https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe | why: funding: raises; 📍 bengaluru
 

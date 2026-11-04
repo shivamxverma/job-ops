@@ -273,6 +273,46 @@
       },
       "firstLine": "Opsfleet | AI Engineer (Agentic / GenAI) | REMOTE (EEA) | Full-time Fully remote cloud & AI services company (founded 2015, 70+ engineers, AWS Premier, Google C",
       "text": "Opsfleet | AI Engineer (Agentic / GenAI) | REMOTE (EEA) | Full-time Fully remote cloud & AI services company (founded 2015, 70+ engineers, AWS Premier, Google Cloud & Snowflake Partner) with a growing GenAI practice and several active client projects. You&#x27;ll build production LLM agents for clients: multi-agent systems, tool use and RAG, in Python, on AWS Bedrock and GCP Vertex AI. Direct client contact. We&#x27;re looking for a hands-on engineer (not a research or prompt-only role) who has built and shipped LLM agents to production, with frameworks like Strands Agents, LangChain, Agno, Deep Agents, Google ADK or Claude Agent SDK. Just as important: we hire good people. Communicative, collaborative, eager to learn and happy to take ownership. That&#x27;s what makes people succeed here, with clients and with the team. Process: intro call -> take-home assignment -> technical interview -> offer. Apply: https://www.linkedin.com/jobs/view/4478769287/ or hiring@opsfleet.com, please mention HN"
+    },
+    {
+      "id": "50360244",
+      "author": "elianahammonds",
+      "created": "2026-11-04T00:48:58Z",
+      "url": "https://news.ycombinator.com/item?id=50360244",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Coder | https://coder.com/ | Multiple roles | Multiple locations | Full-time Coder is an AI software development company leading the future of autonomous coding",
+      "text": "Coder | https://coder.com/ | Multiple roles | Multiple locations | Full-time Coder is an AI software development company leading the future of autonomous coding. We empower teams to build software faster, more securely, and at scale through the collaboration of AI coding agents and human developers. Our mission is to make agentic AI a safe, trusted, and integral part of every software development lifecycle. Coder’s self-hosted Agentic Development Environment (ADE) is the foundation for deploying agentic AI in the enterprise. It provides a secure, standardized, and governed workspace to deploy autonomous coding agents alongside human developers, accelerating innovation while maintaining control and compliance. Coder&#x27;s isolated, policy-driven environments improve productivity, cut cloud costs, and reduce data risks. Developers transition to AI at their own pace using their own tools. Platform and security teams can govern, audit, and manage a great developer experience at scale. Check out our OSS product with 100k+ stars on GitHub! https://github.com/coder All positions are fully remote in the countries listed unless otherwise specified. [1]Senior Customer Support Engineer • North America • Full time [2]Senior Software Engineer (Multiple Teams, Europe) • United Kingdom; Ireland; Poland • Full time • [3]Senior Software Engineer (Multiple Teams, North America) • United States; Canada • Full time [4]Software Engineer (Enterprise Experience, Backend) • Europe • Full time [5]Software Engineering Manager (Agentic Engineering) • United Kingdom; Ireland; Poland • Full time [6]Software Engineering Manager (Agentic Engineering) • United States (Eastern) • Full time [7]Staff Software Engineer (Agentic Engineering) • United Kingdom; Ireland; Poland • Full time [8]Staff Software Engineer (AI Governance) — Research & Development • United States • Full time"
+    },
+    {
+      "id": "50357754",
+      "author": "oliverbaverstam",
+      "created": "2026-11-03T20:30:44Z",
+      "url": "https://news.ycombinator.com/item?id=50357754",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Cocient | Software Engineers, Data Scientists, and experts in finance, medicine, law, science and engineering | AI training & evaluation | REMOTE (most countrie",
+      "text": "Cocient | Software Engineers, Data Scientists, and experts in finance, medicine, law, science and engineering | AI training & evaluation | REMOTE (most countries) | Contract, hourly | https://work.cocient.com/opportunities Cocient is a human data and AI training platform. We contract experienced professionals to produce evals and training data for AI labs: writing hard, realistic problems in your field, grading model answers, and pinning down where a model&#x27;s reasoning breaks. Pay by field, depending on experience: software engineering $70-150/hr, data science $60-130/hr, finance $90-180/hr, medicine $120-250/hr, law $80-200/hr, science and engineering $50-120/hr. Independent contractor, flexible hours. To apply, sign up, upload your resume and take a short AI-led interview about your experience (computer with camera and mic): https://work.cocient.com/opportunities?utm_source=hackernews... Please apply through the link above; we don&#x27;t accept applications by email."
     }
   ]
 }

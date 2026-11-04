@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-04",
-  "scanned": 336,
-  "survived": 185,
+  "scanned": 669,
+  "survived": 369,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/hewlett-packard-enterprise/jobs/senior-application-security-engineer",
@@ -333,6 +333,198 @@
         "Staff-level title",
         "7+ years stated",
         "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tether-operations-limited/jobs/mobile-engineer-react-native-100-remote-6027220406",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tether Operations Limited",
+      "title": "Mobile Engineer - React Native (100% Remote)",
+      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/mobile-engineer-react-native-100-remote-6027220406?utm_source=api",
+      "posted": "2026-11-03T18:05:57.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Mobile-Engineer",
+        "React-Native-Developer",
+        "Mobile-Software-Engineer",
+        "Cross-Platform-Mobile-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): react, platform, remote",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tether-operations-limited/jobs/ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tether Operations Limited",
+      "title": "AI Research Engineer (Agentic Reinforcement Learning) - 100% Remote Worldwide",
+      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide?utm_source=api",
+      "posted": "2026-11-04T02:54:58.000Z",
+      "location": "Argentina, Bangladesh, Belgium, Brazil, Bulgaria, Colombia, Cyprus, Czechia, Denmark, Estonia, Georgia, Greece, Hungary, India, Ireland, Israel, Japan, Malta, Netherlands, Norway, Pakistan, Poland, Portugal, Romania, Serbia, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Arab Emirates, United Kingdom, Uruguay, Vietnam",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Research-Engineer",
+        "Machine-Learning-Engineer",
+        "Reinforcement-Learning-Engineer",
+        "Research-Scientist"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, agentic, remote",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/human-power-bg/jobs/senior-front-end-developer",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Human Power BG",
+      "title": "Senior Front-End Developer",
+      "url": "https://himalayas.app/companies/human-power-bg/jobs/senior-front-end-developer?utm_source=api",
+      "posted": "2026-11-04T02:45:09.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "tags": [
+        "Senior-Front-End-Developer",
+        "Front-End-Developer",
+        "Frontend-Engineer",
+        "Web-Developer",
+        "UI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "reachable: remote worldwide",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-openai-codex-claude-code-or-cursor",
+      "grade": "F",
+      "score": 15,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i Inc.",
+      "title": "Senior Software Engineer, (OpenAI Codex, Claude Code or Cursor)",
+      "url": "https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-openai-codex-claude-code-or-cursor?utm_source=api",
+      "posted": "2026-11-04T05:51:41.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Senior-AI-Software-Engineer",
+        "Senior-Software-AI-Engineer",
+        "Senior-AI-Software-Developer",
+        "Senior-Python-Software-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training",
+      "grade": "F",
+      "score": 15,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i Inc.",
+      "title": "Senior Software Engineer, AI Training",
+      "url": "https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training?utm_source=api",
+      "posted": "2026-11-04T04:45:03.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Senior-AI-Software-Engineer",
+        "Senior-Software-AI-Engineer",
+        "Senior-AI-Engineer",
+        "Senior-AI-Software-Developer",
+        "Senior-AI-ML-Engineer",
+        "Senior-AI-ML-Engineer-Code-Training-Data",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
         "board tags it Senior",
         "posted 0d ago"
       ]

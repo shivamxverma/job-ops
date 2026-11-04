@@ -1,0 +1,100 @@
+{
+  "thread": "Ask HN: Who is hiring? (November 2026)",
+  "threadId": "50338728",
+  "pulled": "2026-11-05",
+  "hits": [
+    {
+      "id": "50369728",
+      "author": "fiiico",
+      "created": "2026-11-04T18:38:49Z",
+      "url": "https://news.ycombinator.com/item?id=50369728",
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "full-stack",
+          "backend",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Matcha.fm | REMOTE (Worldwide: US / Canada / Europe / UK / LATAM) | Full-time | https://matcha.fm I&#x27;m a Canadian repeat founder working on agents that cut ",
+      "text": "Matcha.fm | REMOTE (Worldwide: US / Canada / Europe / UK / LATAM) | Full-time | https://matcha.fm I&#x27;m a Canadian repeat founder working on agents that cut the noise in large dataset search. Looking for a great builder (founding software engineer) and a great marketer with a track record of virality and driving product distribution. Fully remote anywhere in the world, with some US / EU timezone overlap. The same salary regardless of where you live No micromanagement, no unnecessary calls Calm, low-distraction culture to do your best work Founding Full-stack Software Engineer : https://matcha.fm/apply/fse Founding Backend Engineer AI Search : https://matcha.fm/apply/bee Founding Growth Marketer : https://matcha.fm/apply/marketing"
+    },
+    {
+      "id": "50369581",
+      "author": "Dsuniga14",
+      "created": "2026-11-04T18:28:02Z",
+      "url": "https://news.ycombinator.com/item?id=50369581",
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote incl. India/Asia"
+      },
+      "firstLine": "Oscilar.com | Sr/Staff Software Engineers, Data Scientist, FDE, PM| REMOTE (US/Canada/Brazil/Poland/UK/India) Full-time AI Risk Decisioning™ platform that helps",
+      "text": "Oscilar.com | Sr/Staff Software Engineers, Data Scientist, FDE, PM| REMOTE (US/Canada/Brazil/Poland/UK/India) Full-time AI Risk Decisioning™ platform that helps organizations manage onboarding, fraud, credit, and compliance risks Open roles: - Sr./Staff Analytics & Data Architecture Engineer (US/Canada) - Sr./Staff Java Backend Engineer (Brazil/Poland/India) - Staff Web SDK Engineer (US/Brazil/India/Canada/Poland/UK) - Data Scientist (US/Canada) - Forward Deployment Engineer (Brazil) - Product Manager AML (US/Canada) - Product Manager Device and Behavior (US/Canada) apply at: https://jobs.ashbyhq.com/oscilar?utm_source=HackerNews"
+    },
+    {
+      "id": "50369025",
+      "author": "egemen_orl",
+      "created": "2026-11-04T17:46:51Z",
+      "url": "https://news.ycombinator.com/item?id=50369025",
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "fastapi",
+          "rag"
+        ],
+        "weak": [
+          "next.js",
+          "node",
+          "python",
+          "full-stack",
+          "remote",
+          "junior"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Location: Edirne, Turkey Remote: Yes (remote only) Willing to relocate: No Technologies: Python, scikit-learn, XGBoost, Hugging Face (BERT), RAG (Chroma, Gemini",
+      "text": "Location: Edirne, Turkey Remote: Yes (remote only) Willing to relocate: No Technologies: Python, scikit-learn, XGBoost, Hugging Face (BERT), RAG (Chroma, Gemini API), Streamlit, FastAPI, Node.js/Express, Next.js, TypeScript, Tailwind, Git Résumé/CV: https://egemenoral.com GitHub: https://github.com/egemenoral1-jpg LinkedIn: https://linkedin.com/in/egemen-oral Email: egemenoral1@gmail.com Junior full-stack / ML developer looking for a full-time remote role. Computer Engineering degree (Trakya University). Frontend developer at Lumeon (Next.js). I have also done short freelance work for other companies, on a per-project basis. Projects: Turkish sentiment analysis with fine-tuned BERT, RAG system on Turkish Wikipedia, stock tracking app with AI commentary (Next.js + FastAPI), movie recommender, credit risk model. English: A2 (basic)."
+    },
+    {
+      "id": "50363483",
+      "author": "andreyvit",
+      "created": "2026-11-04T10:14:06Z",
+      "url": "https://news.ycombinator.com/item?id=50363483",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "javascript",
+          "platform",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Bubblehouse | Fully REMOTE | Full-Time | $200–250k | Principal Engineer We’re a small team across the US and Europe. We build the platform that household-name b",
+      "text": "Bubblehouse | Fully REMOTE | Full-Time | $200–250k | Principal Engineer We’re a small team across the US and Europe. We build the platform that household-name brands use to run their own loyalty programs. We write Go and run our own database engine on top of local key-value stores. We keep storage and compute on the same dedicated machines and read straight from mmap’ed pages. Ever came across HN saying that one can run Twitter on a single machine these days? We’re doing that in production. We write our JavaScript by hand, have zero lines of React, and render HTML server-side like it’s 2005. We’re looking for someone who knows the web platform well and can reason all the way down to CPU caches. You’ve spent years building across different stacks and have opinions about the tradeoffs you made. We’d love to see something you built that you’re proud of, and hear why you built it that way. We pay $200–250k a year, all cash. You’ll need to be available from 9am to noon New York time. Full description and how to apply: https://jobs.bubblehouse.com/principal-engineer/"
+    }
+  ]
+}

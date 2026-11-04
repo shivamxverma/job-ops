@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Peppermint Robotics** — C | Wed, 04 Nov 2026 | Inc42: https://inc42.com/buzz/peppermint-robotics-bags-%e2%82%b9100-cr-to-scale-its-industrial-robotics-bet/ | why: funding: bags; also: YourStory
+
 - [ ] **EloElo Group** — C | Wed, 04 Nov 2026 | Inc42: https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/ | why: stage: late-stage; sector: platform; funding: raised; also: YourStory
 - [ ] **GIVA** — D | Wed, 04 Nov 2026 | YourStory: https://yourstory.com/2026/11/giva-raises-100m-in-multiples-led-round | why: funding: raises
 

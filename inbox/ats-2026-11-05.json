@@ -1,0 +1,98 @@
+{
+  "pulled": "2026-11-05",
+  "scanned": 885,
+  "survived": 76,
+  "hits": [
+    {
+      "id": "ashby:bureau:54c0efa8-d02e-4565-9a3b-83753b07fad0",
+      "grade": "C",
+      "score": 48,
+      "source": "ashby (seed list)",
+      "company": "Bureau",
+      "domain": "bureau.id",
+      "title": "Senior DevOps Engineer",
+      "url": "https://jobs.ashbyhq.com/bureau/54c0efa8-d02e-4565-9a3b-83753b07fad0",
+      "posted": "2026-11-04T13:02:49.614+00:00",
+      "location": "Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "postgres",
+          "redis",
+          "kafka",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "mongodb",
+          "aws",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: postgres, redis, kafka, docker",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "ashby:sarvam:4c7378a7-6736-4038-b584-f2dc242d756c",
+      "grade": "D",
+      "score": 33,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "Software Development Engineer 3, Samvaad",
+      "url": "https://jobs.ashbyhq.com/sarvam/4c7378a7-6736-4038-b584-f2dc242d756c",
+      "posted": "2026-11-04T11:59:46.259+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems",
+          "typescript",
+          "postgres",
+          "kafka",
+          "docker",
+          "kubernetes",
+          "websocket"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "python",
+          "aws",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems, typescript, postgres",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

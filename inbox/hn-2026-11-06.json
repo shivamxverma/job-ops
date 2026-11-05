@@ -1,0 +1,76 @@
+{
+  "thread": "Ask HN: Who is hiring? (November 2026)",
+  "threadId": "50338728",
+  "pulled": "2026-11-06",
+  "hits": [
+    {
+      "id": "50382899",
+      "author": "Rajneesh_01",
+      "created": "2026-11-05T18:54:54Z",
+      "url": "https://news.ycombinator.com/item?id=50382899",
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql",
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "mongodb",
+          "full-stack",
+          "backend"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "I&#x27;m Rajneesh Verma, a Full-Stack & AI Engineer currently working with a YC-backed startup. I have hands-on experience building and shipping production-read",
+      "text": "I&#x27;m Rajneesh Verma, a Full-Stack & AI Engineer currently working with a YC-backed startup. I have hands-on experience building and shipping production-ready applications, scalable backend systems, APIs, and AI-powered products. My tech stack includes React, Next.js, TypeScript, Node.js, Python, PostgreSQL, MongoDB, Docker, and LLM integrations. I enjoy solving real-world engineering problems, learning new technologies, and taking ownership of products from development to deployment. I&#x27;m always excited to connect with teams building impactful developer-focused products. Portfolio: https://www.rajneeshcodex.xyz GitHub: https://github.com/rajneeshverma1"
+    },
+    {
+      "id": "50380439",
+      "author": "wipaveeknecht",
+      "created": "2026-11-05T15:35:47Z",
+      "url": "https://news.ycombinator.com/item?id=50380439",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "linux",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "ChainSecurity | Blockchain Security Engineer | Full-time | INTERNS , HYBRID/REMOTE, Zurich, Switzerland | VISA possible (for an employment) | https://chainsecur",
+      "text": "ChainSecurity | Blockchain Security Engineer | Full-time | INTERNS , HYBRID/REMOTE, Zurich, Switzerland | VISA possible (for an employment) | https://chainsecurity.com/ ChainSecurity is a young and innovative cybersecurity company that operates in the blockchain and cryptocurrency space. Our mission is to make the blockchain space secure and trustworthy for people, companies, and governments alike. We are proud of our security experts from the renowned universities ETH Zurich, EPFL Lausanne and others. We are trusted by 100+ blockchain companies and established corporations with security audits and services. We have secured complex systems for top blockchain clients, such as decentralized finance (DeFi) projects, and multinational organizations, such as banks and industrial consortia. A ChainSecurity Auditor will review the most complex blockchain projects to find vulnerabilities which no-one else can. By using state of the art tools, expert knowledge and a deep understanding of the fundamentals, we secure projects handling billions, often forming the foundation in the new paradigm of an open financial system. Your Responsibilities: * Work directly with the developers of the most successful teams in the blockchain industry to audit their code and secure their products * Contribute to our security tools and create new ones in collaboration with our internal research team * Conduct security research and publish your findings Requirements: * Strong background in software engineering, focused on security relevant areas and most importantly being able to reason about complex code * Experience with penetration testing, vulnerability scanning, threat modeling or similar is a plus * Good knowledge of cryptography * Proficiency with Linux and Git * Good written communication skills * Fluent in OOP programming language Bonus Points: * Formal Verification, White Box, Vulnerability Scanning * Solid Blockchain Knowledge * Consensus Algorithms Join us here: https://www.chainsecurity.com/jobs/blockchain-security-engin... Questions about the role? Contact: jobs@chainsecurity.com"
+    },
+    {
+      "id": "50380208",
+      "author": "katie_zhy",
+      "created": "2026-11-05T15:19:48Z",
+      "url": "https://news.ycombinator.com/item?id=50380208",
+      "matched": {
+        "strong": [
+          "developer tools"
+        ],
+        "weak": [
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "VictoriaMetrics | Remote | EMEA, North America | Hiring VictoriaMetrics is an open-source monitoring and observability company. We build VictoriaMetrics, Victor",
+      "text": "VictoriaMetrics | Remote | EMEA, North America | Hiring VictoriaMetrics is an open-source monitoring and observability company. We build VictoriaMetrics, VictoriaLogs, and VictoriaTraces — high-performance, cost-efficient solutions for metrics, logs, and traces. Our products are used by companies including Spotify, Wix, Grammarly, CERN, and thousands of others, with 1B+ downloads of our open-source products. We&#x27;re a fully remote team of 60+ and are currently hiring: Senior Solution Engineer — North America & EMEA, Marketing Manager — North America, Product Marketing Manager (Cloud) — UK, Enterprise Account Executive - North America & EMEA, Technical Expert Engineer - North America. We&#x27;re particularly interested in people with experience in open source, observability, monitoring, infrastructure, databases, developer tools, or technical B2B products. Jobs & applications: https://careers.victoriametrics.com/ Happy to answer questions about VictoriaMetrics or the roles here."
+    }
+  ]
+}

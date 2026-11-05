@@ -146,6 +146,8 @@
   "50369728": 272,
   "50370932": 277,
   "50373706": 276,
+  "50380208": 279,
+  "50382899": 278,
   "fu:Interview Resources:2026-10-13": 11,
   "fu:CyberAtlas:2026-10-13": 12,
   "fu:OpenAlex:2026-10-06": 13,
@@ -294,5 +296,6 @@
   "yc:120102": 269,
   "yc:119870": 270,
   "fu:AnswerThis:2026-11-04": 271,
-  "boards:wwr:https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract": 275
+  "boards:wwr:https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract": 275,
+  "sig:https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/": 280
 }

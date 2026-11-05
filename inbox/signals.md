@@ -11,6 +11,12 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Venomics AI** — A | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru
+- [ ] **Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028** — C | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/ | why: stage: early-stage; funding: raised
+- [ ] **CERT-In warns of security vulnerabilities in Tata Motors' connected vehicle apps** — C | Thu, 05 Nov 2026 | YourStory: https://yourstory.com/2026/11/cert-in-security-vulnerabilities-tata-motors-connected-vehicle-apps | why: funding: raising
+- [ ] **Spacetech startup Cosmoserve** — C | Thu, 05 Nov 2026 | YourStory: https://yourstory.com/2026/11/spacetech-startup-cosmoserve-raises-6-million-in-seed-round | why: stage: early-stage; funding: raises
+- [ ] **Daksham Capital** — D | Thu, 05 Nov 2026 | YourStory: https://yourstory.com/2026/11/daksham-capital-raises-rs-125-cr-first-close-rs-300-cr-fund | why: sector: ai; funding: raises
+
 - [ ] **PhysicsWallah’s Q2 Profit Surge, Elo Elo** — C | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/ | why: funding: bags
 - [ ] **Cleantech Startup altM** — D | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/ | why: funding: raises
 - [ ] **altM** — D | Thu, 05 Nov 2026 | YourStory: https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures | why: funding: raises; 📍 bengaluru

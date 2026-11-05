@@ -1,0 +1,463 @@
+{
+  "pulled": "2026-11-06",
+  "scanned": 337,
+  "survived": 184,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/abacus-insights/jobs/senior-ai-security-engineer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Abacus Insights",
+      "title": "Senior AI Security Engineer",
+      "url": "https://himalayas.app/companies/abacus-insights/jobs/senior-ai-security-engineer?utm_source=api",
+      "posted": "2026-11-05T18:32:28.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Security-Engineer",
+        "Security-Engineer",
+        "Cloud-Security-Engineer",
+        "Application-Security-Engineer",
+        "DevSecOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "rag"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137685",
+      "grade": "D",
+      "score": 35,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Claims",
+      "title": "Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+      "posted": "2026-11-04T15:09:09+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "dev",
+        "ai",
+        "blockchain"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, pipeline, ai agent",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/smart-working/jobs/python-backend-engineer-remote-full-time-as347",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Smart Working",
+      "title": "Python Backend Engineer (Remote, Full - Time) [AS347]",
+      "url": "https://himalayas.app/companies/smart-working/jobs/python-backend-engineer-remote-full-time-as347?utm_source=api",
+      "posted": "2026-11-05T19:24:56.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Python-Backend-Engineer",
+        "Software-Engineer",
+        "AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "fastapi",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, fastapi, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/jeeves/jobs/senior-qa-engineer",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Jeeves",
+      "title": "Senior QA Engineer",
+      "url": "https://himalayas.app/companies/jeeves/jobs/senior-qa-engineer?utm_source=api",
+      "posted": "2026-11-05T15:27:04.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Engineer",
+        "Quality-Assurance-Engineer",
+        "Automation-Testing",
+        "Software-Test-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "playwright"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker, playwright",
+        "story fit: Hireflow/klimb.io AI metering (playwright)",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/newrocket/jobs/senior-forward-deployed-engineers",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "NewRocket",
+      "title": "Senior Forward deployed Engineers",
+      "url": "https://himalayas.app/companies/newrocket/jobs/senior-forward-deployed-engineers?utm_source=api",
+      "posted": "2026-11-05T16:34:25.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Forward-Deployed-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "Data-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "mongodb",
+          "aws",
+          "s3",
+          "platform",
+          "real-time",
+          "automation",
+          "etl",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: postgresql, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/jobskeyconsultancy/jobs/java-developer",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Jobskey Consultancy",
+      "title": "java developer",
+      "url": "https://himalayas.app/companies/jobskeyconsultancy/jobs/java-developer?utm_source=api",
+      "posted": "2026-11-05T09:04:21.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Java-Developer",
+        "Backend-Engineer",
+        "Web-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, graduate",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xo-health/jobs/full-stack-engineer-front-end",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "XO Health",
+      "title": "Full Stack Engineer (Front-End)",
+      "url": "https://himalayas.app/companies/xo-health/jobs/full-stack-engineer-front-end?utm_source=api",
+      "posted": "2026-11-05T15:30:18.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Frontend-Engineer",
+        "Web-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, full-stack, full stack",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/newrocket/jobs/lead-ai-ml-engineer",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "NewRocket",
+      "title": "Lead AI/ML Engineer",
+      "url": "https://himalayas.app/companies/newrocket/jobs/lead-ai-ml-engineer?utm_source=api",
+      "posted": "2026-11-05T13:19:46.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Lead-AI-ML-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "Data-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "mongodb",
+          "aws",
+          "s3",
+          "platform",
+          "real-time",
+          "automation",
+          "etl",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: postgresql, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xo-health/jobs/senior-full-stack-engineer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "XO Health",
+      "title": "Senior Full Stack Engineer",
+      "url": "https://himalayas.app/companies/xo-health/jobs/senior-full-stack-engineer?utm_source=api",
+      "posted": "2026-11-05T05:06:08.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer",
+        "Cloud-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "javascript",
+          "aws",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): react, javascript, aws",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/talescope-consulting-private-limited/jobs/java-developer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Talescope consulting private limited",
+      "title": "Java Developer",
+      "url": "https://himalayas.app/companies/talescope-consulting-private-limited/jobs/java-developer?utm_source=api",
+      "posted": "2026-11-05T01:24:00.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Java-Developer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, remote",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tilt-com/jobs/senior-backend-engineer-nira",
+      "grade": "F",
+      "score": -7,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tilt",
+      "title": "Senior Backend Engineer, NIRA",
+      "url": "https://himalayas.app/companies/tilt-com/jobs/senior-backend-engineer-nira?utm_source=api",
+      "posted": "2026-11-05T03:05:20.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Backend-Engineering",
+        "Backend-Engineer",
+        "Senior-Backend-Development"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "aws",
+          "backend",
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack: backend engineer",
+        "senior-titled",
+        "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

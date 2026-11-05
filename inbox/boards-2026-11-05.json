@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-05",
-  "scanned": 334,
-  "survived": 185,
+  "scanned": 542,
+  "survived": 258,
   "hits": [
     {
       "id": "wwr:https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
@@ -37,6 +37,55 @@
         "stack: distributed systems, typescript, docker",
         "story fit: CodeSM/Yuvro/Storix (distributed systems)",
         "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/grovebybanyan/jobs/staff-software-engineer-ai",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Banyan Software",
+      "title": "Staff Software Engineer - AI",
+      "url": "https://himalayas.app/companies/grovebybanyan/jobs/staff-software-engineer-ai?utm_source=api",
+      "posted": "2026-11-05T06:07:20.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "AI-Engineer",
+        "Distributed-Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "postgresql",
+          "redis",
+          "docker",
+          "kubernetes",
+          "llm",
+          "rag",
+          "playwright"
+        ],
+        "weak": [
+          "react",
+          "backend",
+          "infra",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, postgresql, redis, docker",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
       ]
     }
   ]

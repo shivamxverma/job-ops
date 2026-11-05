@@ -11,6 +11,10 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **PhysicsWallah’s Q2 Profit Surge, Elo Elo** — C | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/ | why: funding: bags
+- [ ] **Cleantech Startup altM** — D | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/ | why: funding: raises
+- [ ] **altM** — D | Thu, 05 Nov 2026 | YourStory: https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures | why: funding: raises; 📍 bengaluru
+
 - [ ] **Peppermint Robotics** — C | Wed, 04 Nov 2026 | Inc42: https://inc42.com/buzz/peppermint-robotics-bags-%e2%82%b9100-cr-to-scale-its-industrial-robotics-bet/ | why: funding: bags; also: YourStory
 
 - [ ] **EloElo Group** — C | Wed, 04 Nov 2026 | Inc42: https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/ | why: stage: late-stage; sector: platform; funding: raised; also: YourStory

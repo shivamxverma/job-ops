@@ -150,6 +150,7 @@
   "50382899": 278,
   "50384764": 282,
   "50388471": 281,
+  "50396245": 288,
   "fu:Interview Resources:2026-10-13": 11,
   "fu:CyberAtlas:2026-10-13": 12,
   "fu:OpenAlex:2026-10-06": 13,
@@ -304,5 +305,6 @@
   "fu:Specific Labs (YC F25):2026-11-06": 284,
   "fu:Revvox:2026-11-06": 285,
   "fu:Smallest:2026-11-06": 286,
-  "fu:Karta AI:2026-11-06": 287
+  "fu:Karta AI:2026-11-06": 287,
+  "boards:him:https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent": 289
 }

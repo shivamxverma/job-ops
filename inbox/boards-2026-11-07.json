@@ -1,0 +1,649 @@
+{
+  "pulled": "2026-11-07",
+  "scanned": 345,
+  "survived": 194,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "QuantumLoopAI",
+      "title": "AI/ML & Prompt Engineer LLM, RAG & Voice Agent",
+      "url": "https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent?utm_source=api",
+      "posted": "2026-11-06T16:46:02.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-ML-Engineer",
+        "Prompt-Engineer",
+        "LLM-Engineer",
+        "Voice-Agent-Engineer",
+        "Machine-Learning-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "python",
+          "backend",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: docker, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/sonicwall/jobs/front-end-engineer-vue3-js-node-js-and-typescript-experience-is-a-must",
+      "grade": "C",
+      "score": 58,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "SonicWall",
+      "title": "Front End Engineer- Vue3.js, Node.js, and TypeScript experience is a must",
+      "url": "https://himalayas.app/companies/sonicwall/jobs/front-end-engineer-vue3-js-node-js-and-typescript-experience-is-a-must?utm_source=api",
+      "posted": "2026-11-06T11:57:31.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Front-End-Software-Engineer",
+        "Frontend-Engineer",
+        "Front-End-Developer",
+        "Web-Developer",
+        "UI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "redis",
+          "docker"
+        ],
+        "weak": [
+          "node",
+          "aws",
+          "s3",
+          "ci/cd",
+          "backend",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, redis, docker",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137691",
+      "grade": "C",
+      "score": 55,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Silver.dev",
+      "title": "Feltsense AI Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "posted": "2026-11-05T16:00:07+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "design",
+        "sys admin",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "javascript"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgres"
+        ],
+        "weak": [
+          "node",
+          "javascript",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgres",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote-1877006373",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tether Operations Limited",
+      "title": "Automation QA Engineer (QVAC) (100% remote)",
+      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote-1877006373?utm_source=api",
+      "posted": "2026-11-06T15:15:48.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Automation-Engineer",
+        "QA-Engineer",
+        "Automation-Testing",
+        "Mobile-QA-Engineer",
+        "Software-Test-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, automation",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/bjak/jobs/ios-software-engineer-2078681342",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Bjak",
+      "title": "iOS Software Engineer",
+      "url": "https://himalayas.app/companies/bjak/jobs/ios-software-engineer-2078681342?utm_source=api",
+      "posted": "2026-11-06T04:59:06.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "iOS-Developer",
+        "IOS-Mobile-Engineer",
+        "IOS-Software-Engineering",
+        "IOS-Engineering",
+        "IOS-Mobile-Engineering",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, remote",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/smart-working/jobs/endpoint-engineer-c-systems-remote-full-time-as349",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Smart Working",
+      "title": "Endpoint Engineer (C++ / Systems) (Remote, Full-Time) [AS349]",
+      "url": "https://himalayas.app/companies/smart-working/jobs/endpoint-engineer-c-systems-remote-full-time-as349?utm_source=api",
+      "posted": "2026-11-06T10:47:42.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Endpoint-Engineer",
+        "Systems-Engineer",
+        "Software-Engineer",
+        "Cybersecurity-Engineer",
+        "C++-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "linux",
+          "c++",
+          "backend",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): linux, c++, backend",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/efficiently/jobs/bim-mechanical-engineer",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "efficiently",
+      "title": "BIM Mechanical Engineer",
+      "url": "https://himalayas.app/companies/efficiently/jobs/bim-mechanical-engineer?utm_source=api",
+      "posted": "2026-11-06T05:21:20.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "BIM-Mechanical-Engineer",
+        "Mechanical-Engineer",
+        "BIM-Engineer",
+        "Building-Information-Modeling-Engineer",
+        "MEP-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, remote",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/inardua/jobs/salesforce-developer-l3",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Inardua",
+      "title": "Salesforce Developer (L3)",
+      "url": "https://himalayas.app/companies/inardua/jobs/salesforce-developer-l3?utm_source=api",
+      "posted": "2026-11-06T11:51:50.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Developer",
+        "Salesforce-Platform-Developer",
+        "Salesforce-Engineer",
+        "Integration-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, automation",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/partner-one-capital/jobs/devops-automation-specialistjob",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Partner One Capital",
+      "title": "DevOps Automation SpecialistJob",
+      "url": "https://himalayas.app/companies/partner-one-capital/jobs/devops-automation-specialistjob?utm_source=api",
+      "posted": "2026-11-06T14:11:48.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Automation-Engineer",
+        "DevOps-Engineer",
+        "Infrastructure-Automation-Engineer",
+        "Infrastructure-Engineer",
+        "Automation-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): python, ci/cd, platform",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137688",
+      "grade": "F",
+      "score": 25,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Lemon.io",
+      "title": "Senior Vue Developer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+      "posted": "2026-11-05T12:45:45+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "engineer",
+        "dev",
+        "full time",
+        "full stack",
+        "remote",
+        "remote work",
+        "javascript",
+        "typescript"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "javascript",
+          "full stack",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "2+ years stated",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nagarro/jobs/associate-distinguished-engineer-technology-architect-automotive-data-archite",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Nagarro",
+      "title": "Associate Distinguished Engineer (Technology Architect, Automotive, Data Archite",
+      "url": "https://himalayas.app/companies/nagarro/jobs/associate-distinguished-engineer-technology-architect-automotive-data-archite?utm_source=api",
+      "posted": "2026-11-05T23:31:13.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Solutions-Architect",
+        "Enterprise-Architect",
+        "Technology-Architect",
+        "Cloud-Architect",
+        "Data-Architect"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "aws",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, llm, rag",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Distinguished-level title",
+        "15+ years stated",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/smart-working/jobs/senior-data-engineer-developer-remote-full-time-hr221",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Smart Working",
+      "title": "Senior Data Engineer / Developer (Remote, Full-Time) [HR221]",
+      "url": "https://himalayas.app/companies/smart-working/jobs/senior-data-engineer-developer-remote-full-time-hr221?utm_source=api",
+      "posted": "2026-11-06T14:23:04.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Backend-Engineer",
+        "Data-Platform-Engineer",
+        "Business-intelligence-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, platform, pipeline",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/ahead/jobs/senior-software-developer-elixir",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "AHEAD",
+      "title": "Senior Software Developer - Elixir",
+      "url": "https://himalayas.app/companies/ahead/jobs/senior-software-developer-elixir?utm_source=api",
+      "posted": "2026-11-06T08:46:53.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Software-Developer",
+        "Backend-Engineer",
+        "Elixir-Developer",
+        "Phoenix-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, platform, automation",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/genea/jobs/senior-software-engineer-video-streaming-engineer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Genea",
+      "title": "Senior Software Engineer (Video Streaming Engineer)",
+      "url": "https://himalayas.app/companies/genea/jobs/senior-software-engineer-video-streaming-engineer?utm_source=api",
+      "posted": "2026-11-06T03:17:43.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Video-Streaming-Engineer",
+        "Backend-Engineer",
+        "Cloud-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, remote",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
+      "grade": "F",
+      "score": 9,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Mixpanel",
+      "title": "Customer Value Architect III",
+      "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
+      "posted": "Sat, 17 Oct 2026 07:30:50 +0000",
+      "location": "<p> <strong>Headquarters:</strong> San Francisco, US (Remote) </p> <div class=\"content-intro\"><p><strong>About Mixpanel</strong></p> <p>Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at <a href=\"https://mixpanel.com/home/\">mixpanel.com</a>.</p></div><p><strong>About the Team</strong></p> <p>The Customer Value Architects team sits inside the revenue organization and owns the connection between what customers buy and what they actually get out of Mixpanel. We turn product usage into measurable business outcomes, working across onboarding, adoption, and renewal to make sure customers see the value they signed up for.</p> <p><strong>About the Role</strong></p> <p>The right candidate is a relationship-first advisor who connects a customer's Mixpanel investment to real outcomes for a defined book of accounts. You'll own the adoption and value plan for each account end to end: understanding why the customer bought Mixpanel, tracking whether they're getting the ROI they expected, and driving the enablement and product usage that gets them there. You'll build trusted relationships with business and technical stakeholders, partner closely with your Account Executive and renewal counterparts, and bring a growing point of view on how customers should think about AI in their product workflows. This role suits someone who can own a project end to end and is ready to start extending their influence beyond their own accounts to the wider team.</p> <p><strong>Responsibilities</strong></p> <ul> <li>Own the value plan for each account in your portfolio, connecting the business problem that led the customer to buy Mixpanel with the outcomes they measure.</li> <li>Build relationships with business and technical stakeholders, aligning Mixpanel's capabilities to what customers care about most.</li> <li>Run discovery on customer priorities and pain points, and turn what you learn into concrete adoption plans and internal updates.</li> <li>Partner with your Account Executive on expansion and your renewal counterpart on renewal execution, bringing the value case and adoption evidence that supports both.</li> <li>Lead enablement/best practices sessions on dashboard design, funnel analysis, and retention modeling to grow how deeply and widely a customer uses Mixpanel.</li> <li>Monitor usage and health signals and lead business reviews that surface what's working, deepen adoption, and catch risk early.</li> <li>Spot underused features and contracted capabilities, and turn them into clear recommendations for the customer.</li> <li>Triage product questions and issues, solving what you can and routing the rest to the right team.</li> <li>Build a working point of view on a customer's AI maturity, and use Mixpanel's own AI surface to help them build on their product data.</li> <li>Coordinate with GTM, Product, and Engineering on escalations, and share what works with the broader Customer Value Architects team.</li> </ul> <p><strong>We're Looking For Someone Who Has</strong></p> <ul> <li>4 - 6 years of experience in customer success, consulting, or a related field supporting B2B SaaS accounts, or equivalent experience.</li> <li>A track record of managing relationships across a range of stakeholders, from business partners to technical teams.</li> <li>The ability to translate technical concepts, like data models and product metrics, into terms that land with non-technical stakeholders.</li> <li>Experience turning product usage into a clear story about customer outcomes and ROI.</li> <li>Comfort building and running adoption plans that tie daily work to a customer's larger goals.</li> <li>Hands-on experience with AI or agentic tooling beyond casual use, such as MCP-based workflows or LLM copilots.</li> <li>A collaborative approach to working across account teams and internal partners to move plans forward.</li> <li>Good judgment for prioritizing which accounts and actions need attention first.</li> </ul> <p><strong>Bonus Points For</strong></p> <ul> <li>Background in product analytics, growth, or data-driven product development.</li> <li>Experience in a technical advisory or professional services capacity.</li> <li>Familiarity with analytics instrumentation, event tracking, or data tooling.</li> </ul> <p>#LI-Remote</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><strong>Compensation</strong></p> <p><span>The amount listed below is the total target cash compensation (TTCC) and includes base compensation and variable compensation in the form of either a company bonus or commissions. Variable compensation type is determined by your role and level. In addition to the cash compensation provided, this position is also eligible for equity consideration and other benefits including medical, vision, and dental insurance coverage. You can view our benefits offerings <a href=\"https://mxpnl.notion.site/Check-out-our-benefits-869112a6cabe4c81a2b9da99de28f636\">here</a>.<br><br>Our salary ranges are determined by role and level and are benchmarked to the SF Bay Area Technology data cut released by Radford, a global compensation database. The range displayed represents the minimum and maximum TTCC for new hire salaries for the position across all of our US locations. To stay on top of market conditions, we refresh our salary ranges twice a year so these ranges may change in the future. Within the range, individual pay is determined by experience, job-related skills, qualifications, and other factors. If you have questions about the specific range, your recruiter can share this information.</span></p></div><div class=\"title\">Mixpanel Compensation Range</div><div class=\"pay-range\"><span>$125,500</span><span class=\"divider\">—</span><span>$169,500 USD</span></div></div></div><div class=\"content-conclusion\"><p><strong>Benefits and Perks</strong><strong><br></strong></p> <ul> <li>Comprehensive Medical, Vision, and Dental Care</li> <li>Mental Wellness Benefit</li> <li>Generous Vacation Policy &amp; Additional Company Holidays</li> <li>Enhanced Parental Leave</li> <li>Volunteer Time Off</li> <li>Additional US Benefits: Pre-Tax Benefits including 401(K), Wellness Benefit, Holiday Break</li> </ul> <p><em>*please note that benefits and perks for contract positions will vary*</em></p> <p><strong>Culture Values</strong></p> <ul> <li><strong>Make Bold Bets:</strong> We choose courageous action over comfortable progress.</li> <li><strong>Innovate with Insight:</strong> We tackle decisions with rigor and judgment - combining data, experience and collective wisdom to drive&nbsp;powerful outcomes.</li> <li><strong>One Team:</strong> We collaborate across boundaries to achieve far greater impact than any of us could accomplish alone.</li> <li><strong>Candor with Connection:</strong> We build meaningful relationships that enable honest feedback and direct conversations.</li> <li><strong>Champion the Customer:</strong> We seek to deeply understand our customers’ needs, ensuring their success is our north star.</li> <li><strong>Powerful Simplicity:</strong> We find elegant solutions to complex problems, making sophisticated things accessible.</li> </ul> <p><strong>Why choose Mixpanel?</strong></p> <p>We’re a leader in analytics with over 29,000 customers and $277M invested from prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most recently, Bain Capital. Mixpanel’s pioneering event-based data analytics platform offers a powerful yet simple solution for companies to understand user behaviors and easily track overarching company success metrics. Our accomplished teams continuously facilitate our expansion by tackling the ever-evolving challenges tied to scaling, reliability, design, and service. Choosing to work at Mixpanel means you’ll be helping the world’s most innovative companies learn from their data so they can make better decisions.</p> <p><span>Mixpanel is an equal opportunity employer supporting workforce diversity. At Mixpanel, we are focused on things that really matter—our people, our customers, our partners—out of a recognition that those relationships are the most valuable assets we have. We actively encourage women, people with disabilities, veterans, underrepresented minorities, and LGBTQ+ people to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance or other similar laws that may be applicable, we will consider for employment qualified applicants with arrest and conviction records. We’ve immersed ourselves in our Culture and Values as our guiding principles for the impact we want to have and the future we are building.</span></p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii\">https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "Architect-level title",
+        "4+ years stated (stretch)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/velsera/jobs/technical-lead-engineering",
+      "grade": "F",
+      "score": -7,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Velsera",
+      "title": "Technical Lead, Engineering",
+      "url": "https://himalayas.app/companies/velsera/jobs/technical-lead-engineering?utm_source=api",
+      "posted": "2026-11-06T12:15:51.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Technical-Lead",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Java-Developer",
+        "Engineering-Manager"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql"
+        ],
+        "weak": [
+          "python",
+          "mongodb",
+          "ci/cd",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack: postgresql",
+        "senior-titled",
+        "8+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

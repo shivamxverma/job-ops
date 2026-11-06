@@ -71,6 +71,56 @@
       },
       "firstLine": "VictoriaMetrics | Remote | EMEA, North America | Hiring VictoriaMetrics is an open-source monitoring and observability company. We build VictoriaMetrics, Victor",
       "text": "VictoriaMetrics | Remote | EMEA, North America | Hiring VictoriaMetrics is an open-source monitoring and observability company. We build VictoriaMetrics, VictoriaLogs, and VictoriaTraces — high-performance, cost-efficient solutions for metrics, logs, and traces. Our products are used by companies including Spotify, Wix, Grammarly, CERN, and thousands of others, with 1B+ downloads of our open-source products. We&#x27;re a fully remote team of 60+ and are currently hiring: Senior Solution Engineer — North America & EMEA, Marketing Manager — North America, Product Marketing Manager (Cloud) — UK, Enterprise Account Executive - North America & EMEA, Technical Expert Engineer - North America. We&#x27;re particularly interested in people with experience in open source, observability, monitoring, infrastructure, databases, developer tools, or technical B2B products. Jobs & applications: https://careers.victoriametrics.com/ Happy to answer questions about VictoriaMetrics or the roles here."
+    },
+    {
+      "id": "50388471",
+      "author": "Sush1271",
+      "created": "2026-11-06T05:11:29Z",
+      "url": "https://news.ycombinator.com/item?id=50388471",
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "mongodb",
+          "full-stack",
+          "backend"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "I&#x27;m Sushant Gangurde, A Software Engineer focused on Full-Stack Development and AI-powered applications. I work with React, Next.js, TypeScript, Node.js, P",
+      "text": "I&#x27;m Sushant Gangurde, A Software Engineer focused on Full-Stack Development and AI-powered applications. I work with React, Next.js, TypeScript, Node.js, Python, PostgreSQL and MongoDB, and enjoy building practical products from frontend to backend. I&#x27;ve built projects involving AI integrations, authentication, APIs and database systems, and I&#x27;m also contributing to open-source software. I&#x27;m currently pursuing my Masters in Computer Science and actively looking for full-time Software Engineering opportunities where I can learn, take ownership and contribute to meaningful products. Portfolio: [ https://sushx.in ]( https://sushx.in ) LinkedIn: [ https://www.linkedin.com/in/sushantgangurde-dev ]( https://www.linkedin.com/in/sushantgangurde-dev ) Mail: sushantcs2026@gmail.com"
+    },
+    {
+      "id": "50384764",
+      "author": "kyrxanthos",
+      "created": "2026-11-05T21:34:32Z",
+      "url": "https://news.ycombinator.com/item?id=50384764",
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "real-time"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Piramidal (YC W24) | Senior Backend Engineer | New York, NY | $200K-$300K + equity | www.piramidal.ai We’ve built the first-of-its-kind foundation model for bra",
+      "text": "Piramidal (YC W24) | Senior Backend Engineer | New York, NY | $200K-$300K + equity | www.piramidal.ai We’ve built the first-of-its-kind foundation model for brainwave data. Our goal is Intelligence Amplification (IA) by means of creating neural decoders that enable interactions with the language of neurons. Powered by our SOTA foundation model, our first product detects in real time abnormalities in the brains of ICU patients. We are looking for a backend engineer to help build and scale the infrastructure behind our real time neural monitoring platform. You&#x27;ll work on hard problems: high throughput streaming, real-time analytics, and hospital grade reliability. Apply directly here: https://grnh.se/uwaqx1xc9us"
     }
   ]
 }

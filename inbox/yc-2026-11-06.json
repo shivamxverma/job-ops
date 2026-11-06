@@ -1,0 +1,48 @@
+{
+  "pulled": "2026-11-06",
+  "scanned": 825,
+  "survived": 7,
+  "hits": [
+    {
+      "id": 120662,
+      "grade": "D",
+      "score": 43,
+      "company": "Third Chair",
+      "batch": "P25",
+      "title": "Senior Software Engineer (Data Platform)",
+      "location": "Remote",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "3+ years",
+      "salaryRange": "$40K - $100K",
+      "equityRange": "0.05% - 0.25%",
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "Go",
+        "Node.js",
+        "PostgreSQL",
+        "Python",
+        "ClickHouse"
+      ],
+      "oneLiner": "AI-Native IP Enforcement",
+      "createdAt": "about 20 hours",
+      "lastActive": null,
+      "teamSize": 19,
+      "stage": "Early",
+      "tags": [],
+      "website": "https://usethirdchair.com",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/third-chair/jobs/dFGsK43-senior-software-engineer-data-platform",
+      "companyUrl": "https://www.ycombinator.com/companies/third-chair",
+      "why": [
+        "stack: node.js, postgresql",
+        "19-person team",
+        "story fit (AI vocab only): ai",
+        "remote",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "posted about 20 hours ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-06",
-  "scanned": 337,
-  "survived": 184,
+  "scanned": 648,
+  "survived": 343,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/abacus-insights/jobs/senior-ai-security-engineer",
@@ -454,6 +454,442 @@
         "stack: backend engineer",
         "senior-titled",
         "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/smart-working/jobs/devops-platform-engineer-remote-full-time-as348",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Smart Working",
+      "title": "DevOps / Platform Engineer (Remote, Full-Time) [AS348]",
+      "url": "https://himalayas.app/companies/smart-working/jobs/devops-platform-engineer-remote-full-time-as348?utm_source=api",
+      "posted": "2026-11-05T19:50:27.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "Platform-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Site-Reliability-Engineer",
+        "Infrastructure-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "typescript",
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "c++",
+          "backend",
+          "platform",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, typescript, docker, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/win-home-inspection/jobs/software-engineer-agentic-ai-integrations",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "WIN Home Inspection",
+      "title": "Software Engineer- Agentic AI & Integrations",
+      "url": "https://himalayas.app/companies/win-home-inspection/jobs/software-engineer-agentic-ai-integrations?utm_source=api",
+      "posted": "2026-11-06T03:43:44.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/frontend-ui-engineer",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Frontend / UI Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/frontend-ui-engineer?utm_source=api",
+      "posted": "2026-11-05T22:22:57.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Frontend-Engineer",
+        "UI-Frontend-Developer",
+        "Web-Frontend-Engineer",
+        "Front-End-Software-Engineer",
+        "UX-UI-Front-End-Developer",
+        "UI-Engineer",
+        "React-Frontend-Engineer",
+        "UI-UX-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/lead-qa-engineer-atm",
+      "grade": "D",
+      "score": 40,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Banco Plata, S.A., Institución de Banca Múltiple",
+      "title": "Lead QA Engineer [ATM]",
+      "url": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/lead-qa-engineer-atm?utm_source=api",
+      "posted": "2026-11-05T22:38:45.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Lead-QA-Engineer",
+        "QA-Engineer",
+        "Test-Engineer",
+        "Quality-Assurance-Engineer",
+        "Software-QA-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "kafka"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript, kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/sibros-technologies/jobs/senior-solutions-architect",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Sibros Technologies",
+      "title": "Senior Solutions Architect",
+      "url": "https://himalayas.app/companies/sibros-technologies/jobs/senior-solutions-architect?utm_source=api",
+      "posted": "2026-11-06T02:08:49.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Solutions-Architect",
+        "Software-Architect",
+        "Cloud-Solutions-Architect",
+        "Pre-Sales-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, pipeline, remote",
+        "non-eng title: Solutions Architect",
+        "non-engineering seat",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/quantumloopai/jobs/technical-lead-india-remote",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "QuantumLoopAI",
+      "title": "Technical Lead - India Remote",
+      "url": "https://himalayas.app/companies/quantumloopai/jobs/technical-lead-india-remote?utm_source=api",
+      "posted": "2026-11-05T23:39:14.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Technical-Lead",
+        "Software-Engineering-Manager",
+        "Backend-Engineer",
+        "Software-Architect",
+        "AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "node.js",
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "node",
+          "full-stack",
+          "backend",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, node.js, typescript, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "8+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tala/jobs/senior-cloud-infrastructure-engineer",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tala",
+      "title": "Senior Cloud Infrastructure Engineer",
+      "url": "https://himalayas.app/companies/tala/jobs/senior-cloud-infrastructure-engineer?utm_source=api",
+      "posted": "2026-11-06T00:24:10.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Cloud-Infrastructure-Engineer",
+        "DevOps-Engineer",
+        "Cloud-Engineer",
+        "Site-Reliability-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "infrastructure engineer",
+          "distributed systems",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "infra",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: infrastructure engineer, distributed systems, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137687",
+      "grade": "F",
+      "score": 5,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "CivilGrid",
+      "title": "Senior Staff Infrastructure & Security Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
+      "posted": "2026-11-05T00:00:04+00:00",
+      "location": "Boston",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "infosec",
+        "design",
+        "dev",
+        "marketing",
+        "exec",
+        "devops",
+        "cloud",
+        "senior"
+      ],
+      "matched": {
+        "strong": [
+          "infrastructure engineer"
+        ],
+        "weak": [
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: infrastructure engineer",
+        "Staff-level title",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/btse/jobs/principal-qa-engineer-qa-manager",
+      "grade": "F",
+      "score": 3,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "BTSE",
+      "title": "Principal QA Engineer/ QA Manager",
+      "url": "https://himalayas.app/companies/btse/jobs/principal-qa-engineer-qa-manager?utm_source=api",
+      "posted": "2026-11-05T23:45:44.000Z",
+      "location": "Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, Georgia, Hong Kong, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Lebanon, Macao, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Oman, Pakistan, Palestine, State of, Philippines, Qatar, Russian Federation, Saudi Arabia, Singapore, South Korea, Sri Lanka, Syrian Arab Republic, Taiwan, Tajikistan, Thailand, Timor-Leste, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Engineer",
+        "QA-Manager",
+        "Test-Engineer",
+        "Software-Quality-Engineer",
+        "SDET"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "ci/cd",
+          "backend",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, typescript",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Principal-level title",
+        "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/epic/jobs/senior-android-engineer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Epic",
+      "title": "Senior Android Engineer",
+      "url": "https://himalayas.app/companies/epic/jobs/senior-android-engineer?utm_source=api",
+      "posted": "2026-11-05T20:12:16.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Android-Engineer",
+        "Android-Developer",
+        "Mobile-Software-Engineer",
+        "Senior-Android-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, platform, pipeline",
+        "senior-titled",
+        "4+ years stated (stretch)",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

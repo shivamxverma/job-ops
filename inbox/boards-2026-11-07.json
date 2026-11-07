@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-07",
-  "scanned": 345,
-  "survived": 194,
+  "scanned": 692,
+  "survived": 390,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent",
@@ -640,6 +640,338 @@
         "stack: postgresql",
         "senior-titled",
         "8+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/eversana/jobs/ai-solutions-engineer-generative-ai-agentic-ai",
+      "grade": "F",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "EVERSANA",
+      "title": "AI Solutions Engineer (Generative AI & Agentic AI)",
+      "url": "https://himalayas.app/companies/eversana/jobs/ai-solutions-engineer-generative-ai-agentic-ai?utm_source=api",
+      "posted": "2026-11-07T01:50:24.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Solutions-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Generative-AI-Engineer",
+        "Solutions-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "non-eng title: Solutions Engineer",
+        "non-engineering seat",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/clanx/jobs/microsoft-365-integration-engineer-remote",
+      "grade": "C",
+      "score": 47,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "ClanX",
+      "title": "Microsoft 365 Integration Engineer - Remote",
+      "url": "https://himalayas.app/companies/clanx/jobs/microsoft-365-integration-engineer-remote?utm_source=api",
+      "posted": "2026-11-06T17:33:52.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Microsoft-365-Integration-Consultant",
+        "Integration-Engineer",
+        "Backend-Engineer",
+        "Cloud-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, platform, remote",
+        "0-1 years ok",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i-inc/jobs/backend-developer-g2i-talent-pool",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i Inc.",
+      "title": "Backend Developer - G2i Talent Pool",
+      "url": "https://himalayas.app/companies/g2i-inc/jobs/backend-developer-g2i-talent-pool?utm_source=api",
+      "posted": "2026-11-06T23:54:26.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Backend-API-Developer",
+        "Backend-Platform-Developer",
+        "Backend-Web-Developer",
+        "Backend-Engineer",
+        "Backend-JavaScript-Developer",
+        "Cloud-Backend-Developer",
+        "Remote-Backend-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "backend developer"
+        ],
+        "weak": [
+          "javascript",
+          "backend",
+          "platform",
+          "remote",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: backend developer",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/netrix-global/jobs/full-stack-developer",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Netrix Global",
+      "title": "Full-Stack Developer",
+      "url": "https://himalayas.app/companies/netrix-global/jobs/full-stack-developer?utm_source=api",
+      "posted": "2026-11-07T02:42:09.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Software-Developer",
+        "Web-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "javascript",
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/buzzboard-com/jobs/principal-ai-engineer",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "BuzzBoard",
+      "title": "Principal AI Engineer",
+      "url": "https://himalayas.app/companies/buzzboard-com/jobs/principal-ai-engineer?utm_source=api",
+      "posted": "2026-11-07T02:16:45.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Engineering",
+        "Machine-Learning-Engineering",
+        "LLM-Engineering",
+        "AI-Architecture",
+        "Generative-AI-Development"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "platform",
+          "real-time",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "Principal-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137693",
+      "grade": "D",
+      "score": 30,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Thumbtack",
+      "title": "Senior Full Stack Engineer People Products",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+      "posted": "2026-11-06T00:00:05+00:00",
+      "location": "Toronto",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "full stack",
+        "design",
+        "saas",
+        "react",
+        "salesforce",
+        "hr",
+        "front end",
+        "python"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "full stack",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/foundever/jobs/senior-data-engineer-remote-any-location-in",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Foundever",
+      "title": "Senior Data Engineer (Remote, Any Location, IN)",
+      "url": "https://himalayas.app/companies/foundever/jobs/senior-data-engineer-remote-any-location-in?utm_source=api",
+      "posted": "2026-11-06T18:03:15.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Data-Platform-Engineer",
+        "Analytics-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, pipeline, remote",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nttdata/jobs/digital-engineering-sr-engineer-remote-pb-in",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "NTT DATA",
+      "title": "Digital Engineering Sr. Engineer (Remote, PB, IN)",
+      "url": "https://himalayas.app/companies/nttdata/jobs/digital-engineering-sr-engineer-remote-pb-in?utm_source=api",
+      "posted": "2026-11-06T22:28:03.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Frontend-Engineer",
+        "Full-Stack-Engineer",
+        "Angular-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "platform",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, platform, remote",
+        "senior-titled",
+        "4+ years stated (stretch)",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

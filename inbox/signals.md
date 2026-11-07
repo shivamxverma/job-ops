@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **From GIVA To EloElo Group — Indian Startups** — C | Sat, 07 Nov 2026 | Inc42: https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/ | why: funding: raised
+
 - [ ] **Venomics AI** — A | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru
 - [ ] **Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028** — C | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/ | why: stage: early-stage; funding: raised
 - [ ] **CERT-In warns of security vulnerabilities in Tata Motors' connected vehicle apps** — C | Thu, 05 Nov 2026 | YourStory: https://yourstory.com/2026/11/cert-in-security-vulnerabilities-tata-motors-connected-vehicle-apps | why: funding: raising

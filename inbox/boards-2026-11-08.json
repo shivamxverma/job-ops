@@ -1,0 +1,578 @@
+{
+  "pulled": "2026-11-08",
+  "scanned": 360,
+  "survived": 203,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/hyre/jobs/full-stack-developer-agentic-ai-automation",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Hyre",
+      "title": "Full Stack Developer – Agentic AI & Automation",
+      "url": "https://himalayas.app/companies/hyre/jobs/full-stack-developer-agentic-ai-automation?utm_source=api",
+      "posted": "2026-11-07T19:17:40.000Z",
+      "location": "Argentina, Belize, Brazil, Cameroon, Colombia, Guatemala, India, Kenya, Mexico, Pakistan, Peru, Philippines, Venezuela",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "AI-Developer",
+        "Automation-Developer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "mongodb",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgresql, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Newfold Digital",
+      "title": "Software Development Engineer in Test - AI",
+      "url": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai?utm_source=api",
+      "posted": "2026-11-07T11:11:58.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer-in-Test",
+        "Quality-Engineer",
+        "Automation-Engineer",
+        "AI-Testing-Engineer",
+        "SDET"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag",
+          "playwright"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm, rag, playwright",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag, playwright)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/netrix-global/jobs/ai-agent-engineer",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Netrix Global",
+      "title": "AI / Agent Engineer",
+      "url": "https://himalayas.app/companies/netrix-global/jobs/ai-agent-engineer?utm_source=api",
+      "posted": "2026-11-07T19:00:51.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Agent-Engineer",
+        "AI-Engineer",
+        "Generative-AI-Engineer",
+        "LLM-Engineer",
+        "AI-Solutions-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "full-stack",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/gruve/jobs/endpoint-management-engineer-l2-intune-sccm-mecm",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Gruve",
+      "title": "Endpoint Management Engineer (L2) – Intune & SCCM/MECM",
+      "url": "https://himalayas.app/companies/gruve/jobs/endpoint-management-engineer-l2-intune-sccm-mecm?utm_source=api",
+      "posted": "2026-11-07T13:24:44.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Endpoint-Management-Engineer",
+        "Endpoint-Administrator",
+        "Systems-Administrator",
+        "Device-Management-Engineer",
+        "IT-Support-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/satellogic/jobs/platform-engineer-india",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Satellogic",
+      "title": "Platform Engineer (India)",
+      "url": "https://himalayas.app/companies/satellogic/jobs/platform-engineer-india?utm_source=api",
+      "posted": "2026-11-07T12:40:19.000Z",
+      "location": "India, Philippines",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Platform-Engineer",
+        "Site-Reliability-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "DevOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, kubernetes",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/twilio/jobs/software-engineer-l3-8005866409",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "url": "https://himalayas.app/companies/twilio/jobs/software-engineer-l3-8005866409?utm_source=api",
+      "posted": "2026-11-07T15:37:41.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Data-Platform-Engineer",
+        "Distributed-Systems-Engineer",
+        "Data-Pipeline-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "platform",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tether-operations-limited/jobs/frontend-desktop-engineer-7248020949",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tether Operations Limited",
+      "title": "Frontend Desktop Engineer",
+      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/frontend-desktop-engineer-7248020949?utm_source=api",
+      "posted": "2026-11-07T07:51:09.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Front-End-Developer",
+        "Desktop-Application-Developer",
+        "Frontend-Engineer",
+        "React-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: node.js",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/netrix-global/jobs/m365-share-point-engineer",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Netrix Global",
+      "title": "M365 / Share Point Engineer",
+      "url": "https://himalayas.app/companies/netrix-global/jobs/m365-share-point-engineer?utm_source=api",
+      "posted": "2026-11-07T16:58:21.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Microsoft-365-Engineer",
+        "SharePoint-Engineer",
+        "Cloud-Migration-Engineer",
+        "Microsoft-Teams-Engineer",
+        "Power-Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/solwin-infotech/jobs/opening-of-wordpress-developer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Solwin Infotech",
+      "title": "Opening of Wordpress developer",
+      "url": "https://himalayas.app/companies/solwin-infotech/jobs/opening-of-wordpress-developer?utm_source=api",
+      "posted": "2026-11-07T17:06:31.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "WordPress-Developer",
+        "Web-Developer",
+        "Front-End-Developer",
+        "Backend-Engineer",
+        "Full-Stack-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "full-stack",
+          "backend",
+          "platform",
+          "remote",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, full-stack, backend",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/netrix-global/jobs/power-platform-copilot-studio-engineer",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Netrix Global",
+      "title": "Power Platform & Copilot Studio Engineer",
+      "url": "https://himalayas.app/companies/netrix-global/jobs/power-platform-copilot-studio-engineer?utm_source=api",
+      "posted": "2026-11-07T17:24:41.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Power-Platform-Engineer",
+        "Microsoft-Power-Platform-Developer",
+        "Copilot-Studio-Developer",
+        "Low-Code-Developer",
+        "Business-Application-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, platform, automation",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/lifelancer/jobs/software-engineer-node-lead",
+      "grade": "F",
+      "score": 3,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Lifelancer",
+      "title": "Software Engineer - Node Lead",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/software-engineer-node-lead?utm_source=api",
+      "posted": "2026-11-07T08:15:57.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "NodeJS-Developer",
+        "Backend-Engineer",
+        "Technical-Lead"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "nodejs",
+          "typescript",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "node",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, nodejs, typescript, docker",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/jumpcloud/jobs/staff-quality-engineer-india",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "JumpCloud",
+      "title": "Staff Quality Engineer - India",
+      "url": "https://himalayas.app/companies/jumpcloud/jobs/staff-quality-engineer-india?utm_source=api",
+      "posted": "2026-11-07T15:28:20.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Quality-Engineer",
+        "Software-Quality-Engineer",
+        "Test-Engineer",
+        "Automation-Testing"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, pipeline",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/customertimes/jobs/jr-223225-qa-engineer-senior",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Customertimes",
+      "title": "JR-223225 QA Engineer Senior",
+      "url": "https://himalayas.app/companies/customertimes/jobs/jr-223225-qa-engineer-senior?utm_source=api",
+      "posted": "2026-11-07T17:47:59.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Engineer",
+        "Quality-Assurance-Engineer",
+        "Automation-Testing",
+        "Performance-Test-Engineer",
+        "Software-Test-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "backend",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, backend, platform",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/sparkrock/jobs/senior-qa-engineer-ote-50-000-year-usd-sparkrock",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Sparkrock",
+      "title": "Senior QA Engineer (OTE $50,000/year USD), Sparkrock",
+      "url": "https://himalayas.app/companies/sparkrock/jobs/senior-qa-engineer-ote-50-000-year-usd-sparkrock?utm_source=api",
+      "posted": "2026-11-07T16:04:37.000Z",
+      "location": "Argentina, Brazil, Egypt, India, Mexico, Pakistan, Turkey",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Engineer",
+        "Quality-Assurance-Engineer",
+        "Software-Test-Engineer",
+        "Automation-Testing"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, remote",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

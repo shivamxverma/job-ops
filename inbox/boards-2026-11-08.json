@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-08",
-  "scanned": 712,
-  "survived": 401,
+  "scanned": 1066,
+  "survived": 595,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/hyre/jobs/full-stack-developer-agentic-ai-automation",
@@ -619,6 +619,491 @@
         "story fit: CodeSM/Yuvro/Storix (kafka)",
         "reachable: India-based",
         "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/rustlabs/jobs/remote-ai-security-engineer-llm-vulnerabilities-contract",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RustLabs",
+      "title": "Remote AI Security Engineer, LLM Vulnerabilities (contract)",
+      "url": "https://himalayas.app/companies/rustlabs/jobs/remote-ai-security-engineer-llm-vulnerabilities-contract?utm_source=api",
+      "posted": "2026-11-08T04:20:16.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "tags": [
+        "Freelance-AI-Security-Engineer",
+        "AI-Cybersecurity-Engineer",
+        "AI-Security-Engineer",
+        "Freelance-AI-Security-Consultant",
+        "AI-Application-Security-Engineer",
+        "Security-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/marcopolo-learning/jobs/qa-automation-engineer-ai-first",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "MarcoPolo Learning",
+      "title": "QA Automation Engineer (AI-First)",
+      "url": "https://himalayas.app/companies/marcopolo-learning/jobs/qa-automation-engineer-ai-first?utm_source=api",
+      "posted": "2026-11-08T01:44:20.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Automation-Engineer",
+        "Automation-Testing",
+        "Quality-Assurance-Engineer",
+        "SDET"
+      ],
+      "matched": {
+        "strong": [
+          "playwright"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: playwright",
+        "story fit: Hireflow/klimb.io AI metering (playwright)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/super-speciosa/jobs/erpnext-frappe-developer-ai-assisted-development",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Super Speciosa",
+      "title": "ERPNext / Frappe Developer - AI-Assisted Development",
+      "url": "https://himalayas.app/companies/super-speciosa/jobs/erpnext-frappe-developer-ai-assisted-development?utm_source=api",
+      "posted": "2026-11-08T05:25:59.000Z",
+      "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, India, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "ERP-Developer",
+        "Full-Stack-Developer",
+        "Python-Developer",
+        "Frappe-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "linux",
+          "ci/cd",
+          "full-stack",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/member-of-technical-staff-cortex-lab-applied-ai-research",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Member of Technical Staff, Cortex Lab (applied AI research)",
+      "url": "https://himalayas.app/companies/micro1/jobs/member-of-technical-staff-cortex-lab-applied-ai-research?utm_source=api",
+      "posted": "2026-11-07T23:20:28.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Staff-Applied-AI-Engineer",
+        "Applied-AI-Research-Scientist",
+        "Staff-AI-Engineer",
+        "Staff-Machine-Learning-Scientist",
+        "AI-Researcher",
+        "AI-Research-Scientist",
+        "Staff-AI-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "pipeline",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/codeninja/jobs/senior-sqa-automation-engineer",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "CodeNinja",
+      "title": "Senior SQA Automation Engineer",
+      "url": "https://himalayas.app/companies/codeninja/jobs/senior-sqa-automation-engineer?utm_source=api",
+      "posted": "2026-11-07T19:09:00.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Automation-Engineer",
+        "Automation-Testing",
+        "Software-Quality-Assurance-Engineer",
+        "SDET"
+      ],
+      "matched": {
+        "strong": [
+          "playwright"
+        ],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: playwright",
+        "story fit: Hireflow/klimb.io AI metering (playwright)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/telus-digital/jobs/full-stack-ai-logic-expert-ai-community-5029362594",
+      "grade": "D",
+      "score": 35,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "TELUS Digital",
+      "title": "Full-Stack AI Logic Expert (AI Community)",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/full-stack-ai-logic-expert-ai-community-5029362594?utm_source=api",
+      "posted": "2026-11-08T04:04:33.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-AI-Developer",
+        "AI-Full-Stack-Developer",
+        "Full-Stack-AI-Engineer",
+        "AI-Full-Stack-Engineer",
+        "Full-Stack-AI-Development",
+        "AI-Native-Fullstack-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "python",
+          "javascript",
+          "c++",
+          "full-stack"
+        ]
+      },
+      "why": [
+        "stack (weak): react, python, javascript",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/member-of-technical-staff-research-engineering-6590392342",
+      "grade": "D",
+      "score": 35,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Member of Technical Staff, Research Engineering",
+      "url": "https://himalayas.app/companies/micro1/jobs/member-of-technical-staff-research-engineering-6590392342?utm_source=api",
+      "posted": "2026-11-07T23:20:25.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Research-Engineer",
+        "Senior-Research-Engineer",
+        "Member-Of-Technical-Staff",
+        "Research-And-Development-Engineer",
+        "R&D"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, pipeline",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/akamai-technologies/jobs/senior-ii-site-reliability-engineer-lead-689849447",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Akamai Technologies",
+      "title": "Senior II Site Reliability Engineer Lead",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-ii-site-reliability-engineer-lead-689849447?utm_source=api",
+      "posted": "2026-11-07T23:38:47.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Site-Reliability-Engineer",
+        "Site-Reliability-Engineering-Lead",
+        "DevOps-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "redis",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "nginx",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: redis, docker, kubernetes",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/member-of-technical-staff-robotics-embodied-ai-research",
+      "grade": "F",
+      "score": 20,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Member of Technical Staff, Robotics & Embodied AI Research",
+      "url": "https://himalayas.app/companies/micro1/jobs/member-of-technical-staff-robotics-embodied-ai-research?utm_source=api",
+      "posted": "2026-11-07T23:20:27.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Robotics-Research-Scientist",
+        "Robotics-Research-Engineer",
+        "Applied-AI-Research-Scientist",
+        "Staff-Applied-AI-Engineer",
+        "Senior-Robotics-Engineer",
+        "Robotics-AI-Engineer",
+        "R&D"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, platform, remote",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/smart-working/jobs/senior-react-native-engineer-remote-full-time-hr222",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Smart Working",
+      "title": "Senior React Native Engineer (Remote, Full-Time) [HR222]",
+      "url": "https://himalayas.app/companies/smart-working/jobs/senior-react-native-engineer-remote-full-time-hr222?utm_source=api",
+      "posted": "2026-11-08T04:54:46.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Mobile-Engineer",
+        "Mobile-Software-Engineer",
+        "React-Native-Developer",
+        "Mobile-Application-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "javascript",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/rackspace-us-inc/jobs/java-fullstack-engineer-iv-mumbai",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Rackspace US, Inc.",
+      "title": "Java fullstack Engineer - IV (Mumbai)",
+      "url": "https://himalayas.app/companies/rackspace-us-inc/jobs/java-fullstack-engineer-iv-mumbai?utm_source=api",
+      "posted": "2026-11-08T00:17:13.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Java-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "python",
+          "full-stack",
+          "platform",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): react, python, full-stack",
+        "8+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/healthhue/jobs/senior-ai-automation-platform-architect",
+      "grade": "F",
+      "score": -10,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Health Hue Digital",
+      "title": "Senior AI Automation & Platform Architect",
+      "url": "https://himalayas.app/companies/healthhue/jobs/senior-ai-automation-platform-architect?utm_source=api",
+      "posted": "2026-11-08T04:22:09.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Senior-AI-Architect",
+        "Senior-AI-Platform-Engineer",
+        "AI-Automation-Architect",
+        "AI-Platform-Architect",
+        "Lead-AI-Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, pipeline",
+        "Architect-level title",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
       ]
     }
   ]

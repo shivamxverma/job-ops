@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-08",
-  "scanned": 360,
-  "survived": 203,
+  "scanned": 712,
+  "survived": 401,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/hyre/jobs/full-stack-developer-agentic-ai-automation",
@@ -572,6 +572,53 @@
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137701",
+      "grade": "B",
+      "score": 78,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Salvo Software",
+      "title": "AI Developer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+      "posted": "2026-11-07T00:00:02+00:00",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "tags": [
+        "dev",
+        "grafana",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "customer support",
+        "devops"
+      ],
+      "matched": {
+        "strong": [
+          "kafka",
+          "docker",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "ci/cd",
+          "backend",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: kafka, docker, llm, rag",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "reachable: India-based",
+        "posted 1d ago"
       ]
     }
   ]

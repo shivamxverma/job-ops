@@ -1,0 +1,87 @@
+{
+  "pulled": "2026-11-08",
+  "scanned": 797,
+  "survived": 7,
+  "hits": [
+    {
+      "id": 121124,
+      "grade": "B",
+      "score": 78,
+      "company": "e2e",
+      "batch": "P26",
+      "title": "Founding Engineer",
+      "location": "San Francisco, CA, US / Warsaw, Masovian Voivodeship, PL / Remote",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "3+ years",
+      "salaryRange": "$80K - $150K",
+      "equityRange": "0.50% - 1.50%",
+      "skills": [
+        "Android",
+        "iOS",
+        "Node.js",
+        "TypeScript",
+        "LLMs"
+      ],
+      "oneLiner": "the software verification layer for the agentic coding era",
+      "createdAt": "about 16 hours",
+      "lastActive": null,
+      "teamSize": 8,
+      "stage": "Early",
+      "tags": [],
+      "website": "https://e2e.com",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/e2e/jobs/E1pts33-founding-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/e2e",
+      "why": [
+        "stack: node.js, typescript, llm, founding engineer",
+        "8-person team",
+        "founding-eng seat",
+        "story fit (AI vocab only): agentic, llm",
+        "remote",
+        "3+ years stated (stretch)",
+        "posted about 16 hours ago"
+      ],
+      "source": "yc-grid"
+    },
+    {
+      "id": 121125,
+      "grade": "B",
+      "score": 68,
+      "company": "e2e",
+      "batch": "P26",
+      "title": "Infrastructure Engineer",
+      "location": "San Francisco, CA, US / Warsaw, Masovian Voivodeship, PL / Remote",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "3+ years",
+      "salaryRange": "$80K - $150K",
+      "equityRange": "0.50% - 1.50%",
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "Google Cloud",
+        "Kubernetes",
+        "Linux",
+        "Distributed Systems",
+        "Docker"
+      ],
+      "oneLiner": "the software verification layer for the agentic coding era",
+      "createdAt": "about 16 hours",
+      "lastActive": null,
+      "teamSize": 8,
+      "stage": "Early",
+      "tags": [],
+      "website": "https://e2e.com",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/e2e/jobs/pF3cGO3-infrastructure-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/e2e",
+      "why": [
+        "stack: infrastructure engineer, distributed systems, docker, kubernetes",
+        "8-person team",
+        "story fit (AI vocab only): agentic",
+        "remote",
+        "3+ years stated (stretch)",
+        "posted about 16 hours ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

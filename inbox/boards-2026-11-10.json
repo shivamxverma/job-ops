@@ -1,0 +1,327 @@
+{
+  "pulled": "2026-11-10",
+  "scanned": 352,
+  "survived": 200,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/volga-partners/jobs/ai-ml-engineer-production-ai-llm-systems-india",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Volga Partners",
+      "title": "AI/ML Engineer - Production AI & LLM Systems (India)",
+      "url": "https://himalayas.app/companies/volga-partners/jobs/ai-ml-engineer-production-ai-llm-systems-india?utm_source=api",
+      "posted": "2026-11-09T07:06:00.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-ML-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "NLP-Engineer",
+        "MLOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend developer",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "backend",
+          "automation",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend developer, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Huzzle",
+      "title": "Quality Assurance Engineer",
+      "url": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer?utm_source=api",
+      "posted": "2026-11-09T15:48:19.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Quality-Assurance-Engineering",
+        "QA-Engineering",
+        "Software-Testing",
+        "Automation-Testing",
+        "Quality-Assurance"
+      ],
+      "matched": {
+        "strong": [
+          "playwright"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: playwright",
+        "story fit: Hireflow/klimb.io AI metering (playwright)",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/description-ciklum/jobs/senior-artificial-intelligence-machine-learning-engineer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Description Ciklum",
+      "title": "Senior Artificial Intelligence/Machine Learning Engineer",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-artificial-intelligence-machine-learning-engineer?utm_source=api",
+      "posted": "2026-11-09T07:20:59.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Artificial-Intelligence-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "LLM-Engineer",
+        "Generative-AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/mindrift/jobs/cfd-engineer-ai-trainer-8923450035",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Mindrift",
+      "title": "CFD Engineer - AI Trainer",
+      "url": "https://himalayas.app/companies/mindrift/jobs/cfd-engineer-ai-trainer-8923450035?utm_source=api",
+      "posted": "2026-11-09T09:51:49.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Computational-Fluid-Dynamics-Engineer",
+        "AI-Trainer",
+        "Mechanical-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, platform, ai agent",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+      "grade": "D",
+      "score": 39,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Alloy",
+      "title": "Founding Forward Deployed Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+      "posted": "Sun, 18 Oct 2026 07:31:05 +0000",
+      "location": "<p> <strong>Headquarters:</strong> New York City, Remote </p> <h2>Alloy is where you belong!</h2> <p>Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth.<br><br>Through our values: Be Bold, Go Fast, Collaborate, and Celebrate Our Differences, we are creating a workplace where you can grow, thrive, and belong. See how we’ve been continuously recognized and named one of <a href=\"https://www.inc.com/profile/alloy_ny\">Inc. Magazine’s Best Workplaces</a>, <a href=\"https://www.forbes.com/companies/alloy/?list=americas-best-startup-employers&amp;sh=55c076453c61\">Forbes America’s Best Startup Employers</a>, <a href=\"https://www.americanbanker.com/list/best-places-to-work-in-fintech-2022\">Best Fintech to Work for by American Banker</a>, year after year.<br><br>Check out our investors and read more about us <a href=\"https://www.alloy.com/about\">here</a>.</p> <h2>About the team</h2> <p>We're standing up a new function at Alloy: Forward Deployed Engineering. Our largest enterprise customers need a trusted technical partner with a strong point of view on how Alloy fits into their tech stack and fraud strategy. As a Forward Deployed Engineer, you'll be that partner - embedded with our most strategic accounts and owning the technical outcome end-to-end, with each deployment becoming the foundation for the next.</p> <p>You'll be one of the first two engineers on this founding team. This is a software engineering role through and through - based within our Engineering org, with a scope that spans software, product, and solutions engineering. You won't just join this function - you'll define how it works.</p> <p>Alloy operates in a hybrid-work environment. We look to foster collaboration and community by having our local employees onsite three days a week.</p> <h2><strong>What you'll be doing</strong></h2> <ul> <li>Architect and tune customer and channel-partner deployments end-to-end — API integrations, third-party data integrations, SDKs, and latency constraints.</li> <li>Write production code across our stack: TypeScript, JavaScript (ES6/React), Python (Django), Node.js, PostgreSQL, OpenSearch, and AWS.</li> <li>Serve as Alloy's credible technical voice with customer engineering leadership, making architectural calls in real time.</li> <li>Own the engineering track of QBRs for your accounts and serve in their on-call escalation path.</li> <li>Turn your work into reusable platform primitives and docs, so each deployment makes the next one faster.</li> </ul> <h2><strong>Who we’re looking for</strong></h2> <ul> <li>5+ years of hands-on experience developing production-ready software, with a proven track record of delivering robust, scalable solutions.</li> <li>Experience in a customer-facing technical role, Forward Deployed Engineering, solutions engineering with deep technical ownership, or similar - where you were accountable to an external stakeholder, not just an internal roadmap.</li> <li>Strong backend and API fluency, with the ability to read and write production code across services you don't own.</li> <li>Sound architectural judgment under ambiguity: you can make and defend technical decisions in the room, with a customer watching.</li> <li>A genuine pull toward customer-facing work - you find energy in solving a real customer's real problem, alongside their engineers.</li> <li>A clear technical communicator who can explain a complex integration tradeoff to a bank's VP of Engineering and to an Alloy PM in the same afternoon.</li> <li>Ability to travel on occasion to our NYC office, as well as client offices in the US.</li> </ul> <p><strong>Nice to have:</strong></p> <ul> <li>Experience at a company with a strong Forward Deployed Engineering culture (Palantir, Scale AI, Ramp, Plaid, Stripe, etc.).</li> <li>Familiarity with identity, fraud, KYC/KYB, or financial services infrastructure.</li> <li>Experience with SDK development or embedded front-end integrations.</li> </ul> <p>We're a lean team, so your impact will be felt immediately, and opportunities will grow as the company scales up. If this all sounds like a good fit for you, why not join us?</p> <p>Alloy is committed to fair and equitable compensation practices. Below is the anticipated starting base compensation range for this role; however, pay may vary depending on job-related knowledge, in-demand skills, relevant experience, and/or geography. In addition to a competitive base salary, this position is also eligible for equity awards in the form of stock options (ISOs) as well as a competitive total benefits package. Your recruiter will be happy to walk you through the details and what compensation could look like for you specifically!</p> <p><em>This position has a salary range of $141,000 to $250,000.&nbsp;</em></p> <h2>Benefits and Perks&nbsp;</h2> <ul> <li>Unlimited PTO and flexible work policy</li> <li>Employee stock options</li> <li>Medical, dental, vision plans with HSA (monthly employer contribution) and FSA options</li> <li>401k with 100% match up to 4% of annual employee compensation&nbsp;</li> <li>Eligible new parents receive 16 weeks of paid parental leave&nbsp;</li> <li>Home office stipend for new employees</li> <li>Annual Learning &amp; Development annual stipend</li> <li>Well-being benefits include access to ClassPass, OneMedical, UrbanSitter, and Spring Health&nbsp;</li> </ul> <h2>How to apply</h2> <p>Apply right here! You've found the application!</p> <p>Alloy is proud to be an equal-opportunity workplace and employer. We’re committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or veteran status. We are committed to an inclusive interview experience and provide reasonable accommodations to applicants with visible and invisible disabilities. We encourage applicants to share needed accommodations with their recruiter.</p> <p>All Alloy jobs are listed on our careers page. Any communication during the recruitment process, including interview requests or job offers, will come directly from a recruiting team member with an <a href=\"http://alloy.com/\">alloy.com</a> email address. We do not use outside applications or automated text messaging in our recruiting process. We will not ask for any sensitive financial or identification information during the recruiting process. If you’re ever unsure, please contact us directly via our website before sharing personal information.</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer\">https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "aws",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgresql",
+        "founding-eng seat",
+        "5+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/miratech/jobs/amazon-connect-developer-8553461251",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Miratech",
+      "title": "Amazon Connect Developer",
+      "url": "https://himalayas.app/companies/miratech/jobs/amazon-connect-developer-8553461251?utm_source=api",
+      "posted": "2026-11-09T20:48:28.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Amazon-Connect-Engineer",
+        "Contact-Center-Engineer",
+        "Cloud-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "aws",
+          "s3",
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cad-simulation-engineer-ai-trainer-2634956615",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Mindrift",
+      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
+      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cad-simulation-engineer-ai-trainer-2634956615?utm_source=api",
+      "posted": "2026-11-09T10:14:17.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Mechanical-CAD-Designer",
+        "Simulation-Engineer",
+        "Cad-Engineer",
+        "Freelance-Engineer",
+        "AI-Training-Data-Specialist"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, platform, ai agent",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/object-edge/jobs/senior-engineer-data-engineering-databricks-india",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Object Edge",
+      "title": "Senior Engineer – Data Engineering (Databricks) - India",
+      "url": "https://himalayas.app/companies/object-edge/jobs/senior-engineer-data-engineering-databricks-india?utm_source=api",
+      "posted": "2026-11-09T16:30:07.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Databricks-Engineer",
+        "Big-Data-Engineer",
+        "Cloud-Data-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, pipeline",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "thread": "Ask HN: Who is hiring? (November 2026)",
+  "threadId": "50338728",
+  "pulled": "2026-11-10",
+  "hits": [
+    {
+      "id": "50430411",
+      "author": "shubhankarLord",
+      "created": "2026-11-09T19:24:45Z",
+      "url": "https://news.ycombinator.com/item?id=50430411",
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql",
+          "redis",
+          "bullmq",
+          "docker",
+          "websocket",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "mongodb",
+          "aws",
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "firstLine": "Location: Bangalore, India (IST / UTC+5:30) Remote: Yes (Worldwide) Willing to relocate: Yes (Worldwide, visa sponsorship required) Technologies: TypeScript, No",
+      "text": "Location: Bangalore, India (IST / UTC+5:30) Remote: Yes (Worldwide) Willing to relocate: Yes (Worldwide, visa sponsorship required) Technologies: TypeScript, Node.js, Go, Python, React, PostgreSQL, MongoDB, Redis, RabbitMQ, BullMQ, AWS, Docker, WebSockets, WebRTC, GraphQL, OpenAI, RAG, Vector DBs, ONNX Runtime, Grafana/Loki Résumé/CV: https://drive.google.com/file/d/1kHPNmquEQniZlqC8bJYhCKPTztC... Email: shubhankars361@gmail.com Senior Software Engineer (~5 YoE) building real-time AI systems, event-driven backends, and distributed infrastructure in Node.js/TypeScript, Python, and Go. Available immediately. Experience: - Playhouse Media (Senior SDE): Re-architected real-time voice AI for sub-300ms latency (streaming LLMs, STT/TTS), Redis/BullMQ queues, Stripe billing, and Grafana/Loki observability (-80% MTTR) powering https://secretdesires.ai - Troopr Labs (SDE): Built enterprise AI Agent Assist & RAG pipelines (Jira/Salesforce), vector search, and WebSockets; optimized Node.js concurrency to boost AI throughput by 40%. - Zeeve (Software Engineer): Built distributed notification and async event infrastructure using RabbitMQ, Node.js, TypeScript, and PostgreSQL. Shipped & Open Source: - ServerPulse ( https://serverpulse.strangr.space ): VPS monitoring platform with a lightweight Go telemetry agent and React dashboard. - EmbedServe-ORT ( https://github.com/shubhankar-mern/EmbedServe-ORT ): CPU-optimized ONNX embeddings server with an OpenAI-compatible REST API. - redis-lua-rate-limiter ( https://www.npmjs.com/package/redis-lua-rate-limiter ): Atomic Redis Lua token-bucket rate limiter for Node.js. Portfolio: https://shubhankar-devv-portfolio.pages.dev GitHub: https://github.com/shubhankar-mern LinkedIn: https://www.linkedin.com/in/shubhankar27"
+    },
+    {
+      "id": "50428062",
+      "author": "dejayy",
+      "created": "2026-11-09T16:46:20Z",
+      "url": "https://news.ycombinator.com/item?id=50428062",
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgres",
+          "postgresql",
+          "first engineer"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "full-stack",
+          "backend",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I&#x27;m looking to hire our first engin",
+      "text": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I&#x27;m looking to hire our first engineer to own architecture and build product first version. Stack: TypeScript, React/Next.js, Node.js and PostgreSQL. The core challenges: tenant isolation on a shared Postgres schema with row level security, multiple authentication flows, subdomain-based client portals and large video uploads. You should have personally shipped and maintained a production multi-tenant SaaS product, have strong PostgreSQL and data-modelling experience, and be able to explain your architectural decisions and trade-offs. Terms: a paid 4–5-month contract, 20-30+ hours/week, at $3,000–4,000/month, paid against agreed milestones. At least three hours of daily overlaps. For the right person, there’s potential to continue in a founding role with equity Process: a short application, a live walkthrough of something you&#x27;ve built, then a paid 2-3hr tenant-isolation exercise and a 30-minute discussion. Apply here: https://forms.gle/yJAabKvLKtJmfz21A Public source code isn&#x27;t required. Please don&#x27;t share confidential employer or client material."
+    },
+    {
+      "id": "50427828",
+      "author": "codafe",
+      "created": "2026-11-09T16:30:32Z",
+      "url": "https://news.ycombinator.com/item?id=50427828",
+      "matched": {
+        "strong": [],
+        "weak": [
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "firstLine": "Tecla IO | Digital Sales Specialist | REMOTE (Worldwide) | Paid, $10 -$13 per hour We are searching for a high-energy communicator to join our team as a Digital",
+      "text": "Tecla IO | Digital Sales Specialist | REMOTE (Worldwide) | Paid, $10 -$13 per hour We are searching for a high-energy communicator to join our team as a Digital Sales & Communications Specialist. If you love building rapport, solving problems, and turning casual chats into meaningful business wins, this opportunity is built for you. Key Responsibilities & Focus Direct Outreach: Initiate contact with prospective clients using phone lines, digital messaging, and email networks. Advisory & Solutions: Listen closely to customer inquiries and present our offerings clearly and effectively. Record Management: Log notes, track lead stages, and update pipeline info cleanly using our CRM. Team Innovation: Share feedback and brainstorm strategies during our regular team meetings. Compensation & Rewards Hourly Pay Rate: $10.35 – $13.95 / hour To apply: lily.stewart.recruiting@outlook.com Subject: Digital Sales & Communications Specialist"
+    }
+  ]
+}

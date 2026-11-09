@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-09",
-  "scanned": 357,
-  "survived": 196,
+  "scanned": 708,
+  "survived": 394,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/description-ciklum/jobs/senior-full-stack-qa-engineer",
@@ -320,6 +320,415 @@
         "senior-titled",
         "8+ years stated",
         "reachable: remote worldwide"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/description-ciklum/jobs/senior-full-stack-engineer-4080049077",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Description Ciklum",
+      "title": "Senior Full Stack Engineer",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-full-stack-engineer-4080049077?utm_source=api",
+      "posted": "2026-11-09T06:26:13.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "react",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "pipeline",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/description-ciklum/jobs/senior-automation-qa-javascript-engineer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Description Ciklum",
+      "title": "Senior Automation QA (JavaScript) Engineer",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-automation-qa-javascript-engineer?utm_source=api",
+      "posted": "2026-11-08T14:33:37.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Automation-QA-Engineer",
+        "QA-Automation-Engineer",
+        "Quality-Engineer",
+        "Automation-Testing",
+        "Software-QA-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "sandbox"
+        ],
+        "weak": [
+          "javascript",
+          "backend",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, sandbox",
+        "story fit: CodeSM/Yuvro/Storix (sandbox)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/clanx/jobs/microsoft-azure-developer-remote",
+      "grade": "C",
+      "score": 47,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "ClanX",
+      "title": "Microsoft Azure Developer - Remote",
+      "url": "https://himalayas.app/companies/clanx/jobs/microsoft-azure-developer-remote?utm_source=api",
+      "posted": "2026-11-09T02:04:11.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Microsoft-Azure-Developer",
+        "Microsoft-365-Integration-Consultant",
+        "Backend-Engineer",
+        "Cloud-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, platform, remote",
+        "0-1 years ok",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cfd-engineer-ai-trainer-6781146966",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Mindrift",
+      "title": "Freelance Mechanical CFD Engineer - AI Trainer",
+      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cfd-engineer-ai-trainer-6781146966?utm_source=api",
+      "posted": "2026-11-09T02:19:56.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Computational-Fluid-Dynamics-Engineer",
+        "AI-Trainer",
+        "Simulation-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, platform, ai agent",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/weverve-systems/jobs/php-developer-laravel",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "WeVerve Systems",
+      "title": "PHP Developer (Laravel)",
+      "url": "https://himalayas.app/companies/weverve-systems/jobs/php-developer-laravel?utm_source=api",
+      "posted": "2026-11-09T02:03:32.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "PHP-Developer",
+        "Laravel-Developer",
+        "Software-Developer",
+        "Web-Developer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, remote",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tydy/jobs/senior-software-engineer",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tydy",
+      "title": "Senior Software Engineer",
+      "url": "https://himalayas.app/companies/tydy/jobs/senior-software-engineer?utm_source=api",
+      "posted": "2026-11-09T03:57:46.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "nodejs",
+          "postgresql",
+          "redis",
+          "kafka"
+        ],
+        "weak": [
+          "javascript",
+          "mongodb",
+          "aws",
+          "s3",
+          "linux",
+          "full-stack",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: nodejs, postgresql, redis, kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/mindrift/jobs/cad-engineer-ai-trainer-8585865388",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Mindrift",
+      "title": "CAD Engineer - AI Trainer",
+      "url": "https://himalayas.app/companies/mindrift/jobs/cad-engineer-ai-trainer-8585865388?utm_source=api",
+      "posted": "2026-11-08T22:08:45.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cad-Engineer",
+        "Mechanical-Engineer",
+        "CAD-Designer",
+        "Simulation-Engineer",
+        "AI-Trainer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, platform, ai agent",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/zoom-communications-inc/jobs/principal-security-engineer",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Zoom Communications, Inc.",
+      "title": "Principal Security Engineer",
+      "url": "https://himalayas.app/companies/zoom-communications-inc/jobs/principal-security-engineer?utm_source=api",
+      "posted": "2026-11-08T17:24:25.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Principal-Security-Engineer",
+        "Security-Engineer",
+        "Cybersecurity-Engineer",
+        "AI-Security-Engineer",
+        "Security-Architect"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "Principal-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/r3/jobs/senior-engineer-solana",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "R3",
+      "title": "Senior Engineer, Solana",
+      "url": "https://himalayas.app/companies/r3/jobs/senior-engineer-solana?utm_source=api",
+      "posted": "2026-11-09T01:44:14.000Z",
+      "location": "India, United Kingdom",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Blockchain-Engineer",
+        "Smart-Contract-Engineer",
+        "DeFi-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "full-stack",
+          "full stack",
+          "infra",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/description-ciklum/jobs/senior-dynamics-engineer",
+      "grade": "F",
+      "score": -7,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Description Ciklum",
+      "title": "Senior Dynamics Engineer",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-dynamics-engineer?utm_source=api",
+      "posted": "2026-11-08T13:40:50.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Dynamics-Engineer",
+        "ERP-Developer",
+        "Business-Central-Developer",
+        "Software-Developer",
+        "Integration-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "javascript",
+          "ci/cd",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: docker",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
       ]
     }
   ]

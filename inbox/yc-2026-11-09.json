@@ -1,0 +1,46 @@
+{
+  "pulled": "2026-11-09",
+  "scanned": 786,
+  "survived": 8,
+  "hits": [
+    {
+      "id": 86084,
+      "grade": "A",
+      "score": 95,
+      "company": "TraceRoot.AI",
+      "batch": "S25",
+      "title": "Software Engineering Intern",
+      "location": "San Francisco, CA, US / Remote",
+      "visa": "Will sponsor",
+      "minExperience": null,
+      "salaryRange": "$4K - $8K / monthly",
+      "equityRange": "",
+      "skills": [
+        "TypeScript"
+      ],
+      "oneLiner": "The open-source platform that continuously improves your ai agents",
+      "createdAt": "12 months",
+      "lastActive": "about 2 hours",
+      "teamSize": 4,
+      "stage": "Early",
+      "tags": [
+        "Developer Tools",
+        "Open Source",
+        "Infrastructure",
+        "AI"
+      ],
+      "website": "https://traceroot.ai",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/traceroot-ai/jobs/RCbNRRq-software-engineering-intern",
+      "companyUrl": "https://www.ycombinator.com/companies/traceroot-ai",
+      "why": [
+        "stack: typescript, developer tools",
+        "4-person team",
+        "story fit: developer tools, ai, ai agent",
+        "remote",
+        "will sponsor"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Froncort.AI** — B | Tue, 10 Nov 2026 | Inc42: https://inc42.com/buzz/froncort-ai-raises-2-3-mn-from-google-org-to-expand-ai-based-disease-surveillance/ | why: sector: ai; funding: raises
+- [ ] **With Jensen Huang under fire, Nvidia looks at sucession plans** — C | Tue, 10 Nov 2026 | YourStory: https://yourstory.com/2026/11/nvidia-stares-succession-planning-jensen-huang-under-spotlight | why: funding: raised
+
 - [ ] **InMobi** — C | Tue, 10 Nov 2026 | Inc42: https://inc42.com/buzz/inmobi-secures-naming-rights-for-bengalurus-ibbaluru-metro-station-for-%e2%82%b965-cr/ | why: stage: late-stage; funding: secures; 📍 bengaluru
 - [ ] **Arka Fincap** — C | Tue, 10 Nov 2026 | YourStory: https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg | why: funding: raises
 

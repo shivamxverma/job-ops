@@ -1,0 +1,84 @@
+{
+  "pulled": "2026-11-11",
+  "scanned": 349,
+  "survived": 197,
+  "hits": [
+    {
+      "id": "rok:1137710",
+      "grade": "C",
+      "score": 55,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "GT",
+      "title": "Senior Agentic AI Engineer NDA",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+      "posted": "2026-11-09T16:00:13+00:00",
+      "location": "Warsaw",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "design",
+        "react",
+        "sys admin",
+        "infosec",
+        "python",
+        "consulting",
+        "docker",
+        "technical"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "platform",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: docker, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
+      "grade": "F",
+      "score": 7,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Lithic",
+      "title": "Senior Software Engineer, Product Platform",
+      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
+      "posted": "Sun, 18 Oct 2026 07:31:05 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote </p> <div class=\"content-intro\"><p>Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments.</p> <p>Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and digital banking to platforms transforming disbursements and spend management. Companies like Mercury, Flex, and Novo rely on Lithic's developer-friendly APIs, direct network connections, and flawless reconciliation to launch and scale card programs in weeks, not years.</p> <p>We're building a future where access to better financial products materially improves people's lives, free from the constraints of 30-year-old mainframes and legacy processors. We're proud to be backed by world-class investors who share that vision, including Bessemer Venture Partners, Index Ventures, Spark Capital, Stripes, and Mastercard, along with many others.&nbsp;</p> <p>We're a team of 170+ across 26 states and 7 countries, headquartered in New York City.&nbsp;</p></div><p>We are hiring a <strong>Senior Software Engineer</strong> for the Product Platform team, which owns the foundational layer of our API that all other Lithic products build on top. The team’s mission is to make Lithic's API the best in fintech — reliable, consistent, and a joy to integrate with. This includes API Gateway, Events Platform, API key management and authorization, audit logging, or API norms and versioning strategy.</p> <h3><strong>What you'll do:</strong></h3> <ul> <li>Write reliable, secure, and scalable code for Lithic's product platform with minimal tech debt</li> <li>Improve the reliability of systems in team’s scope and participate in the team on-call rotation</li> <li>Own projects from planning to launch, spanning areas like API key management, reliability, audit logging, or search, keeping stakeholders informed and aligned along the way</li> <li>Lead efforts to improve systems and processes within the team</li> </ul> <h3><strong>What you'll bring:</strong></h3> <ul> <li>4+ years building production backend systems, ideally including public-facing APIs at scale</li> <li>Experience in or desire to learn Rust; ability to understand Lithic’s system written in other programming languages (Python, Java)</li> <li>Interest and experience in leveraging AI tools to enhance productivity</li> <li>Ability to navigate ambiguity, align diverse perspectives, and drive toward practical solutions</li> <li>Experience with API design fundamentals and product thinking: versioning, backward compatibility, schema-driven development, and weighing tradeoffs from the customer's perspective</li> <li>Comfort with designing systems from scratch and owning the product development process end-to-end</li> <li>Strong written communication skills and experience working in a remote, async-first team that’s spread across time zones</li> </ul> <p>The annual US salary range for this role is $160,000 to $200,000 plus equity. This salary range may be inclusive of several career levels at Lithic and will be narrowed during the interview process based on the candidate’s experience and qualifications.&nbsp;</p> <p>This is a remote position. However, candidates must be located in the United States, Canada (Ontario or British Columbia), Netherlands, Poland, or Czech Republic. We do not offer visa sponsorship or assistance.</p> <p><strong>Crack the code</strong></p> <p>A hidden code is tucked into this application. Find it and enter it below to continue.</p> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJUaGUgYW5zd2VyIHRvIGxpZmUsIHRoZSB1bml2ZXJzZSwgYW5kIGV2ZXJ5dGhpbmcg4oCUIGVuY3J5cHRlZC4iIiIKCnBhc3N3b3JkID0gYiJceGVkXHhjMSIKX2tleSA9IGIiXHhkOVx4ZjNceGVkXHhmYlx4ODBceGM0flx4YTdcblx4YjhceGZiPFx4ZmJPXlx4ZmIiCgpkZWYgZGVjcnlwdF9wYXNzd29yZCgpIC0+IHN0cjoKICAgIHJldHVybiBieXRlcyhhIF4gYiBmb3IgYSwgYiBpbiB6aXAocGFzc3dvcmQsIF9rZXkpKS5kZWNvZGUoKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJlc3VsdCA9IGRlY3J5cHRfcGFzc3dvcmQoKQogICAgcHJpbnQoZiJEZWNyeXB0ZWQgcGFzc3dvcmQ6IHtyZXN1bHR9IikKICAgIGFzc2VydCByZXN1bHQgPT0gIjQyIiwgIkRvbid0IHBhbmljIOKAlCBidXQgZGVjcnlwdGlvbiBmYWlsZWQhIgo=</div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div><div class=\"content-conclusion\"><h3>Benefits for Full-Time US Employees:</h3> <ul> <li>Unlimited PTO</li> <li>12-weeks fully paid parental leave</li> <li>4-Week Fully Paid Sabbatical (earned at your 5-year anniversary)</li> <li>Work From Anywhere: work from anywhere in the world 4-weeks each year</li> <li>3% cashback on card purchases with your complimentary <a href=\"http://Privacy.com\">Privacy.com</a> employee account</li> <li>Health, vision, and dental insurance; HSA Contribution Match</li> <li>401(k) match</li> <li>Voluntary Life Insurance and STD/LTD</li> </ul> <p>NYC-based employees work from our SoHo office three days a week. Tuesdays and Thursdays are our core days, and you'll choose a third day that works for your schedule and team needs.</p> <p>In-office employees receive:&nbsp;</p> <ul> <li>Commuter benefit</li> <li>Catered lunch every Tuesday and Thursday</li> </ul></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform\">https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform</a></p>",
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, backend, platform",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: remote worldwide"
+      ]
+    }
+  ]
+}

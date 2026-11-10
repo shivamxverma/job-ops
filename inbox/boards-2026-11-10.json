@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-10",
-  "scanned": 352,
-  "survived": 200,
+  "scanned": 701,
+  "survived": 397,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/volga-partners/jobs/ai-ml-engineer-production-ai-llm-systems-india",
@@ -318,6 +318,184 @@
         "stack (weak): platform, pipeline",
         "senior-titled",
         "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/deepreel/jobs/software-engineer",
+      "grade": "A",
+      "score": 82,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "DeepReel",
+      "title": "Software Engineer",
+      "url": "https://himalayas.app/companies/deepreel/jobs/software-engineer?utm_source=api",
+      "posted": "2026-11-10T02:53:28.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Full-Stack-Engineer",
+        "Python-Developer",
+        "Artificial-Intelligence-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgres",
+          "postgresql",
+          "redis",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "python",
+          "aws",
+          "s3",
+          "full-stack",
+          "backend",
+          "platform",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: postgres, postgresql, redis, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "0-1 years ok",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/accenture/jobs/agbg-google-data-ai-engineer-specialist-lead",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Accenture",
+      "title": "AGBG Google Data & AI Engineer - Specialist (Lead)",
+      "url": "https://himalayas.app/companies/accenture/jobs/agbg-google-data-ai-engineer-specialist-lead?utm_source=api",
+      "posted": "2026-11-10T03:15:23.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Data-And-AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Cloud-Data-Engineer",
+        "Analytics-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "platform",
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/broadcom/jobs/kubernetes-platform-architect-india-bangalore-remote",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Broadcom",
+      "title": "Kubernetes Platform Architect (India, Bangalore, Remote))",
+      "url": "https://himalayas.app/companies/broadcom/jobs/kubernetes-platform-architect-india-bangalore-remote?utm_source=api",
+      "posted": "2026-11-10T03:56:49.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Kubernetes-Platform-Architect",
+        "Platform-Architect",
+        "Cloud-Solutions-Architect",
+        "Kubernetes-Engineer",
+        "Application-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "Architect-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tilt-com/jobs/staff-backend-engineer-nira",
+      "grade": "F",
+      "score": 3,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tilt",
+      "title": "Staff Backend Engineer - NIRA",
+      "url": "https://himalayas.app/companies/tilt-com/jobs/staff-backend-engineer-nira?utm_source=api",
+      "posted": "2026-11-10T02:07:23.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Staff-Backend-Engineer",
+        "Staff-Backend-Software-Engineer",
+        "Staff-Software-Engineer-Backend",
+        "Staff-Backend-Engineering",
+        "Staff-Ruby-Backend-Engineer",
+        "Staff-Backend-Identity-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "9+ years stated",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

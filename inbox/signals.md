@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **InMobi** — C | Tue, 10 Nov 2026 | Inc42: https://inc42.com/buzz/inmobi-secures-naming-rights-for-bengalurus-ibbaluru-metro-station-for-%e2%82%b965-cr/ | why: stage: late-stage; funding: secures; 📍 bengaluru
+- [ ] **Arka Fincap** — C | Tue, 10 Nov 2026 | YourStory: https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg | why: funding: raises
+
 - [ ] **From GIVA To EloElo Group — Indian Startups** — C | Sat, 07 Nov 2026 | Inc42: https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/ | why: funding: raised
 
 - [ ] **Venomics AI** — A | Thu, 05 Nov 2026 | Inc42: https://inc42.com/buzz/venomics-ai-raises-2-7-mn-to-turn-venom-into-medicine/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru

@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-11",
-  "scanned": 349,
-  "survived": 197,
+  "scanned": 698,
+  "survived": 394,
   "hits": [
     {
       "id": "rok:1137710",
@@ -78,6 +78,86 @@
         "senior-titled",
         "4+ years stated (stretch)",
         "reachable: remote worldwide"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/lifted-an-upwork-company/jobs/copy-of-software-developer-ai-coding-assistant-evaluation-7948211992",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Lifted (an Upwork Company)",
+      "title": "Copy of Software Developer – AI Coding Assistant Evaluation",
+      "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/copy-of-software-developer-ai-coding-assistant-evaluation-7948211992?utm_source=api",
+      "posted": "2026-11-10T07:51:31.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Developer",
+        "Software-Engineer",
+        "AI-Evaluation-Specialist"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "linux",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): linux, remote",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/genesys/jobs/staff-software-engineer",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Genesys",
+      "title": "Staff Software Engineer",
+      "url": "https://himalayas.app/companies/genesys/jobs/staff-software-engineer?utm_source=api",
+      "posted": "2026-11-10T22:41:19.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Distributed-Systems-Engineer",
+        "Voice-Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "rag"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "aws",
+          "linux",
+          "full-stack",
+          "backend",
+          "platform",
+          "real-time",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, rag",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
       ]
     }
   ]

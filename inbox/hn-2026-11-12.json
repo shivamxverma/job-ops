@@ -1,0 +1,68 @@
+{
+  "thread": "Ask HN: Who is hiring? (November 2026)",
+  "threadId": "50338728",
+  "pulled": "2026-11-12",
+  "hits": [
+    {
+      "id": "50454490",
+      "author": "simplyHemat",
+      "created": "2026-11-11T15:21:10Z",
+      "url": "https://news.ycombinator.com/item?id=50454490",
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems",
+          "fastapi",
+          "postgresql",
+          "redis",
+          "kafka",
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "mongodb",
+          "aws",
+          "nginx",
+          "c++",
+          "backend",
+          "platform",
+          "agentic",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "firstLine": "Hemant Singh | Software Engineer / Backend Engineer | India (REMOTE / ONSITE) I&#x27;m a software engineer focused on backend development, primarily working wit",
+      "text": "Hemant Singh | Software Engineer / Backend Engineer | India (REMOTE / ONSITE) I&#x27;m a software engineer focused on backend development, primarily working with Java, Spring Boot, and Python. I enjoy building backend systems, REST APIs, and distributed applications, with an interest in system design and Agentic AI. Technical Skills: - Languages: Java, Python, C++, JavaScript - Backend: Spring Boot, Spring MVC, Spring Data JPA, Hibernate, FastAPI, REST APIs - Databases & Caching: PostgreSQL, MySQL, MongoDB, Redis - Infrastructure: AWS, Docker, Nginx, Git, GitHub Actions - Other: Kafka, Spring Security, JWT, OAuth2, Microservices, LangChain, LangGraph Projects: - SimplyCinema: Movie ticket booking platform featuring JWT authentication, role-based access control, Redis-based seat locking, and booking workflows. Live: https://simply-cinema-frontend.vercel.app/ - Agentic AI Projects: Built AI-powered applications and workflows using Python, LangGraph, and LLM integrations. Links: - Portfolio: https://portfolio-two-murex-65.vercel.app/ - GitHub: https://github.com/simplyhemant - LinkedIn: https://www.linkedin.com/in/simplyhemant/ - Resume: https://drive.google.com/file/d/1qoAp89hm10bYnm6DLFJTBrXdHMV... I&#x27;m currently looking for Software Engineer, Backend Engineer, or Java Developer opportunities (0–2 years), preferably involving backend systems, APIs, distributed systems, or AI-powered applications. Open to remote opportunities worldwide where eligible, as well as onsite/hybrid roles in India. Feel free to reach out via LinkedIn or email (available on my resume)."
+    },
+    {
+      "id": "50451710",
+      "author": "ritaraidsai",
+      "created": "2026-11-11T10:17:04Z",
+      "url": "https://news.ycombinator.com/item?id=50451710",
+      "matched": {
+        "strong": [
+          "typescript",
+          "fastapi"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "full-stack",
+          "full stack",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "RAIDS AI | Senior Technical Project Manager (Full Stack) | REMOTE | Python, Django, FastAPI, React, TypeScript RAIDS AI is a Cyprus-based AI runtime monitoring ",
+      "text": "RAIDS AI | Senior Technical Project Manager (Full Stack) | REMOTE | Python, Django, FastAPI, React, TypeScript RAIDS AI is a Cyprus-based AI runtime monitoring and assurance company. We&#x27;re looking for a hands-on engineering leader to manage a small team of full-stack developers and AI researchers while actively contributing to software development. Requirements: 7+ years of full-stack development experience Proven engineering leadership and project management skills Hands-on coding, architecture, and code review experience Strong Python (Django/FastAPI), React, and TypeScript skills Excellent English communication skills This is a hands-on technical leadership role, not a project management-only position. Full job description: https://www.linkedin.com/jobs/view/4483409995/ To apply, email rita@raidsai.ai with your CV, a brief cover letter including an example of a team or project you&#x27;ve led, and GitHub links."
+    }
+  ]
+}

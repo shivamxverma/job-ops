@@ -1,0 +1,689 @@
+{
+  "pulled": "2026-11-12",
+  "scanned": 352,
+  "survived": 201,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract",
+      "grade": "B",
+      "score": 70,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Xperteez Technology",
+      "title": "🌎 AI Trainer (SWE), Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract?utm_source=api",
+      "posted": "2026-11-11T15:23:33.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "AI-Trainer",
+        "AI-Training-Specialist",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "docker",
+          "developer tools"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "linux",
+          "ci/cd",
+          "c++",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript, docker, developer tools",
+        "story fit: CodeSM/Yuvro/Storix (developer tools)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
+      "grade": "C",
+      "score": 49,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Proxify AB",
+      "title": "Senior Backend Developer (Node.js / Nest.js)",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
+      "posted": "Mon, 19 Oct 2026 09:17:52 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Sweden <br /><strong>URL:</strong> <a href=\"http://career.proxify.io\">http://career.proxify.io</a> </p> <h3><strong>The Role:</strong></h3> <p>&nbsp;</p> <p>We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences.</p> <p>This is a long-term, full-time remote role with opportunities to work on innovative projects that make a difference.</p> <p>&nbsp;</p> <h4><strong>What we’re looking for:</strong></h4> <ul> <li>5+ years with Node.js and 3+ past years with Nest.js</li> <li>Strong expertise in Node.js and Nest.js frameworks.</li> <li>Proven experience building REST and/or GraphQL APIs.</li> <li>Strong knowledge of JavaScript (ES6+) and TypeScript.</li> <li>Solid experience with relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB).</li> <li>Familiarity with authentication/authorization mechanisms (JWT, OAuth2).</li> <li>Experience with unit/integration testing (e.g., Jest, Mocha).</li> <li>Proficiency with Git and version control workflows.</li> <li>Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones.</li> </ul> <p>&nbsp;</p> <h4><strong>Nice to Have:</strong></h4> <ul> <li>Experience with cloud platforms (AWS, Azure, GCP).</li> <li>Familiarity with CI/CD pipelines and DevOps practices.</li> <li>Understanding of event-driven architecture and message brokers (e.g., RabbitMQ, Kafka).</li> <li>Experience with Docker and containerized applications.</li> <li>Knowledge of microservices and serverless architectures.</li> </ul> <p>&nbsp;</p> <h4><strong>Responsibilities:</strong></h4> <ul> <li>Design and develop robust, scalable, and secure backend applications using Node.js and Nest.js.</li> <li>Implement RESTful APIs, GraphQL endpoints, and microservices architectures.</li> <li>Optimize application performance, scalability, and maintainability.</li> <li>Integrate with databases (SQL/NoSQL) and external services via APIs.</li> <li>Ensure code quality, security, and compliance with industry standards.</li> </ul> <p>&nbsp;</p> <h4><strong>What we offer:</strong></h4> <p><strong>Get paid, not played</strong></p> <p>No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.</p> <p><strong>Predictable project hours</strong></p> <p>Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.</p> <p><strong>Flex days, so you can recharge</strong></p> <p>Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.</p> <p><strong>Career-accelerating positions at cutting-edge companies</strong></p> <p>Discover exclusive long-term remote positions at the world's most exciting companies.</p> <p><strong>Hand-picked opportunities just for you</strong></p> <p>Skip the typical recruitment roadblocks and biases with personally matched positions.</p> <p><strong>One seamless process, multiple opportunities</strong></p> <p>A one-time contracting process for endless opportunities, with no extra assessments.</p> <p><strong>Compensation</strong></p> <p>Enjoy the same pay, every month with positions landed through Proxify.</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4\">https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "backend developer",
+          "node.js",
+          "typescript",
+          "postgresql",
+          "kafka",
+          "docker"
+        ],
+        "weak": [
+          "node",
+          "javascript",
+          "mongodb",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend developer, node.js, typescript, postgresql",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/chainguard/jobs/technical-support-engineer",
+      "grade": "F",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Chainguard",
+      "title": "Technical Support Engineer",
+      "url": "https://himalayas.app/companies/chainguard/jobs/technical-support-engineer?utm_source=api",
+      "posted": "2026-11-11T11:38:41.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Technical-Support-Engineer",
+        "Support-Engineer",
+        "Customer-Support-Engineer",
+        "DevOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "linux",
+          "ci/cd",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "non-eng title: Support Engineer",
+        "non-engineering seat",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/software-engineer-backend-5809282305",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Software Engineer - Backend",
+      "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-backend-5809282305?utm_source=api",
+      "posted": "2026-11-11T13:46:26.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Backend-Software-Engineering",
+        "Backend-Engineering",
+        "Software-Engineer",
+        "Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "c++",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/software-engineer-open-source-contributions-6337154371",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Software Engineer -  Open Source Contributions",
+      "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-open-source-contributions-6337154371?utm_source=api",
+      "posted": "2026-11-11T15:32:37.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Open-Source-Software-Engineer",
+        "Open-Source-Contributor",
+        "Open-Source-Engineer",
+        "Open-Source-Software-Developer",
+        "Open-Source-Developer",
+        "Software-Engineer",
+        "Software-Engineer-Developer",
+        "Software-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "c++",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/midnight-foundation/jobs/devops-engineer-blockchain-infrastructure",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Midnight Foundation",
+      "title": "DevOps Engineer- Blockchain Infrastructure",
+      "url": "https://himalayas.app/companies/midnight-foundation/jobs/devops-engineer-blockchain-infrastructure?utm_source=api",
+      "posted": "2026-11-11T18:27:36.000Z",
+      "location": "Afghanistan, Albania, Andorra, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Bermuda, Bhutan, Bolivia, Bonaire, Sint Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Cambodia, Cayman Islands, Chile, China, Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Dominica, Dominican Republic, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, Georgia, Germany, Gibraltar, Greece, Grenada, Guatemala, Guernsey, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Jamaica, Japan, Jersey, Jordan, Kazakhstan, Kosovo, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Malta, Mexico, Moldova, Monaco, Mongolia, Montenegro, Montserrat, Myanmar, Nepal, Netherlands, Nicaragua, North Macedonia, Norway, Oman, Pakistan, Palestine, State of, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Puerto Rico, Qatar, Romania, Russian Federation, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Georgia and the South Sandwich Islands, South Korea, Spain, Sri Lanka, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Taiwan, Tajikistan, Thailand, Timor-Leste, Trinidad and Tobago, Turkey, Turkmenistan, Turks and Caicos Islands, Ukraine, United Arab Emirates, United Kingdom, Uruguay, Uzbekistan, Venezuela, Vietnam, Virgin Islands, British, Virgin Islands, U.S., Yemen, Åland Islands",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Infrastructure-Engineer",
+        "Cloud-Engineer",
+        "Blockchain-Infrastructure-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "node",
+          "ci/cd",
+          "platform",
+          "etl",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): node, ci/cd, platform",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/asg-company/jobs/full-stack-developer-intern",
+      "grade": "D",
+      "score": 39,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "ASG Company",
+      "title": "Full Stack Developer Intern",
+      "url": "https://himalayas.app/companies/asg-company/jobs/full-stack-developer-intern?utm_source=api",
+      "posted": "2026-11-11T19:30:11.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Web-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "javascript",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, javascript, full-stack",
+        "0-1 years ok",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/aqilea/jobs/aws-rust-developer-p0",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Aqilea",
+      "title": "AWS RUST Developer (P0)",
+      "url": "https://himalayas.app/companies/aqilea/jobs/aws-rust-developer-p0?utm_source=api",
+      "posted": "2026-11-11T10:17:49.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Rust-Developer",
+        "Rust-Developer",
+        "Backend-Engineer",
+        "AWS-Developer",
+        "Cloud-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "docker",
+          "kubernetes",
+          "message queue"
+        ],
+        "weak": [
+          "aws",
+          "s3",
+          "linux",
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, docker, kubernetes, message queue",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, message queue)",
+        "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nasuni/jobs/senior-forward-deployed-engineer",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Nasuni",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://himalayas.app/companies/nasuni/jobs/senior-forward-deployed-engineer?utm_source=api",
+      "posted": "2026-11-11T18:33:49.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Forward-Deployed-Engineer",
+        "Solutions-Engineer",
+        "Software-Engineer",
+        "Technical-Consultant"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes",
+          "k8s"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: kubernetes, k8s",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/ahead/jobs/engineer-salesforce",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "AHEAD",
+      "title": "Engineer - Salesforce",
+      "url": "https://himalayas.app/companies/ahead/jobs/engineer-salesforce?utm_source=api",
+      "posted": "2026-11-11T16:55:31.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Engineer",
+        "Salesforce-Developer",
+        "Salesforce-Platform-Engineer",
+        "Cloud-Software-Engineer",
+        "CPQ-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, ci/cd, platform",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-msc-or-phd-remote-contract-5769076085",
+      "grade": "F",
+      "score": 20,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Xperteez Technology",
+      "title": "🌎 ML Engineer (MSc. or PhD), Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-msc-or-phd-remote-contract-5769076085?utm_source=api",
+      "posted": "2026-11-11T18:50:45.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "AI-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, pipeline, remote",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/bitwarden/jobs/senior-software-engineer-rust-typescript",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Bitwarden",
+      "title": "Senior Software Engineer - Rust & Typescript",
+      "url": "https://himalayas.app/companies/bitwarden/jobs/senior-software-engineer-rust-typescript?utm_source=api",
+      "posted": "2026-11-11T15:21:46.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Desktop-Application-Developer",
+        "Rust-Developer",
+        "Typescript-Developer",
+        "Front-End-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "node",
+          "linux",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/neo4j/jobs/lead-technical-onboarding-engineer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Neo4j",
+      "title": "Lead Technical Onboarding Engineer",
+      "url": "https://himalayas.app/companies/neo4j/jobs/lead-technical-onboarding-engineer?utm_source=api",
+      "posted": "2026-11-11T16:26:30.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Onboarding-Engineer",
+        "Solutions-Architect",
+        "Platform-Engineer",
+        "Technical-Consultant",
+        "Cloud-Solutions-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, platform, automation",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
+      "grade": "F",
+      "score": 4,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Proxify AB",
+      "title": "Senior Backend Developer (Python)",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
+      "posted": "Mon, 19 Oct 2026 09:21:57 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Sweden <br /><strong>URL:</strong> <a href=\"http://career.proxify.io\">http://career.proxify.io</a> </p> <h3><strong>The Role:</strong></h3> <p>&nbsp;</p> <p>We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.</p> <p>&nbsp;</p> <h4><strong>What we are looking for:</strong></h4> <ul> <li> <p>5+ years of experience building products with Python and Django.</p> </li> <li> <p>High proficiency in SQL with experience using databases like PostgreSQL.</p> </li> <li> <p>Experience scaling cloud infrastructures with Docker or Kubernetes is a plus.</p> </li> <li> <p>Experience managing cloud infrastructures, specifically AWS or GCP.</p> </li> <li> <p>You follow the best practices and conventions.</p> </li> <li> <p>Relevant experience in CI/CD and related tools.</p> </li> <li> <p>Ability to work with minimal supervision.</p> </li> <li> <p>Intermediate-advanced English level.</p> </li> <li> <p>You can communicate well with both technical and non-technical clients.</p> </li> <li> <p>Time zone: CET (+/- 3 hours). We are unable to consider applications from candidates in other time zones.</p> </li> </ul> <p>&nbsp;</p> <h4><strong>Responsibilities:</strong></h4> <ul> <li> <p>Ability to build libraries and frameworks of reusable efficient code.</p> </li> <li> <p>Competence in designing and implementing low-latency, stable and performing applications.</p> </li> <li> <p>Capacity to effectively collaborate with other team members and stakeholders remotely.</p> </li> <li> <p>Ability to implement data protection systems.</p> </li> <li> <p>Competence in data storage solutions.</p> </li> </ul> <div>&nbsp;</div> <div>&nbsp;</div> <h4><strong>What we offer:<br></strong></h4> <div>&nbsp;</div> <div><strong>Get paid, not played</strong></div> <div>No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.<br><br></div> <div><strong><br>Predictable project hours</strong></div> <div>Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.<br><br></div> <div><br><strong>Flex days, so you can recharge</strong></div> <div>Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.<br><br></div> <div><br><strong>Career-accelerating positions at cutting-edge companies</strong></div> <div>Discover exclusive long-term remote positions at the world's most exciting companies.<br><br></div> <div><br><strong>Hand-picked opportunities just for you</strong></div> <div>Skip the typical recruitment roadblocks and biases with personally matched positions.<br><br></div> <div><br><strong>One seamless process, multiple opportunities</strong></div> <div>A one-time contracting process for endless opportunities, with no extra assessments.<br><br></div> <div><br><strong>Compensation</strong></div> <div>Enjoy the same pay, every month with positions landed through Proxify.</div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11\">https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "backend developer",
+          "postgresql",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: backend developer, postgresql, docker, kubernetes",
+        "senior-titled",
+        "5+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/cfra/jobs/quality-assurance-engineer-desktop-solutions",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "CFRA",
+      "title": "Quality Assurance Engineer (Desktop Solutions)",
+      "url": "https://himalayas.app/companies/cfra/jobs/quality-assurance-engineer-desktop-solutions?utm_source=api",
+      "posted": "2026-11-11T12:49:00.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Quality-Assurance-Engineer",
+        "Software-Quality-Assurance-Engineer",
+        "Test-Engineer",
+        "API-Testing-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, automation",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/jumpcloud/jobs/staff-engineer-cloud-platform-india",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "JumpCloud",
+      "title": "Staff Engineer, Cloud Platform - India",
+      "url": "https://himalayas.app/companies/jumpcloud/jobs/staff-engineer-cloud-platform-india?utm_source=api",
+      "posted": "2026-11-11T15:43:44.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cloud-Platform-Engineer",
+        "Platform-Engineer",
+        "Site-Reliability-Engineer",
+        "DevOps-Engineer",
+        "FinOps-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "platform",
+          "automation",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, platform, automation",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
+      "grade": "F",
+      "score": -6,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Proxify AB",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
+      "posted": "Mon, 19 Oct 2026 09:29:00 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Sweden <br /><strong>URL:</strong> <a href=\"http://career.proxify.io\">http://career.proxify.io</a> </p> <h3><strong>The Role:</strong></h3> <p><strong>&nbsp;</strong></p> <p>We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.</p> <p><strong>&nbsp;</strong></p> <h3>What we are looking for:</h3> <p><strong>&nbsp;</strong></p> <ul> <li> <p>5+ years experience as a Fullstack Developer.</p> </li> <li> <p>Backend experience with:</p> </li> <ul> <li> <p>Node.js</p> </li> <li> <p>Microservices architecture</p> </li> </ul> <li> <p>Database experience with:</p> </li> <ul> <li> <p>SQL</p> </li> <li> <p>MongoDB</p> </li> </ul> <li> <p>Intermediate-advanced English</p> </li> </ul> <p><strong>&nbsp;</strong></p> <h4>Nice-to-have:&nbsp;</h4> <ul> <li> <p>Located in CET timezone (+/- 3 hours).</p> </li> <li> <p>Database Architecture knowledge.</p> </li> </ul> <p>&nbsp;</p> <h4>Responsibilities:</h4> <ul> <li> <p>Ability to build libraries and frameworks of reusable efficient code.</p> </li> <li> <p>Competence in designing and implementing low-latency, stable and performing applications.</p> </li> <li> <p>Capacity to effectively collaborate with other team members and stakeholders remotely.</p> </li> <li> <p>Ability to implement data protection systems.</p> </li> <li> <p>Competence in data storage solutions.</p> </li> </ul> <h4>&nbsp;</h4> <h4><strong>What we offer:<br></strong></h4> <div>&nbsp;</div> <div><strong>Get paid, not played</strong></div> <div>No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options.<br><br></div> <div><strong><br>Predictable project hours</strong></div> <div>Enjoy a harmonious work-life balance with consistent 8-hour working days with clients.<br><br></div> <div><br><strong>Flex days, so you can recharge</strong></div> <div>Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify.<br><br></div> <div><br><strong>Career-accelerating positions at cutting-edge companies</strong></div> <div>Discover exclusive long-term remote positions at the world's most exciting companies.<br><br></div> <div><br><strong>Hand-picked opportunities just for you</strong></div> <div>Skip the typical recruitment roadblocks and biases with personally matched positions.<br><br></div> <div><br><strong>One seamless process, multiple opportunities</strong></div> <div>A one-time contracting process for endless opportunities, with no extra assessments.<br><br></div> <div><br><strong>Compensation</strong></div> <div>Enjoy the same pay, every month with positions landed through Proxify.</div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5\">https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "node.js"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "mongodb",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js",
+        "senior-titled",
+        "5+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    }
+  ]
+}

@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **[Update] Greenjoules** — C | Wed, 11 Nov 2026 | Inc42: https://inc42.com/buzz/exclusive-greenjoules-raises-%e2%82%b962-cr-funding-from-amazon-singularity-to-scale-green-energy-operations/ | why: funding: series b
+
 - [ ] **Seed funding’s new reality check in the age of AI** — A | Wed, 11 Nov 2026 | YourStory: https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai | why: stage: early-stage; sector: ai; funding: seed funding
 - [ ] **[Update] Kissht** — C | Wed, 11 Nov 2026 | Inc42: https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/ | why: funding: raises
 

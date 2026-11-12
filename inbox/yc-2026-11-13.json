@@ -1,0 +1,44 @@
+{
+  "pulled": "2026-11-13",
+  "scanned": 822,
+  "survived": 9,
+  "hits": [
+    {
+      "id": 122345,
+      "grade": "A",
+      "score": 89,
+      "company": "Cekura",
+      "batch": "F24",
+      "title": "Member of Technical Staff, Cekura (Bangalore, In-Person)",
+      "location": "Bengaluru, KA, IN / Bengaluru, Karnataka, IN",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "1+ years",
+      "salaryRange": "₹4M - ₹7.5M INR",
+      "equityRange": "0.10% - 0.40%",
+      "skills": [],
+      "oneLiner": "Voice AI and Chat AI agents: Testing and Observability",
+      "createdAt": "about 9 hours",
+      "lastActive": null,
+      "teamSize": 15,
+      "stage": "Early",
+      "tags": [
+        "Developer Tools",
+        "SaaS",
+        "B2B"
+      ],
+      "website": "https://www.cekura.ai/",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/cekura-ai/jobs/4CYy8uB-member-of-technical-staff-cekura-bangalore-in-person",
+      "companyUrl": "https://www.ycombinator.com/companies/cekura-ai",
+      "why": [
+        "stack: developer tools",
+        "15-person team",
+        "story fit: developer tools, ai, ai agent",
+        "India-based",
+        "0-1 years ok",
+        "posted about 9 hours ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

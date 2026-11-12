@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-12",
-  "scanned": 352,
-  "survived": 201,
+  "scanned": 694,
+  "survived": 397,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract",
@@ -683,6 +683,921 @@
         "senior-titled",
         "5+ years stated",
         "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/forward-deployed-engineer-remote-worldwide",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Forward Deployed Engineer – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/forward-deployed-engineer-remote-worldwide?utm_source=api",
+      "posted": "2026-11-12T01:46:14.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Forward-Deployed-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Applied-AI-Engineer",
+        "Solutions-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "automation",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-new-grad-remote-worldwide",
+      "grade": "B",
+      "score": 71,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Software Engineer, New Grad – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-new-grad-remote-worldwide?utm_source=api",
+      "posted": "2026-11-11T23:40:29.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote",
+          "new grad",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgresql",
+        "junior/new-grad seat",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/backend-security-engineer-remote-worldwide",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Backend Security Engineer – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/backend-security-engineer-remote-worldwide?utm_source=api",
+      "posted": "2026-11-11T22:23:39.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Backend-Security-Engineer",
+        "Backend-Engineer",
+        "Security-Engineer",
+        "Software-Engineer",
+        "Application-Security-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "c++",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/springboard/jobs/product-engineer-full-stack-ic",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Springboard",
+      "title": "Product Engineer (Full Stack, IC)",
+      "url": "https://himalayas.app/companies/springboard/jobs/product-engineer-full-stack-ic?utm_source=api",
+      "posted": "2026-11-11T22:20:56.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Product-Engineer",
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "full-stack",
+          "full stack",
+          "backend",
+          "automation",
+          "pipeline",
+          "remote",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/aura-recruitment-solutions/jobs/senior-software-engineer-full-stack",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Aura Recruitment Solutions",
+      "title": "Senior Software Engineer – Full Stack",
+      "url": "https://himalayas.app/companies/aura-recruitment-solutions/jobs/senior-software-engineer-full-stack?utm_source=api",
+      "posted": "2026-11-12T03:38:33.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "node.js",
+          "postgresql",
+          "redis",
+          "kafka",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "mongodb",
+          "aws",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, node.js, postgresql, redis",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/sa-technologies/jobs/software-engineer-node-js-python",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "SA Technologies",
+      "title": "Software Engineer – Node.js / Python",
+      "url": "https://himalayas.app/companies/sa-technologies/jobs/software-engineer-node-js-python?utm_source=api",
+      "posted": "2026-11-12T01:04:03.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Full-Stack-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "docker"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "aws",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, docker",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-platform-engineering-remote-worldwide",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Software Engineer, Platform Engineering – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-platform-engineering-remote-worldwide?utm_source=api",
+      "posted": "2026-11-11T23:52:48.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Platform-Engineer",
+        "Full-Stack-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgresql",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/hire-hangar/jobs/senior-frontend-engineer-1233625173",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Hire Hangar",
+      "title": "Senior Frontend Engineer",
+      "url": "https://himalayas.app/companies/hire-hangar/jobs/senior-frontend-engineer-1233625173?utm_source=api",
+      "posted": "2026-11-12T02:54:08.000Z",
+      "location": "Argentina, Bolivia, Chile, Colombia, Dominican Republic, Ecuador, Egypt, Honduras, India, Jamaica, Mexico, Nicaragua, Paraguay, Peru, South Africa, Uruguay",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Frontend-Engineering",
+        "Front-End-Software-Engineer",
+        "Senior-Front-End-Developer",
+        "Senior-Frontend-Development",
+        "Senior-Frontend-Full-Stack-Engineer",
+        "Senior-Frontend-Architect",
+        "Senior-Frontend-Engineer-(Angular)",
+        "Senior-Frontend-React-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "postgresql",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "full-stack",
+          "platform",
+          "real-time",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript, postgresql, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/quilr-inc/jobs/it-systems-administrator-workplace-operations-engineer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Quilr Inc.",
+      "title": "IT Systems Administrator / Workplace Operations Engineer",
+      "url": "https://himalayas.app/companies/quilr-inc/jobs/it-systems-administrator-workplace-operations-engineer?utm_source=api",
+      "posted": "2026-11-11T23:59:53.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "IT-Systems-Administrator",
+        "Workplace-Operations-Engineer",
+        "Desktop-Engineer",
+        "IT-Support-Specialist",
+        "Systems-Administrator"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): agentic, remote",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tilda-research/jobs/ai-harness-engineer",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tilda Research",
+      "title": "AI Harness Engineer",
+      "url": "https://himalayas.app/companies/tilda-research/jobs/ai-harness-engineer?utm_source=api",
+      "posted": "2026-11-12T04:54:11.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Engineer",
+        "Backend-Engineer",
+        "AI-Platform-Engineer",
+        "Infrastructure-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "developer tools"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "backend",
+          "platform",
+          "real-time",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, developer tools",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, developer tools)",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/innowave/jobs/servicenow-developer-contract-role-6-months",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "InnoWave",
+      "title": "ServiceNow Developer - Contract Role (6 Months)",
+      "url": "https://himalayas.app/companies/innowave/jobs/servicenow-developer-contract-role-6-months?utm_source=api",
+      "posted": "2026-11-12T05:08:28.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "ServiceNow-Developer",
+        "ServiceNow-Engineer",
+        "ServiceNow-Consultant",
+        "Application-Developer",
+        "Integration-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/m365consult/jobs/senior-ai-full-stack-engineer-devops-technical-leadership-6819827884",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "M365Consult",
+      "title": "Senior AI & Full-Stack Engineer - DevOps & Technical Leadership",
+      "url": "https://himalayas.app/companies/m365consult/jobs/senior-ai-full-stack-engineer-devops-technical-leadership-6819827884?utm_source=api",
+      "posted": "2026-11-12T05:40:36.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-AI-Engineer",
+        "Full-Stack-Engineer",
+        "DevOps-Engineer",
+        "AI-Engineering-Manager"
+      ],
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "linux",
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "automation",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rmv:2091136",
+      "grade": "F",
+      "score": 18,
+      "source": "remotive.com",
+      "kind": "remote",
+      "company": "Lemon.io",
+      "title": "Senior React Full-stack Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "posted": "2026-11-10T14:25:05",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include APAC"
+      },
+      "tags": [
+        ".Net",
+        "android",
+        "AWS",
+        "azure",
+        "C",
+        "C#",
+        "C++",
+        "data science"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "aws",
+          "c++",
+          "full-stack",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include APAC",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tilda-research/jobs/sr-software-engineer-backend-focus",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tilda Research",
+      "title": "Sr.Software Engineer ( Backend Focus)",
+      "url": "https://himalayas.app/companies/tilda-research/jobs/sr-software-engineer-backend-focus?utm_source=api",
+      "posted": "2026-11-11T22:41:28.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "mongodb",
+          "ci/cd",
+          "backend",
+          "real-time",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/trb-executive-search-limited/jobs/senior-react-native-developer-remote-europe-or-apac-trading",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "TRB Executive Search Limited",
+      "title": "Senior React Native Developer - Remote - Europe or APAC - Trading",
+      "url": "https://himalayas.app/companies/trb-executive-search-limited/jobs/senior-react-native-developer-remote-europe-or-apac-trading?utm_source=api",
+      "posted": "2026-11-11T20:09:37.000Z",
+      "location": "Albania, American Samoa, Andorra, Australia, Austria, Bangladesh, Belarus, Belgium, Bhutan, Bosnia and Herzegovina, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Fiji, Finland, France, French Polynesia, Germany, Gibraltar, Greece, Guam, Guernsey, Holy See (Vatican City State), Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Isle of Man, Italy, Japan, Jersey, Kiribati, Kosovo, Lao People's Democratic Republic, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao, Malaysia, Maldives, Malta, Marshall Islands, Micronesia, Federated States of, Moldova, Monaco, Mongolia, Montenegro, Myanmar, Nauru, Nepal, Netherlands, New Caledonia, New Zealand, Niue, Norfolk Island, North Macedonia, Northern Mariana Islands, Norway, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Poland, Portugal, Romania, Russian Federation, Samoa, San Marino, Serbia, Singapore, Slovakia, Slovenia, Solomon Islands, South Korea, Spain, Sri Lanka, Svalbard and Jan Mayen, Sweden, Switzerland, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, Ukraine, United Kingdom, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna, Åland Islands",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include British Indian Ocean Territory/India"
+      },
+      "tags": [
+        "React-Native-Developer",
+        "Mobile-Software-Engineer",
+        "Mobile-Application-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "javascript",
+          "platform",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): react, javascript, platform",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include British Indian Ocean Territory/India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/description-ciklum/jobs/expert-devops-engineer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Description Ciklum",
+      "title": "Expert DevOps Engineer",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/expert-devops-engineer?utm_source=api",
+      "posted": "2026-11-12T05:59:01.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Cloud-Engineer",
+        "Infrastructure-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): python, ci/cd, platform",
+        "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/the-intect/jobs/devops-engineer-architect",
+      "grade": "F",
+      "score": -12,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "The Intect",
+      "title": "DevOps Engineer/ Architect",
+      "url": "https://himalayas.app/companies/the-intect/jobs/devops-engineer-architect?utm_source=api",
+      "posted": "2026-11-11T19:51:10.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "DevOps-Architect",
+        "Cloud-Engineer",
+        "Site-Reliability-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "Architect-level title",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/dealhub/jobs/senior-backend-software-engineer",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "DealHub",
+      "title": "Senior Backend Software Engineer",
+      "url": "https://himalayas.app/companies/dealhub/jobs/senior-backend-software-engineer?utm_source=api",
+      "posted": "2026-11-12T06:50:25.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Enterprise-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, full stack, backend",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/csg/jobs/software-development-engineer-senior-c-net-core",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "CSG",
+      "title": "Software Development Engineer Senior - C#, .Net Core",
+      "url": "https://himalayas.app/companies/csg/jobs/software-development-engineer-senior-c-net-core?utm_source=api",
+      "posted": "2026-11-12T03:09:30.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        ".NET-Developer",
+        "C++-Developer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "c++",
+          "backend",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, ci/cd, c++",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/ahead/jobs/senior-software-engineer-salesforce",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "AHEAD",
+      "title": "Senior Software Engineer - Salesforce",
+      "url": "https://himalayas.app/companies/ahead/jobs/senior-software-engineer-salesforce?utm_source=api",
+      "posted": "2026-11-11T21:06:57.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Engineer",
+        "Software-Engineer",
+        "Salesforce-Developer",
+        "Salesforce-Platform-Engineer",
+        "Integration-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, ci/cd, platform",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/eversana/jobs/sr-salesforce-developer-health-cloud-ai",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "EVERSANA",
+      "title": "Sr Salesforce Developer (Health Cloud & AI)",
+      "url": "https://himalayas.app/companies/eversana/jobs/sr-salesforce-developer-health-cloud-ai?utm_source=api",
+      "posted": "2026-11-11T22:36:15.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Developer",
+        "Salesforce-Engineer",
+        "Salesforce-Health-Cloud-Developer",
+        "Salesforce-Platform-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
       ]
     }
   ]

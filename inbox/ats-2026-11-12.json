@@ -1,74 +1,42 @@
 {
   "pulled": "2026-11-12",
-  "scanned": 883,
-  "survived": 75,
+  "scanned": 1750,
+  "survived": 151,
   "hits": [
     {
-      "id": "ashby:sarvam:98a3eeee-68b8-4555-bdc6-3dd683980343",
-      "grade": "C",
-      "score": 58,
-      "source": "ashby (seed list)",
-      "company": "Sarvam",
-      "domain": "sarvam.ai",
-      "title": "Senior Software Engineer - Data Infrastructure",
-      "url": "https://jobs.ashbyhq.com/sarvam/98a3eeee-68b8-4555-bdc6-3dd683980343",
-      "posted": "2026-11-11T11:31:01.580+00:00",
-      "location": "Bengaluru",
+      "id": "greenhouse:devrev:6166569004",
+      "grade": "F",
+      "score": 53,
+      "source": "greenhouse (seed list)",
+      "company": "Devrev",
+      "domain": "devrev.ai",
+      "title": "Solution Engineer : Bangalore",
+      "url": "https://job-boards.greenhouse.io/devrev/jobs/6166569004",
+      "posted": "2026-11-11T20:41:00-05:00",
+      "location": "Bangalore, India",
       "reachability": {
         "status": "open",
         "reason": "India-based"
       },
       "matched": {
         "strong": [
-          "kafka",
-          "kubernetes",
-          "llm"
+          "typescript"
         ],
         "weak": [
           "python",
+          "javascript",
           "aws",
           "platform",
-          "pipeline"
+          "real-time",
+          "agentic"
         ]
       },
       "why": [
-        "stack: kafka, kubernetes, llm",
-        "story fit: CodeSM/Yuvro/Storix (kafka)",
-        "senior-titled",
-        "2+ years stated",
+        "stack: typescript",
+        "non-eng title: Solution Engineer",
+        "non-engineering seat",
         "reachable: India-based",
         "posted 0d ago"
-      ]
-    },
-    {
-      "id": "lever:zeta:095cff54-0a10-40b2-baa7-199c5e03d092",
-      "grade": "F",
-      "score": 47,
-      "source": "lever (seed list)",
-      "company": "Zeta",
-      "domain": "zeta.tech",
-      "title": "Technical Support Engineer II",
-      "url": "https://jobs.lever.co/zeta/095cff54-0a10-40b2-baa7-199c5e03d092",
-      "posted": "2026-10-27T03:11:17.514Z",
-      "location": "Bangalore - DD",
-      "reachability": {
-        "status": "open",
-        "reason": "India-based"
-      },
-      "matched": {
-        "strong": [
-          "postgresql"
-        ],
-        "weak": [
-          "linux",
-          "platform"
-        ]
-      },
-      "why": [
-        "stack: postgresql",
-        "non-eng title: Support Engineer",
-        "non-engineering seat",
-        "reachable: India-based"
       ]
     }
   ]

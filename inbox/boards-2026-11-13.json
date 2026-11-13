@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-13",
-  "scanned": 335,
-  "survived": 195,
+  "scanned": 670,
+  "survived": 392,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/newfold-digital/jobs/ai-software-development-engineer-in-test-ai-sdet",
@@ -692,6 +692,167 @@
         "5+ years stated",
         "reachable: restrictions include India",
         "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Software Engineer – Backend – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide?utm_source=api",
+      "posted": "2026-11-12T15:48:40.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Software-Engineer",
+        "API-Engineer",
+        "Contract-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "c++",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/together-light-inc/jobs/tli-mobile-engineer-ai-first-react-native",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Together Light Inc",
+      "title": "TLI Mobile Engineer (AI-First / React Native)",
+      "url": "https://himalayas.app/companies/together-light-inc/jobs/tli-mobile-engineer-ai-first-react-native?utm_source=api",
+      "posted": "2026-11-12T21:06:03.000Z",
+      "location": "India, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Mobile-Application-Developer",
+        "Mobile-Engineer",
+        "React-Native-Developer",
+        "Front-End-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "javascript",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/health-catalyst/jobs/java-software-development-engineer",
+      "grade": "C",
+      "score": 47,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Health Catalyst",
+      "title": "Java Software Development Engineer",
+      "url": "https://himalayas.app/companies/health-catalyst/jobs/java-software-development-engineer?utm_source=api",
+      "posted": "2026-11-12T15:10:50.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Java-Developer",
+        "Java-Software-Engineer",
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "mongodb",
+          "aws",
+          "linux",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, mongodb, aws",
+        "0-1 years ok",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Junior Machine Learning Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer?utm_source=api",
+      "posted": "2026-11-12T20:20:32.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Junior-Machine-Learning-Engineer",
+        "Junior-ML-Engineer",
+        "Junior-AI-ML-Engineer",
+        "Junior-AI-ML-Engineer-Jobs",
+        "Entry-Level-Machine-Learning-Engineer",
+        "Machine-Learning-Engineer-Intern"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): python, pipeline, remote",
+        "junior/new-grad seat",
+        "location not stated (ask before investing)",
         "posted 0d ago"
       ]
     }

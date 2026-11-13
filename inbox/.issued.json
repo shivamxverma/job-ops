@@ -157,6 +157,8 @@
   "50447035": 306,
   "50451710": 309,
   "50454490": 308,
+  "50474550": 320,
+  "50479091": 319,
   "fu:Interview Resources:2026-10-13": 11,
   "fu:CyberAtlas:2026-10-13": 12,
   "fu:OpenAlex:2026-10-06": 13,
@@ -335,5 +337,6 @@
   "boards:him:https://himalayas.app/companies/newfold-digital/jobs/ai-software-development-engineer-in-test-ai-sdet": 315,
   "boards:him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-remote-worldwide": 316,
   "boards:him:https://himalayas.app/companies/tilda-research/jobs/automation-engineer-sdet": 317,
-  "yc:122345": 318
+  "yc:122345": 318,
+  "boards:him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide": 321
 }

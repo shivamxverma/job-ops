@@ -1,0 +1,62 @@
+{
+  "thread": "Ask HN: Who is hiring? (November 2026)",
+  "threadId": "50338728",
+  "pulled": "2026-11-13",
+  "hits": [
+    {
+      "id": "50479091",
+      "author": "ishanichugh",
+      "created": "2026-11-13T06:17:26Z",
+      "url": "https://news.ycombinator.com/item?id=50479091",
+      "matched": {
+        "strong": [
+          "typescript",
+          "fastapi",
+          "llm",
+          "first engineer"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "c++",
+          "full-stack",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "firstLine": "Location: India (currently travelling within India; IST, UTC+5:30) Remote: Yes – remote only. Happy to shift my hours for solid overlap with US or EU teams. Wil",
+      "text": "Location: India (currently travelling within India; IST, UTC+5:30) Remote: Yes – remote only. Happy to shift my hours for solid overlap with US or EU teams. Willing to relocate: No Technologies: React, TypeScript, Python, Kotlin/Spring Boot, GraphQL, FastAPI, Snowflake, C++; MCP servers and LLM agent tooling Résumé/CV: https://drive.google.com/file/d/1ax25mV1le38zq_dekyVHFl5wMAL... GitHub: https://github.com/ishanichugh Email: ishanichugh661 [at] gmail [dot] com Full-stack engineer, ~5 yrs. Most recently 4 years at Goldman Sachs Asset Management, where I was the first engineer on a new team and built its internal platform end to end: React/TS dashboards that became the source of truth for KPIs across 40+ private market funds, Kotlin + Python services behind GraphQL, and Snowflake pipelines. I also built MCP servers that let LLM agents query fund data. Side project: QuantBoard – a portfolio analytics platform (NAV, Sharpe, drawdown) with FastAPI + GraphQL, 30+ invariant-based tests in CI, and an MCP layer in progress: https://github.com/ishanichugh/quantboard Domain: working knowledge of private markets and fund metrics, plus basic credit/fixed income. I can talk to finance stakeholders without a translator. Looking for: full-stack or AI-product engineering roles at remote-first companies. Fintech is a bonus, not a requirement."
+    },
+    {
+      "id": "50474550",
+      "author": "filipegarcia199",
+      "created": "2026-11-12T21:28:47Z",
+      "url": "https://news.ycombinator.com/item?id=50474550",
+      "matched": {
+        "strong": [
+          "typescript",
+          "postgres",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "Alternative Payments | Senior Software Engineer, Alti (AI agents) | REMOTE (Brazil) | Full-time | $90k–105k + equity We’re building the financial operating syst",
+      "text": "Alternative Payments | Senior Software Engineer, Alti (AI agents) | REMOTE (Brazil) | Full-time | $90k–105k + equity We’re building the financial operating system for service-based SMBs (accounts receivable, payables, analytics). Alti, our AI agent product, launched in July and is growing fast. We’re looking for a product-minded engineer who has shipped LLM, agent or RAG features to real users in the past year, to help us scale it: more agents, automated routines, eval pipelines and AI observability. Small squad, high ownership. Stack: Go, TypeScript, Python, Postgres. Apply: https://jobs.ashbyhq.com/alternativepayments/76a7a829-d08d-4... Questions? feel free to reach out to me: https://www.linkedin.com/in/filipegarcias"
+    }
+  ]
+}

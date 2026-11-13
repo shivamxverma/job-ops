@@ -1,0 +1,181 @@
+{
+  "pulled": "2026-11-14",
+  "scanned": 339,
+  "survived": 197,
+  "hits": [
+    {
+      "id": "rok:1137792",
+      "grade": "D",
+      "score": 35,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Pragmatike",
+      "title": "Research Engineer Privacy and Anonymization",
+      "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
+      "posted": "2026-11-12T16:00:38+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "design",
+        "embedded",
+        "infosec",
+        "python",
+        "education",
+        "technical",
+        "finance",
+        "content writing"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, pipeline, remote",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "rmv:2091137",
+      "grade": "D",
+      "score": 33,
+      "source": "remotive.com",
+      "kind": "remote",
+      "company": "Lemon.io",
+      "title": "Senior Data Engineer",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+      "posted": "2026-11-11T18:39:59",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include APAC"
+      },
+      "tags": [
+        ".Net",
+        "android",
+        "apache",
+        "AWS",
+        "azure",
+        "C",
+        "C#",
+        "C++"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "aws",
+          "c++",
+          "full-stack",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include APAC",
+        "posted 2d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/foundever/jobs/conversational-ai-engineer-remote-any-location-in",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Foundever",
+      "title": "Conversational AI Engineer (Remote, Any Location, IN)",
+      "url": "https://himalayas.app/companies/foundever/jobs/conversational-ai-engineer-remote-any-location-in?utm_source=api",
+      "posted": "2026-11-13T17:30:01.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Conversational-AI-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Chatbot-Developer",
+        "Voice-AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nasuni/jobs/principal-forward-deployed-engineer",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Nasuni",
+      "title": "Principal Forward Deployed Engineer",
+      "url": "https://himalayas.app/companies/nasuni/jobs/principal-forward-deployed-engineer?utm_source=api",
+      "posted": "2026-11-13T11:37:39.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Forward-Deployed-Engineer",
+        "Software-Engineer",
+        "Solutions-Engineer",
+        "Customer-Engineer",
+        "Professional-Services-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "linux",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "Principal-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

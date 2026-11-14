@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-14",
-  "scanned": 668,
-  "survived": 390,
+  "scanned": 1000,
+  "survived": 589,
   "hits": [
     {
       "id": "rok:1137792",
@@ -831,6 +831,596 @@
         "stack (weak): full-stack, full stack, backend",
         "senior-titled",
         "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/ubq-group/jobs/python-finance-developer-100-remote-worldwide",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "UBQ Group",
+      "title": "Python Finance Developer (100% Remote Worldwide)",
+      "url": "https://himalayas.app/companies/ubq-group/jobs/python-finance-developer-100-remote-worldwide?utm_source=api",
+      "posted": "2026-11-14T14:10:54.000Z",
+      "location": "Argentina, Bangladesh, Belgium, Brazil, Bulgaria, Colombia, Costa Rica, Czechia, Estonia, Georgia, Hungary, India, Ireland, Italy, Netherlands, Pakistan, Panama, Paraguay, Poland, Portugal, Romania, Serbia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom, Uruguay",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Finance-Developer",
+        "Python-Developer",
+        "Backend-Engineer",
+        "Financial-Software-Developer",
+        "Full-Stack-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "fastapi",
+          "redis"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "full-stack",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript, fastapi, redis",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/heymarvin/jobs/senior-backend-engineer-2",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "HeyMarvin",
+      "title": "Senior Backend Engineer 2",
+      "url": "https://himalayas.app/companies/heymarvin/jobs/senior-backend-engineer-2?utm_source=api",
+      "posted": "2026-11-14T14:08:40.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Distributed-Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems",
+          "postgresql",
+          "redis",
+          "celery"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems, postgresql, redis",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, celery)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/centurylink/jobs/lead-ai-engineer-consultant-india-home-in-560094",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "CenturyLink",
+      "title": "LEAD AI ENGINEER CONSULTANT-INDIA (HOME, IN, 560094)",
+      "url": "https://himalayas.app/companies/centurylink/jobs/lead-ai-engineer-consultant-india-home-in-560094?utm_source=api",
+      "posted": "2026-11-14T06:33:21.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Lead-AI-Engineer",
+        "AI-Engineer",
+        "AI-Consultant",
+        "Machine-Learning-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "aws",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/convatec/jobs/forward-deployed-ai-engineer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Convatec",
+      "title": "Forward Deployed AI Engineer",
+      "url": "https://himalayas.app/companies/convatec/jobs/forward-deployed-ai-engineer?utm_source=api",
+      "posted": "2026-11-14T11:46:06.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Forward-Deployed-AI-Engineer",
+        "Applied-AI-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "MLOps-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, pipeline",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/autodesk/jobs/software-application-engineer",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Autodesk",
+      "title": "Software Application Engineer",
+      "url": "https://himalayas.app/companies/autodesk/jobs/software-application-engineer?utm_source=api",
+      "posted": "2026-11-14T15:51:46.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Collaboration-Services-Engineer",
+        "Systems-Engineer",
+        "Application-Engineer",
+        "IT-Automation-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, platform, automation",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tilda-research/jobs/ui-engineer-4504763310",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tilda Research",
+      "title": "UI Engineer",
+      "url": "https://himalayas.app/companies/tilda-research/jobs/ui-engineer-4504763310?utm_source=api",
+      "posted": "2026-11-14T15:35:20.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "UI-Engineer",
+        "Frontend-Engineer",
+        "Front-End-Developer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "backend",
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
+      "grade": "F",
+      "score": 29,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Vertex Marketing Group",
+      "title": "Distribution Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
+      "posted": "Tue, 20 Oct 2026 11:32:37 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6611/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> Bulgaria <br /><strong>URL:</strong> <a href=\"https://vertexmg.com\">https://vertexmg.com</a> </p> <p><strong>Scale our distribution by code: a fleet of real devices, iPhones first and Android too, plus platform APIs and AI agents, posting across many accounts and surfaces. You work directly with the founder.</strong></p> <p>&nbsp;</p> <p>Most content gets made and then dies at a few hundred views, because getting it out is still done by hand: a person, a phone, a few accounts. We want it engineered: iPhone and Android device automation at scale, platform APIs and agents posting across many accounts and surfaces, every link tracked. If you would rather build that fleet than tap through posts one at a time, read on.</p> <p>&nbsp;</p> <p>Vertex Marketing Group builds AI creators and makes the content for real ones. Your job is to get that content out at a volume no team could post by hand, and keep the machine running. You own the outcome.</p> <p>&nbsp;</p> <p><strong>What you'll do</strong></p> <p>• Build and run the device fleet that posts by code: iPhones first, Android too, real devices and cloud phones</p> <p>• Publish across Instagram, TikTok, X, Reddit and Threads through platform APIs plus device and browser automation, hundreds of posts a day</p> <p>• Automate account health and posting cadence: every account checked every morning by code, problems caught before they cost reach</p> <p>• Put agents to work on the pipeline: Claude Code and MCPs handling captions, scheduling, health checks and recovery</p> <p>• Track every link: which account, post and surface sent each click, and what it turned into</p> <p>&nbsp;</p> <p><strong>Requirements</strong></p> <p>• You have built and run posting automation across 100+ accounts, and you can show it running</p> <p>• You have automated iPhones or other iOS devices (and/or Android, cloud phones) that run unattended</p> <p>• You work with platform APIs plus browser and mobile automation, with queues and scheduling</p> <p>• You run pipelines with Claude Code, MCPs and agents</p> <p>• Clear written English at minimum, perfect is better. Based in Europe or Latin America</p> <p>&nbsp;</p> <p><strong>Big plus:</strong> a development, infrastructure or DevOps background, and growth analytics: you read the numbers and know what to post more of.</p> <p>&nbsp;</p> <p><strong>Compensation</strong></p> <p>$4,000 to $6,000 per month, full-time, remote. Where you land in the range depends on what you show us. Same rate from day one of the paid test. Reviewed after 6 months.</p> <p>&nbsp;</p> <p><strong>Why Vertex?</strong></p> <p>• You own the outcome: your fleet, your numbers, your call on what goes out where</p> <p>• You work directly with the founder, in a small team of sharp people who are fun to work with</p> <p>• Content to distribute every day, and the budget for the devices and the stack</p> <p>• The mission: become one of the best in the world at this, fast, then package what we build for other agencies</p> <p>• Fast decisions. You'll know within 48 hours at every stage</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer\">https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, pipeline",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/trellix-software-india-private-limited/jobs/vulnerability-management-engineer-ai-automation",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Trellix Software India Private Limited",
+      "title": "Vulnerability Management Engineer (AI Automation)",
+      "url": "https://himalayas.app/companies/trellix-software-india-private-limited/jobs/vulnerability-management-engineer-ai-automation?utm_source=api",
+      "posted": "2026-11-14T13:41:41.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Vulnerability-Management-Engineer",
+        "Security-Engineer",
+        "Cloud-Security-Engineer",
+        "Application-Security-Engineer",
+        "AI-Security-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "automation",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack (weak): automation, ai agent",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-8723846810",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Akamai Technologies",
+      "title": "Senior Software Engineer",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-8723846810?utm_source=api",
+      "posted": "2026-11-14T06:17:38.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Distributed-Systems-Engineer",
+        "Network-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "aws",
+          "linux",
+          "c++",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/danaher/jobs/lead-software-engineer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Danaher",
+      "title": "Lead Software Engineer",
+      "url": "https://himalayas.app/companies/danaher/jobs/lead-software-engineer?utm_source=api",
+      "posted": "2026-11-14T17:40:30.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Software-Architect",
+        ".NET-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, automation, remote",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/clanx/jobs/salesforce-developer-us-shift-remote",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "ClanX",
+      "title": "Salesforce Developer(US Shift)  - Remote",
+      "url": "https://himalayas.app/companies/clanx/jobs/salesforce-developer-us-shift-remote?utm_source=api",
+      "posted": "2026-11-14T17:23:21.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Developer",
+        "Salesforce-Engineer",
+        "CRM-Developer",
+        "Salesforce-Administrator",
+        "CRM-Manager"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, remote",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/genesys/jobs/senior-engineer-platform-engineering-genesys-cloud-ci-cd-python-or-node-js",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Genesys",
+      "title": "Senior Engineer, Platform Engineering ( Genesys Cloud, CI/CD, Python OR Node.js)",
+      "url": "https://himalayas.app/companies/genesys/jobs/senior-engineer-platform-engineering-genesys-cloud-ci-cd-python-or-node-js?utm_source=api",
+      "posted": "2026-11-14T13:28:39.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Platform-Engineer",
+        "Software-Engineer",
+        "DevOps-Engineer",
+        "Integration-Engineer",
+        "Automation-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: node.js",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/topdog-law-llc/jobs/senior-dataops-engineer-data-platform-india",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "TopDog Law LLC",
+      "title": "Senior DataOps Engineer, Data Platform (India)",
+      "url": "https://himalayas.app/companies/topdog-law-llc/jobs/senior-dataops-engineer-data-platform-india?utm_source=api",
+      "posted": "2026-11-14T10:44:55.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DataOps-Engineer",
+        "Data-Platform-Engineer",
+        "Data-Engineer",
+        "Cloud-Data-Engineer",
+        "DevOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgres"
+        ],
+        "weak": [
+          "aws",
+          "s3",
+          "ci/cd",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: postgres",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/eatfuku/jobs/full-stack-developer-team-lead-wfh-remote",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Fuku",
+      "title": "Full Stack Developer Team Lead-WFH/Remote",
+      "url": "https://himalayas.app/companies/eatfuku/jobs/full-stack-developer-team-lead-wfh-remote?utm_source=api",
+      "posted": "2026-11-14T13:01:50.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Full-Stack-Engineer",
+        "Web-Developer",
+        "Software-Engineer",
+        "Development-Team-Lead"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "full-stack",
+          "full stack",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, full-stack, full stack",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-power-apps-power-automate",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Nagarro",
+      "title": "Associate Staff Engineer (Power Apps/Power Automate)",
+      "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-power-apps-power-automate?utm_source=api",
+      "posted": "2026-11-14T07:49:59.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Associate-Staff-Engineer",
+        "Power-Platform-Developer",
+        "Software-Engineer",
+        "Business-Application-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, platform, automation",
+        "Staff-level title",
+        "4+ years stated (stretch)",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

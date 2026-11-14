@@ -41,6 +41,31 @@
       },
       "firstLine": "Bechtel | Penetration Tester | Remote or onsite (US + many countries) | Full-time <$145k | www.bechtel.com We&#x27;re refreshing our internal pentest team from ",
       "text": "Bechtel | Penetration Tester | Remote or onsite (US + many countries) | Full-time <$145k | www.bechtel.com We&#x27;re refreshing our internal pentest team from first principals for the \"agentic era\", and its going to require a good amount of building and breaking. (Mention HackerNews somewhere to help me find you after applying.) Bechtel is a privately owned global engineering, procurement, construction firm that serves Infrastructure, Nuclear, Security & Environmental, Energy, Mining/Metals, and the Manufacturing and Technology markets Apply: https://bechtel.jobs.hr.cloud.sap/job-invite/300797/"
+    },
+    {
+      "id": "50495944",
+      "author": "noordragon2004",
+      "created": "2026-11-14T10:50:31Z",
+      "url": "https://news.ycombinator.com/item?id=50495944",
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "next.js",
+          "node",
+          "full-stack",
+          "real-time",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote Senior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/Typ",
+      "text": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote Senior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces. Recent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities. Portfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordragon2004@gmail.com"
     }
   ]
 }

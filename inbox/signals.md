@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **From Greenjoules To mistEO — Indian Startups** — C | Sat, 14 Nov 2026 | Inc42: https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/ | why: funding: raised
+
 - [ ] **Kutlerri.ai** — B | Thu, 12 Nov 2026 | YourStory: https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents | why: sector: ai; funding: raises
 - [ ] **Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation** — C | Thu, 12 Nov 2026 | Inc42: https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/ | why: funding: funding round
 - [ ] **Canonicus Capital** — C | Thu, 12 Nov 2026 | YourStory: https://yourstory.com/2026/11/canonicus-capital-raises-rs-192-crore-first-close-of-special-situations-fund- | why: funding: raises

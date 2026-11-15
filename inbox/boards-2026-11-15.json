@@ -1,0 +1,76 @@
+{
+  "pulled": "2026-11-15",
+  "scanned": 335,
+  "survived": 199,
+  "hits": [
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
+      "grade": "F",
+      "score": 29,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Toptal",
+      "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
+      "posted": "Tue, 20 Oct 2026 17:54:13 +0000",
+      "location": "<p> <strong>Headquarters:</strong> </p> <p>Summary</p><p>We are seeking a Salesforce developer to support and manage an existing Salesforce org. The role focuses on developing and rolling out new features, maintaining the org’s architecture, and ensuring updates align with existing processes.</p><p>General information</p><p>This engagement centers on ongoing Salesforce development and org management. The developer will work closely with project managers and internal teams to understand business needs, assess how the current org is structured, and carry requested enhancements through to completion while preserving compatibility with existing workflows.</p><p>Tasks and Deliverables</p><p>Support and manage the existing Salesforce org.</p><p>Develop and roll out new Salesforce features.</p><p>Understand the current org structure and configuration.</p><p>Maintain the org’s architecture over time.</p><p>Ensure updates work with existing processes and workflows.</p><p>Collaborate with project managers and internal teams on requirements.</p><p>Carry Salesforce enhancements through to completion.</p><p>Required experience</p><p>Strong Salesforce development experience.</p><p>Solid understanding of the Salesforce platform.</p><p>Experience maintaining and evolving Salesforce org architecture.</p><p>Ability to support ongoing Salesforce development and maintenance.</p><p>Experience translating stakeholder needs into completed Salesforce solutions.</p><p>Strong collaboration skills with project managers and internal teams.</p><p>Engagement highlights</p><p>Full-time engagement with an estimated duration of 6-12 months.</p><p>Ownership of ongoing development and architectural maintenance within a live Salesforce org.</p><p>Direct collaboration with project managers and internal stakeholders on feature delivery.</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development\">https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, remote",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/rustlabs/jobs/senior-software-security-engineer-ai-training-remote-3-months",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RustLabs",
+      "title": "Senior Software Security Engineer, AI Training (Remote, 3 months)",
+      "url": "https://himalayas.app/companies/rustlabs/jobs/senior-software-security-engineer-ai-training-remote-3-months?utm_source=api",
+      "posted": "2026-11-15T01:19:01.000Z",
+      "location": "Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Indonesia, Kenya, Nigeria, Pakistan, Turkey, Vietnam",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Application-Security-Engineer",
+        "AI-Security-Engineer",
+        "Senior-Application-Security-Engineer",
+        "Security-Engineer",
+        "Secure-AI-Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "c++",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

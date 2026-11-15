@@ -1,0 +1,34 @@
+{
+  "thread": "Ask HN: Who is hiring? (November 2026)",
+  "threadId": "50338728",
+  "pulled": "2026-11-16",
+  "hits": [
+    {
+      "id": "50508598",
+      "author": "ross94957",
+      "created": "2026-11-15T17:11:47Z",
+      "url": "https://news.ycombinator.com/item?id=50508598",
+      "matched": {
+        "strong": [
+          "postgres"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "etl",
+          "pipeline"
+        ]
+      },
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "firstLine": "New Product | Full Stack Engineer (mostly backend + API) | Meet In The Bay Area / Work Remotely | Currently Employed But Wants To Moonlight, Be Overemployed, Ad",
+      "text": "New Product | Full Stack Engineer (mostly backend + API) | Meet In The Bay Area / Work Remotely | Currently Employed But Wants To Moonlight, Be Overemployed, Add Hourly Compensation | $XXX/hour Looking for a full-stack, senior or staff engineer (6+ years of experience) that is currently working for a company within the Bay Area and is looking to moonlight, be overemployed, or add hourly compensation. I’d be responsible for product, marketing, advertising and will provide the capital to test the product hypothesis. Preferred Technical Stack: - Raw CSS, Tailwind, or Bootstrap - Raw HTML or HTMX - Raw JS - Go and/or Python - Postgres - GraphQL - Supabase/GCP/Azure/AWS - Monolith/SPA/JWT Additional/Bonus: - Familiarity with quantitative finance and technical architecture powering market making platforms - eCommerce catalog/ETL pipeline ingestion - URL normalization and product schema entity matching - Shopify Applications webapp @ ross94957.com"
+    }
+  ]
+}

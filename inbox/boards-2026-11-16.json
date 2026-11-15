@@ -1,0 +1,351 @@
+{
+  "pulled": "2026-11-16",
+  "scanned": 335,
+  "survived": 203,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/ai-ml-engineer-internal-platforms-remote-worldwide",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "AI/ML Engineer, Internal Platforms – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/ai-ml-engineer-internal-platforms-remote-worldwide?utm_source=api",
+      "posted": "2026-11-15T18:27:31.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-ML-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "AI-Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "fastapi",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "backend",
+          "platform",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: fastapi, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817",
+      "grade": "B",
+      "score": 70,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Xperteez Technology",
+      "title": "AI Trainer (SWE) | Remote - Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
+      "posted": "2026-11-15T15:34:28.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "AI-Trainer",
+        "Software-Engineer",
+        "Systems-Trainer",
+        "Model-Evaluation-Specialist"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "docker",
+          "developer tools"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "linux",
+          "ci/cd",
+          "c++",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript, docker, developer tools",
+        "story fit: CodeSM/Yuvro/Storix (developer tools)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+      "grade": "C",
+      "score": 54,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Ritual",
+      "title": "Core Protocol Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+      "posted": "Wed, 21 Oct 2026 07:31:25 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote </p> <div class=\"content-intro\"><h3>About Ritual&nbsp;</h3> <p>Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.</p></div><h4>About the role</h4> <p>We're seeking a Core Protocol Engineer with deep expertise with Ethereum execution clients to help us extend the EVM for next-generation compute capabilities. You'll work on expanding the execution layer to support novel precompiles, implement parallel execution patterns, and design systems for heterogeneous compute orchestration.</p> <ul> <li>Design and implement extensions to EVM clients (Geth/Reth) for supporting stateful precompiles</li> <li>Implement novel mechanism design primitives, collaborating with our research team, into the execution layer</li> <li>Develop and optimize transaction processing pipelines for heterogeneous workloads</li> <li>Research and implement solutions for state access conflicts</li> <li>Contribute to core protocol development and EIP implementations</li> <li>Collaborate with the research team on protocol specifications and mechanism design improvements</li> <li>Design and implement robust testing frameworks for execution client modifications</li> </ul> <h4>About you</h4> <ul> <li>Deep understanding of EVM internals and Ethereum execution clients (Geth/Reth)</li> <li>Strong experience implementing and optimizing precompiles</li> <li>Expertise in Go and/or Rust for systems programming, and Solidity</li> <li>Thorough knowledge of Ethereum's roadmap and active participation in protocol discussions</li> <li>Experience with parallel execution patterns in blockchain systems</li> <li>Strong understanding of consensus mechanisms and blockchain architecture</li> <li>Ability to read, understand, and implement EIPs and protocol specifications</li> <li>Proven track record of shipping production-grade blockchain systems</li> <li>Ability to act quickly under high pressure scenarios and context switch at a high frequency</li> <li>A high level of end-to-end ownership and self-direction, with excellent communication skills</li> <li>Hungry, high-energy and ability to work within and meet deadlines in a fast-paced environment</li> </ul> <h4>Nice to have</h4> <ul> <li>Knowledge of mempool dynamics, transaction ordering and the mev-boost implementation</li> <li>Background in mechanism design or market systems</li> <li>Deep knowledge of proof systems and their trade-offs around prover time, verifier time, and proof size</li> <li>Experience optimizing proof generation and verification pipelines</li> <li>Experience with cross-chain bridges or interoperability protocols</li> <li>Contributions to Ethereum client codebases</li> <li>Background in distributed systems and concurrent programming</li> </ul> <h4>Why join us&nbsp;</h4> <ul> <li>Join a passionate group of engineers, researchers, and operators on a mission to build the next generation of AI infrastructure&nbsp;</li> <li>Highly competitive compensation package, including annual discretionary bonus &amp; optimized tax structure compared to the vast majority of web3 startups</li> <li>Top 1% of benefits across the web3 startup space</li> <li>100% of premiums covered on highest quality healthcare&nbsp;</li> <li>Aggressive company 401k match</li> <li>Fully remote and/or hybrid, up to you!</li> <li>Participate in virtual and in-person events</li> <li>Much much more!</li> </ul> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer\">https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+      "grade": "D",
+      "score": 44,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Lemon.io",
+      "title": "Senior Vue Developer",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+      "posted": "Wed, 21 Oct 2026 12:54:56 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6623/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> New York, NY <br /><strong>URL:</strong> <a href=\"https://lemon.io\">https://lemon.io</a> </p> <p><a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_vue_nuxt/node/php/net/python_oct_2026_job_ad\">Lemon.io</a> helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.</p> <p>New roles for Senior Angular Engineers come in all the time, and several are open right now.</p> <p><strong>Two ways to work with clients</strong></p> <ul> <li><strong>Contract:</strong> most roles are contract-based. You join the client’s team and work as part of it.</li> <li><strong>Direct hire:</strong> some clients hire engineers full-time, and we support you through the process.</li> </ul> <p>Because companies trust our vetting, applying through <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_vue_nuxt/node/php/net/python_oct_2026_job_ad\">Lemon.io</a> is often a shortcut. You get to the client faster than going through their full hiring process on your own.</p> <p><strong>What you get</strong></p> <ul> <li>Competitive rate, based on your seniority and skills</li> <li>We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.</li> <li>Flexible schedule. Work async or with a small overlap with the team’s hours.</li> <li>No micromanagement, no screen trackers</li> <li>Direct work with clients, most of them with technical backgrounds</li> <li>Ongoing support from your application through every project, plus a community of engineers from 75+ countries</li> </ul> <p><strong>Who we’re looking for</strong></p> <h3><strong>Requirements for Senior Vue.js &amp; Nuxt.js Developer:</strong></h3> <ul> <li>4+ years of software development experience</li> <li>4+ years of experience with Vue.js</li> <li>2+ years of experience with Nuxt.js &amp; JavaScript</li> <li>Experience with Typescript is a must</li> </ul> <h3><strong>Requirements for Senior Vue.js &amp; PHP Developer:</strong></h3> <ul> <li>4+ years of software development experience</li> <li>3+ years of experience with Vue.js &amp; 3+ years with PHP</li> <li>Experience with Laravel is a must</li> </ul> <h3><strong>Requirements for Senior Vue.js &amp; Node.js Developer:</strong></h3> <ul> <li>4+ years of software development experience</li> <li>3+ years of experience with Vue.js &amp; 3+ years with Node.js</li> <li>Experience with Nuxt.js is a must</li> </ul> <h3><strong>Requirements for Senior Vue.js &amp; .NET Developer:</strong></h3> <ul> <li>5+ years of software development experience</li> <li>3+ years of experience with Vue.js &amp; 5+ years with .NET<br>OR<br>5+ years of experience with Vue.js &amp; 3+ years with .NET</li> <li>Experience with Typescript is a must</li> </ul> <h3><strong>Requirements for Senior Vue.js &amp; Python Developer:</strong></h3> <ul> <li>4+ years of software development experience</li> <li>3+ years of experience with Vue.js 3+ years with Python</li> </ul> <p>&nbsp;</p> <ul> <li>You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production</li> <li>You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)</li> <li>Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls</li> <li>You work full-time remotely and deliver without supervision</li> <li>You onboard quickly and start shipping in your first weeks</li> </ul> <p><strong>How it works</strong></p> <ol> <li>Apply and complete your profile</li> <li>Verify your role</li> <li>Once approved, we match you with a project. Typical time to first project: 3 weeks</li> </ol> <p>Ready? Apply and join the <a href=\"https://lemon.io/for-developers/?utm_source=weworkremotely&amp;utm_medium=job_ad&amp;utm_campaign=supply_en_vue_nuxt/node/php/net/python_oct_2026_job_ad\">Lemon.io</a> community.</p> <p><strong>NOT YOUR TECH STACK?</strong></p> <p>We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React &amp; Python, React &amp; Golang, Golang, React &amp; Java, React &amp; Ruby, Ruby, PHP &amp; Vue, Vue &amp; Node.js, React &amp; .NET, Android &amp; iOS, iOS &amp; Swift, Flutter &amp; Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana),&nbsp;Vue &amp; .NET, Python &amp; Vue, DevOps, MLOps, Data Science,&nbsp;Symfony &amp; React, Symfony &amp; Vue, Symfony &amp; An gular, Python, Symfony &amp; JavaScript &amp; Next.js &amp; TypeScript, Data Analysis, React &amp; PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native &amp; Node, React Native &amp; React, React Native &amp; Ruby, React Native &amp; Python, WordPress, Android, Angular, Python &amp; Node, React &amp; Node.js, Node &amp; TypeScript, Java &amp; Spring, Svelte &amp; Python, Svelte &amp; Node.js, Svelte &amp; TypeScript, Rust, Shopify &amp; JavaScript, Vue &amp; Nuxt, PHP &amp; Laravel, UI/UX Design, Animation, Graphic Design, React &amp; Node &amp; React Native, .NET &amp; C#, Electron, Scala, C++, Unreal Engine &amp; C++, Python &amp; LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.</p> <p>We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.</p> <p>We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1\">https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "c++",
+          "platform",
+          "automation",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "2+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/binance/jobs/full-stack-engineer-recommendation-engine-apac-remote",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Binance",
+      "title": "Full Stack Engineer - Recommendation Engine (APAC Remote)",
+      "url": "https://himalayas.app/companies/binance/jobs/full-stack-engineer-recommendation-engine-apac-remote?utm_source=api",
+      "posted": "2026-11-15T16:31:44.000Z",
+      "location": "American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Russian Federation, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include British Indian Ocean Territory/India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer",
+        "Recommendation-Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "full-stack",
+          "full stack",
+          "backend",
+          "real-time",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): react, full-stack, full stack",
+        "reachable: restrictions include British Indian Ocean Territory/India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/neo4j/jobs/cloud-operations-engineer",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Neo4j",
+      "title": "Cloud Operations Engineer",
+      "url": "https://himalayas.app/companies/neo4j/jobs/cloud-operations-engineer?utm_source=api",
+      "posted": "2026-11-15T15:22:24.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cloud-Operations-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "DevOps-Engineer",
+        "Site-Reliability-Engineer",
+        "Infrastructure-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, platform",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
+      "grade": "F",
+      "score": 9,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Oportun",
+      "title": "Senior Data Engineer - Capital Markets (R13923)",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
+      "posted": "Wed, 21 Oct 2026 07:31:06 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote - MX </p> <div class=\"content-intro\"><h2><span>Who We Are</span></h2> <p><span>Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually.</span></p></div><h2><span>The Opportunity&nbsp;</span></h2> <div><span>As a Sr. Data Engineer at Oportun, you will be a key member of our team, responsible for designing, developing, and maintaining sophisticated software / data platforms in achieving the charter of the engineering group. Your mastery of a technical domain enables you to take up business problems and solve them with a technical solution. With your depth of expertise and leadership abilities, you will actively contribute to architectural decisions, mentor junior engineers, and collaborate closely with cross-functional teams to deliver high-quality, scalable software solutions that advance our impact in the market. This is a role where you will have the opportunity to take up responsibility in leading the technology effort – from technical requirements gathering to final successful delivery of the product - for large initiatives (cross-functional and multi-month-long projects).</span></div> <div>&nbsp;</div> <div><span><strong>At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in.</strong></span></div> <h2><span><span>What You'll Do</span></span></h2> <p><strong><span>Your day-to-day</span></strong></p> <ul> <li><span>You’ll design and implement scalable, efficient, and reliable data architectures that support business and analytical needs.</span></li> <li><span>You’ll build and maintain data pipelines, ETL processes, and integration solutions for large volumes of structured and unstructured data.</span></li> <li><span>You’ll optimize data pipelines, databases, data warehouses, and data lakes for performance, reliability, scalability, and security.</span></li> <li><span>You’ll partner with stakeholders to understand data requirements, develop domain expertise, and translate business needs into effective data models and solutions.</span></li> <li><span>You’ll establish and improve data quality standards, validation rules, documentation, and governance practices.</span></li> <li><span>You’ll implement monitoring and observability practices to identify bottlenecks, improve performance, and strengthen platform reliability.</span></li> <li><span>You’ll provide technical leadership on architecture, scalability, reliability, monitoring, integration, and extensibility.</span></li> <li><span>You’ll lead and contribute to code reviews, helping maintain high standards for code quality, performance, and maintainability.</span></li> <li><span>You’ll mentor junior engineers and support a culture of continuous learning and technical excellence.</span></li> <li><span>You’ll take ownership of production issues, including troubleshooting, root-cause analysis, escalation, and long-term resolution.</span></li> <li><span>You’ll independently lead multiple features and projects, coordinate work across engineers, and keep stakeholders informed of progress, risks, and dependencies.</span></li> <li><span>You’ll help evolve engineering tools, platforms, and practices and encourage adoption of better ways of working.</span></li> <li><span>You’ll look for practical ways to use AI tools to improve engineering productivity, analysis, documentation, and problem-solving.</span></li> </ul> <h2><span><span>Who You Are</span></span></h2> <p><strong><span>The right fit looks like this</span></strong></p> <p class=\"isSelectedEnd\"><span>You’re a hands-on data engineer who enjoys solving complex technical problems and building systems that others depend on. You combine strong technical depth with a practical understanding of business needs and know how to turn ambiguous requirements into scalable solutions.</span></p> <p><span>You take ownership, communicate clearly, and are comfortable leading technical work without relying on formal authority. You enjoy mentoring others and helping teams make stronger technical decisions.</span></p> <h2><span><span>What You Bring</span></span></h2> <p><strong><span>Skills &amp; experience</span></strong></p> <p class=\"isSelectedEnd\"><strong><span>Required</span></strong></p> <ul> <li><span>8+ years of experience in data engineering, with strong experience in data architecture, ETL, and database management.</span></li> <li><span>Strong programming skills in Python or PySpark, plus experience with Java or Scala.</span></li> <li><span>Experience building complex end-to-end data pipelines and data integration solutions.</span></li> <li><span>Strong knowledge of SQL and experience with relational and NoSQL database technologies.</span></li> <li><span>Experience with big data technologies such as Spark, Kafka, Hadoop, or similar platforms.</span></li> <li><span>Experience with orchestration and scheduling tools such as Airflow, Databricks, Jenkins, or similar technologies.</span></li> <li><span>Experience designing and operating scalable, reliable, and secure data systems.</span></li> <li><span>Familiarity with cloud platforms such as AWS, Azure, or GCP and associated data services.</span></li> <li><span>Experience working in Agile environments such as Scrum, Lean, or Kanban.</span></li> <li><span>Strong problem-solving and decision-making skills.</span></li> <li><span>Experience mentoring junior engineers and contributing to technical leadership within a team.</span></li> <li><span>Strong written and verbal communication skills with the ability to work effectively across technical and non-technical teams.</span></li> </ul> <h3><span><strong><span>Nice to Have</span></strong></span></h3> <ul> <li>Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field.</li> <li>Databricks experience or certification.</li> <li>Experience with AWS Redshift, S3, Azure SQL Data Warehouse, or comparable cloud data services.</li> <li>Experience implementing data governance, data quality, or observability frameworks.</li> <li>Experience leading cross-functional or multi-month engineering initiatives.</li> <li>Experience using AI-assisted engineering tools to improve development, troubleshooting, documentation, or productivity.</li> </ul> <h2><span>Our AI Mindset</span></h2> <h3><span>We build with AI. We lead with judgment.</span></h3> <p><span><strong>AI isn't a feature here. It's how we work.</strong></span></p> <p><span>We're excited about what AI makes possible, and we're looking for people who share that curiosity. You don't need to be an expert. You need to be <span><strong>open to experimenting</strong></span>, willing to learn, and able to apply new tools in ways that actually move the needle.</span></p> <p><span>In this role, you'll be encouraged to explore AI tools, find practical use cases for your function, and bring ideas for working smarter. We believe the best outcomes come when <span><strong>human judgment and AI capability work together.</strong></span></span></p> <h2><span><span>Why Oportun</span></span></h2> <p><span><strong><span><span class=\"TextRun SCXW50467585 BCX0\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW50467585 BCX0\">What's</span><span class=\"NormalTextRun SCXW50467585 BCX0\"> in it for you</span></span><span class=\"EOP Selected SCXW50467585 BCX0\">&nbsp;</span></span></strong></span></p> <p><span><span>Oportun offers a competitive compensation and benefits package designed to support your physical, financial, and professional well-being. Benefits vary by country of employment.</span><span>&nbsp;</span></span></p> <p><span><span>Some of the benefits available to eligible employees include:</span><span>&nbsp;</span></span></p> <p><span><strong><span>Mexico Benefits:</span></strong><span>&nbsp;</span></span></p> <div><span>Medical Insurance&nbsp;</span><br><span>Savings Fund</span><br><span>Life Insurance</span><br><span>Internet and Electricity Allowance</span><br><span>Paid time off such as vacation and parental leave</span></div> <p><span><span>Eligibility and plan details vary by location and employment status. To learn more about Oportun and our benefits, visit </span><span><strong><span>oportun.com/careers</span></strong><span>&nbsp; &nbsp;</span></span></span><span>#LI-REMOTE #LI-GK1</span></p><div class=\"content-conclusion\"><p><em><span>We are proud to be an Equal Opportunity Employer and consider all qualified applicants for employment opportunities without regard to race, age, color, religion, gender, national origin, disability, sexual orientation, veteran status or any other category protected by the laws or regulations in the locations where we operate.</span></em></p> <p><em><span>&nbsp;</span></em></p> <p><em><span>California applicants can find a copy of Oportun's CCPA Notice here:&nbsp; <a href=\"https://oportun.com/privacy/california-privacy-notice/\">https://oportun.com/privacy/california-privacy-notice/</a>.</span></em></p> <p>&nbsp;</p> <p><em><span>We will never request personal identifiable information (bank, credit card, etc.) before you are hired. We do not charge you for pre-employment fees such as background checks, training, or equipment. If you think you have been a victim of fraud by someone posing as us, please report your experience to the FBI’s Internet Crime Complaint Center (IC3).</span></em></p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923\">https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "kafka"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "platform",
+          "etl",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "8+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/weekday-com/jobs/lead-data-architect-fabric",
+      "grade": "F",
+      "score": -7,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Weekday",
+      "title": "Lead Data Architect (Fabric)",
+      "url": "https://himalayas.app/companies/weekday-com/jobs/lead-data-architect-fabric?utm_source=api",
+      "posted": "2026-11-15T15:30:19.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Architect",
+        "Data-Platform-Architect",
+        "Lead-Data-Architect",
+        "Analytics-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, remote",
+        "Architect-level title",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
+      "grade": "F",
+      "score": -16,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Toptal",
+      "title": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
+      "posted": "Tue, 20 Oct 2026 18:10:55 +0000",
+      "location": "<p> <strong>Headquarters:</strong> </p> <p>Summary</p><p>We are seeking an Analytics Engineer / BI Lead for Channel Insights to define the semantic layer, build dashboards, and present verified insights to leadership. This role combines Tableau Next and Data 360 insight development, SQL/SOQL work, data-quality validation, field-user training, and daily use of AI copilots/agents to improve delivery speed while maintaining accountability for production decisions.</p><p>General information</p><p>This engagement is centered on Channel Insights, with responsibility spanning metrics, dimensions, refresh SLAs, dashboard logic, and executive-facing insight delivery. The work is not a report ticket queue; it requires ownership of the analytics layer and confidence in the numbers presented to leadership.</p><p>Daily use of AI copilots/agents is an explicit expectation for discovery, build, test, and documentation. The focus is on improving cycle time and cost-to-outcome versus legacy delivery, embedding automation into quality gates, and verifying outputs before they reach production or executive readouts.</p><p>Tasks and Deliverables</p><p>Own Channel Insights metrics, dimensions, and refresh SLAs with the CDP product owner and Data Expert.</p><p>Build Tableau Next and Data 360 calculated insights; write SQL/SOQL as needed.</p><p>Validate data quality with the modeler/engineer and fix breaks at the source.</p><p>Train field users through working sessions.</p><p>Use AI for SQL and dataset drafts and insight narratives; verify every number before executive readouts.</p><p>Automate anomaly commentary on Channel Insights where trustworthy; escalate false positives.</p><p>Required experience</p><p>5+ years of analytics engineering or BI lead experience.</p><p>Expert-level Tableau or equivalent BI platform experience.</p><p>Strong storytelling with data for executives and field leaders.</p><p>Experience using AI copilots/agents in analytics delivery with human verification.</p><p>Nice to have:</p><p>Experience with Salesforce CRM Analytics and/or Data 360.</p><p>Engagement highlights</p><p>Own a defined Channel Insights workstream across semantic-layer design, dashboards, and data quality.</p><p>Work directly with cross-functional stakeholders, including product, data, engineering, and field users.</p><p>Deliver executive-facing insights and automate repeatable commentary where the data is trustworthy.</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360\">https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, remote",
+        "senior-titled",
+        "5+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    }
+  ]
+}

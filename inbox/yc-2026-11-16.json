@@ -1,0 +1,46 @@
+{
+  "pulled": "2026-11-16",
+  "scanned": 527,
+  "survived": 8,
+  "hits": [
+    {
+      "id": 122543,
+      "grade": "B",
+      "score": 70,
+      "company": "FrontPage",
+      "batch": "S21",
+      "title": "Engineering Intern: Testing, Automation & Development",
+      "location": "Bengaluru, Karnataka, IN",
+      "visa": "US citizenship/visa not required",
+      "minExperience": null,
+      "salaryRange": "₹30K - ₹50K INR / monthly",
+      "equityRange": "",
+      "skills": [
+        "Android",
+        "iOS",
+        "Node.js",
+        "Python"
+      ],
+      "oneLiner": "Community for 100M Indian Financial Market Traders & Investors",
+      "createdAt": "3 days",
+      "lastActive": null,
+      "teamSize": 5,
+      "stage": "Early",
+      "tags": [
+        "Fintech",
+        "Community"
+      ],
+      "website": "https://front.page",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/frontpage/jobs/0vuyaqX-engineering-intern-testing-automation-development",
+      "companyUrl": "https://www.ycombinator.com/companies/frontpage",
+      "why": [
+        "stack: node.js",
+        "5-person team",
+        "India-based",
+        "posted 3 days ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

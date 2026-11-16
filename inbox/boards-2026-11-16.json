@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-16",
-  "scanned": 335,
-  "survived": 203,
+  "scanned": 666,
+  "survived": 402,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/remotejobsone/jobs/ai-ml-engineer-internal-platforms-remote-worldwide",
@@ -345,6 +345,332 @@
         "senior-titled",
         "5+ years stated",
         "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/pavago/jobs/ai-engineer-56934625",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Pavago",
+      "title": "AI Engineer",
+      "url": "https://himalayas.app/companies/pavago/jobs/ai-engineer-56934625?utm_source=api",
+      "posted": "2026-11-16T01:15:48.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "LLM-Engineer",
+        "NLP-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/proximity-works/jobs/ai-development-engineer",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Proximity Works",
+      "title": "AI Development Engineer",
+      "url": "https://himalayas.app/companies/proximity-works/jobs/ai-development-engineer?utm_source=api",
+      "posted": "2026-11-16T05:03:30.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Development-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Generative-AI-Engineer",
+        "LLM-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "real-time",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/junior-machine-learning-engineer-remote-contract",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Xperteez Technology",
+      "title": "🌍 Junior Machine Learning Engineer, Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/junior-machine-learning-engineer-remote-contract?utm_source=api",
+      "posted": "2026-11-15T20:27:42.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "Machine-Learning-Developer",
+        "AI-Engineer",
+        "Data-Scientist"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): python, pipeline, remote",
+        "junior/new-grad seat",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/smart-working/jobs/senior-cloud-engineer-java-aws-remote-full-time-as314",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Smart Working",
+      "title": "Senior Cloud Engineer (Java & AWS) (Remote, Full-Time) [AS314]",
+      "url": "https://himalayas.app/companies/smart-working/jobs/senior-cloud-engineer-java-aws-remote-full-time-as314?utm_source=api",
+      "posted": "2026-11-16T04:32:50.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cloud-Engineer",
+        "DevOps-Engineer",
+        "Platform-Engineer",
+        "Backend-Engineer",
+        "Site-Reliability-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/keywords-studios-plc/jobs/salesforce-engineer-ii-contract",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Keywords Studios Plc",
+      "title": "Salesforce Engineer - II (Contract)",
+      "url": "https://himalayas.app/companies/keywords-studios-plc/jobs/salesforce-engineer-ii-contract?utm_source=api",
+      "posted": "2026-11-16T05:44:44.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Engineer",
+        "Salesforce-Developer",
+        "Salesforce-Platform-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, pipeline",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/partner-one-capital/jobs/devops-automation-specialist-8021420277",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Partner One Capital",
+      "title": "DevOps Automation Specialist",
+      "url": "https://himalayas.app/companies/partner-one-capital/jobs/devops-automation-specialist-8021420277?utm_source=api",
+      "posted": "2026-11-15T22:42:42.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Automation-Engineer",
+        "Infrastructure-Automation-Engineer",
+        "DevOps-Engineer",
+        "Infrastructure-As-Code-Engineer",
+        "Site-Reliability-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): python, ci/cd, platform",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/sr-full-stack-software-engineer-remote-contract",
+      "grade": "F",
+      "score": 25,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Xperteez Technology",
+      "title": "🌍 Sr. Full-Stack Software Engineer, Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/sr-full-stack-software-engineer-remote-contract?utm_source=api",
+      "posted": "2026-11-15T21:54:26.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Frontend-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "full-stack",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/opinov8/jobs/senior-full-stack-engineer-net-react-ai-services",
+      "grade": "F",
+      "score": -5,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Opinov8",
+      "title": "Senior Full Stack Engineer (.NET/React) - AI Services",
+      "url": "https://himalayas.app/companies/opinov8/jobs/senior-full-stack-engineer-net-react-ai-services?utm_source=api",
+      "posted": "2026-11-16T06:47:01.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        ".NET-Developer",
+        "Full-Stack-Developer",
+        "Backend-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "full-stack",
+          "full stack",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack: typescript, docker, kubernetes",
+        "senior-titled",
+        "5+ years stated",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
       ]
     }
   ]

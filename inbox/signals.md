@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Bharat Semi** — A | Mon, 16 Nov 2026 | Inc42: https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru; also: YourStory
+
 - [ ] **MAGIC launches AIMM 2026, offers Rs 7 lakh in prizes for AI innovations** — A | Sat, 14 Nov 2026 | YourStory: https://yourstory.com/2026/11/magic-launches-aimm-2026-national-ai-innovation-challenge | why: stage: early-stage; sector: ai; funding: seed funding
 
 - [ ] **From Greenjoules To mistEO — Indian Startups** — C | Sat, 14 Nov 2026 | Inc42: https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/ | why: funding: raised

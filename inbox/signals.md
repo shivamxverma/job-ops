@@ -11,6 +11,11 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Dreamteam** — B | Mon, 16 Nov 2026 | Inc42: https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/ | why: sector: ai, platform; funding: bags
+- [ ] **Credit-led fintech startup Olyv** — B | Mon, 16 Nov 2026 | YourStory: https://yourstory.com/2026/11/credit-led-fintech-startup-olyv-raises-usd-6m | why: sector: fintech; funding: raises
+- [ ] **Former Freshworks executives-founded AI startup Dreamteam** — B | Mon, 16 Nov 2026 | YourStory: https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding | why: sector: ai, platform; funding: raises
+- [ ] **Xpressbees** — C | Mon, 16 Nov 2026 | YourStory: https://yourstory.com/2026/11/xpressbees-raises-rs-100-cr-in-debt-from-blacksoil | why: funding: raises
+
 - [ ] **Bharat Semi** — A | Mon, 16 Nov 2026 | Inc42: https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/ | why: stage: early-stage; sector: ai; funding: raises; 📍 bengaluru; also: YourStory
 
 - [ ] **MAGIC launches AIMM 2026, offers Rs 7 lakh in prizes for AI innovations** — A | Sat, 14 Nov 2026 | YourStory: https://yourstory.com/2026/11/magic-launches-aimm-2026-national-ai-innovation-challenge | why: stage: early-stage; sector: ai; funding: seed funding

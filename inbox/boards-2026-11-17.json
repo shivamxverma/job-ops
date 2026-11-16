@@ -1,0 +1,130 @@
+{
+  "pulled": "2026-11-17",
+  "scanned": 337,
+  "survived": 202,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
+      "grade": "C",
+      "score": 60,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "ML Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api",
+      "posted": "2026-11-16T20:20:49.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "AI-ML-Engineer",
+        "ML-Software-Engineer",
+        "ML-Product-Engineer",
+        "ML-Research-Engineer",
+        "Data-ML-Engineer",
+        "ML-DL-Engineer",
+        "Machine-Learning-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+      "grade": "C",
+      "score": 59,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "OfferUp",
+      "title": "Software Development Engineer II (Remote @ Colombia)",
+      "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+      "posted": "Thu, 22 Oct 2026 07:31:08 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote @ Colombia </p> <p><strong>About the role:&nbsp;</strong></p> <p>The OfferUp Connect team builds the moments that turn a listing into a sale. Every chat between buyers and sellers, every offer notification, and every saved-search alert runs through services we own, from messaging and notifications to location, meetups, and the subscriptions sellers pay for. We run high-volume Java microservices and streaming pipelines, integrate with partners like Braze, Amazon Pinpoint, Apple, and Google, and use experimentation to decide what ships.</p> <p>We also take on high-visibility work beyond our domain. Connect built OfferUp's video infrastructure for listing videos and LLM-powered catalog enrichment on Amazon Bedrock, both company priorities that changed what buyers see every day. The roadmap is wide open for someone who wants to help shape it.</p> <p>As a Software Development Engineer II, you'll own features from concept to rollout: designing and writing well-tested code, launching experiments, and measuring results with Product, Design, and Data partners. You'll raise the quality of the code around you and get the chance to join the next project like video or catalog enrichment.</p> <p><strong>Here’s more of what you will get to do:</strong></p> <ul> <li>Design, build, and deploy backend services and event-driven pipelines for messaging, notifications, location, and subscriptions</li> <li>Improve the reliability, latency, and delivery rates of high-volume messaging and notification systems, including retries, rate limiting, and frequency capping</li> <li>Integrate with and operate third-party platforms such as Braze, Amazon Pinpoint, Apple and Google push services, and app store billing</li> <li>Own features end-to-end: plan, design, develop, deploy, measure, and iterate</li> <li>Break down complex engineering problems into achievable tasks and deliver them within committed timeframes</li> <li>Work collaboratively with cross-functional teams (Product, Design, Data Science, Marketing, and iOS, Android, and web engineers) to design and implement new features</li> <li>Contribute to A/B tests and use experimentation results to decide what ships</li> <li>Actively participate in code reviews and enforce good patterns, testing, and edge-case handling</li> <li>Coach and mentor junior team members, new hires, and interns</li> <li>Create shared components, utilities, and services that improve team velocity across the stack</li> <li>Maintain and improve the runbooks, alerting, and monitoring for the features you ship</li> <li>Participate in a reasonable on-call rotation with the rest of the team</li> <li>Use AI coding tools (Claude Code, Gemini, and similar) to increase your daily development velocity and code quality</li> <li>Become a subject matter expert in one or more of the team's sub-domains: messaging, notifications and campaigns, location, or subscriptions and promotions</li> </ul> <p><strong>You’ll thrive in this role if you have:</strong></p> <ul> <li>2+ years of professional software engineering experience</li> <li>Demonstrated ability to own the delivery of multiple features end-to-end (plan, design, develop, and deploy) with high efficiency, including breaking down engineering problems into achievable tasks</li> <li>Strong coding skills in Java, with a working understanding of microservices and distributed-systems fundamentals</li> <li>Good knowledge of data structures and object-oriented design</li> <li>Working knowledge of asynchronous, event-driven systems (queues, pub/sub, or streams), including retries and idempotent processing</li> <li>Hands-on experience using AI coding tools (Claude Code or similar) in a real engineering workflow, and a point of view on when they help and when they don't</li> <li>A habit of following good coding patterns, writing appropriate tests, considering trade-offs, and seeking out edge cases</li> <li>Comfortable giving and receiving feedback in code reviews</li> <li>A bias toward shipping, learning from production, and iterating quickly</li> <li>An insatiable desire and ability to learn</li> <li>BS or MS in Computer Science, or equivalent practical experience</li> </ul> <p><strong>Helpful, but not required:</strong></p> <ul> <li>Fluency in another modern object-oriented programming language</li> <li>Experience with TypeScript and Node.js</li> <li>Experience with Agile development</li> <li>Experience building and integrating with REST APIs</li> <li>Experience with AWS services such as DynamoDB, SQS, SNS, Lambda, and ElastiCache (Redis)</li> <li>Experience with notification and engagement platforms (Braze, Amazon Pinpoint, APNs, FCM) or in-app subscription billing (App Store, Google Play)</li> <li>Experience with stream processing frameworks such as Apache Flink or Kafka Streams</li> <li>Experience with A/B testing platforms (Statsig, LaunchDarkly, Optimizely) and analytics warehouses (BigQuery, Snowflake)</li> <li>Experience consuming or integrating LLM-based APIs (e.g., Bedrock, Vertex AI, OpenAI)</li> <li>Familiarity with Kubernetes, Helm, and CI/CD pipelines</li> </ul> <p><br><br></p><div class=\"content-conclusion\"><p><strong>About OfferUp:</strong></p> <p>OfferUp is dedicated to creating the simplest and most trusted way for people to buy, sell, and connect in their local communities. One of the top local marketplace apps for local buyers and sellers in the U.S., OfferUp makes it easy for people to discover more of what they need—from great deals and secondhand goods to jobs, services, home rentals, and more—right in their own communities. Our trusted platform empowers millions to connect, thrive, and move life forward.&nbsp;</p> <p>Available on iOS and Android, OfferUp has consistently ranked among the top shopping apps. Founded in 2011 and based in Bellevue, WA, OfferUp serves local markets nationwide and was used by more than 1 in 6 adults in the U.S. in 2024. OfferUp is backed by leading investors, including Andreessen Horowitz, Warburg Pincus, GGV Capital, T. Rowe Price, and Coatue Management. https://about.offerup.com</p> <p><strong>More About OfferUp At a Glance</strong></p> <ul> <li>Top 10 Shopping app in the App Store and Google Play Store for three years</li> <li>15%+ of adults in several major markets use OfferUp every month (LA, Miami, Phoenix, Seattle, Las Vegas, Riverside, Orlando)</li> <li>OfferUp works directly with nearly 2000 US law enforcement agencies to build trust in local communities</li> </ul> <p><em>OfferUp is unleashing the power of local, and we’ve built a dynamic team to do it. To learn more about working at OfferUp, check out </em><a href=\"https://about.offerup.com/people\"><em>https://about.offerup.com/people</em></a><em>&nbsp;</em></p> <p><em>OfferUp provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, OfferUp complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, transfer, leaves of absence, compensation, and training.</em></p> <p><em>OfferUp expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of OfferUp’s employees to perform their job duties may result in discipline up to and including discharge.</em></p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia\">https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "redis",
+          "kafka",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "node",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, redis, kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "2+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/unreal-engine-developer",
+      "grade": "D",
+      "score": 35,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Unreal Engine Developer",
+      "url": "https://himalayas.app/companies/micro1/jobs/unreal-engine-developer?utm_source=api",
+      "posted": "2026-11-16T17:21:20.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Unreal-Engine-Developer",
+        "Unreal-Engine-Programmer",
+        "Unreal-Engine-Development",
+        "Unreal-Engine-Engineer",
+        "Unreal-Engine-Specialist",
+        "Unreal-Engineer",
+        "Unreal-Engine-Engineering",
+        "Game-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "c++",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): c++, remote",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

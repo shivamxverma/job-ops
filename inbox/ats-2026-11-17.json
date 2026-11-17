@@ -1,0 +1,55 @@
+{
+  "pulled": "2026-11-17",
+  "scanned": 844,
+  "survived": 66,
+  "hits": [
+    {
+      "id": "ashby:sarvam:fa96b55d-0c77-423d-8eef-f579c8496adb",
+      "grade": "B",
+      "score": 63,
+      "source": "ashby (seed list)",
+      "company": "Sarvam",
+      "domain": "sarvam.ai",
+      "title": "SDE2 - Full Stack",
+      "url": "https://jobs.ashbyhq.com/sarvam/fa96b55d-0c77-423d-8eef-f579c8496adb",
+      "posted": "2026-11-17T04:16:34.601+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "typescript",
+          "postgresql",
+          "kafka",
+          "kubernetes",
+          "websocket",
+          "code execution",
+          "sandbox",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "real-time",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, typescript, postgresql, kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka, code execution, sandbox)",
+        "3+ years stated (stretch)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-17",
-  "scanned": 337,
-  "survived": 202,
+  "scanned": 675,
+  "survived": 403,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
@@ -124,6 +124,115 @@
         "stack (weak): c++, remote",
         "location not stated (ask before investing)",
         "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+      "grade": "C",
+      "score": 49,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Toptal",
+      "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+      "posted": "Thu, 22 Oct 2026 18:59:03 +0000",
+      "location": "<p> <strong>Headquarters:</strong> </p> <p>Summary</p><p>We are seeking an Infrastructure Engineer for Air-gapped LLM Deployments to support secure, large-scale software deployments in GPU-based environments. The role focuses on deploying LLM workloads in air-gapped settings and establishing observability with Grafana and Prometheus, with onsite presence in Riyadh required for two weeks per month.</p><p>General information</p><p>They need a senior engineer who can take ownership of complex deployments across isolated or air-gapped environments. The role will involve working with GPU infrastructure for LLM workloads and ensuring systems can be deployed, monitored, and maintained reliably at scale.</p><p>The engineer should be comfortable troubleshooting infrastructure and deployment issues, automating deployment processes, and working with observability platforms such as Grafana and Prometheus.</p><p>Location: Riyadh, Saudi Arabia<br>Onsite requirement: A few times per quarter in Riyadh</p><p>Tasks and Deliverables</p><p>Design and support air-gapped deployment environments for LLM-based systems.</p><p>Deploy and optimize LLM workloads on GPU infrastructure.</p><p>Support large-scale software deployments across secure environments.</p><p>Implement and maintain observability using Grafana and Prometheus.</p><p>Collaborate onsite in Riyadh to assess, deploy, and troubleshoot environment-specific issues.</p><p>Required experience</p><p>Expertise in air-gapped deployments.</p><p>Experience with large-scale software deployments.</p><p>Experience deploying LLMs on GPUs.</p><p>Hands-on experience with Grafana and Prometheus.</p><p>Engagement highlights</p><p>Senior-level infrastructure/deployment engineering role.</p><p>Work on large-scale GPU and LLM infrastructure.</p><p>Challenging deployment scenarios involving air-gapped environments.</p><p>Full-time, long-term position</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience\">https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "infrastructure engineer",
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: infrastructure engineer, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/binance/jobs/android-engineer-apac-remote",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Binance",
+      "title": "Android Engineer (APAC Remote)",
+      "url": "https://himalayas.app/companies/binance/jobs/android-engineer-apac-remote?utm_source=api",
+      "posted": "2026-11-17T07:04:24.000Z",
+      "location": "American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Russian Federation, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include British Indian Ocean Territory/India"
+      },
+      "tags": [
+        "Android-Engineer",
+        "Android-Developer",
+        "Mobile-Software-Engineer",
+        "Machine-Learning-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "javascript",
+          "c++",
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include British Indian Ocean Territory/India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+      "grade": "F",
+      "score": 14,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Affirm",
+      "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+      "url": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+      "posted": "Thu, 22 Oct 2026 07:31:25 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote Poland </p> <div class=\"content-intro\"><p>At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.</p></div><p>We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations, and analytical systems that power Affirm’s Revenue organization.<br>As a Senior Analyst, Revenue Analytics, you’ll build scalable data products that power day-to-day decision-making - owning end-to-end work across data modeling, metric definitions, dashboards, automation, and enablement.&nbsp;<br>You’ll also help strengthen our semantic layer and data governance, laying the foundation for reliable AI. The ideal candidate combines strong technical and analytical skills with the ability to turn ambiguous business questions into durable, well-tested data infrastructure.</p> <p><strong>What you'll do</strong>&nbsp;</p> <ul> <li> <p>Develop dbt data models, dashboards, metrics, and automation processes for the revenue field team and revenue analysts</p> </li> <li> <p>Build and maintain critical reporting data models that power external merchant reporting&nbsp;</p> </li> <li> <p>Build the semantic, metadata, and context layers that allow AI systems to accurately understand Revenue data, metrics, and business definitions</p> </li> <li> <p>Partner with Business Systems, engineering, and business stakeholders to translate requirements into durable, well-tested data products</p> </li> <li> <p>Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows)</p> </li> <li> <p>Develop processes, governance, and foundations to scale the impact of analytics within Revenue.</p> </li> </ul> <p><br><strong>What we look for</strong>&nbsp;</p> <ul> <li> <p>3+ years of work experience in an analytics engineering or business intelligence role</p> </li> <li> <p>Strong working knowledge of SQL, dbt, Python, data modeling, and data visualization&nbsp;</p> </li> <li> <p>Hands-on experience with BI tools (Sigma/Looker/Tableau), Databricks, and cloud data warehouses (Snowflake)</p> </li> <li> <p>Understanding of the data foundations required for reliable AI, including semantic layers, metadata, evals, metric definitions, documentation, and data quality</p> </li> <li> <p>Demonstrated experience integrating AI tools into day-to-day analytics engineering workflows to improve development speed, quality, and scalability</p> </li> <li> <p>Familiarity with Salesforce and experience supporting commercial areas of the business</p> </li> <li> <p>Ability to identify user needs and translate them into robust, scalable data products</p> </li> <li> <p>Ability to start with an ambiguous problem, deconstruct it into tangible steps, and work toward an impactful solution</p> </li> <li> <p>Ability to communicate findings and recommendations clearly to both technical and non-technical audiences.</p> </li> </ul> <h3><strong>Total rewards</strong></h3> <div> <p>We believe the people building honest financial products at Affirm should share in its success. That's why our total rewards are designed to support your health, growth, financial well-being,&nbsp;and future.</p> <p>In service of our mission, we reward employees through a combination of base pay, equity (from&nbsp;parent company), and comprehensive benefits.</p> <p><strong>Base Pay Grade</strong>&nbsp;<strong>- K<br></strong><strong>226 000 zł &nbsp;-&nbsp; 346 000 zł &nbsp;<em>&nbsp;&nbsp;</em>&nbsp;&nbsp;<br></strong></p> <p>Base pay ranges and placement within those ranges are determined based on several factors, including role, experience, and job-related skills.</p> <p>In addition to base pay, all employees in this role are eligible to receive equity from the parent company each year. This means as Affirm’s parent company grows, employees have the opportunity to share in that growth financially.<br><br></p> <p><strong>Equity Grade - 2 (awarded in US Dollars)</strong></p> <p><strong>Affirm Holdings, Inc. Equity Grade example<br><br></strong><strong>Equity grade: </strong><strong>2<br></strong><strong>New hire equity: </strong><strong>$16,000-$24,000<br></strong><strong>Annual Refresh: </strong><strong>$5,000<br></strong><strong>Reward equity: </strong><strong>$0-$75,000</strong></p> <p>Affirm also provides flexible spending wallets to all employees for technology and wellbeing related needs, which are reimbursable up to <strong>1390</strong> <strong>zł </strong>per month.</p> <p><strong>In addition to your compensation, our comprehensive benefits are designed to support you and the people who matter most. Benefits include:</strong></p> <ul> <li>Competitive paid time off, paid public holidays, and additional paid Away Days to rest and recharge.</li> <li>Comprehensive private healthcare through Lux Med's Platinum package.</li> <li>A MultiSport card to support your health and well-being.</li> <li>Learning and development programs to help you grow professionally.&nbsp;</li> <li>Family healthcare support through Maven and parental leave support through Parentaly.</li> <li>Mental well-being support through Lyra, including up to 12 confidential counseling or coaching sessions each year for you and your household members.</li> <li>Financial well-being support through Northstar, with unlimited access to Certified Financial Advisors and planning tools at no cost to you.</li> <li>Employee Resource Groups (ERGs) that foster connection and inclusion.</li> <li>Eligibility for creative tax benefits, subject to applicable law, role, and company policy.</li> </ul> <p><strong>Location - Remote Poland</strong></p> <p><em>The majority of our roles can be located anywhere in Poland.</em></p> <p><em>**This job description is not a contractual document, and is not intended to have binding force.**</em></p> <p><strong>#LI-Remote</strong></p> </div><div class=\"content-conclusion\"><div> <p><strong>Remote-first with flexibility built in</strong><strong><br></strong>Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.</p> <p><strong>Benefits designed for you</strong><strong><br></strong>Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:</p> <ul> <li>Health coverage at no cost: We cover 100% of premiums for employees and their dependents.</li> <li>Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.</li> <li>Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.</li> <li>Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.</li> </ul> <p>We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help.</p> <p>For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.</p> </div> <div> <p>By clicking \"Submit Application,\" you acknowledge that you have read Affirm's&nbsp;<a href=\"https://www.affirm.com/global-candidate-privacy-notice\">Global Candidate Privacy Notice</a> and consent to the use of your personal information as described.</p> </div></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics\">https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "full-stack",
+          "full stack",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, full-stack, full stack",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)"
       ]
     }
   ]

@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **D2C Price Hike, Bharat Semi** — D | Tue, 17 Nov 2026 | Inc42: https://inc42.com/buzz/d2c-price-hike-bharat-semi-bags-24-mn-more/ | why: funding: bags
+
 - [ ] **Dreamteam** — B | Mon, 16 Nov 2026 | Inc42: https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/ | why: sector: ai, platform; funding: bags
 - [ ] **Credit-led fintech startup Olyv** — B | Mon, 16 Nov 2026 | YourStory: https://yourstory.com/2026/11/credit-led-fintech-startup-olyv-raises-usd-6m | why: sector: fintech; funding: raises
 - [ ] **Former Freshworks executives-founded AI startup Dreamteam** — B | Mon, 16 Nov 2026 | YourStory: https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding | why: sector: ai, platform; funding: raises

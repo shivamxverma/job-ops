@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Olyv** — C | Tue, 17 Nov 2026 | Inc42: https://inc42.com/buzz/olyv-raises-6-mn-to-expand-financial-services-play-beyond-lending/ | why: funding: raises
+- [ ] **Redbrick Offices** — C | Tue, 17 Nov 2026 | YourStory: https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus | why: funding: raises
+
 - [ ] **D2C Price Hike, Bharat Semi** — D | Tue, 17 Nov 2026 | Inc42: https://inc42.com/buzz/d2c-price-hike-bharat-semi-bags-24-mn-more/ | why: funding: bags
 
 - [ ] **Dreamteam** — B | Mon, 16 Nov 2026 | Inc42: https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/ | why: sector: ai, platform; funding: bags

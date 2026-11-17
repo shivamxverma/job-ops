@@ -1,0 +1,241 @@
+{
+  "pulled": "2026-11-18",
+  "scanned": 341,
+  "survived": 203,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/sphera/jobs/ai-forward-deployment-engineer",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Sphera",
+      "title": "AI Forward Deployment Engineer",
+      "url": "https://himalayas.app/companies/sphera/jobs/ai-forward-deployment-engineer?utm_source=api",
+      "posted": "2026-11-17T19:19:31.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Forward-Deployed-AI-Engineer",
+        "AI-Engineer",
+        "Forward-Deployed-Engineer",
+        "Machine-Learning-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tether-operations-limited/jobs/research-engineer-intern-video-multimodal-llm",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tether Operations Limited",
+      "title": "Research Engineer Intern (Video/Multimodal LLM)",
+      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/research-engineer-intern-video-multimodal-llm?utm_source=api",
+      "posted": "2026-11-17T16:48:12.000Z",
+      "location": "Argentina, Armenia, Bangladesh, Belgium, Belize, Bolivia, Brazil, Bulgaria, Chile, Colombia, Costa Rica, Croatia, Czechia, Denmark, Dominican Republic, Ecuador, Egypt, El Salvador, Estonia, Ethiopia, Finland, Georgia, Ghana, Greece, Guatemala, India, Indonesia, Ireland, Israel, Italy, Kenya, Malaysia, Malta, Mexico, Morocco, Nepal, Netherlands, New Zealand, Nicaragua, Nigeria, Norway, Pakistan, Panama, Peru, Philippines, Poland, Portugal, Romania, Saudi Arabia, Serbia, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, United Arab Emirates, United Kingdom, Uruguay, Vietnam",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Research",
+        "Machine-Learning",
+        "Computer-Vision",
+        "Multimodal-AI",
+        "Research-Engineering",
+        "Video-AI"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nclouds/jobs/cloud-security-engineer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "nClouds",
+      "title": "Cloud Security Engineer",
+      "url": "https://himalayas.app/companies/nclouds/jobs/cloud-security-engineer?utm_source=api",
+      "posted": "2026-11-17T19:30:50.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cloud-Security-Engineer",
+        "Security-Operations-Engineer",
+        "AWS-Security-Engineer",
+        "Cybersecurity-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "s3",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, s3, platform",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/matrix-global/jobs/java-developer-aml",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Matrix Global",
+      "title": "Java Developer-AML",
+      "url": "https://himalayas.app/companies/matrix-global/jobs/java-developer-aml?utm_source=api",
+      "posted": "2026-11-17T11:59:03.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Java-Developer",
+        "Backend-Engineer",
+        "Data-Integration-Developer",
+        "ETL-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "message queue"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "etl"
+        ]
+      },
+      "why": [
+        "stack: message queue",
+        "story fit: CodeSM/Yuvro/Storix (message queue)",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/prokta-hr-solutions/jobs/senior-software-engineer-network-services-orchestration",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Prokta HR Solutions",
+      "title": "Senior Software Engineer - Network Services Orchestration",
+      "url": "https://himalayas.app/companies/prokta-hr-solutions/jobs/senior-software-engineer-network-services-orchestration?utm_source=api",
+      "posted": "2026-11-17T11:58:29.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Network-Automation-Engineer",
+        "Network-Services-Orchestration-Engineer",
+        "Network-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): python, aws, linux",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/99brightminds/jobs/senior-salesforce-developer-agentforce",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "99brightminds",
+      "title": "Senior Salesforce Developer - Agentforce",
+      "url": "https://himalayas.app/companies/99brightminds/jobs/senior-salesforce-developer-agentforce?utm_source=api",
+      "posted": "2026-11-17T11:35:46.000Z",
+      "location": "Egypt, India, Jordan",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Developer",
+        "Salesforce-Consultant",
+        "Salesforce-Engineer",
+        "Salesforce-Technical-Architect"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, automation",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Fatehpuria Hygiene** — B | Wed, 18 Nov 2026 | YourStory: https://yourstory.com/2026/11/fatehpuria-hygiene-secures-rs-100-cr-first-equity-fundraise | why: sector: ai; funding: secures
+- [ ] **Egg Brand Henfruit** — C | Wed, 18 Nov 2026 | Inc42: https://inc42.com/buzz/egg-brand-henfruit-raises-15-mn-in-first-external-funding-round/ | why: funding: raises
+
 - [ ] **Olyv** — C | Tue, 17 Nov 2026 | Inc42: https://inc42.com/buzz/olyv-raises-6-mn-to-expand-financial-services-play-beyond-lending/ | why: funding: raises
 - [ ] **Redbrick Offices** — C | Tue, 17 Nov 2026 | YourStory: https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus | why: funding: raises
 

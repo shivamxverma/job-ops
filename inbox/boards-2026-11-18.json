@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-18",
-  "scanned": 341,
-  "survived": 203,
+  "scanned": 691,
+  "survived": 405,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/sphera/jobs/ai-forward-deployment-engineer",
@@ -232,6 +232,543 @@
         "stack (weak): ci/cd, platform, automation",
         "senior-titled",
         "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/boosta/jobs/middle-software-engineer-backend-platform-flintn",
+      "grade": "B",
+      "score": 70,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Boosta",
+      "title": "Middle Software Engineer - Backend (Platform) | FlintN",
+      "url": "https://himalayas.app/companies/boosta/jobs/middle-software-engineer-backend-platform-flintn?utm_source=api",
+      "posted": "2026-11-18T04:46:54.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Platform-Engineer",
+        "Java-Developer",
+        "Payments-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "postgresql",
+          "kafka"
+        ],
+        "weak": [
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, postgresql, kafka",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/pfizer/jobs/genai-platform-engineer-llm-gateway",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Pfizer",
+      "title": "GenAI Platform Engineer – LLM Gateway",
+      "url": "https://himalayas.app/companies/pfizer/jobs/genai-platform-engineer-llm-gateway?utm_source=api",
+      "posted": "2026-11-18T05:13:51.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Platform-Engineer",
+        "Generative-AI-Engineer",
+        "Machine-Learning-Platform-Engineer",
+        "Backend-Engineer",
+        "Cloud-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/heymarvin/jobs/senior-backend-engineer-3",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "HeyMarvin",
+      "title": "Senior Backend Engineer 3",
+      "url": "https://himalayas.app/companies/heymarvin/jobs/senior-backend-engineer-3?utm_source=api",
+      "posted": "2026-11-18T05:14:47.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Distributed-Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems",
+          "postgresql",
+          "redis",
+          "celery"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems, postgresql, redis",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, celery)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/software-engineer-5564722222",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Software Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-5564722222?utm_source=api",
+      "posted": "2026-11-18T02:21:05.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Software-Engineer-Developer",
+        "Software-Developer",
+        "IT-Software-Engineer",
+        "Software-Engineer-Jobs",
+        "Engineering-Software-Developer",
+        "Software-Engineering-Jobs",
+        "Software-Design-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "c++",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/altera-digital-health/jobs/technical-support-architect-ai",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Altera Digital Health",
+      "title": "Technical Support Architect (AI)",
+      "url": "https://himalayas.app/companies/altera-digital-health/jobs/technical-support-architect-ai?utm_source=api",
+      "posted": "2026-11-18T01:06:23.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Technical-Support-Architect",
+        "AI-Architect",
+        "Solutions-Architect",
+        "Technical-Support-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "Architect-level title",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/bjak/jobs/full-stack-software-engineer-ai-finance-agent-1668704504",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Bjak",
+      "title": "Full Stack Software Engineer - AI Finance Agent",
+      "url": "https://himalayas.app/companies/bjak/jobs/full-stack-software-engineer-ai-finance-agent-1668704504?utm_source=api",
+      "posted": "2026-11-18T04:38:03.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Full-Stack-Engineer",
+        "Full-Stack-AI-Engineer",
+        "AI-Full-Stack-Developer",
+        "Full-Stack-AI-Developer",
+        "Financial-Software-Engineer",
+        "AI-Native-Fullstack-Engineer",
+        "Software-Engineer",
+        "Full-Stack-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, full stack, backend",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/99brightminds/jobs/salesforce-developer",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "99brightminds",
+      "title": "Salesforce Developer",
+      "url": "https://himalayas.app/companies/99brightminds/jobs/salesforce-developer?utm_source=api",
+      "posted": "2026-11-17T21:35:53.000Z",
+      "location": "Egypt, India, Jordan",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Developer",
+        "Salesforce-Engineer",
+        "Salesforce-Consultant",
+        "Salesforce-Platform-Developer",
+        "Cloud-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, pipeline",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/cocotechoes/jobs/sr-developer-nodejs",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "CocoTechoes",
+      "title": "Sr Developer - NodeJS",
+      "url": "https://himalayas.app/companies/cocotechoes/jobs/sr-developer-nodejs?utm_source=api",
+      "posted": "2026-11-18T04:22:22.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Node.Js-Developer",
+        "Backend-Engineer",
+        "NodeJS-Developer",
+        "API-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "nodejs"
+        ],
+        "weak": [
+          "node",
+          "backend",
+          "automation",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: node.js, nodejs",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/spice/jobs/senior-integrations-engineer",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "SPICE",
+      "title": "Senior Integrations Engineer",
+      "url": "https://himalayas.app/companies/spice/jobs/senior-integrations-engineer?utm_source=api",
+      "posted": "2026-11-17T23:58:03.000Z",
+      "location": "Egypt, India, Pakistan",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Integrations-Engineer",
+        "Integration-Engineer",
+        "Backend-Engineer",
+        "API-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql"
+        ],
+        "weak": [
+          "node",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgresql",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/point-wild/jobs/devops-engineer",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Point Wild",
+      "title": "DevOps Engineer",
+      "url": "https://himalayas.app/companies/point-wild/jobs/devops-engineer?utm_source=api",
+      "posted": "2026-11-18T00:35:45.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Platform-Engineer",
+        "Site-Reliability-Engineer",
+        "Kubernetes-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "kubernetes"
+        ],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: postgresql, kubernetes",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/newvariable-inc/jobs/wordpress-engineer-senior",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "NewVariable Inc",
+      "title": "WordPress Engineer - Senior",
+      "url": "https://himalayas.app/companies/newvariable-inc/jobs/wordpress-engineer-senior?utm_source=api",
+      "posted": "2026-11-18T02:25:48.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "WordPress-Engineer",
+        "WordPress-Developer",
+        "Web-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "javascript",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): react, javascript, platform",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
+      "grade": "F",
+      "score": 9,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Oportun",
+      "title": "Sr. Data Analytics Engineer (R14153)",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
+      "posted": "Sat, 24 Oct 2026 07:30:50 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote - MX </p> <div class=\"content-intro\"><h2><span>Who We Are</span></h2> <p><span>Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually.</span></p></div><h2><span>The Opportunity&nbsp;</span></h2> <div><span>As a Sr. Data Engineer at Oportun, you will be a key member of our team, responsible for designing, developing, and maintaining sophisticated software / data platforms in achieving the charter of the engineering group. Your mastery of a technical domain enables you to take up business problems and solve them with a technical solution. With your depth of expertise and leadership abilities, you will actively contribute to architectural decisions, mentor junior engineers, and collaborate closely with cross-functional teams to deliver high-quality, scalable software solutions that advance our impact in the market. This is a role where you will have the opportunity to take up responsibility in leading the technology effort – from technical requirements gathering to final successful delivery of the product - for large initiatives (cross-functional and multi-month-long projects).</span></div> <div>&nbsp;</div> <div><span><strong>At Oportun, we move fast and we hold each other to a high bar. If you care about doing your best work while actually moving the needle for real people, you'll fit right in.</strong></span></div> <h2><span><span>What You'll Do</span></span></h2> <p><strong><span>Your day-to-day</span></strong></p> <ul> <li><span>You’ll design and implement scalable, efficient, and reliable data architectures that support business and analytical needs.</span></li> <li><span>You’ll build and maintain data pipelines, ETL processes, and integration solutions for large volumes of structured and unstructured data.</span></li> <li><span>You’ll optimize data pipelines, databases, data warehouses, and data lakes for performance, reliability, scalability, and security.</span></li> <li><span>You’ll partner with stakeholders to understand data requirements, develop domain expertise, and translate business needs into effective data models and solutions.</span></li> <li><span>You’ll establish and improve data quality standards, validation rules, documentation, and governance practices.</span></li> <li><span>You’ll implement monitoring and observability practices to identify bottlenecks, improve performance, and strengthen platform reliability.</span></li> <li><span>You’ll provide technical leadership on architecture, scalability, reliability, monitoring, integration, and extensibility.</span></li> <li><span>You’ll lead and contribute to code reviews, helping maintain high standards for code quality, performance, and maintainability.</span></li> <li><span>You’ll mentor junior engineers and support a culture of continuous learning and technical excellence.</span></li> <li><span>You’ll take ownership of production issues, including troubleshooting, root-cause analysis, escalation, and long-term resolution.</span></li> <li><span>You’ll independently lead multiple features and projects, coordinate work across engineers, and keep stakeholders informed of progress, risks, and dependencies.</span></li> <li><span>You’ll help evolve engineering tools, platforms, and practices and encourage adoption of better ways of working.</span></li> <li><span>You’ll look for practical ways to use AI tools to improve engineering productivity, analysis, documentation, and problem-solving.</span></li> </ul> <h2><span><span>Who You Are</span></span></h2> <p><strong><span>The right fit looks like this</span></strong></p> <p class=\"isSelectedEnd\"><span>You’re a hands-on data engineer who enjoys solving complex technical problems and building systems that others depend on. You combine strong technical depth with a practical understanding of business needs and know how to turn ambiguous requirements into scalable solutions.</span></p> <p><span>You take ownership, communicate clearly, and are comfortable leading technical work without relying on formal authority. You enjoy mentoring others and helping teams make stronger technical decisions.</span></p> <h2><span><span>What You Bring</span></span></h2> <p><strong><span>Skills &amp; experience</span></strong></p> <p class=\"isSelectedEnd\"><strong><span>Required</span></strong></p> <ul> <li><span>8+ years of experience in data engineering, with strong experience in data architecture, ETL, and database management.</span></li> <li><span>Strong programming skills in Python or PySpark, plus experience with Java or Scala.</span></li> <li><span>Experience building complex end-to-end data pipelines and data integration solutions.</span></li> <li><span>Strong knowledge of SQL and experience with relational and NoSQL database technologies.</span></li> <li><span>Experience with big data technologies such as Spark, Kafka, Hadoop, or similar platforms.</span></li> <li><span>Experience with orchestration and scheduling tools such as Airflow, Databricks, Jenkins, or similar technologies.</span></li> <li><span>Experience designing and operating scalable, reliable, and secure data systems.</span></li> <li><span>Familiarity with cloud platforms such as AWS, Azure, or GCP and associated data services.</span></li> <li><span>Experience working in Agile environments such as Scrum, Lean, or Kanban.</span></li> <li><span>Strong problem-solving and decision-making skills.</span></li> <li><span>Experience mentoring junior engineers and contributing to technical leadership within a team.</span></li> <li><span>Strong written and verbal communication skills with the ability to work effectively across technical and non-technical teams.</span></li> </ul> <h3><span><strong><span>Nice to Have</span></strong></span></h3> <ul> <li>Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field.</li> <li>Databricks experience or certification.</li> <li>Experience with AWS Redshift, S3, Azure SQL Data Warehouse, or comparable cloud data services.</li> <li>Experience implementing data governance, data quality, or observability frameworks.</li> <li>Experience leading cross-functional or multi-month engineering initiatives.</li> <li>Experience using AI-assisted engineering tools to improve development, troubleshooting, documentation, or productivity.</li> </ul> <h2><span>Our AI Mindset</span></h2> <h3><span>We build with AI. We lead with judgment.</span></h3> <p><span><strong>AI isn't a feature here. It's how we work.</strong></span></p> <p><span>We're excited about what AI makes possible, and we're looking for people who share that curiosity. You don't need to be an expert. You need to be <span><strong>open to experimenting</strong></span>, willing to learn, and able to apply new tools in ways that actually move the needle.</span></p> <p><span>In this role, you'll be encouraged to explore AI tools, find practical use cases for your function, and bring ideas for working smarter. We believe the best outcomes come when <span><strong>human judgment and AI capability work together.</strong></span></span></p> <h2><span><span>Why Oportun</span></span></h2> <p><span><strong><span><span class=\"TextRun SCXW50467585 BCX0\" lang=\"EN-US\"><span class=\"NormalTextRun SCXW50467585 BCX0\">What's</span><span class=\"NormalTextRun SCXW50467585 BCX0\"> in it for you</span></span><span class=\"EOP Selected SCXW50467585 BCX0\">&nbsp;</span></span></strong></span></p> <p><span><span>Oportun offers a competitive compensation and benefits package designed to support your physical, financial, and professional well-being. Benefits vary by country of employment.</span><span>&nbsp;</span></span></p> <p><span><span>Some of the benefits available to eligible employees include:</span><span>&nbsp;</span></span></p> <p><span><strong><span>Mexico Benefits:</span></strong><span>&nbsp;</span></span></p> <div> <ul> <li><span>Medical Insurance</span></li> <li><span>Savings Fund and Life Insurance</span></li> <li><span>Vacation and Parental Leave</span></li> <li><span>Internet and Electricity Allowance</span></li> </ul> </div> <p><span><span>Eligibility and plan details vary by location and employment status. To learn more about Oportun and our benefits, visit </span><span><strong><span>oportun.com/careers</span></strong><span>&nbsp; &nbsp;</span></span></span><span>#LI-REMOTE #LI-GK1</span></p><div class=\"content-conclusion\"><p><em><span>We are proud to be an Equal Opportunity Employer and consider all qualified applicants for employment opportunities without regard to race, age, color, religion, gender, national origin, disability, sexual orientation, veteran status or any other category protected by the laws or regulations in the locations where we operate.</span></em></p> <p><em><span>&nbsp;</span></em></p> <p><em><span>California applicants can find a copy of Oportun's CCPA Notice here:&nbsp; <a href=\"https://oportun.com/privacy/california-privacy-notice/\">https://oportun.com/privacy/california-privacy-notice/</a>.</span></em></p> <p>&nbsp;</p> <p><em><span>We will never request personal identifiable information (bank, credit card, etc.) before you are hired. We do not charge you for pre-employment fees such as background checks, training, or equipment. If you think you have been a victim of fraud by someone posing as us, please report your experience to the FBI’s Internet Crime Complaint Center (IC3).</span></em></p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153\">https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "kafka"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "platform",
+          "etl",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "8+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/l4b-software/jobs/principal-embedded-product-security-architect",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "L4B Software",
+      "title": "Principal Embedded Product Security Architect",
+      "url": "https://himalayas.app/companies/l4b-software/jobs/principal-embedded-product-security-architect?utm_source=api",
+      "posted": "2026-11-17T23:50:00.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Principal-Embedded-Product-Security-Architect",
+        "Embedded-Security-Architect",
+        "Product-Cybersecurity-Architect",
+        "Embedded-Software-Security-Engineer",
+        "Platform-Security-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "linux",
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack (weak): linux, platform, real-time",
+        "Principal-level title",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

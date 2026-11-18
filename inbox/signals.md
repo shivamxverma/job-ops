@@ -11,6 +11,13 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Botsync** — B | Wed, 18 Nov 2026 | YourStory: https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation | why: sector: ai, platform; funding: raises; also: Inc42
+- [ ] **Humyn Labs** — B | Wed, 18 Nov 2026 | Inc42: https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/ | why: sector: ai; funding: raises
+- [ ] **Soket AI** — B | Wed, 18 Nov 2026 | Inc42: https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/ | why: sector: ai; funding: raises
+- [ ] **Bengaluru leads India in AI startup funding: Innovation Report 2026** — B | Wed, 18 Nov 2026 | YourStory: https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026 | why: sector: ai; funding: raised; 📍 bengaluru
+- [ ] **Recove Ventures Nets ₹56 Cr To Expand Recycling Business** — C | Wed, 18 Nov 2026 | Inc42: https://inc42.com/buzz/recove-ventures-nets-%e2%82%b956-cr-to-expand-recycling-business/ | why: funding: raised; 📍 bengaluru
+- [ ] **Circular economy company Recove Ventures** — C | Wed, 18 Nov 2026 | YourStory: https://yourstory.com/2026/11/circular-economy-company-recove-ventures-raises-rs-56-crore | why: funding: raises
+
 - [ ] **Fatehpuria Hygiene** — B | Wed, 18 Nov 2026 | YourStory: https://yourstory.com/2026/11/fatehpuria-hygiene-secures-rs-100-cr-first-equity-fundraise | why: sector: ai; funding: secures
 - [ ] **Egg Brand Henfruit** — C | Wed, 18 Nov 2026 | Inc42: https://inc42.com/buzz/egg-brand-henfruit-raises-15-mn-in-first-external-funding-round/ | why: funding: raises
 

@@ -1,0 +1,49 @@
+{
+  "pulled": "2026-11-19",
+  "scanned": 611,
+  "survived": 9,
+  "hits": [
+    {
+      "id": 95252,
+      "grade": "C",
+      "score": 61,
+      "company": "SureBright",
+      "batch": "S24",
+      "title": "Software Engineer, Founder’s Office",
+      "location": "Gurugram, HR, IN / Gurugram, Haryana, IN / DL, IN / Delhi, IN",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "1+ years",
+      "salaryRange": "₹500K - ₹1.5M INR",
+      "equityRange": "",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "LLMs",
+        "AI Agents"
+      ],
+      "oneLiner": "Apple Care-like warranty program for every retailer ",
+      "createdAt": "6 months",
+      "lastActive": "1 day",
+      "teamSize": 35,
+      "stage": "Early",
+      "tags": [
+        "E-commerce",
+        "Insurance",
+        "Retail",
+        "AI"
+      ],
+      "website": "https://surebright.com/",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/surebright/jobs/F4YIgxx-software-engineer-founder-s-office",
+      "companyUrl": "https://www.ycombinator.com/companies/surebright",
+      "why": [
+        "stack: llm",
+        "35-person team",
+        "story fit (AI vocab only): ai, ai agent, agents",
+        "India-based",
+        "0-1 years ok"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

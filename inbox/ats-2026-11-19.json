@@ -1,0 +1,39 @@
+{
+  "pulled": "2026-11-19",
+  "scanned": 844,
+  "survived": 63,
+  "hits": [
+    {
+      "id": "lever:hevodata:4eccaf98-ba19-42ea-b040-e0976d4dadfe",
+      "grade": "C",
+      "score": 53,
+      "source": "lever (seed list)",
+      "company": "Hevodata",
+      "domain": "hevodata.com",
+      "title": "Associate SDE",
+      "url": "https://jobs.lever.co/hevodata/4eccaf98-ba19-42ea-b040-e0976d4dadfe",
+      "posted": "2026-11-18T08:50:48.167Z",
+      "location": "Bangalore, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

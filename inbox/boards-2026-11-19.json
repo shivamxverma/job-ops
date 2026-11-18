@@ -1,0 +1,669 @@
+{
+  "pulled": "2026-11-19",
+  "scanned": 350,
+  "survived": 197,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/astreya/jobs/golang-software-engineer-ii",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Astreya",
+      "title": "Golang Software Engineer II",
+      "url": "https://himalayas.app/companies/astreya/jobs/golang-software-engineer-ii?utm_source=api",
+      "posted": "2026-11-18T09:56:29.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Site-Reliability-Engineer",
+        "Infrastructure-Automation-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
+      "grade": "B",
+      "score": 64,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Bitovi",
+      "title": "Backend / Platform Developer Consultant (Temporal & Kubernetes)",
+      "url": "https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
+      "posted": "Thu, 29 Oct 2026 22:31:03 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6655/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> United States <br /><strong>URL:</strong> <a href=\"https://bitovi.com\">https://bitovi.com</a> </p> <h2>JOIN OUR TEAM!</h2> <p>Bitovi is looking for a Backend / Platform Developer Consultant to join us as we transform technology delivery. We build and operate durable, distributed systems for enterprise clients — heavy on Java Services, Temporal for workflow orchestration, Kafka for event streaming, and Kubernetes-native platform engineering on AWS to run it all reliably. If you want to build exceptional systems, take orchestration, systems engineering, and infrastructure seriously, and have ideas for making delivery more collaborative, validation-driven, and swift, we want to work with you!<br><br><strong>Compensation:</strong> $120,000 to $190,000 annually, depending on experience, plus annual bonus opportunity.</p> <p><strong>PLEASE NOTE: At this time, we are only considering candidates located in and authorized to work in the United States.</strong></p> <p>&nbsp;</p> <h2>WHO YOU ARE</h2> <p>You're experienced building and running applications at the enterprise level, and you're comfortable owning both the code and the infrastructure it runs on. You think like a systems engineer — reasoning about the whole platform, from JVM services and event streams to the clusters and cloud infrastructure underneath them. You thrive when given opportunities to deliver real-world platforms as an integral team member, including large-scale migrations, and you have the expertise to interface and communicate confidently with stakeholders.</p> <p>You'll excel in this role at Bitovi if you have:</p> <ul> <li>Strong working knowledge of Java and the JVM ecosystem (Spring Boot or similar); experience with additional backend languages (Go, Python, TypeScript/JavaScript, C#, etc.) is a plus</li> <li>Hands-on experience with a durable execution / workflow engine — Temporal preferred (Apache Airflow, Prefect, or similar also relevant) — including modeling workflows and activities, handling retries and timeouts, and reasoning about idempotency and failure modes</li> <li>Experience designing and operating Kafka-based event streaming systems: topic and partition design, consumer groups, schema management, and reasoning about ordering, delivery guarantees, and consumer lag</li> <li>Experience designing and building GraphQL APIs — schema design, resolvers, and performance concerns (N+1, caching, pagination); federation experience a plus</li> <li>Deep, hands-on AWS experience: architecting, deploying, and operating production systems (EKS, networking, IAM, messaging, and data services)</li> <li>Solid Kubernetes experience: deploying, operating, and debugging production workloads</li> <li>A systems engineering mindset: understanding of complex scaling issues, concurrency, backpressure, caching strategies, and failure modes across distributed systems</li> <li>Experience planning and executing migrations — application replatforming, workflow engine migrations, data/schema migrations, or moving workloads between environments with minimal downtime</li> <li>A thorough understanding of CI/CD pipelines and GitOps-style delivery</li> <li>Experience with observability in practice — logging, metrics, and tracing (OpenTelemetry a plus)</li> <li>Experience building modern microservice-based or serverless applications</li> <li>Database schema design and development expertise</li> </ul> <h2>Other skills we value</h2> <p>Temporal depth</p> <ul> <li>Running Temporal in production — self-hosted on Kubernetes and/or Temporal Cloud</li> <li>Workflow versioning and patching, safe deployments, and long-running workflow migrations</li> <li>Worker deployment and tuning (pollers, task queues, concurrency/slot configuration)</li> <li>Namespace management, mTLS (SPIFFE/SPIRE or private CA), and capacity/scaling concerns (e.g. APS/TRU on Temporal Cloud</li> </ul> <p>Kafka &amp; event streaming depth</p> <ul> <li>Operating Kafka in production (MSK, Confluent, or self-managed on Kubernetes)</li> <li>Kafka Connect, Kafka Streams, and schema registry workflows (Avro/Protobuf)</li> <li>Migrating between clusters or providers, and integrating Kafka with downstream analytical stores</li> <li>Experience with different techniques for processing large datasets, such as Lambda and Kappa architectures</li> </ul> <h3>Platform / DevOps depth</h3> <ul> <li>Building or operating an internal developer platform (IDP) — self-service, paved-path infrastructure for application teams</li> <li>GitOps with ArgoCD (or Flux) and a low- or zero-manual-apply delivery model</li> <li>Infrastructure as code: Terraform/OpenTofu, and provisioning AWS resources via Crossplane, ACK, or similar</li> <li>Writing Kubernetes controllers/operators (controller-runtime, kubebuilder) and working with CRDs</li> <li>Helm chart authoring and distribution (including OCI/registry-based)</li> <li>Secrets management (External Secrets Operator, etc.), autoscaling (Karpenter, KEDA), and service mesh concepts (Istio, SPIFFE/SPIRE)</li> <li>EKS or comparable managed Kubernetes at scale</li> </ul> <h3>General</h3> <ul> <li>Interest in working across multiple backend languages</li> <li>Additional queueing and messaging technologies (AWS SQS/SNS, RabbitMQ)</li> <li>API design across paradigms (GraphQL, REST, gRPC)</li> <li>AuthN/AuthZ and related technologies (sessions, API tokens, JWTs)</li> <li>Automated testing across the stack (unit, integration, performance/benchmarking)</li> </ul> <h2>WHO WE ARE</h2> <p>Bitovi partners with companies to build outcome-focused apps and platforms. Our collaborative approach is driven by validation to deliver the swiftest route to the most valuable solution.</p> <p>We design and build high-profile applications and the infrastructure behind them — with tests, full docs, and a real deployment process. We run a serious Temporal practice (including large-scale migration and security work for enterprise clients) alongside deep Kubernetes, AWS, and platform engineering work. We discuss and design architectures, review code, and research new technologies. We talk to our clients, guiding them through the process, identifying potential problems and unknowns, and tackling challenges.</p> <p>We help one another freely. We keep a Slack channel called ask-help, which is constantly used. We develop new skills, build better developer tools, and work on new types of projects regularly.</p> <p>Our fully remote team comprises about 70 developers and designers. We welcome diversity and non-traditional paths into professions — we want the right person, not the right collection of tech keywords.</p> <p>&nbsp;</p> <h2>WHAT YOU'LL DO AT BITOVI</h2> <p><strong>Build durable systems.</strong> Design and implement Java services, Temporal workflows, and Kafka-based event pipelines, and help clients adopt durable execution and event streaming the right way — from first workflow to production scale.</p> <p><strong>Lead modernization efforts.</strong> Plan and execute large-scale modernization efforts — moving workflows, services, and data between platforms, clusters, and clouds — with safety, observability, and minimal disruption as first-class requirements.</p> <p><strong>Own the platform.</strong> Build and operate Kubernetes-native infrastructure and CI/CD on AWS so application teams can ship safely and quickly. Treat reliability, observability, and repeatability as part of the deliverable, not an afterthought.</p> <p><strong>Consult and manage.</strong> Consult with clients to build outcome-driven applications and platforms, guiding them through the process, identifying potential problems and unknowns, and tackling challenges.</p> <p><strong>Travel.</strong> This is a remote, full-time position that requires the ability to travel. We travel an average of 3–5 days every quarter, and we'll always do our best to work with your schedule.</p> <p><strong>Teach.</strong> We'll discuss opportunities for you to present at conferences, attend and give training, plan and run meetups or local groups, and create various kinds of content in your area of expertise.</p> <h2>&nbsp;</h2> <h2>BENEFITS WE OFFER</h2> <ul> <li>Competitive salary and annual bonus opportunity</li> <li>Completely remote work with flexible hours</li> <li>401(k) matching</li> <li>4 weeks of paid time off in addition to 8 paid holidays</li> <li>Health, dental, and vision insurance offerings</li> <li>Paid maternity and paternity leave</li> <li>STD, LTD, and Life Insurance coverage</li> </ul> <p>&nbsp;</p> <p><strong>HOW TO APPLY</strong></p> <p>Please share a resume or LinkedIn profile and answer the additional questions via the application link.&nbsp;</p> <p>&nbsp;</p> <p><strong>OTHER&nbsp;</strong></p> <p>Please note that we are not interested in working with recruiters.&nbsp;</p> <p>ID Verification required if invited to an interview.</p> <p>All job offers are contingent on passing a background check.&nbsp;</p> <p>Candidates must be located in and authorized to work in the United States; we are unable to provide visa sponsorship at this time.</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes\">https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "typescript",
+          "kafka",
+          "kubernetes",
+          "developer tools"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, typescript, kafka, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka, developer tools)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/intive/jobs/associate-application-migration-platform-support-engineer-6-month-contract",
+      "grade": "F",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "intive",
+      "title": "Associate Application Migration & Platform Support Engineer (6 month contract)",
+      "url": "https://himalayas.app/companies/intive/jobs/associate-application-migration-platform-support-engineer-6-month-contract?utm_source=api",
+      "posted": "2026-11-18T17:23:05.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Application-Migration-Engineer",
+        "Platform-Support-Engineer",
+        "DevOps-Engineer",
+        "Systems-Administrator",
+        "Cloud-Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "platform",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "non-eng title: Support Engineer",
+        "non-engineering seat",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/perceptive/jobs/agentic-ai-engineer-8327877868",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Perceptive",
+      "title": "Agentic AI Engineer",
+      "url": "https://himalayas.app/companies/perceptive/jobs/agentic-ai-engineer-8327877868?utm_source=api",
+      "posted": "2026-11-18T15:57:05.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Engineer",
+        "Agentic-AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Software-Engineer",
+        "MLOps-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): automation, ai agent, agentic",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/jpmorgan-chase-co/jobs/lead-software-engineer-platform-engineering-distributed-systems-resiliency",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "JPMorgan Chase & Co.",
+      "title": "Lead Software Engineer – Platform Engineering, Distributed Systems & Resiliency",
+      "url": "https://himalayas.app/companies/jpmorgan-chase-co/jobs/lead-software-engineer-platform-engineering-distributed-systems-resiliency?utm_source=api",
+      "posted": "2026-11-18T14:13:48.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Platform-Engineer",
+        "Site-Reliability-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "DevOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/harris/jobs/technical-support-architect-ai",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Harris",
+      "title": "Technical Support Architect (AI)",
+      "url": "https://himalayas.app/companies/harris/jobs/technical-support-architect-ai?utm_source=api",
+      "posted": "2026-11-18T08:34:02.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Technical-Support-Architect",
+        "AI-Architect",
+        "AI-Solutions-Architect",
+        "Technical-Support-Engineer",
+        "ServiceNow-Architect"
+      ],
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "Architect-level title",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
+      "grade": "D",
+      "score": 37,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Legion",
+      "title": "Senior Integration Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
+      "posted": "Thu, 29 Oct 2026 07:30:52 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote, Mexico </p> <h1><strong>Senior Integration Engineer</strong></h1> <h2><strong>Remote, Mexico</strong></h2> <p><strong>JOB OVERVIEW</strong></p> <p>Are you passionate about building large-scale applications leveraging public cloud services and integration design patterns? As an Integration Engineer, you will work on developing and maintaining Integration &amp; Automation Solutions for Legion WFM customers.</p> <p>&nbsp;</p> <p><strong>RESPONSIBILITIES AND DUTIES</strong></p> <p>Integration Engineers provide leadership, facilitate analysis and design tasks, and support multiple Legion teams in developing an enterprise's solution architecture. Job responsibilities are grouped across four key areas: Technical Integrations, Customer-Centric Consulting, Legion Product Expertise, and a Commitment to One Another.</p> <p>Please note this role involves participation in on-call rotation.</p> <h3>Technical Integrations</h3> <ul> <li>Design and implement scalable integration architectures connecting Legion with HR, POS, Payroll, and other enterprise systems.</li> <li>Design, Build, and Test integrations using Workato</li> <li>Develop secure and efficient REST APIs within Legion's API-driven ecosystem.</li> <li>Ensure high-performance, reliable integrations using modern cloud platforms.</li> <li>Engage with architects and engineers for design collaboration and code reviews.</li> <li>Improve development practices and stay ahead of agile software engineering trends.</li> </ul> <h3>Legion Product Expertise</h3> <ul> <li>Gain and maintain deep knowledge of Legion's product and integration ecosystem.</li> <li>Identify, report, and prioritize product bugs and enhancements.</li> <li>Work with core engineering and production engineering teams to improve backend reliability and troubleshoot production issues</li> <li>Stay updated on new releases and enhancements to drive product adoption.</li> <li>Write secure, enterprise-grade integration code using leading platforms and technologies.</li> <li>Write well-designed, testable, efficient code</li> <li>Contribute to all phases of the development lifecycle</li> <li>Conduct peer code reviews to ensure code quality and maintainability.</li> </ul> <h3>Team Collaboration &amp; Mentorship</h3> <ul> <li>Share expertise and mentor junior engineers, fostering a culture of knowledge-sharing.</li> <li>Contribute to best practices for integration and internal technical documentation.</li> <li>Support process improvements and advocate for scalable, sustainable integrations.</li> <li>Commit to high-quality work, setting personal and team objectives aligned with organizational goals.</li> <li>Standard shift working hours: 0900-1800</li> <li>This role involves participation in on-call rotation.</li> <li>This role may require work outside of normal business hours.</li> </ul> <p><strong>REQUIRED SKILLS AND QUALIFICATIONS</strong></p> <ul> <li>7+ years of business/information/solution/technical architecture experience</li> <li>Graduate of a university with a Bachelor's or Master's degree in a relevant STEM field, including Information Systems, Engineering, Computer Science, or another relevant degree</li> <li>Must be able to work as a team player, yet can work independently.</li> <li>Analytical, results-driven, and have a solution-oriented approach</li> <li>Possess exceptional interpersonal and English communication skills, including verbal, written presentation, and listening.</li> <li>3+ years of experience with event-driven Architecture and Microservices</li> <li>Demonstrated deep technical expertise in Integration technologies and protocols such as HTTP, HTTPS, FTP, SFTP, SOAP, REST, JMS, JDBC</li> <li>Experience using Linux/Unix environments</li> <li>Demonstrate proficiency with Core Java.</li> <li>Experience with Relational Databases, SQL and JDBC (one of Oracle, PostgreSQL, SQL Server, etc.)</li> <li>2+ years of experience using AWS technologies such as AWS CDK, Cloud formation, S3, ECS, EKS, and EC2</li> <li>Demonstrate experience with test-driven development.</li> <li>Strong experience with Java/RESTful web services</li> <li>Exposure to agile software development leveraging toolsets (e.g., Jira, GitHub, Jenkins)</li> <li>Demonstrate knowledge and experience with CI/CD processes and tools.</li> <li>Proven track record of using problem-solving / root-cause analysis</li> </ul> <p><strong>PREFERRED QUALIFICATIONS AND ATTRIBUTES</strong></p> <ul> <li>The ideal candidate has workforce management integration experience</li> <li>Preferred experience in the design and implementation of scalable integration solutions with integration platforms such as Workato, SAP BTP Integration Suite, Dell Boomi, Jitterbit, SnapLogic&nbsp;</li> <li>Proactive and able to command respect through intelligence, hard work, and persistence</li> <li>Technical consulting experience.</li> <li>Experience of working with Docker and other isolation technologies.</li> <li>Experience working with external applications integrations end-to-end such as Workday, SAP, etc.</li> </ul> <p><strong>COMPENSATION &amp; BENEFITS</strong></p> <p>At Legion, we offer competitive compensation and benefits packages to all employees. As a fully remote employer, pay for positions is determined using local, national, and industry-specific survey data.&nbsp;</p> <p>We strive to make competitive offers allowing employees room for future growth. Salaries will be based on the applicant’s location, level of experience, education, and specialized knowledge and skills. Additionally, we consider the external market rate, the amount we have budgeted internally, and internal equity within the company for the same position.&nbsp;</p> <p>Benefits include, but are not limited to:&nbsp;</p> <ul> <li>Health Benefits</li> <li>Paid Time Off and Paid Holidays</li> <li>Parental Leave&nbsp;</li> <li>Equity&nbsp;</li> <li>Monthly Wellness Reimbursement</li> <li>Monthly Lunch on Legion</li> </ul> <p><strong>ABOUT LEGION</strong></p> <p>Join Legion's mission to turn hourly jobs into good jobs. We're a remote, mission-driven team seeking exceptional talent to propel this vision. Embrace a culture that's collaborative, fast-paced, and entrepreneurial. With us, you'll grow your skills, work closely with experienced executives, and contribute significantly to our mission. Legion Technologies delivers the industry’s most innovative workforce management platform. It enables businesses to maximize labor efficiency and employee engagement simultaneously. The award-winning, AI-driven Legion WFM platform is intelligent, automated, and employee-centric. It’s proven to deliver 13x ROI through schedule optimization, reduced attrition, increased productivity, and increased operational efficiency. Legion delivers cutting-edge technology in an easy-to-use platform and mobile app that employees love.&nbsp;</p> <p>If you're ready to make an impact and grow your career, Legion is where you belong. Join us in making hourly work rewarding and fulfilling.</p> <p><strong>BACKGROUND AND OPPORTUNITY&nbsp;</strong></p> <p>There are almost 75 million hourly workers in the United States, representing more than half of the entire workforce. Historically, managing hourly employees has been difficult due to high attrition (average of 60%) and high replacement costs (average of $3,200 per employee in retail). The ongoing labor shortage and competition from the gig economy make it more difficult to attract and retain hourly employees. The top reasons hourly employees leave their jobs are a lack of schedule empowerment, poor communication with employers, and an inability to get paid early. Gen Z and the millennial workforce demand gig-like flexibility, modern technology, and compelling work options. Legion’s mission is to turn hourly jobs into good jobs, serving the hourly workers who make up the majority of the US workforce. We believe in empowering employees and helping employers be efficient and innovative by enabling intelligent automation powered by Legion’s Workforce Management platform to optimize labor efficiency and enhance the employee experience simultaneously. Legion WFM was built for the cloud with AI at the core and designed to handle the complexity of modern businesses and meet the needs of today’s hourly employees.&nbsp; Our team is comprised of dedicated individuals from all backgrounds and experiences, globally distributed across all time zones.</p> <p>For more information, visit<a href=\"https://legion.co\"> https://legion.co</a>&nbsp;</p> <p><strong>EQUAL EMPLOYMENT OPPORTUNITY</strong></p> <p>Legion Technologies is proud to be an equal-opportunity employer and is committed to maintaining a diverse and inclusive work environment. All qualified applicants will be considered for employment without regard to race, color, religion, sex, age, disability, marital status, familial status, sexual orientation, pregnancy, genetic information, gender identity, gender expression, national origin, ancestry, citizenship status, veteran status, and any other legally protected status under federal, state, or local anti-discrimination laws.</p> <p><strong>DISABILITY ACCOMMODATION</strong></p> <p>For individuals with disabilities who need additional assistance at any point in the application and interview process, please email recruiting@legion.co&nbsp;</p> <p>We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Legion recruiting email communications will always come from the @<a href=\"http://legion.co\">legion.co</a> domain. Any outreach claiming to be from Legion via other sources should be ignored. If you are uncertain whether you have been contacted by an official Legion employee, reach out to recruiting@legion.co</p> <p>&nbsp;</p><div class=\"content-conclusion\"><p><span><em>Legion is an equal opportunity employer. All applicants will be considered for employment without attention to race, religion, color, sex, sexual orientation, gender identity, age, national origin, veteran, disability status, or any other basis covered by appropriate law.</em></span></p> <h2>How We Determine What We Pay</h2> <p><em>As a global employer, Legion determines pay for positions using local, national, and industry-specific survey data. We evaluate external equity and the cost of labor/prevailing wage index in the relative marketplace for jobs directly comparable to jobs within our company. Our posted salary range is based on national data and may be refined for a candidate's region/town/cost of living. For new hires, we strive to make competitive offers allowing the new employee room for future growth. Salaries will be based on the applicant’s location, level of experience, education, and specialized knowledge and skills. Additionally, we consider the external market rate, the amount we have budgeted internally, and internal equity within the company for the same position. An employee/candidate with a stronger skill set will receive higher pay.</em></p> <h1>Job Applicant Privacy Policy</h1> <p>This Job Applicant Privacy Policy (“<strong>Policy</strong>”) describes how Legion Technologies, Inc. (“<strong>Legion</strong>”, “<strong>we</strong>”, “<strong>us</strong>” and “<strong>our</strong>”) collects, uses, and discloses “personal information” as defined under California law from and about job applicants who are residents of California.</p> <p>This Policy does not apply to our handling of data gathered about you in your role as a user of our consumer-facing services. When you interact with us as in that role, the&nbsp;<a href=\"https://legion.co/privacy-policy/\">Legion Privacy Policy</a>&nbsp;applies.</p> <div class=\"section-anchor position-relative\"></div> <ol class=\"ol-bold\"> <li> <p><strong>Types of Personal Information We Handle</strong></p> <p>We collect, store, and use various types of personal information through the application and recruitment process. We collect such information either directly from you or (where applicable) from another person or entity, such as an employment agency or consultancy, background check provider, or other referral sources. This information includes:</p> <ul> <li><strong>Identification and contact information, and related identifiers</strong>&nbsp;such as full name, date and place of birth, citizenship and permanent residence, home and business addresses, telephone numbers, email addresses, and such information about your beneficiaries or emergency contacts.</li> <li><strong>Professional or employment-related information,</strong>&nbsp;including: <ul> <li><strong>Recruitment, employment, or engagement information</strong>&nbsp;such as application forms and information included in a resume, cover letter, or otherwise provided through any application or engagement process; and copies of identification documents, such as driver’s licenses, passports, and visas; and background screening results and references.</li> <li><strong>Career information</strong>&nbsp;such as job titles; work history; work dates and work locations; information about skills, qualifications, experience, publications, speaking engagements, and preferences; and professional memberships</li> </ul> </li> <li><strong>Education Information</strong>&nbsp;such as institutions attended, degrees, certifications, training courses, publications, and transcript information.</li> <li><strong>Legally protected classification information</strong>&nbsp;such as race, sex/gender, religious/ philosophical beliefs, gender identity/expression, sexual orientation, marital status, military service, nationality, ethnicity, request for family care leave, political opinions, and criminal history.</li> <li><strong>Other information</strong>&nbsp;such as any information you voluntarily choose to provide in connection with your job application.</li> </ul> </li> <li class=\"mt-3\"> <p><strong>How We Use Personal Information</strong></p> <p>We collect, use, share, and store personal information from job applicants for our and our service providers’ business and operational purposes in the recruitment process such as: processing your application, tracking your application through the recruitment process, contacting references with your authorization, conducting background checks you authorize, and making hiring decisions. We will also use job applicant information for internal analysis purposes to understand the applicants who apply and to improve our recruitment process. We may sometimes need to use applicant information for legal purposes, such as in connection with any challenges made to our hiring decisions.</p> </li> <li class=\"mt-3\"> <p><strong>With Whom We Share Personal Information</strong></p> <p>We will disclose job applicant personal information to the following types of entities or in the following circumstances (where applicable):</p> <ul> <li><strong>Internally</strong>: to other Legion personnel involved in the recruiting and hiring process.</li> <li><strong>Vendors</strong>: such as technology service providers, travel management providers, human resources suppliers, background check companies, and employment agencies or recruiters, where applicable.</li> <li><strong>Legal Compliance</strong>: when required to do so by law, regulation, or court order or in response to a request for assistance by the police or other law enforcement agency.</li> <li>L<strong>itigation Purposes</strong>: to seek legal advice from our external lawyers or in connection with litigation with a third party.</li> <li><strong>Business Transaction Purposes</strong>: in connection with the sale, purchase, or merger.</li> </ul> </li> <li class=\"mt-3\"><strong>How to Contact Us About this Policy</strong>&nbsp;– If you have any questions about this Policy, please contact <a href=\"mailto:privacy@legion.co\">privacy@legion.co</a>.</li> </ol></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer\">https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer</a></p>",
+      "reachability": {
+        "status": "open",
+        "reason": "fully distributed"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "docker"
+        ],
+        "weak": [
+          "aws",
+          "s3",
+          "linux",
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "remote",
+          "junior",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: postgresql, docker",
+        "senior-titled",
+        "2+ years stated",
+        "reachable: fully distributed"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+      "grade": "D",
+      "score": 34,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "PlanetScale",
+      "title": "Software Engineer - PlanetScale Postgres",
+      "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+      "posted": "Sun, 25 Oct 2026 07:30:54 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote </p> <p>PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform delivers a fully managed, multi-cloud Postgres service designed for the most demanding production workloads. We handle the complexity of provisioning, scaling, replication, and failover - so engineering teams can focus on building their products.</p> <p>Our customers entrust us with their most precious digital asset, their data, so the stakes couldn't be higher. We're looking for a Software Engineer to join our Postgres engineering team and help us build a world-class managed Postgres offering.</p> <h3>What's the job to be done?</h3> <ul> <li>You will design and build the control plane that provisions, scales, and heals Postgres clusters with minimal customer-visible downtime.</li> <li>You will build and maintain high availability, disaster recovery, and data protection solutions that keep customer databases safe through infrastructure failures.</li> <li>You will tune Postgres to operate at scale for some of the largest and most demanding workloads in the world.</li> <li>You will build tooling and automation for database operations, backup, restore, and migration workflows - and participate in an on-call rotation.</li> <li>You will work directly with customers to understand their workloads and translate real-world needs into platform improvements.</li> </ul> <h3>These attributes best describe you…</h3> <ul> <li>You have strong experience building, operating, or maintaining large-scale Postgres deployments in production.</li> <li>You have an excellent understanding of low-level operating systems concepts including multi-threading, memory management, networking, storage, and performance.</li> <li>You have strong fundamental computer science skills and can reason about distributed, fault-tolerant systems.</li> <li>You thrive in a collaborative environment, enjoy mentoring other engineers, and communicate complex technical tradeoffs clearly.</li> <li>You are self-motivated and can work independently with minimal guidance while making sound technical decisions.</li> </ul> <h3>What you will need</h3> <ul> <li>5+ years of software engineering experience designing, building, and supporting large-scale systems in production.</li> <li>Strong proficiency in Go, with experience in other languages like Ruby, Python, Zig or Rust.</li> <li>Experience building and maintaining distributed, fault-tolerant services.</li> <li>Working knowledge of Kubernetes and containerized applications.</li> <li>Experience building and operating distributed systems at scale.</li> </ul> <h3>What else will help you be successful</h3> <ul> <li>Experience building or operating a database-as-a-service or managed database platform.</li> <li>Experience with connection pooling and proxy layers for Postgres.</li> <li>Experience with cloud platforms (AWS, GCP, Azure) and infrastructure-as-code.</li> <li>Contributions to open-source projects, especially in the Postgres or database infrastructure space.</li> <li>Experience working with remote, geographically distributed teams.</li> <li>Previous experience at a high-growth technology company.</li> </ul> <h3>Why PlanetScale</h3> <p>We're redefining how high-growth companies manage data at scale—and we work with some of the most exciting brands in gaming, consumer tech, and B2B SaaS. As a Software Engineer, you'll be at the core of building the platform that powers world-class apps used by hundreds of millions of users worldwide. PlanetScale is a profitable company with a philosophy centered around building small teams of p99 individuals and is recognized as one of the fastest growing companies in America.</p> <p>At PlanetScale we believe in supporting people to do their best work and thrive no matter the location. Our mission is to build a diverse, equitable, and inclusive company. We strive to build an inclusive environment where all people feel that they are equally respected and valued, whether they are a candidate or an employee. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, pregnancy status, and veteran status.</p> <p>If you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!</p> <h3>Total Compensation and Pay Transparency</h3> <p>An employee's total compensation consists of base salary + variable comp where appropriate + benefits + equity. A member of our Talent Acquisition team will be happy to answer any further questions when we engage with you to begin the interview process.</p> <p><strong>Base salary range: $120,000 - $290,000 USD</strong></p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres\">https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "postgres",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, postgres, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "5+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
+      "grade": "F",
+      "score": 29,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "SimpleTiger",
+      "title": "Web Developer",
+      "url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
+      "posted": "Wed, 28 Oct 2026 16:49:37 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0015/9228/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> Sarasota, FL <br /><strong>URL:</strong> <a href=\"https://www.simpletiger.com/\">https://www.simpletiger.com/</a> </p> <p>SimpleTiger is hiring a <strong>part-time contract web developer</strong> to build, improve, and troubleshoot client websites in WordPress and HubSpot, with the potential to grow into a larger role.</p> <p>We’re a B2B SaaS marketing agency helping software companies grow through SEO, content marketing, paid media, and answer engine optimization (AEO). Our clients’ websites are where much of that work comes to life, and we’re looking for a developer who can turn ideas into clean, functional pages quickly.</p> <p>As part of our delivery team, you’ll work primarily on client websites, translating designs, campaign concepts, and SEO recommendations into effective web experiences. From building new pages to fixing issues on existing sites, you’ll help turn our marketing strategy into work that’s ready to launch.</p> <h2><strong>Key responsibilities</strong></h2> <ul class=\"editor-list-ul\"> <li class=\"editor-listitem\">Build, update, or troubleshoot client websites in WordPress and HubSpot CMS</li> <li class=\"editor-listitem\">Make technical fixes and improvements to live client sites, with clear details on what was tested, implemented, and performance comparisons using tools like Screaming Frog, pagespeed insights, and Lighthouse</li> <li class=\"editor-listitem\">Build and connect forms, lead routing, and simple automations between a site and the client’s marketing tools</li> <li class=\"editor-listitem\">Set up and check tracking, like GA4, Google Tag Manager, and HubSpot tracking in Tandem with the SEO Manager</li> <li class=\"editor-listitem\">Keep sites fast, accessible, and friendly to SEO (page speed, Core Web Vitals, clean markup, image optimizations, cache lifetime improvements, and so on)</li> <li class=\"editor-listitem\">Write clear and timely notes on what you are actively working on, and any updates pushed live so our team and the client can follow along</li> </ul> <h2><strong>Qualifications and skills</strong></h2> <ul class=\"editor-list-ul\"> <li class=\"editor-listitem\">You’re a hands-on developer who can build from scratch, troubleshoot existing sites, and make improvements without disrupting what’s already working.</li> </ul> <h2>Required skills</h2> <ul class=\"editor-list-ul\"> <li class=\"editor-listitem\">WordPress development: Strong experience with custom themes, child themes, blocks, page builders, and Advanced Custom Fields (ACF). You can build a page from the ground up—not just edit an existing one.</li> <li class=\"editor-listitem\">HubSpot CMS development: Strong experience with HubL templates, modules, and themes, including building and troubleshooting pages, forms, and email templates.</li> <li class=\"editor-listitem\">Front-end development: Solid HTML, CSS, and JavaScript skills, with the ability to navigate existing code and understand how changes affect the live site.</li> <li class=\"editor-listitem\">APIs and integrations: Experience working with the HubSpot or WordPress REST APIs, plus CRMs and marketing tools such as Salesforce, Zapier, n8n, Airtable, and Slack.</li> <li class=\"editor-listitem\">Technical audits and fixes: Experience using Screaming Frog to audit WordPress and HubSpot sites, interpret findings, and resolve technical issues.</li> <li class=\"editor-listitem\">Code review and cleanup: Comfort working within WordPress and HubSpot codebases to identify legacy or unused JavaScript and CSS, determine what’s still needed, and safely remove what isn’t.</li> <li class=\"editor-listitem\">Async communication: Clear, timely written communication, especially through Slack.</li> <li class=\"editor-listitem\">Independent work: Strong time management and the ability to meet deadlines, flag blockers early, and keep projects moving without close supervision.</li> </ul> <h2>Nice-to-have skills</h2> <ul class=\"editor-list-ul\"> <li class=\"editor-listitem\">Webflow development and auditing experience, including building a clean CMS structure.</li> <li class=\"editor-listitem\">PHP development experience.</li> <li class=\"editor-listitem\">Previous work at a marketing agency or with B2B SaaS clients.</li> <li class=\"editor-listitem\">Familiarity with SEO and conversion best practices.</li> <li class=\"editor-listitem\">Experience with Git and version control.</li> </ul> <h2><strong>What success looks like</strong></h2> <p>Success means delivering clean, reliable development work that helps our team turn marketing plans into live client experiences.</p> <ul class=\"editor-list-ul\"> <li class=\"editor-listitem\">Designs, campaign concepts, and SEO requests become functional pages in WordPress and HubSpot.</li> <li class=\"editor-listitem\">Technical audit findings lead to practical fixes, with changes tested to avoid breaking existing functionality.</li> <li class=\"editor-listitem\">Legacy and unused code is cleaned up thoughtfully, while essential code and front-end behavior remain intact.</li> <li class=\"editor-listitem\">Forms, templates, and integrations work as intended and support the client’s marketing workflows.</li> <li class=\"editor-listitem\">Projects stay on track because you manage your workload, meet agreed deadlines, and raise questions or blockers early.</li> <li class=\"editor-listitem\">Teammates have clear visibility into progress through timely updates and straightforward communication in Slack.</li> </ul> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor\">https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, automation, remote",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/clanx/jobs/salesforce-developer-us-shift-remote-6384036196",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "ClanX",
+      "title": "Salesforce Developer (US Shift)  - Remote",
+      "url": "https://himalayas.app/companies/clanx/jobs/salesforce-developer-us-shift-remote-6384036196?utm_source=api",
+      "posted": "2026-11-18T09:05:57.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Developer",
+        "CRM-Developer",
+        "Salesforce-Platform-Engineer",
+        "Salesforce-Technical-Lead",
+        "CRM-Manager"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, remote",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/l4b-software/jobs/senior-embedded-product-cybersecurity-engineer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "L4B Software",
+      "title": "Senior Embedded Product Cybersecurity Engineer",
+      "url": "https://himalayas.app/companies/l4b-software/jobs/senior-embedded-product-cybersecurity-engineer?utm_source=api",
+      "posted": "2026-11-18T15:54:40.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Embedded-Cybersecurity-Engineer",
+        "Product-Security-Engineer",
+        "Embedded-Software-Engineer",
+        "Firmware-Security-Engineer",
+        "Security-Architect"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "linux",
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack (weak): linux, platform, real-time",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/taskus/jobs/senior-data-engineer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "TaskUs",
+      "title": "Senior Data Engineer",
+      "url": "https://himalayas.app/companies/taskus/jobs/senior-data-engineer?utm_source=api",
+      "posted": "2026-11-18T12:39:58.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Big-Data-Engineer",
+        "Data-Platform-Engineer",
+        "Analytics-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "etl",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, etl",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/editorialist-yx/jobs/search-architect",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Editorialist YX",
+      "title": "Search Architect",
+      "url": "https://himalayas.app/companies/editorialist-yx/jobs/search-architect?utm_source=api",
+      "posted": "2026-11-18T18:54:32.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Search-Architecture",
+        "Technical-Architect",
+        "Software-Architect",
+        "Search-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Architect-level title",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/myers-holum/jobs/senior-developer-data-integration-and-bi",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Myers-Holum",
+      "title": "Senior Developer, Data Integration and BI",
+      "url": "https://himalayas.app/companies/myers-holum/jobs/senior-developer-data-integration-and-bi?utm_source=api",
+      "posted": "2026-11-18T15:17:47.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Data-Integration-Developer",
+        "Senior-BI-Developer",
+        "Data-Integration-Engineer",
+        "Business-Intelligence-Developer",
+        "Data-Warehouse-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql"
+        ],
+        "weak": [
+          "platform",
+          "etl"
+        ]
+      },
+      "why": [
+        "stack: postgresql",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/wikimedia-foundation/jobs/senior-site-reliability-engineer",
+      "grade": "F",
+      "score": -7,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Wikimedia Foundation",
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://himalayas.app/companies/wikimedia-foundation/jobs/senior-site-reliability-engineer?utm_source=api",
+      "posted": "2026-11-18T19:06:58.000Z",
+      "location": "Brazil, Canada, Colombia, Germany, Ghana, India, Indonesia, Italy, Kenya, Mexico, Morocco, Netherlands, Poland, Singapore, South Africa, Spain, Switzerland, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Site-Reliability-Engineer",
+        "DevOps-Engineer",
+        "Infrastructure-Engineer",
+        "Platform-Engineer",
+        "Reliability-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/99brightminds/jobs/senior-salesforce-developer",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "99brightminds",
+      "title": "Senior Salesforce Developer",
+      "url": "https://himalayas.app/companies/99brightminds/jobs/senior-salesforce-developer?utm_source=api",
+      "posted": "2026-11-18T09:06:32.000Z",
+      "location": "Egypt, India, Jordan",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Salesforce-Developer",
+        "Salesforce-Engineer",
+        "Salesforce-Platform-Developer",
+        "Cloud-Software-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/object-edge/jobs/senior-engineer-data-engineering-databricks-contractor-india",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Object Edge",
+      "title": "Senior Engineer – Data Engineering (Databricks) - Contractor - India",
+      "url": "https://himalayas.app/companies/object-edge/jobs/senior-engineer-data-engineering-databricks-contractor-india?utm_source=api",
+      "posted": "2026-11-18T15:23:07.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Data-Engineering-Consultant",
+        "Big-Data-Engineer",
+        "Cloud-Data-Engineer",
+        "Databricks-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, pipeline",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

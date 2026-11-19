@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-19",
-  "scanned": 350,
-  "survived": 197,
+  "scanned": 705,
+  "survived": 396,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/astreya/jobs/golang-software-engineer-ii",
@@ -658,6 +658,253 @@
       },
       "why": [
         "stack (weak): platform, pipeline",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/akamai-technologies/jobs/site-reliability-engineer-ii-9313569710",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Akamai Technologies",
+      "title": "Site Reliability Engineer II",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/site-reliability-engineer-ii-9313569710?utm_source=api",
+      "posted": "2026-11-19T04:27:36.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Site-Reliability-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "Systems-Engineer",
+        "DevOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "nginx",
+          "linux",
+          "ci/cd",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/evb/jobs/ml-engineer",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "EVB",
+      "title": "ML Engineer",
+      "url": "https://himalayas.app/companies/evb/jobs/ml-engineer?utm_source=api",
+      "posted": "2026-11-18T22:14:15.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Systems-Engineer",
+        "MLOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/drepp-technologies/jobs/backend-qa",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Drepp Technologies",
+      "title": "Backend QA",
+      "url": "https://himalayas.app/companies/drepp-technologies/jobs/backend-qa?utm_source=api",
+      "posted": "2026-11-19T04:55:30.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Engineer",
+        "Backend-QA-Engineer",
+        "Automation-Testing",
+        "Software-Quality-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "linux",
+          "backend",
+          "automation",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack (weak): linux, backend, automation",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+      "grade": "F",
+      "score": 12,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Jumio",
+      "title": "Principal Enterprise Architect",
+      "url": "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+      "posted": "Fri, 30 Oct 2026 07:31:21 +0000",
+      "location": "<p> <strong>Headquarters:</strong> India (remote) </p> <h1><strong>Enterprise Architect - Cloud &amp; AI</strong></h1> <h2><strong>Role Overview</strong></h2> <p>Jumio is not just processing transactions; we are pioneering the future of identity intelligence. To lead this transformation, you serve as a visionary <strong>AI Adoption Catalyst and Systems Architect</strong>, redefining our technical landscape. In this role, you aren’t a traditional gatekeeper—you are a <strong>Developer Advocate</strong> and mission-driven leader. You take end-to-end ownership of our architecture, positioning machine learning and GenAI at the heart of our DNA. Leveraging your deep expertise in AWS and cloud-native engineering, you provide the engine that empowers our developers to innovate at lightning speed, ensuring our multi-tenant SaaS platform remains the global benchmark for performance and scale.</p> <p>This is a mandate for a technical doer who thrives on the front lines. Building on our strong, scalable cloud foundation, you will actively champion the adoption of GenAI tools across the software development lifecycle while driving continuous architectural improvement, evolution, and operational cost optimization. Your proven experience in AWS is the toolkit you use to clear architectural roadblocks and optimize performance, enabling engineering teams to move with unprecedented velocity.</p> <p>As a strategic technical leader who stays close to the code, you inspire an AI-First culture. You bridge the gap between visionary enterprise design and pragmatic execution, driving cross-departmental impact while fostering self-service capabilities and cloud efficiency to ensure that as Jumio grows, our technology scales predictably and elegantly.</p> <h2><strong>Key Responsibilities</strong></h2> <h3><strong>End-to-End System Architecture &amp; Optimization</strong></h3> <ul> <li>Own the technical vision for scalable, high-performance, cost-efficient systems.</li> <li>Define modern architecture patterns that enable growth, high TPS, and seamless scaling.</li> <li>Architect and optimize multi-tenant SaaS platforms, ensuring configurability and performance.</li> <li>Design self-service capabilities to reduce engineering overhead (e.g., self-service workflow designer, self-service rules engine, self-service reporting).</li> <li>Lead cloud cost efficiency initiatives, optimizing infrastructure, model execution, and compute resources.</li> <li>Collaborate closely with AWS Support and Solution Architects to optimize infrastructure and leverage cutting-edge cloud capabilities.</li> </ul> <h3><strong>Data &amp; AI Infrastructure</strong></h3> <ul> <li>Architect high-scale, distributed data processing pipelines for batch and real-time workloads.</li> <li>Optimize data storage, retrieval, and processing layers to enhance system performance and reduce cost.</li> <li>Enable data self-service for analytics, ML, and real-time business use cases.</li> <li>Ensure data governance, security, and compliance across all systems.</li> </ul> <h3><strong>Technical Leadership &amp; Hands-on Architecture</strong></h3> <ul> <li>Guide engineering teams on architectural best practices and pragmatic execution.</li> <li>Coach teams on scalable microservices, event-driven architectures, and cloud-native patterns.</li> <li>Practice \"Architecting by Example\" through technical prototyping and proof-of-concepts to validate architectural decisions.</li> </ul> <h3><strong>GenAI Acceleration &amp; Architectural Advocacy</strong></h3> <ul> <li>You serve as the AI Adoption Catalyst and engineering champion, actively partnering with developers and business units to integrate LLMs and agentic workflows that securely hyper-automate the development lifecycle.</li> <li>You clear roadblocks and deploy agile architectural guardrails that empower teams to experiment rapidly with automated AI tools, building a self-service AI culture while maintaining rigorous cost-performance optimization.</li> <li>Your leadership evolves architectural governance into a collaborative platform for ensuring system-wide coherence, security, and world-class scalability.</li> </ul> <h3><strong>Architectural Governance &amp; ARC Leadership</strong></h3> <ul> <li>Lead the Jumio Architecture Review Council (ARC) to drive cross-functional alignment and the evolution of our technical landscape.</li> <li>Establish and enforce architectural standards, ensuring consistency, security, and scalability across all product teams.</li> <li>Facilitate cross-team architectural reviews to identify technical debt, drive alignment, and ensure strategic coherence.</li> <li>Serve as the primary decision-maker for complex architectural trade-offs, balancing immediate delivery needs with long-term system health.</li> <li>Mentor engineering leadership on architectural best practices and standardized decision-making processes.</li> </ul> <p>&nbsp;</p> <h2><strong>Who You Are</strong></h2> <ul> <li>Strategic Visionary—you connect long-term business goals with robust technical roadmaps.</li> <li>Ultra-technical—you design, build, and optimize systems with a hands-on approach.</li> <li>System-First Thinker—you prioritize architecture, efficiency, and scale in every decision.</li> <li>Cloud-Native Expert—you utilize your deep AWS knowledge to optimize costs while improving system performance.</li> <li>Pragmatic Decision Maker—your impact-driven solutions ensure technical excellence without sacrificing speed.</li> <li>Builder’s Mentality—you thrive on automation, self-service, and reducing engineering toil through GenAI adoption.</li> <li>Growth-Oriented Mentor—you teach, coach, and elevate the engineering teams through architectural advocacy.</li> </ul> <h2><strong>Must-Have Skills &amp; Experience</strong></h2> <ul> <li>12+ years of hands-on experience in system architecture, data engineering, cloud engineering, or technical leadership roles.</li> <li>Experience with multi-tenant architectures and designing frameworks for configurable SaaS platforms.</li> <li>Deep, hands-on expertise in AWS (e.g., EKS, IAM, Lambda, networking) is required; professional experience with GCP is a strong plus.</li> <li>Strong experience with distributed systems, microservices, event-driven architectures, and caching strategies.</li> <li>Hands-on knowledge of AI/ML model execution—understanding model inference performance, cost trade-offs, and optimization strategies.</li> <li>Proficiency in high-scale transactional systems.</li> <li>Experience with infrastructure automation (Terraform, CI/CD, Kubernetes, Docker).</li> <li>Strong coding skills (Expert in Java, Strong in Python,&nbsp; Knowledgeable in JavaScript/TypeScript &amp; Kotlin).</li> <li>Strong experience leading architectural review processes and fostering engineering standards.</li> <li>Proven expertise in integrating GenAI and ML methodologies into the software development lifecycle.</li> <li>Proven ability in strategic stakeholder management and complex financial/TCO (Total Cost of Ownership) analysis for enterprise technology.</li> </ul> <h2><strong>Nice-to-Have Skills</strong></h2> <ul> <li>Experience with high-volume, real-time data processing and distributed streaming architectures.</li> <li>Experience building petabyte-scale distributed data platforms.</li> <li>Familiarity with fraud prevention, identity verification, or authentication technologies.</li> </ul> <h2><strong>Why Join Us?</strong></h2> <ul> <li><strong>Impact at scale</strong>—we process <strong>millions of transactions</strong> and solve <strong>real-world security and identity challenges</strong>.</li> <li><strong>Modern technical foundation with room to innovate</strong>—leverage our established, scalable cloud architecture while actively driving continuous modernization, operational cost optimization, and solving complex technical challenges.</li> <li><strong>Hands-on architecture leadership</strong>—you won’t be stuck in meetings; you’ll drive execution.</li> <li><strong>Work alongside top engineers and AI/ML experts</strong>, pushing the limits of what’s possible.</li> <li><strong>Competitive compensation and high ownership</strong>—your work will define how Jumio scales.</li> </ul> <p>&nbsp;</p><div class=\"content-conclusion\"><p><strong>Jumio Values:</strong></p> <p><span>IDEAL: Integrity, Diversity, Empowerment, Accountability, Leading Innovation </span></p> <p><strong>Equal Opportunities</strong><span><strong>: </strong></span></p> <p><span>Jumio is a collaboration of people with different ideas, strengths, interests and cultures. We welcome applications and colleagues from all backgrounds and of all statuses.</span></p> <p><strong>About Jumio:</strong></p> <p>Jumio is a B2B technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. We leverage AI, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.&nbsp;</p> <p>Jumio is the leading provider of online identity verification, eKYC and AML solutions. With a global footprint, we’re expanding the team to meet strong client demand across a range of industries including Financial Services, Travel, Sharing Economy, Fintech, Gaming, and others.</p> <p><strong>Applicant Data Privacy </strong></p> <p>We will only use your personal information in connection with Jumio’s application, recruitment, and hiring processes, as described in Jumio’s <a href=\"https://www.jumio.com/legal-information/privacy-notices/candidate-notice/\">Applicant Privacy Notice.</a> If you have any questions or comments, please send an email to <a href=\"mailto:privacy@jumio.com\">privacy@jumio.com</a>.</p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect\">https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect</a></p>",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "typescript",
+          "docker",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "aws",
+          "ci/cd",
+          "platform",
+          "real-time",
+          "automation",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, typescript, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Principal-level title",
+        "12+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/zact/jobs/cloud-devsecops-engineer",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Zact",
+      "title": "Cloud DevSecOps Engineer",
+      "url": "https://himalayas.app/companies/zact/jobs/cloud-devsecops-engineer?utm_source=api",
+      "posted": "2026-11-18T23:32:52.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cloud-DevSecOps-Engineer",
+        "DevSecOps-Engineer",
+        "Cloud-Security-Engineer",
+        "DevOps-Engineer",
+        "Platform-Security-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "prisma",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-devops",
+      "grade": "F",
+      "score": -7,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Akamai Technologies",
+      "title": "Senior Software Engineer (Devops)",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-devops?utm_source=api",
+      "posted": "2026-11-19T06:24:57.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Engineer",
+        "Cloud-Engineer",
+        "Platform-Engineer",
+        "Site-Reliability-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "aws",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
         "senior-titled",
         "5+ years stated",
         "reachable: restrictions include India",

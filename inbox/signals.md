@@ -11,6 +11,14 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Physical AI startup Humyn Labs** — B | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a | why: sector: ai; funding: raises
+- [ ] **Omnichannel Fashion Brand Style Union** — C | Thu, 19 Nov 2026 | Inc42: https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/ | why: funding: raised
+- [ ] **Style Union** — C | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/style-union-raises-rs-485-cr-to-expand-beyond-southern-india | why: funding: raises
+- [ ] **Anthropic** — C | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion | why: stage: late-stage; funding: raises
+- [ ] **Boba Bhai** — D | Thu, 19 Nov 2026 | Inc42: https://inc42.com/buzz/boba-bhai-bags-18-mn-to-build-a-multi-brand-qsr-chain/ | why: funding: raised
+- [ ] **Cyient Semiconductors** — D | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/cyient-semiconductors-bags-usd-10m-from-globalfoundries | why: funding: bags
+- [ ] **Quick service restaurant chain Boba Bhai** — D | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/boba-bhai-raises-18-million-in-series-b-round | why: funding: raises
+
 - [ ] **Botsync** — B | Wed, 18 Nov 2026 | YourStory: https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation | why: sector: ai, platform; funding: raises; also: Inc42
 - [ ] **Humyn Labs** — B | Wed, 18 Nov 2026 | Inc42: https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/ | why: sector: ai; funding: raises
 - [ ] **Soket AI** — B | Wed, 18 Nov 2026 | Inc42: https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/ | why: sector: ai; funding: raises

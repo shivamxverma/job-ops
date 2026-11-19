@@ -11,6 +11,12 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Disseqt AI** — A | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards | why: hiring mention (hiring); sector: ai; funding: raises
+- [ ] **AI Startup Disseqt AI** — B | Thu, 19 Nov 2026 | Inc42: https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/ | why: sector: ai; funding: raises
+- [ ] **InPrime Finserv** — B | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/inprime-finserv-raises-rs-101-cr-in-series-b-round-led-by-fmo | why: sector: ai; funding: raises; also: Inc42
+- [ ] **August AI** — B | Thu, 19 Nov 2026 | Inc42: https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/ | why: sector: ai; funding: raises
+- [ ] **NEPRA** — C | Thu, 19 Nov 2026 | Inc42: https://inc42.com/buzz/nepra-raises-%e2%82%b9110-cr-to-expand-plastic-recycling-capacity/ | why: funding: raises
+
 - [ ] **Physical AI startup Humyn Labs** — B | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a | why: sector: ai; funding: raises
 - [ ] **Omnichannel Fashion Brand Style Union** — C | Thu, 19 Nov 2026 | Inc42: https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/ | why: funding: raised
 - [ ] **Style Union** — C | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/style-union-raises-rs-485-cr-to-expand-beyond-southern-india | why: funding: raises

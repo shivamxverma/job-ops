@@ -1,0 +1,38 @@
+{
+  "pulled": "2026-11-20",
+  "scanned": 837,
+  "survived": 62,
+  "hits": [
+    {
+      "id": "lever:zeta:d7608271-a46f-4783-b5a9-05737398d320",
+      "grade": "F",
+      "score": 43,
+      "source": "lever (seed list)",
+      "company": "Zeta",
+      "domain": "zeta.tech",
+      "title": "Technical Support Engineer I",
+      "url": "https://jobs.lever.co/zeta/d7608271-a46f-4783-b5a9-05737398d320",
+      "posted": "2026-11-19T10:40:38.923Z",
+      "location": "Hyderabad",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "postgresql"
+        ],
+        "weak": [
+          "linux"
+        ]
+      },
+      "why": [
+        "stack: postgresql",
+        "non-eng title: Support Engineer",
+        "non-engineering seat",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

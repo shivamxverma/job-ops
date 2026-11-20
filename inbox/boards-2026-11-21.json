@@ -1,0 +1,651 @@
+{
+  "pulled": "2026-11-21",
+  "scanned": 361,
+  "survived": 201,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/pavago/jobs/ai-engineer-ai-automation-specialist",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Pavago",
+      "title": "AI Engineer / AI Automation Specialist",
+      "url": "https://himalayas.app/companies/pavago/jobs/ai-engineer-ai-automation-specialist?utm_source=api",
+      "posted": "2026-11-20T08:53:49.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Engineer",
+        "Automation-Engineer",
+        "AI-Automation-Specialist",
+        "Machine-Learning-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-realm-lab-frontier-ai-research-remote-worldwide",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Member of Technical Staff, Realm Lab (frontier AI research) – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-realm-lab-frontier-ai-research-remote-worldwide?utm_source=api",
+      "posted": "2026-11-20T07:05:11.000Z",
+      "location": "Brazil, Canada, France, Germany, India, Netherlands, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "AI-Research-Engineer",
+        "Research-Scientist",
+        "AI-Evaluation-Engineer",
+        "Data-Scientist"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "automation",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide-734089462",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Software Engineer - Backend – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide-734089462?utm_source=api",
+      "posted": "2026-11-20T10:57:17.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Nigeria, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Software-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "c++",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-remote-worldwide-1477904023",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Software Engineer – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-remote-worldwide-1477904023?utm_source=api",
+      "posted": "2026-11-20T07:25:40.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Pakistan, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Software-Developer",
+        "AI-Evaluation-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "c++",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/frontend-ui-engineer-remote-worldwide",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Frontend / UI Engineer – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/frontend-ui-engineer-remote-worldwide?utm_source=api",
+      "posted": "2026-11-20T13:11:48.000Z",
+      "location": "Brazil, Canada, France, Germany, India, Netherlands, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Frontend-Engineer",
+        "UI-Engineer",
+        "Front-End-Developer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-model-training-applied-research-remote-worldwide",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Member of Technical Staff, Model Training (applied research) – Remote (Worldwide",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-model-training-applied-research-remote-worldwide?utm_source=api",
+      "posted": "2026-11-20T16:30:44.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Pakistan, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "Applied-Research-Scientist",
+        "AI-Research-Engineer",
+        "Robotics-Engineer",
+        "Member-Of-Technical-Staff"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, platform, remote",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137857",
+      "grade": "D",
+      "score": 35,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Dropbox",
+      "title": "Infrastructure Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
+      "posted": "2026-11-19T20:30:17+00:00",
+      "location": "North America",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "programming"
+      ],
+      "matched": {
+        "strong": [
+          "infrastructure engineer"
+        ],
+        "weak": [
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: infrastructure engineer",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "rok:1137839",
+      "grade": "D",
+      "score": 35,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "NIKI Digital Engineering",
+      "title": "Engineer Software Defined Vehicle Simulation and Development",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
+      "posted": "2026-11-19T16:00:34+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "dev",
+        "design",
+        "embedded",
+        "sys admin",
+        "infosec",
+        "python",
+        "consulting",
+        "technical"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack (weak): python, graduate",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "rok:1137835",
+      "grade": "D",
+      "score": 30,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Norm",
+      "title": "Technical Lead Norm Compliance",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835",
+      "posted": "2026-11-19T16:00:15+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "design",
+        "python",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-coding-agent-research-evaluations-remote-worldwi",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Member of Technical Staff, Coding Agent Research & Evaluations – Remote (Worldwi",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-coding-agent-research-evaluations-remote-worldwi?utm_source=api",
+      "posted": "2026-11-20T12:50:08.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Member-Of-Technical-Staff",
+        "Research-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Research-Scientist",
+        "Evaluation-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "c++",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, c++, pipeline",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-research-engineering-remote-worldwide",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Member of Technical Staff, Research Engineering – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-research-engineering-remote-worldwide?utm_source=api",
+      "posted": "2026-11-20T08:16:21.000Z",
+      "location": "Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Research-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Research-Scientist"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, pipeline",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137844",
+      "grade": "F",
+      "score": 5,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Netlify",
+      "title": "Staff Software Engineer (Interfaces)",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
+      "posted": "2026-11-19T17:15:52+00:00",
+      "location": "Worldwide",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "programming"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "react",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): react, platform",
+        "Staff-level title",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/infios/jobs/senior-software-developer",
+      "grade": "F",
+      "score": 3,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Infios",
+      "title": "Senior Software Developer",
+      "url": "https://himalayas.app/companies/infios/jobs/senior-software-developer?utm_source=api",
+      "posted": "2026-11-20T10:14:17.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Senior-Software-Developer",
+        "Software-Engineer",
+        "Java-Developer",
+        ".NET-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "postgresql",
+          "kubernetes"
+        ],
+        "weak": [
+          "javascript",
+          "ci/cd",
+          "pipeline",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: typescript, postgresql, kubernetes",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
+      "grade": "F",
+      "score": -1,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Knock",
+      "title": "Lending Manager (Front End) - Remote",
+      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
+      "posted": "Sun, 01 Nov 2026 07:31:04 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote </p> <div class=\"content-intro\"><p>Knock is redefining the home buying and selling experience, and we’re only getting started! We’re a passionate team of industry experts who knew there had to be a better, simpler way for people to navigate the journey between homes. That people-first mindset is core to how we operate, and why Knock has been honored as one of<em> Inc.’s Best Workplaces</em> six times in the past seven years.</p> <p>We bring that mindset into the work we do every day.&nbsp; The Knock Bridge Loan™ empowers homebuyers to ‘buy before they sell’, by unlocking the equity in their current home, giving them greater convenience, certainty, and competitiveness.&nbsp;</p> <p>Founded in 2015, Knock has grown into a trusted partner for thousands of homebuyers and a network of 60,000+ loan officers and agents across the country. Backed by top investors like Foundry Group, Trinity Capital, and the National Association of Realtors, we’ve built a reputation for innovation and trust, earning 900+ five-star Zillow and Trustpilot reviews and an A+ BBB rating.&nbsp;</p> <p>Join our growing team and help shape the future of homebuying! To learn more, visit <a href=\"http://knock.com/\">Knock.com</a></p></div><p><strong>Lending Manager (Front End)</strong></p> <p><strong>About the role</strong></p> <p><strong>Knock is looking for an experienced mortgage leader to manage and grow our team of fully remote Loan Assistants. This is a 100% remote role, and you’ll lead a team distributed across the country. You enjoy building teams, finding efficiencies, and using technology to improve how work gets done. You’re approachable, open-minded, and adaptable. You know the work well enough to coach it and you’re willing to jump in and help. In this role you’ll own the Loan Assistant and post-closing pipelines, develop your team, and work with the Director of Lending Operations to make our processes better.</strong></p> <p><strong>What you’ll do:</strong></p> <p><strong><em>Lead and develop the team</em></strong></p> <ul> <li><strong>Manage, lead, and scale the remote Loan Assistant team. </strong></li> <li><strong>Share weekly, monthly, quarterly, and annual team and company goals, and make sure the team meets and exceeds expectations.Hold team members accountable for their performance.</strong></li> <li><strong>Build camaraderie and teamwork in a virtual environment through team meetings and regular 1:1 check-ins.</strong></li> <li><strong>Run virtual training for new Loan Assistants and serve as the team’s go-to for escalations, questions, and exceptions.</strong></li> <li><strong>Mentor people inside and outside your team, and keep learning yourself.</strong></li> <li><strong>Document conversations in our HRIS and build a sense of ownership across the team.</strong></li> </ul> <p><strong><em>Own the pipeline</em></strong></p> <ul> <li><strong>Manage the bridge loan pipeline from setup through initial disclosure and submission, and through post-closing. </strong></li> <li><strong>Coach the team and give feedback along the way.Balance workloads across the team to meet company SLAs.</strong></li> <li><strong>Support post-closing review. </strong></li> <li><strong>Work loans that have findings with the team member responsible and get them resolved.</strong></li> <li><strong>Work closely with Sales, Underwriting, and Closing to give everyone timely, accurate service.</strong></li> <li><strong>Compile team scorecard data each quarter to track KPIs and quality.</strong></li> </ul> <p><strong><em>Improve how we work</em></strong></p> <ul> <li><strong>Help the Director of Lending Operations find gaps in process and policy across the Loan Assistant and post-closing functions. </strong></li> <li><strong>Write or update procedures for review, training, and rollout, then follow up to make sure the changes stick.</strong></li> <li><strong>Set best practices and change the workflow when needed so the team runs efficiently and meets company KPIs.</strong></li> <li><strong>Take on ad hoc projects and step in wherever your team needs support.</strong></li> </ul> <p><strong>What you’ll bring</strong></p> <ul> <li><strong>At least 10 years of relevant mortgage experience, including 5 or more years directly managing a fully remote team</strong></li> <li><strong>Experience managing mortgage loan processing and/or post-closing teams</strong></li> <li><strong>A track record of coaching teams and helping them succeed</strong></li> <li><strong>Working knowledge of federal, state, and local mortgage regulatory compliance</strong></li> <li><strong>Strong written and virtual communication skills</strong></li> <li><strong>You keep a distributed team aligned, engaged, and accountable using tools like Slack and video meetings</strong></li> <li><strong>A strong focus on customer service. You go above and beyond to “wow” the people you serve.</strong></li> <li><strong>Close attention to detail. You check your work carefully and catch the small things, so your work is consistently accurate.</strong></li> <li><strong>A commitment to diverse, equitable, and inclusive practices that support Knock’s values of making an impact, learning, putting people first, being open, and being courageous</strong></li> <li><strong>High school diploma or equivalent experience</strong></li> </ul> <p><strong>Physical Requirements:</strong></p> <ul> <li><strong>Set up and constantly operate a computer</strong></li> <li><strong>Communicate and exchange accurate information to others via telephone or internet video applications</strong></li> </ul> <p><strong>The candidate must be able to perform the essential functions of the job, with or without reasonable accommodation.</strong></p> <p><strong>Our Compensation Philosophy: As a fully remote (U.S.-based) workforce, our goal is to ensure that all Knockstars are fairly compensated.&nbsp; Please note that the salary range information that follows is a good faith estimate for this position provided pursuant to the Colorado Equal Pay for Equal Work Act for Colorado applicants. </strong></p> <p><strong>The salary range estimate for this position is: $90,000 - $100,000 + company incentive plan (bonus) USD. </strong></p> <p><strong>This job opening expires December 31, 2026.</strong></p><div class=\"content-conclusion\"><div class=\"section page-centered\"> <div class=\"content-wrapper posting-page\"> <div class=\"content\"> <div class=\"section-wrapper page-full-width\"> <div class=\"section page-centered\"> <p><strong> Offer &amp; Employment Terms</strong></p> <p>The actual offer, reflecting the total compensation package &amp; benefits, will be at the company’s sole discretion, and determined by factors including but not limited to years of experience, job level, geographic location, and other relevant business considerations. The company also reserves the right to amend or modify this job description, employee perks, and benefits at any time. Employees eligible for bonus and/or commission will be provided details in the offer letter.</p> <p><strong></strong><strong>Why Knock</strong></p> <p> Purpose-Driven Work: Your contributions will improve the homeownership journey for thousands of individuals and families.<br> Remote-First Flexibility: Work from anywhere in the U.S. with a flexible, people-first approach.<br> Innovative Culture: Collaborate with curious, talented colleagues in a supportive, growth-oriented environment. To learn more about the culture at Knock, view our <a href=\"https://a-us.storyblok.com/f/1005183/x/a6121f1519/knock_culture_popsicle.pdf\">POPSICLE values</a>.<br> Commitment to Inclusion: We are dedicated to creating diverse teams and an inclusive, respectful culture where everyone belongs.</p> <p><strong> Enjoying Life &amp; Making an Impact</strong></p> <p> Since our founding in 2015, Knock has and continues to offer a <strong>100% remote work culture<br></strong> Top tier medical, dental, &amp; vision benefits for full time employees starting on the first day of employment<br> Flexible Paid Time Off for full time employees<br> Paid parental leave for all full time employees:<br>&nbsp; &nbsp; - 12 weeks paid parental leave for the birthing parent<br>&nbsp; &nbsp; - 6 weeks paid parental leave for the non-birthing parent<br> One thousand annually for professional development<br>️ Life, AD&amp;D and Disability insurance for full time employees<br> 401K (noncontributory by Knock) for all employees<br> $75 monthly allowance for health &amp; wellness<br> Up to $400 monthly for a co-working space for eligible employees<br> $100 monthly allowance for home internet, mobile phone or other communication devices<br> $2,500 referral bonus for eligible employees</p> <p><strong>️ Equal Opportunity Employer</strong></p> <p>Knock provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, gender, gender identity, gender expression, national origin, ancestry, age, physical or medical disability, medical condition, marital status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable US federal, state, or local laws.</p> <p><strong> Internal Applicants</strong></p> <p>If you are a current employee, do not apply here - please navigate to our Internal Job Board in Greenhouse to apply to our open roles.</p> <p><strong> Remote Culture &amp; Company Mission</strong></p> <p>We are proud to be a remote, distributed company with employees across 17 states and counting. This is an amazing opportunity to be an integral part of building a multi-billion dollar consumer brand in an industry that is long overdue for a new way of doing things. You will be working with a passionate team that is disrupting the status quo.</p> <p>Knock, and its subsidiaries, are committed to creating a diverse, inclusive, and equitable environment and are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity, gender expression, national origin, ancestry, age, physical or medical disability, medical condition, marital status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable US federal, state, or local laws.</p> <p><strong> Recruiter Policy</strong></p> <p>Please no recruitment firm or agency inquiries — you will not receive a reply from us.</p> <p><strong> Application Tip</strong></p> <p>PDF is our preferred format for resumes and any other attachments. Thank you!</p> <p><strong>#LI-Remote</strong></p> <p><br><br></p> </div> </div> </div> </div> </div></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote\">https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): pipeline, remote",
+        "10+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-staff-platform-engineering-remote-worldwide",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Software Engineer (Staff), Platform Engineering – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-staff-platform-engineering-remote-worldwide?utm_source=api",
+      "posted": "2026-11-20T11:52:14.000Z",
+      "location": "Canada, France, Germany, India, Kenya, Netherlands, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Platform-Engineer",
+        "Backend-Engineer",
+        "Cloud-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, backend, platform",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-staff-financial-platform-infra-remote-worldwide",
+      "grade": "F",
+      "score": -7,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Software Engineer (Staff), Financial Platform & Infra – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-staff-financial-platform-infra-remote-worldwide?utm_source=api",
+      "posted": "2026-11-20T09:45:43.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Payments-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "backend",
+          "infra",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "8+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/encore-consulting/jobs/lead-front-end-ui-architect-remote",
+      "grade": "F",
+      "score": -32,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Encore Consulting",
+      "title": "LEAD FRONT END / UI Architect REMOTE",
+      "url": "https://himalayas.app/companies/encore-consulting/jobs/lead-front-end-ui-architect-remote?utm_source=api",
+      "posted": "2026-11-20T16:28:48.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Front-End-Developer",
+        "Frontend-Engineer",
+        "UX-Architect",
+        "Software-Architect",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "node",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): node, remote",
+        "Architect-level title",
+        "9+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

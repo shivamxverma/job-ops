@@ -1,0 +1,42 @@
+{
+  "pulled": "2026-11-21",
+  "scanned": 825,
+  "survived": 60,
+  "hits": [
+    {
+      "id": "lever:zeta:f827a249-2537-4f7f-aade-25b829fc13f2",
+      "grade": "B",
+      "score": 73,
+      "source": "lever (seed list)",
+      "company": "Zeta",
+      "domain": "zeta.tech",
+      "title": "Site Reliability Engineer- II",
+      "url": "https://jobs.lever.co/zeta/f827a249-2537-4f7f-aade-25b829fc13f2",
+      "posted": "2026-11-18T13:09:24.922Z",
+      "location": "Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "k8s"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, k8s",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "2+ years stated",
+        "reachable: India-based",
+        "posted 2d ago"
+      ]
+    }
+  ]
+}

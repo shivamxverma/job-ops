@@ -11,6 +11,10 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Spacetech firm SatSure** — B | Fri, 20 Nov 2026 | YourStory: https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund | why: sector: ai; funding: raises
+- [ ] **Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round** — C | Fri, 20 Nov 2026 | Inc42: https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/ | why: funding: raised
+- [ ] **Urban Company** — C | Fri, 20 Nov 2026 | YourStory: https://yourstory.com/2026/11/urban-company-raises-rs-2500-cr-through-qip | why: funding: raises
+
 - [ ] **Urban Company** — C | Fri, 20 Nov 2026 | Inc42: https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/ | why: funding: raises
 - [ ] **Meet the 8 women powering India’s deeptech future; Anthropic** — C | Fri, 20 Nov 2026 | YourStory: https://yourstory.com/2026/11/meet-the-8-women-powering-indias-deeptech-future-anthropic-ipo | why: stage: late-stage; sector: deeptech; funding: raises
 

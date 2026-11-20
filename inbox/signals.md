@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Urban Company** — C | Fri, 20 Nov 2026 | Inc42: https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/ | why: funding: raises
+- [ ] **Meet the 8 women powering India’s deeptech future; Anthropic** — C | Fri, 20 Nov 2026 | YourStory: https://yourstory.com/2026/11/meet-the-8-women-powering-indias-deeptech-future-anthropic-ipo | why: stage: late-stage; sector: deeptech; funding: raises
+
 - [ ] **Disseqt AI** — A | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards | why: hiring mention (hiring); sector: ai; funding: raises
 - [ ] **AI Startup Disseqt AI** — B | Thu, 19 Nov 2026 | Inc42: https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/ | why: sector: ai; funding: raises
 - [ ] **InPrime Finserv** — B | Thu, 19 Nov 2026 | YourStory: https://yourstory.com/2026/11/inprime-finserv-raises-rs-101-cr-in-series-b-round-led-by-fmo | why: sector: ai; funding: raises; also: Inc42

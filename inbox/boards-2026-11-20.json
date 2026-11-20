@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-20",
-  "scanned": 349,
-  "survived": 198,
+  "scanned": 707,
+  "survived": 396,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-cortex-lab-applied-ai-research-remote-worldwide",
@@ -751,6 +751,604 @@
         "stack (weak): platform, automation, remote",
         "Principal-level title",
         "15+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-quality-engineering-remote-worldwide",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Member of Technical Staff, Quality Engineering – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-quality-engineering-remote-worldwide?utm_source=api",
+      "posted": "2026-11-20T06:39:21.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Pakistan, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Quality-Engineer",
+        "Software-Engineer",
+        "Automation-Testing",
+        "Software-Engineer-in-Test",
+        "QA-Automation-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "playwright"
+        ],
+        "weak": [
+          "ci/cd",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: playwright",
+        "story fit: Hireflow/klimb.io AI metering (playwright)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-open-source-contributions-remote-worldwide",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Software Engineer -  Open Source Contributions – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-open-source-contributions-remote-worldwide?utm_source=api",
+      "posted": "2026-11-19T23:30:47.000Z",
+      "location": "Bangladesh, Canada, France, Germany, India, Netherlands, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Open-Source-Engineer",
+        "Software-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "c++",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-infrastructure-remote-worldwide",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Member of Technical Staff, Infrastructure – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-infrastructure-remote-worldwide?utm_source=api",
+      "posted": "2026-11-19T20:52:08.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Spain, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Infrastructure-Engineer",
+        "Site-Reliability-Engineer",
+        "DevOps-Engineer",
+        "Platform-Engineer",
+        "Cloud-Infrastructure-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/junior-machine-learning-engineer-remote-worldwide",
+      "grade": "C",
+      "score": 51,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Junior Machine Learning Engineer – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/junior-machine-learning-engineer-remote-worldwide?utm_source=api",
+      "posted": "2026-11-19T21:07:35.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "Machine-Learning-Developer",
+        "AI-Engineer",
+        "Python-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): python, pipeline, remote",
+        "junior/new-grad seat",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/genios-ai/jobs/cybersecurity-engineer-india",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Genios AI",
+      "title": "Cybersecurity Engineer (India)",
+      "url": "https://himalayas.app/companies/genios-ai/jobs/cybersecurity-engineer-india?utm_source=api",
+      "posted": "2026-11-20T05:36:20.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cybersecurity-Engineer",
+        "Security-Engineer",
+        "Application-Security-Engineer",
+        "Cloud-Security-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "infrastructure engineer",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: infrastructure engineer, docker, kubernetes",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137808",
+      "grade": "C",
+      "score": 45,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Askable",
+      "title": "Software Engineer AI Coding Tasks",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
+      "posted": "2026-11-19T05:56:01+00:00",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "dev",
+        "golang",
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "c plus plus"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote-contract-627126483",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Xperteez Technology",
+      "title": "🌍 ML Engineer, Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote-contract-627126483?utm_source=api",
+      "posted": "2026-11-20T03:50:31.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Contract-ML-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/refold-ai/jobs/forward-deployed-engineer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Refold AI",
+      "title": "Forward Deployed Engineer",
+      "url": "https://himalayas.app/companies/refold-ai/jobs/forward-deployed-engineer?utm_source=api",
+      "posted": "2026-11-20T03:32:44.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Forward-Deployed-Engineer",
+        "Remote-Forward-Deployed-Engineer",
+        "Forward-Deployment-Engineer",
+        "Forward-Deploy-Engineer",
+        "Forward-Deployed-Engineering",
+        "Senior-Forward-Deployed-Engineer",
+        "Mid-Level-Forward-Deployed-Engineer",
+        "Forward-Deployed-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "pipeline",
+          "ai agent",
+          "agentic",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, pipeline, ai agent",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/kantiv-formerly-joist-ai/jobs/devops-engineer-security-and-compliance",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Kantiv (formerly Joist AI)",
+      "title": "DevOps Engineer - Security and Compliance",
+      "url": "https://himalayas.app/companies/kantiv-formerly-joist-ai/jobs/devops-engineer-security-and-compliance?utm_source=api",
+      "posted": "2026-11-20T03:08:07.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "DevOps-Security-Engineer",
+        "Security-DevOps-Engineer",
+        "Secure-DevOps-Engineer",
+        "DevSecOps-Engineer",
+        "Cloud-DevSecOps-Engineer",
+        "DevSecOps-Engineer-Jobs",
+        "DevOps-Engineer",
+        "Cloud-Security-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "aws",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): aws, platform",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-robotics-embodied-ai-research-remote-worldwide",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Member of Technical Staff, Robotics & Embodied AI Research – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-robotics-embodied-ai-research-remote-worldwide?utm_source=api",
+      "posted": "2026-11-20T00:36:46.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Nigeria, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Robotics-Research-Scientist",
+        "Robotics-Research-Engineer",
+        "Embodied-AI-Researcher",
+        "Research-Scientist",
+        "Machine-Learning-Researcher"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, platform, remote",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/mondelez-international/jobs/platform-engineer-mds-sap-security",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Mondelēz International",
+      "title": "Platform Engineer, MDS SAP Security",
+      "url": "https://himalayas.app/companies/mondelez-international/jobs/platform-engineer-mds-sap-security?utm_source=api",
+      "posted": "2026-11-20T03:15:51.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "SAP-Security-Engineer",
+        "SAP-Platform-Engineer",
+        "Sap-Security-Consultant",
+        "Identity-And-Access-Management-Engineer",
+        "Cybersecurity-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "platform engineer"
+        ],
+        "weak": [
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: platform engineer",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+      "grade": "F",
+      "score": 27,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Oportun",
+      "title": "Senior ML Engineer (R14284)",
+      "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+      "posted": "Sun, 01 Nov 2026 07:30:35 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Remote - India </p> <div class=\"content-intro\"><h2><span>Who We Are</span></h2> <p><span>Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $22.7 billion in responsible and affordable credit, saved its members more than $2.5 billion in interest and fees, and helped its members set aside an average of more than $1,800 annually.</span></p></div><h2><span><span>A Quick Note on the Role's Focus</span></span></h2> <p>While the title is <strong>Senior ML Engineer</strong>, this opportunity is specifically focused on <strong>ML Platform Engineering </strong>rather than<strong> </strong>ML model development or data science.</p> <p>We're looking for engineers with strong software engineering fundamentals and hands-on experience building, scaling, and operating the platforms and infrastructure that enable machine learning in production. The emphasis is on <strong>ML infrastructure, MLOps, model serving, platform reliability, and production engineering</strong>, rather than primarily developing, training, or fine-tuning ML models.</p> <h2><span><span><br>Location Note</span></span></h2> <p><span>We’re excited to consider talent currently based in India, as well as candidates who are open to relocating to India for this opportunity. Please note that, as this is a \"Remote–India\" position, <strong>the role must be performed from within India.</strong></span></p> <h2><span><br>The Opportunity</span></h2> <p><span>The <strong>Machine Learning Platform</strong> team builds the software foundations that enable data scientists and machine learning engineers to develop, validate, deploy, and operate models safely and efficiently in production. In this role, you’ll lead complex platform work from business context through production outcomes, combining hands-on engineering, architectural judgment, production ownership, and mentorship. In your first year, success means leading meaningful platform initiatives, improving reliability and developer experience, and becoming a trusted technical leader for the ML platform.</span></p> <h2><span>At Oportun, we move fast and hold each other to a high bar. You’ll partner across Data Science, Product, Risk, Fraud, and Engineering to solve ambiguous problems and move the needle for members and the business.<br><br></span></h2> <h2><span>What You'll Do</span></h2> <p><span><strong>Your day-to-day</strong></span></p> <ul> <li><span>You’ll lead the design, implementation, deployment, and operation of complex platform capabilities that support the machine-learning lifecycle.</span></li> <li><span>You’ll design scalable systems for model deployment and serving, feature computation, data validation, workflow orchestration, monitoring, and production support.</span></li> <li><span>You’ll build reusable platform components, standards, and automation while improving reliability, scalability, observability, and operational readiness across ML systems.</span></li> <li><span>You’ll partner with Data Science, Product, Risk, Fraud, and Engineering teams to translate ambiguous business needs into practical technical solutions.</span></li> <li><span>You’ll own significant technical initiatives end to end and lead complex production investigations—clarifying requirements, leading design, delivering safely, measuring results, and implementing durable fixes.</span></li> <li><span>You’ll raise engineering quality through thoughtful code and design reviews, mentor engineers through pairing and technical guidance, and contribute to platform technical strategy.</span></li> <li><span>You’ll look for ways to use AI tools thoughtfully to work smarter, reduce manual work, and make better decisions faster.</span></li> </ul> <h2><span>Who You Are</span></h2> <p><span><strong>The right fit looks like this</strong></span></p> <p><span>You do not need detailed implementation direction to be effective. Given an ambiguous problem and sufficient context, you can define the technical approach, explain trade-offs, align stakeholders, lead delivery, and own the outcome after launch.</span></p> <p><span><strong>You’re comfortable navigating complexity and don’t wait for perfect information to move forward. You communicate clearly, give direct feedback, mentor others, and connect engineering work to member, business, and operational outcomes.</strong></span></p> <h2><span>What You Bring</span></h2> <p><span><strong>Skills &amp; experience</strong></span></p> <ul> <li><span>You’ll have 5+ years of professional software-engineering experience building and operating production systems, with strong programming skills in Python and deep knowledge of API design, distributed systems, service architecture, testing, and software-design fundamentals.</span></li> <li><span>You’ve demonstrated experience designing and operating reliable, scalable cloud-native services or data-intensive systems, with experience in ML platforms, model serving, feature engineering, data platforms, MLOps, or related systems.</span></li> <li><span>You bring practical experience with SQL, databases, caching, and tracing data or requests across multiple systems, plus familiarity with the ML lifecycle from feature engineering and model training through evaluation, deployment, serving, monitoring, and governance.</span></li> <li><span>You have experience with Docker, Kubernetes, CI/CD, Git-based workflows, and production observability, and you can evaluate technical alternatives and clearly communicate recommendations, trade-offs, risks, and dependencies.</span></li> <li><span>You’ve demonstrated the ability to mentor engineers, improve engineering practices, lead through technical influence, and connect engineering work to member, business, product, and operational outcomes.</span></li> </ul> <p><span><strong>Nice to Have</strong></span></p> <ul> <li><span>Experience with AWS, Databricks, MLflow, SageMaker, Spark/PySpark, Kafka, or streaming systems.</span></li> <li><span>Experience building feature platforms, model-serving systems, workflow-orchestration platforms, or internal developer platforms.</span></li> <li><span>Familiarity with monitoring model quality, data quality, feature coverage, latency, reliability, or cost efficiency, and experience working with sensitive data in a regulated or financial-services environment.</span></li> <li><span>Experience with Java or another backend language in addition to Python, and familiarity with AI tools such as ChatGPT or Copilot to improve personal productivity.</span></li> </ul> <h2><span>Our AI Mindset</span></h2> <p><span><strong><span>We b</span>uild with AI. We lead with judgment.</strong></span></p> <p><span>AI isn't a feature here. It's how we work.</span></p> <p><span>We're excited about what AI makes possible, and we're looking for people who share that curiosity. You don't need to be an expert. You need to be <span><strong>open to experimenting</strong></span>, willing to learn, and able to apply new tools in ways that actually move the needle.</span></p> <p><span>In this role, you'll be encouraged to explore AI tools, find practical use cases for your function, and bring ideas for working smarter. We believe the best outcomes come when <span><strong>human judgment and AI capability work together</strong>.</span></span></p> <h2><span>Why Oportun</span></h2> <p><span><strong>What's in it for you</strong></span></p> <p><span>Oportun offers a competitive compensation and benefits package designed to support your physical, financial, and professional well-being. Benefits vary by country of employment.</span></p> <p><span>Some of the benefits available to eligible employees include:</span></p> <p><span><strong>India Benefits:</strong></span></p> <p><span>Medical, Dental &amp; Vision Insurance</span></p> <p><span>Provident Fund</span></p> <p><span>Life &amp; Accident Insurance</span></p> <p><span>Internet, Fuel, Meal &amp; Telephone Allowances</span></p> <p><span>Eligibility and plan details vary by location and employment status. To learn more about Oportun and our benefits, visit <span><strong>oportun.com/careers&nbsp;</strong>&nbsp; <span>#LI-REMOTE #LI-SS1</span></span></span></p><div class=\"content-conclusion\"><p><em><span>We are proud to be an Equal Opportunity Employer and consider all qualified applicants for employment opportunities without regard to race, age, color, religion, gender, national origin, disability, sexual orientation, veteran status or any other category protected by the laws or regulations in the locations where we operate.</span></em></p> <p><em><span>&nbsp;</span></em></p> <p><em><span>California applicants can find a copy of Oportun's CCPA Notice here:&nbsp; <a href=\"https://oportun.com/privacy/california-privacy-notice/\">https://oportun.com/privacy/california-privacy-notice/</a>.</span></em></p> <p>&nbsp;</p> <p><em><span>We will never request personal identifiable information (bank, credit card, etc.) before you are hired. We do not charge you for pre-employment fees such as background checks, training, or equipment. If you think you have been a victim of fraud by someone posing as us, please report your experience to the FBI’s Internet Crime Complaint Center (IC3).</span></em></p></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284\">https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284</a></p>",
+      "reachability": {
+        "status": "open",
+        "reason": "remote incl. India/Asia"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kafka",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kafka, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: remote incl. India/Asia"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/first-advantage/jobs/sr-software-engineer-power-bi-development-4429506068",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "First Advantage",
+      "title": "Sr Software Engineer, Power BI Development",
+      "url": "https://himalayas.app/companies/first-advantage/jobs/sr-software-engineer-power-bi-development-4429506068?utm_source=api",
+      "posted": "2026-11-20T02:27:09.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Power-BI-Developer",
+        "Business-intelligence-Engineer",
+        "Data-Engineer",
+        "Analytics-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "automation",
+          "etl",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: postgresql",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/avalara/jobs/staff-ai-automation-engineer",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Avalara",
+      "title": "Staff AI Automation Engineer",
+      "url": "https://himalayas.app/companies/avalara/jobs/staff-ai-automation-engineer?utm_source=api",
+      "posted": "2026-11-19T21:43:59.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Automation-Engineer",
+        "Automation-Engineer",
+        "Integration-Engineer",
+        "Workflow-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/remotejobsone/jobs/sr-full-stack-software-engineer-remote-worldwide",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RemoteJobsOne",
+      "title": "Sr. Full-Stack Software Engineer – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/sr-full-stack-software-engineer-remote-worldwide?utm_source=api",
+      "posted": "2026-11-19T23:34:39.000Z",
+      "location": "Canada, France, Germany, India, Netherlands, Spain, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Frontend-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, backend, remote",
+        "senior-titled",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

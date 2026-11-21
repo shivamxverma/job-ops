@@ -5,7 +5,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:15:43.616Z"
+    "checked": "2026-11-21T19:30:06.227Z"
   },
   "middleware.io": {
     "name": "Middleware",
@@ -13,7 +13,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:19:17.071Z"
+    "checked": "2026-11-21T19:30:05.865Z"
   },
   "tooljet.com": {
     "name": "Tooljet",
@@ -21,7 +21,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:15:43.596Z"
+    "checked": "2026-11-21T19:30:06.285Z"
   },
   "appsmith.com": {
     "name": "Appsmith",
@@ -29,7 +29,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:19:17.275Z"
+    "checked": "2026-11-21T19:30:06.584Z"
   },
   "hasura.io": {
     "name": "Hasura",
@@ -37,7 +37,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:15:43.524Z"
+    "checked": "2026-11-21T19:30:06.367Z"
   },
   "browserstack.com": {
     "name": "Browserstack",
@@ -45,16 +45,16 @@
     "ats": "workday",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:15:53.549Z"
+    "checked": "2026-11-21T19:30:06.044Z"
   },
   "plane.so": {
     "name": "Plane",
     "source": "seed list",
     "ats": "ashby",
     "slug": "plane",
-    "open": 33,
+    "open": 35,
     "guessed": true,
-    "checked": "2026-10-21T17:16:00.877Z"
+    "checked": "2026-11-21T19:30:08.286Z"
   },
   "postman.com": {
     "name": "Postman",
@@ -62,7 +62,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:15:58.142Z"
+    "checked": "2026-11-21T19:30:08.773Z"
   },
   "frappe.io": {
     "name": "Frappe",
@@ -70,7 +70,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:15:47.130Z"
+    "checked": "2026-11-21T19:30:09.235Z"
   },
   "composio.dev": {
     "name": "Composio",
@@ -78,7 +78,7 @@
     "ats": "ashby",
     "slug": "composio",
     "open": 30,
-    "checked": "2026-10-21T17:15:49.311Z"
+    "checked": "2026-11-21T19:30:07.114Z"
   },
   "hoppscotch.io": {
     "name": "Hoppscotch",
@@ -86,16 +86,16 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:19:17.803Z"
+    "checked": "2026-11-21T19:30:06.103Z"
   },
   "atlan.com": {
     "name": "Atlan",
     "source": "seed list",
     "ats": "ashby",
     "slug": "atlan",
-    "open": 6,
+    "open": 7,
     "guessed": true,
-    "checked": "2026-10-21T17:15:47.901Z"
+    "checked": "2026-11-21T19:30:07.428Z"
   },
   "setu.co": {
     "name": "Setu",
@@ -103,16 +103,16 @@
     "ats": "turbohire",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:03.826Z"
+    "checked": "2026-11-21T19:30:06.969Z"
   },
   "devrev.ai": {
     "name": "Devrev",
     "source": "seed list",
     "ats": "greenhouse",
     "slug": "devrev",
-    "open": 42,
+    "open": 8,
     "guessed": true,
-    "checked": "2026-10-21T17:15:50.862Z"
+    "checked": "2026-11-21T19:30:06.849Z"
   },
   "chatwoot.com": {
     "name": "Chatwoot",
@@ -120,7 +120,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:15:47.498Z"
+    "checked": "2026-11-21T19:30:06.699Z"
   },
   "juspay.in": {
     "name": "Juspay",
@@ -128,7 +128,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:15:58.670Z"
+    "checked": "2026-11-21T19:30:08.194Z"
   },
   "signzy.com": {
     "name": "Signzy",
@@ -136,7 +136,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:01.604Z"
+    "checked": "2026-11-21T19:30:07.982Z"
   },
   "m2pfintech.com": {
     "name": "M2pfintech",
@@ -144,7 +144,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:04.208Z"
+    "checked": "2026-11-21T19:30:09.730Z"
   },
   "hyperverge.co": {
     "name": "Hyperverge",
@@ -152,16 +152,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:15.089Z"
+    "checked": "2026-11-21T19:30:12.512Z"
   },
   "hevodata.com": {
     "name": "Hevodata",
     "source": "seed list",
     "ats": "lever",
     "slug": "hevodata",
-    "open": 53,
-    "guessed": true,
-    "checked": "2026-10-21T17:16:05.516Z"
+    "open": 40,
+    "checked": "2026-11-21T19:30:09.107Z"
   },
   "idfy.com": {
     "name": "Idfy",
@@ -169,7 +168,7 @@
     "ats": "turbohire",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:14.390Z"
+    "checked": "2026-11-21T19:30:11.248Z"
   },
   "sarvam.ai": {
     "name": "Sarvam",
@@ -177,7 +176,7 @@
     "ats": "ashby",
     "slug": "sarvam",
     "open": 42,
-    "checked": "2026-10-21T17:16:05.092Z"
+    "checked": "2026-11-21T19:30:10.822Z"
   },
   "perfios.com": {
     "name": "Perfios",
@@ -185,7 +184,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:05.520Z"
+    "checked": "2026-11-21T19:30:14.070Z"
   },
   "yellow.ai": {
     "name": "Yellow",
@@ -193,7 +192,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:07.909Z"
+    "checked": "2026-11-21T19:30:12.140Z"
   },
   "tartanhq.com": {
     "name": "Tartanhq",
@@ -201,7 +200,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:06.334Z"
+    "checked": "2026-11-21T19:30:11.206Z"
   },
   "krutrim.com": {
     "name": "Krutrim",
@@ -209,7 +208,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.063Z"
+    "checked": "2026-11-21T19:30:09.448Z"
   },
   "pixis.ai": {
     "name": "Pixis",
@@ -217,15 +216,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:17.823Z"
+    "checked": "2026-11-21T19:30:12.546Z"
   },
   "observe.ai": {
     "name": "Observe",
     "source": "seed list",
     "ats": "greenhouse",
     "slug": "observeai",
-    "open": 9,
-    "checked": "2026-10-21T17:16:12.351Z"
+    "open": 10,
+    "checked": "2026-11-21T19:30:12.107Z"
   },
   "dubverse.ai": {
     "name": "Dubverse",
@@ -233,7 +232,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:19.386Z"
+    "checked": "2026-11-21T19:30:18.897Z"
   },
   "atomicwork.com": {
     "name": "Atomicwork",
@@ -241,15 +240,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:18.382Z"
+    "checked": "2026-11-21T19:30:14.431Z"
   },
   "spotdraft.com": {
     "name": "Spotdraft",
     "source": "seed list",
     "ats": "ashby",
     "slug": "spotdraft",
-    "open": 13,
-    "checked": "2026-10-21T17:16:15.004Z"
+    "open": 14,
+    "checked": "2026-11-21T19:30:13.213Z"
   },
   "gupshup.io": {
     "name": "Gupshup",
@@ -265,7 +264,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:17.023Z"
+    "checked": "2026-11-21T19:30:13.071Z"
   },
   "lightspeed.ai": {
     "name": "Lightspeed",
@@ -273,7 +272,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:17.782Z"
+    "checked": "2026-11-21T19:30:13.954Z"
   },
   "neysa.ai": {
     "name": "Neysa",
@@ -281,31 +280,31 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:18.959Z"
+    "checked": "2026-11-21T19:30:17.780Z"
   },
   "smallest.ai": {
     "name": "Smallest",
     "source": "seed list",
     "ats": "ashby",
     "slug": "smallest",
-    "open": 1,
-    "checked": "2026-10-21T17:16:18.364Z"
+    "open": 3,
+    "checked": "2026-11-21T19:30:13.560Z"
   },
   "bolna.ai": {
     "name": "Bolna AI",
     "source": "YC Fall 2025",
     "ats": "ashby",
     "slug": "bolna",
-    "open": 7,
-    "checked": "2026-10-21T17:16:18.631Z"
+    "open": 5,
+    "checked": "2026-11-21T19:30:13.619Z"
   },
   "giga.ai": {
     "name": "Giga",
     "source": "seed list",
     "ats": "ashby",
     "slug": "gigaml",
-    "open": 33,
-    "checked": "2026-10-21T17:16:18.825Z"
+    "open": 32,
+    "checked": "2026-11-21T19:30:13.576Z"
   },
   "ema.co": {
     "name": "Ema",
@@ -313,7 +312,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:20.477Z"
+    "checked": "2026-11-21T19:30:14.468Z"
   },
   "freshworks.com": {
     "name": "Freshworks",
@@ -321,7 +320,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:36.199Z"
+    "checked": "2026-11-21T19:30:14.795Z"
   },
   "chargebee.com": {
     "name": "Chargebee",
@@ -329,7 +328,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:25.126Z"
+    "checked": "2026-11-21T19:30:14.359Z"
   },
   "rocketlane.com": {
     "name": "Rocketlane",
@@ -337,7 +336,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:27.566Z"
+    "checked": "2026-11-21T19:30:15.790Z"
   },
   "zluri.com": {
     "name": "Zluri",
@@ -345,15 +344,15 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:22.141Z"
+    "checked": "2026-11-21T19:30:15.216Z"
   },
   "mindtickle.com": {
     "name": "Mindtickle",
     "source": "seed list",
     "ats": "lever",
     "slug": "mindtickle",
-    "open": 20,
-    "checked": "2026-10-21T17:16:25.773Z"
+    "open": 19,
+    "checked": "2026-11-21T19:30:21.567Z"
   },
   "whatfix.com": {
     "name": "Whatfix",
@@ -361,7 +360,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:22.504Z"
+    "checked": "2026-11-21T19:30:15.842Z"
   },
   "innovaccer.com": {
     "name": "Innovaccer",
@@ -369,7 +368,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:26.866Z"
+    "checked": "2026-11-21T19:30:15.213Z"
   },
   "moengage.com": {
     "name": "Moengage",
@@ -377,7 +376,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:26.342Z"
+    "checked": "2026-11-21T19:30:19.145Z"
   },
   "clevertap.com": {
     "name": "Clevertap",
@@ -385,15 +384,15 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:26.828Z"
+    "checked": "2026-11-21T19:30:15.850Z"
   },
   "webengage.com": {
     "name": "Webengage",
     "source": "seed list",
-    "ats": null,
+    "ats": "keka",
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T17:16:31.092Z"
+    "unread": true,
+    "checked": "2026-11-21T19:30:16.636Z"
   },
   "vwo.com": {
     "name": "Vwo",
@@ -401,7 +400,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:32.517Z"
+    "checked": "2026-11-21T19:30:18.006Z"
   },
   "increff.com": {
     "name": "Increff",
@@ -409,7 +408,7 @@
     "ats": "zoho-recruit",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:28.878Z"
+    "checked": "2026-11-21T19:30:17.028Z"
   },
   "darwinbox.com": {
     "name": "Darwinbox",
@@ -417,7 +416,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:27.876Z"
+    "checked": "2026-11-21T19:30:21.217Z"
   },
   "signeasy.com": {
     "name": "Signeasy",
@@ -425,7 +424,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:29.746Z"
+    "checked": "2026-11-21T19:30:17.160Z"
   },
   "refrens.com": {
     "name": "Refrens",
@@ -433,7 +432,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:28.873Z"
+    "checked": "2026-11-21T19:30:18.800Z"
   },
   "fylehq.com": {
     "name": "Fylehq",
@@ -441,7 +440,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:30.794Z"
+    "checked": "2026-11-21T19:30:18.000Z"
   },
   "sprinklr.com": {
     "name": "Sprinklr",
@@ -449,7 +448,7 @@
     "ats": "workday",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:36.383Z"
+    "checked": "2026-11-21T19:30:19.906Z"
   },
   "capillarytech.com": {
     "name": "Capillarytech",
@@ -457,7 +456,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.268Z"
+    "checked": "2026-11-21T19:30:18.389Z"
   },
   "leadsquared.com": {
     "name": "Leadsquared",
@@ -465,7 +464,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:31.972Z"
+    "checked": "2026-11-21T19:30:21.306Z"
   },
   "wingify.com": {
     "name": "Wingify",
@@ -473,7 +472,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:37.860Z"
+    "checked": "2026-11-21T19:30:20.256Z"
   },
   "kissflow.com": {
     "name": "Kissflow",
@@ -481,15 +480,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:36.428Z"
+    "checked": "2026-11-21T19:30:33.206Z"
   },
   "zenoti.com": {
     "name": "Zenoti",
     "source": "seed list",
     "ats": "greenhouse",
     "slug": "zenoti",
-    "open": 52,
-    "checked": "2026-10-21T17:16:36.831Z"
+    "open": 56,
+    "checked": "2026-11-21T19:30:20.802Z"
   },
   "facilio.com": {
     "name": "Facilio",
@@ -497,7 +496,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:33.286Z"
+    "checked": "2026-11-21T19:30:19.532Z"
   },
   "mykaarma.com": {
     "name": "Mykaarma",
@@ -505,7 +504,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:34.700Z"
+    "checked": "2026-11-21T19:30:20.059Z"
   },
   "servify.in": {
     "name": "Servify",
@@ -513,7 +512,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:39.028Z"
+    "checked": "2026-11-21T19:30:22.076Z"
   },
   "locus.sh": {
     "name": "Locus",
@@ -521,7 +520,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:38.080Z"
+    "checked": "2026-11-21T19:30:20.836Z"
   },
   "shipsy.io": {
     "name": "Shipsy",
@@ -529,32 +528,32 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:36.758Z"
+    "checked": "2026-11-21T19:30:22.213Z"
   },
   "razorpay.com": {
     "name": "Razorpay",
     "source": "YC Winter 2015",
     "ats": "greenhouse",
     "slug": "razorpaysoftwareprivatelimited",
-    "open": 26,
-    "checked": "2026-10-21T17:16:38.662Z"
+    "open": 29,
+    "checked": "2026-11-21T19:30:22.374Z"
   },
   "cred.club": {
     "name": "Cred",
     "source": "seed list",
     "ats": "lever",
     "slug": "cred",
-    "open": 9,
-    "checked": "2026-10-21T17:16:38.650Z"
+    "open": 11,
+    "checked": "2026-11-21T19:30:24.077Z"
   },
   "groww.in": {
     "name": "Groww",
     "source": "seed list",
     "ats": "greenhouse",
     "slug": "groww",
-    "open": 10,
+    "open": 9,
     "guessed": true,
-    "checked": "2026-10-21T17:16:38.113Z"
+    "checked": "2026-11-21T19:30:22.327Z"
   },
   "zerodha.com": {
     "name": "Zerodha",
@@ -562,7 +561,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:39.038Z"
+    "checked": "2026-11-21T19:30:24.340Z"
   },
   "phonepe.com": {
     "name": "Phonepe",
@@ -570,7 +569,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:39.914Z"
+    "checked": "2026-11-21T19:30:23.041Z"
   },
   "cashfree.com": {
     "name": "Cashfree Payments",
@@ -578,7 +577,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:43.838Z"
+    "checked": "2026-11-21T19:30:45.011Z"
   },
   "smallcase.com": {
     "name": "Smallcase",
@@ -586,7 +585,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:41.043Z"
+    "checked": "2026-11-21T19:30:26.783Z"
   },
   "jupiter.money": {
     "name": "Jupiter",
@@ -594,7 +593,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:40.409Z"
+    "checked": "2026-11-21T19:30:24.265Z"
   },
   "fi.money": {
     "name": "Fi",
@@ -602,7 +601,7 @@
     "ats": "lever",
     "slug": "epifi",
     "open": 0,
-    "checked": "2026-10-21T17:16:40.124Z"
+    "checked": "2026-11-21T19:30:22.483Z"
   },
   "uni.cards": {
     "name": "Uni",
@@ -618,7 +617,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:44.724Z"
+    "checked": "2026-11-21T19:30:28.140Z"
   },
   "khatabook.com": {
     "name": "Khatabook",
@@ -626,7 +625,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:10.831Z"
+    "checked": "2026-11-21T19:30:25.258Z"
   },
   "okcredit.in": {
     "name": "OkCredit",
@@ -634,7 +633,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:42.258Z"
+    "checked": "2026-11-21T19:30:37.514Z"
   },
   "open.money": {
     "name": "Open",
@@ -642,7 +641,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:42.076Z"
+    "checked": "2026-11-21T19:30:38.827Z"
   },
   "instamojo.com": {
     "name": "Instamojo",
@@ -650,7 +649,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:43.369Z"
+    "checked": "2026-11-21T19:30:39.355Z"
   },
   "coindcx.com": {
     "name": "Coindcx",
@@ -658,7 +657,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.040Z"
+    "checked": "2026-11-21T19:30:25.514Z"
   },
   "coinswitch.co": {
     "name": "Coinswitch",
@@ -666,7 +665,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:44.063Z"
+    "checked": "2026-11-21T19:30:37.983Z"
   },
   "acko.com": {
     "name": "Acko",
@@ -674,15 +673,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:44.611Z"
+    "checked": "2026-11-21T19:30:29.738Z"
   },
   "godigit.com": {
     "name": "Godigit",
     "source": "seed list",
-    "ats": "darwinbox",
+    "ats": null,
     "slug": null,
-    "unread": true,
-    "checked": "2026-10-21T17:16:45.031Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:30:41.511Z"
   },
   "policybazaar.com": {
     "name": "Policybazaar",
@@ -690,7 +689,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:46.330Z"
+    "checked": "2026-11-21T19:30:35.459Z"
   },
   "indmoney.com": {
     "name": "Indmoney",
@@ -706,7 +705,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:45.928Z"
+    "checked": "2026-11-21T19:30:35.733Z"
   },
   "moneyview.in": {
     "name": "Moneyview",
@@ -714,16 +713,16 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:45.518Z"
+    "checked": "2026-11-21T19:30:36.809Z"
   },
   "fampay.in": {
     "name": "FamPay",
     "source": "YC Summer 2019",
     "ats": "lever",
     "slug": "fampay",
-    "open": 17,
+    "open": 14,
     "guessed": true,
-    "checked": "2026-10-21T17:16:46.943Z"
+    "checked": "2026-11-21T19:30:37.933Z"
   },
   "myjar.app": {
     "name": "Myjar",
@@ -731,7 +730,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:47.655Z"
+    "checked": "2026-11-21T19:30:46.501Z"
   },
   "scapia.cards": {
     "name": "Scapia",
@@ -739,7 +738,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:47.843Z"
+    "checked": "2026-11-21T19:30:38.462Z"
   },
   "dhan.co": {
     "name": "Dhan",
@@ -747,7 +746,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:46.953Z"
+    "checked": "2026-11-21T19:30:40.922Z"
   },
   "sensibull.com": {
     "name": "Sensibull",
@@ -755,16 +754,16 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:47.233Z"
+    "checked": "2026-11-21T19:30:42.221Z"
   },
   "meesho.com": {
     "name": "Meesho",
     "source": "seed list",
     "ats": "lever",
     "slug": "meesho",
-    "open": 59,
+    "open": 48,
     "guessed": true,
-    "checked": "2026-10-21T17:16:48.739Z"
+    "checked": "2026-11-21T19:30:44.671Z"
   },
   "swiggy.com": {
     "name": "Swiggy",
@@ -772,15 +771,15 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:38.003Z"
+    "checked": "2026-11-21T19:30:42.408Z"
   },
   "zomato.com": {
     "name": "Zomato",
     "source": "seed list",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T17:16:50.458Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:30:40.687Z"
   },
   "zeptonow.com": {
     "name": "Zepto",
@@ -788,7 +787,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.229Z"
+    "checked": "2026-11-21T19:30:41.383Z"
   },
   "urbancompany.com": {
     "name": "Urbancompany",
@@ -796,15 +795,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:50.812Z"
+    "checked": "2026-11-21T19:30:51.731Z"
   },
   "nykaa.com": {
     "name": "Nykaa",
     "source": "seed list",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T17:16:50.470Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:30:42.197Z"
   },
   "lenskart.com": {
     "name": "Lenskart",
@@ -812,7 +811,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:51.358Z"
+    "checked": "2026-11-21T19:30:46.561Z"
   },
   "cars24.com": {
     "name": "Cars24",
@@ -820,7 +819,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:52.118Z"
+    "checked": "2026-11-21T19:30:45.375Z"
   },
   "spinny.com": {
     "name": "Spinny",
@@ -828,7 +827,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:58.695Z"
+    "checked": "2026-11-21T19:30:47.527Z"
   },
   "rapido.bike": {
     "name": "Rapido",
@@ -836,15 +835,15 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:53.471Z"
+    "checked": "2026-11-21T19:30:45.349Z"
   },
   "porter.in": {
     "name": "Porter",
     "source": "seed list",
-    "ats": "darwinbox",
+    "ats": null,
     "slug": null,
-    "unread": true,
-    "checked": "2026-10-21T17:16:53.171Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:30:47.344Z"
   },
   "shiprocket.in": {
     "name": "Shiprocket",
@@ -852,15 +851,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:53.989Z"
+    "checked": "2026-11-21T19:30:47.597Z"
   },
   "delhivery.com": {
     "name": "Delhivery",
     "source": "seed list",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T17:16:58.416Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:30:46.913Z"
   },
   "blackbuck.com": {
     "name": "Blackbuck",
@@ -868,7 +867,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:53.785Z"
+    "checked": "2026-11-21T19:30:47.625Z"
   },
   "magicpin.in": {
     "name": "Magicpin",
@@ -876,7 +875,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:59.215Z"
+    "checked": "2026-11-21T19:31:03.673Z"
   },
   "parkplus.io": {
     "name": "Parkplus",
@@ -884,7 +883,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:57.848Z"
+    "checked": "2026-11-21T19:30:48.765Z"
   },
   "licious.in": {
     "name": "Licious",
@@ -892,7 +891,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:59.809Z"
+    "checked": "2026-11-21T19:30:51.264Z"
   },
   "dunzo.com": {
     "name": "Dunzo",
@@ -900,7 +899,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.357Z"
+    "checked": "2026-11-21T19:30:47.586Z"
   },
   "sharechat.com": {
     "name": "Sharechat",
@@ -908,16 +907,16 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:59.255Z"
+    "checked": "2026-11-21T19:30:48.677Z"
   },
   "pocketfm.com": {
     "name": "Pocketfm",
     "source": "seed list",
     "ats": "lever",
     "slug": "pocketfm",
-    "open": 9,
+    "open": 10,
     "guessed": true,
-    "checked": "2026-10-21T17:17:00.655Z"
+    "checked": "2026-11-21T19:30:50.257Z"
   },
   "kukufm.com": {
     "name": "Kukufm",
@@ -925,7 +924,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:01.653Z"
+    "checked": "2026-11-21T19:30:51.551Z"
   },
   "inshorts.com": {
     "name": "Inshorts",
@@ -933,7 +932,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:00.328Z"
+    "checked": "2026-11-21T19:30:54.934Z"
   },
   "dream11.com": {
     "name": "Dream11",
@@ -941,7 +940,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:01.549Z"
+    "checked": "2026-11-21T19:30:58.524Z"
   },
   "games24x7.com": {
     "name": "Games24x7",
@@ -949,7 +948,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:08.427Z"
+    "checked": "2026-11-21T19:30:50.217Z"
   },
   "mpl.live": {
     "name": "Mpl",
@@ -957,7 +956,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:02.905Z"
+    "checked": "2026-11-21T19:30:51.500Z"
   },
   "unacademy.com": {
     "name": "Unacademy",
@@ -965,7 +964,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:02.207Z"
+    "checked": "2026-11-21T19:30:51.318Z"
   },
   "scaler.com": {
     "name": "Scaler",
@@ -973,7 +972,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:05.360Z"
+    "checked": "2026-11-21T19:30:59.599Z"
   },
   "pw.live": {
     "name": "Pw",
@@ -981,7 +980,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:03.292Z"
+    "checked": "2026-11-21T19:30:54.037Z"
   },
   "classplus.co": {
     "name": "Classplus",
@@ -989,7 +988,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:36.140Z"
+    "checked": "2026-11-21T19:30:51.663Z"
   },
   "eightfold.ai": {
     "name": "Eightfold",
@@ -997,15 +996,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:10.238Z"
+    "checked": "2026-11-21T19:30:53.497Z"
   },
   "apna.co": {
     "name": "Apna",
     "source": "seed list",
     "ats": "workable",
     "slug": "apna",
-    "open": 147,
-    "checked": "2026-10-21T17:17:08.855Z"
+    "open": 158,
+    "checked": "2026-11-21T19:30:59.621Z"
   },
   "clear.in": {
     "name": "Clear",
@@ -1013,7 +1012,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:10.266Z"
+    "checked": "2026-11-21T19:31:02.039Z"
   },
   "dripcapital.com": {
     "name": "Drip Capital",
@@ -1021,7 +1020,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:11.622Z"
+    "checked": "2026-11-21T19:31:27.101Z"
   },
   "redcarpetup.com": {
     "name": "RedCarpetUp",
@@ -1029,7 +1028,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:27:07.422Z"
+    "checked": "2026-11-21T19:31:56.303Z"
   },
   "golorry.com": {
     "name": "GoLorry",
@@ -1045,7 +1044,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:14.026Z"
+    "checked": "2026-11-21T19:31:27.366Z"
   },
   "bulkmro.com": {
     "name": "Bulk MRO Industrial Supply",
@@ -1053,7 +1052,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:18.052Z"
+    "checked": "2026-11-21T19:31:34.238Z"
   },
   "dabba.com": {
     "name": "Wifi Dabba, Inc.",
@@ -1061,7 +1060,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:16.726Z"
+    "checked": "2026-11-21T19:31:25.688Z"
   },
   "onefin.in": {
     "name": "OneFin",
@@ -1069,7 +1068,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:14.515Z"
+    "checked": "2026-11-21T19:31:26.780Z"
   },
   "dosteducation.com": {
     "name": "Dost Education",
@@ -1077,7 +1076,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:14.853Z"
+    "checked": "2026-11-21T19:31:30.801Z"
   },
   "algosurg.ai": {
     "name": "AlgoSurg Inc",
@@ -1085,7 +1084,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:16.220Z"
+    "checked": "2026-11-21T19:31:31.070Z"
   },
   "helloverify.ae": {
     "name": "Helloverify",
@@ -1093,7 +1092,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:37.894Z"
+    "checked": "2026-11-21T19:31:29.347Z"
   },
   "ziffyhomes.com": {
     "name": "ZiffyHomes",
@@ -1101,7 +1100,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:19.341Z"
+    "checked": "2026-11-21T19:31:28.249Z"
   },
   "swadesh.co": {
     "name": "Swadesh",
@@ -1109,7 +1108,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:19.335Z"
+    "checked": "2026-11-21T19:31:28.366Z"
   },
   "skill-lync.com": {
     "name": "Skill-lync",
@@ -1117,7 +1116,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:22.343Z"
+    "checked": "2026-11-21T19:31:29.147Z"
   },
   "mudrex.com": {
     "name": "Mudrex",
@@ -1125,7 +1124,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:22.068Z"
+    "checked": "2026-11-21T19:31:31.033Z"
   },
   "acciojob.com": {
     "name": "AccioJob",
@@ -1133,7 +1132,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:19.963Z"
+    "checked": "2026-11-21T19:31:31.234Z"
   },
   "edyst.com": {
     "name": "Edyst",
@@ -1141,7 +1140,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:36.540Z"
+    "checked": "2026-11-21T19:31:29.725Z"
   },
   "exlyapp.com": {
     "name": "Exly",
@@ -1149,7 +1148,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:23.640Z"
+    "checked": "2026-11-21T19:31:31.838Z"
   },
   "cityfurnish.com": {
     "name": "Cityfurnish",
@@ -1157,15 +1156,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:21.235Z"
+    "checked": "2026-11-21T19:31:35.160Z"
   },
   "getpulse.in": {
     "name": "Pulse Active Stations Network",
     "source": "YC Winter 2019",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T17:17:23.281Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:31:31.673Z"
   },
   "getdockup.com": {
     "name": "Dockup",
@@ -1173,15 +1172,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:25.704Z"
+    "checked": "2026-11-21T19:31:32.110Z"
   },
   "inito.com": {
     "name": "Inito",
     "source": "YC Winter 2019",
-    "ats": "keka",
+    "ats": null,
     "slug": null,
-    "unread": true,
-    "checked": "2026-10-21T17:17:24.984Z"
+    "reachable": true,
+    "checked": "2026-11-21T19:31:33.418Z"
   },
   "taalifoods.com": {
     "name": "Taali Inc",
@@ -1189,7 +1188,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:36.815Z"
+    "checked": "2026-11-21T19:31:32.243Z"
   },
   "getbinks.com": {
     "name": "Binks",
@@ -1197,7 +1196,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:26.255Z"
+    "checked": "2026-11-21T19:31:33.526Z"
   },
   "getlokalapp.com": {
     "name": "Lokal",
@@ -1205,7 +1204,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:30.553Z"
+    "checked": "2026-11-21T19:31:37.148Z"
   },
   "docvita.com": {
     "name": "DocVita",
@@ -1213,7 +1212,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:29.122Z"
+    "checked": "2026-11-21T19:31:35.308Z"
   },
   "vahan.ai": {
     "name": "Vahan",
@@ -1221,7 +1220,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:39.327Z"
+    "checked": "2026-11-21T19:31:38.356Z"
   },
   "digi-prex.com": {
     "name": "Digi-Prex",
@@ -1229,7 +1228,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:32.086Z"
+    "checked": "2026-11-21T19:31:35.494Z"
   },
   "loophealth.com": {
     "name": "Loop Health",
@@ -1237,7 +1236,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:31.230Z"
+    "checked": "2026-11-21T19:31:35.240Z"
   },
   "getkosh.com": {
     "name": "Kosh",
@@ -1245,7 +1244,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:31.143Z"
+    "checked": "2026-11-21T19:31:36.903Z"
   },
   "stayqrious.com": {
     "name": "StayQrious",
@@ -1253,7 +1252,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:33.976Z"
+    "checked": "2026-11-21T19:31:35.665Z"
   },
   "urbankisaan.com": {
     "name": "UrbanKisaan",
@@ -1261,7 +1260,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:34.033Z"
+    "checked": "2026-11-21T19:31:35.853Z"
   },
   "farmtheory.in": {
     "name": "farmtheory",
@@ -1269,7 +1268,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:32.748Z"
+    "checked": "2026-11-21T19:31:36.052Z"
   },
   "tagmango.com": {
     "name": "TagMango",
@@ -1277,7 +1276,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:33.021Z"
+    "checked": "2026-11-21T19:31:38.055Z"
   },
   "morphlelabs.com": {
     "name": "Morphle Labs",
@@ -1285,7 +1284,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:39.216Z"
+    "checked": "2026-11-21T19:31:37.069Z"
   },
   "zeorouteplanner.com": {
     "name": "Zeo Route Planner",
@@ -1293,7 +1292,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:47.333Z"
+    "checked": "2026-11-21T19:31:40.148Z"
   },
   "hiration.com": {
     "name": "Hiration",
@@ -1301,7 +1300,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:38.750Z"
+    "checked": "2026-11-21T19:31:37.202Z"
   },
   "askanatomic.com": {
     "name": "Anatomic",
@@ -1309,7 +1308,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:36.928Z"
+    "checked": "2026-11-21T19:31:37.642Z"
   },
   "edurev.in": {
     "name": "EduRev",
@@ -1317,7 +1316,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:36.483Z"
+    "checked": "2026-11-21T19:31:39.789Z"
   },
   "spennyapp.com": {
     "name": "Spenny",
@@ -1325,7 +1324,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:41.157Z"
+    "checked": "2026-11-21T19:31:38.278Z"
   },
   "volopay.com": {
     "name": "Volopay",
@@ -1333,7 +1332,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:41.637Z"
+    "checked": "2026-11-21T19:31:40.156Z"
   },
   "explorex.co": {
     "name": "Explorex",
@@ -1341,15 +1340,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:39.613Z"
+    "checked": "2026-11-21T19:31:39.089Z"
   },
   "farmako.ai": {
     "name": "Farmako Healthcare",
     "source": "YC Summer 2020",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T17:17:43.226Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:31:39.041Z"
   },
   "cradlefinance.com": {
     "name": "Cradle",
@@ -1357,7 +1356,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:37.054Z"
+    "checked": "2026-11-21T19:31:38.989Z"
   },
   "statiq.in": {
     "name": "Statiq.",
@@ -1365,7 +1364,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:52.943Z"
+    "checked": "2026-11-21T19:31:41.367Z"
   },
   "wareiq.com": {
     "name": "WareIQ",
@@ -1373,7 +1372,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:40.870Z"
+    "checked": "2026-11-21T19:31:40.775Z"
   },
   "decentro.tech": {
     "name": "Decentro",
@@ -1381,7 +1380,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:40.944Z"
+    "checked": "2026-11-21T19:31:20.067Z"
   },
   "orangehealth.in": {
     "name": "Orange Health Labs",
@@ -1389,7 +1388,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:48.143Z"
+    "checked": "2026-11-21T19:31:43.052Z"
   },
   "medpiper.com": {
     "name": "MedPiper Technologies, Inc",
@@ -1397,7 +1396,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:47.023Z"
+    "checked": "2026-11-21T19:31:41.123Z"
   },
   "zuddl.com": {
     "name": "Zuddl",
@@ -1405,7 +1404,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:45.636Z"
+    "checked": "2026-11-21T19:31:41.300Z"
   },
   "rocketsdr.ai": {
     "name": "RocketSDR",
@@ -1413,7 +1412,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:43.618Z"
+    "checked": "2026-11-21T19:31:41.094Z"
   },
   "gromo.in": {
     "name": "GroMo",
@@ -1421,7 +1420,7 @@
     "ats": "zoho-recruit",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:17:53.163Z"
+    "checked": "2026-11-21T19:31:44.820Z"
   },
   "fluxauto.ai": {
     "name": "Flux Auto",
@@ -1429,7 +1428,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:49.488Z"
+    "checked": "2026-11-21T19:31:46.134Z"
   },
   "weekday.works": {
     "name": "Weekday",
@@ -1437,7 +1436,7 @@
     "ats": "workable",
     "slug": "weekday-1",
     "open": 1016,
-    "checked": "2026-10-21T17:17:49.774Z"
+    "checked": "2026-11-21T19:31:43.691Z"
   },
   "cashbook.in": {
     "name": "CashBook",
@@ -1445,7 +1444,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:48.500Z"
+    "checked": "2026-11-21T19:31:41.661Z"
   },
   "bimaplan.co": {
     "name": "Bimaplan",
@@ -1453,7 +1452,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:49.647Z"
+    "checked": "2026-11-21T19:31:42.754Z"
   },
   "kodo.com": {
     "name": "Kodo",
@@ -1461,7 +1460,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:49.946Z"
+    "checked": "2026-11-21T19:31:42.051Z"
   },
   "gimbooks.com": {
     "name": "GimBooks",
@@ -1469,7 +1468,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:51.367Z"
+    "checked": "2026-11-21T19:31:44.945Z"
   },
   "zingbus.com": {
     "name": "zingbus",
@@ -1477,7 +1476,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:56.902Z"
+    "checked": "2026-11-21T19:31:45.894Z"
   },
   "veerahealth.com": {
     "name": "Veera Health",
@@ -1485,7 +1484,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:56.049Z"
+    "checked": "2026-11-21T19:31:44.350Z"
   },
   "codingal.com": {
     "name": "Codingal",
@@ -1493,7 +1492,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:53.963Z"
+    "checked": "2026-11-21T19:31:49.897Z"
   },
   "tilt.bike": {
     "name": "Tilt",
@@ -1501,7 +1500,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:04.034Z"
+    "checked": "2026-11-21T19:31:44.775Z"
   },
   "unschool.in": {
     "name": "Unschool",
@@ -1509,7 +1508,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:58.846Z"
+    "checked": "2026-11-21T19:31:46.586Z"
   },
   "zoko.io": {
     "name": "ZOKO",
@@ -1517,7 +1516,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:56.527Z"
+    "checked": "2026-11-21T19:31:00.227Z"
   },
   "reclaimprotocol.org": {
     "name": "Reclaim Protocol",
@@ -1525,7 +1524,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:06.661Z"
+    "checked": "2026-11-21T19:31:45.665Z"
   },
   "redcliffelabs.com": {
     "name": "Redcliffe Lifetech",
@@ -1533,7 +1532,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:03.377Z"
+    "checked": "2026-11-21T19:31:48.227Z"
   },
   "betterhalf.ai": {
     "name": "Betterhalf",
@@ -1541,7 +1540,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:57.575Z"
+    "checked": "2026-11-21T19:31:48.023Z"
   },
   "zealth-ai.com": {
     "name": "Zealth",
@@ -1549,7 +1548,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:58.895Z"
+    "checked": "2026-11-21T19:31:46.607Z"
   },
   "swadesiway.com": {
     "name": "Swadesi Way",
@@ -1557,7 +1556,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:14.447Z"
+    "checked": "2026-11-21T19:31:52.883Z"
   },
   "businessonbot.com": {
     "name": "BusinessOnBot",
@@ -1565,7 +1564,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:00.266Z"
+    "checked": "2026-11-21T19:31:47.890Z"
   },
   "voosh.ai": {
     "name": "Voosh",
@@ -1573,7 +1572,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:17:59.191Z"
+    "checked": "2026-11-21T19:31:47.082Z"
   },
   "marketfeed.com": {
     "name": "marketfeed",
@@ -1581,7 +1580,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:00.846Z"
+    "checked": "2026-11-21T19:31:48.615Z"
   },
   "karboncard.com": {
     "name": "Karbon Card",
@@ -1589,7 +1588,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:06.552Z"
+    "checked": "2026-11-21T19:31:49.523Z"
   },
   "front.page": {
     "name": "FrontPage",
@@ -1605,7 +1604,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:14.875Z"
+    "checked": "2026-11-21T19:31:52.034Z"
   },
   "koshex.com": {
     "name": "Koshex",
@@ -1613,7 +1612,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:02.912Z"
+    "checked": "2026-11-21T19:31:52.899Z"
   },
   "coulomb.ai": {
     "name": "Coulomb AI",
@@ -1621,7 +1620,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:05.054Z"
+    "checked": "2026-11-21T19:31:51.877Z"
   },
   "odwen.co.in": {
     "name": "ODWEN",
@@ -1629,7 +1628,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:04.310Z"
+    "checked": "2026-11-21T19:31:51.298Z"
   },
   "salarybook.co.in": {
     "name": "SalaryBook",
@@ -1637,7 +1636,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:05.614Z"
+    "checked": "2026-11-21T19:31:50.284Z"
   },
   "rivia.ai": {
     "name": "Rivia.AI",
@@ -1645,7 +1644,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:12.519Z"
+    "checked": "2026-11-21T19:31:52.143Z"
   },
   "advantageclub.co": {
     "name": "Advantage Club",
@@ -1653,7 +1652,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:10.067Z"
+    "checked": "2026-11-21T19:31:53.598Z"
   },
   "getswipe.in": {
     "name": "Swipe",
@@ -1661,7 +1660,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:07.713Z"
+    "checked": "2026-11-21T19:31:55.190Z"
   },
   "algouniversity.com": {
     "name": "AlgoUniversity",
@@ -1669,7 +1668,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:08.654Z"
+    "checked": "2026-11-21T19:31:55.997Z"
   },
   "neodocs.in": {
     "name": "Neodocs",
@@ -1677,7 +1676,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:13.612Z"
+    "checked": "2026-11-21T19:31:52.828Z"
   },
   "appx.co.in": {
     "name": "AppX",
@@ -1685,7 +1684,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:08.991Z"
+    "checked": "2026-11-21T19:31:55.576Z"
   },
   "ivy.homes": {
     "name": "Ivy Homes",
@@ -1693,15 +1692,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:15.634Z"
+    "checked": "2026-11-21T19:32:05.720Z"
   },
   "salarybox.in": {
     "name": "SalaryBox",
     "source": "YC Summer 2021",
-    "ats": "zoho-recruit",
+    "ats": null,
     "slug": null,
-    "unread": true,
-    "checked": "2026-10-21T17:18:13.410Z"
+    "reachable": true,
+    "checked": "2026-11-21T19:31:55.793Z"
   },
   "enerjazz.tech": {
     "name": "Enerjazz",
@@ -1709,7 +1708,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:12.289Z"
+    "checked": "2026-11-21T19:31:53.690Z"
   },
   "sparkstudio.co": {
     "name": "Spark Studio",
@@ -1717,15 +1716,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:13.357Z"
+    "checked": "2026-11-21T19:31:56.323Z"
   },
   "writesonic.com": {
     "name": "Writesonic",
     "source": "YC Summer 2021",
     "ats": "workable",
     "slug": "writesonic",
-    "open": 7,
-    "checked": "2026-10-21T17:18:16.312Z"
+    "open": 2,
+    "checked": "2026-11-21T19:31:04.395Z"
   },
   "infer.so": {
     "name": "Infer",
@@ -1733,7 +1732,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:15.047Z"
+    "checked": "2026-11-21T19:31:54.048Z"
   },
   "stownest.com": {
     "name": "Stownest",
@@ -1741,7 +1740,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:14.742Z"
+    "checked": "2026-11-21T19:31:56.633Z"
   },
   "novatr.com": {
     "name": "Novatr",
@@ -1749,15 +1748,16 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:16.051Z"
+    "checked": "2026-11-21T19:31:56.504Z"
   },
   "apollofirst.xyz": {
     "name": "Apollo",
     "source": "YC Winter 2022",
-    "ats": null,
-    "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T17:18:18.395Z"
+    "ats": "ashby",
+    "slug": "apollo",
+    "open": 46,
+    "guessed": true,
+    "checked": "2026-11-21T19:31:56.521Z"
   },
   "inferedge.com": {
     "name": "InferEdge",
@@ -1765,7 +1765,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:19.831Z"
+    "checked": "2026-11-21T19:31:56.943Z"
   },
   "mysivi.ai": {
     "name": "MySivi",
@@ -1773,7 +1773,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:37.047Z"
+    "checked": "2026-11-21T19:31:56.350Z"
   },
   "fieldproxy.ai": {
     "name": "Fieldproxy",
@@ -1781,7 +1781,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:17.371Z"
+    "checked": "2026-11-21T19:31:56.783Z"
   },
   "rdash.io": {
     "name": "RDash",
@@ -1797,7 +1797,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:18.920Z"
+    "checked": "2026-11-21T19:31:56.799Z"
   },
   "redbrickai.com": {
     "name": "RedBrick AI",
@@ -1805,7 +1805,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:21.450Z"
+    "checked": "2026-11-21T19:31:57.363Z"
   },
   "play.google.com": {
     "name": "RecordBook",
@@ -1813,7 +1813,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:20.078Z"
+    "checked": "2026-11-21T19:31:57.279Z"
   },
   "salt.pe": {
     "name": "SALT",
@@ -1821,7 +1821,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:22.866Z"
+    "checked": "2026-11-21T19:31:58.454Z"
   },
   "imt.care": {
     "name": "IMT Care",
@@ -1829,7 +1829,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:23.406Z"
+    "checked": "2026-11-21T19:31:59.992Z"
   },
   "spadeworks.co": {
     "name": "SpadeWorks",
@@ -1837,7 +1837,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:36.748Z"
+    "checked": "2026-11-21T19:32:08.959Z"
   },
   "kaagaz.app": {
     "name": "Kaagaz",
@@ -1845,7 +1845,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:20.080Z"
+    "checked": "2026-11-21T19:31:59.371Z"
   },
   "paycrunch.in": {
     "name": "PayCrunch",
@@ -1853,7 +1853,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:37.061Z"
+    "checked": "2026-11-21T19:31:57.336Z"
   },
   "savein.money": {
     "name": "SaveIN",
@@ -1861,7 +1861,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:38.814Z"
+    "checked": "2026-11-21T19:31:58.612Z"
   },
   "materialdepot.in": {
     "name": "Material Depot",
@@ -1877,7 +1877,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:38.929Z"
+    "checked": "2026-11-21T19:32:11.018Z"
   },
   "gosats.io": {
     "name": "GoSats",
@@ -1885,7 +1885,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:24.532Z"
+    "checked": "2026-11-21T19:31:59.014Z"
   },
   "clinikally.com": {
     "name": "Clinikally",
@@ -1893,7 +1893,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:23.371Z"
+    "checked": "2026-11-21T19:32:02.000Z"
   },
   "coupl.money": {
     "name": "Coupl",
@@ -1901,7 +1901,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:23.113Z"
+    "checked": "2026-11-21T19:32:00.717Z"
   },
   "craze.ai": {
     "name": "Craze",
@@ -1909,7 +1909,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:24.854Z"
+    "checked": "2026-11-21T19:31:59.862Z"
   },
   "ethosx.finance": {
     "name": "EthosX",
@@ -1917,7 +1917,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:29.359Z"
+    "checked": "2026-11-21T19:32:01.052Z"
   },
   "startraven.com": {
     "name": "Raven",
@@ -1925,7 +1925,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:24.922Z"
+    "checked": "2026-11-21T19:32:09.140Z"
   },
   "gullak.money": {
     "name": "Gullak Money",
@@ -1933,7 +1933,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:30.875Z"
+    "checked": "2026-11-21T19:32:01.922Z"
   },
   "slidely.ai": {
     "name": "Slidely AI",
@@ -1941,7 +1941,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:27.703Z"
+    "checked": "2026-11-21T19:32:02.882Z"
   },
   "100x.bot": {
     "name": "100x",
@@ -1949,7 +1949,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:25.085Z"
+    "checked": "2026-11-21T19:32:14.120Z"
   },
   "peoplebox.ai": {
     "name": "Peoplebox.ai",
@@ -1957,7 +1957,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:33.105Z"
+    "checked": "2026-11-21T19:32:08.623Z"
   },
   "mayalabs.io": {
     "name": "Maya Labs",
@@ -1965,7 +1965,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:27.693Z"
+    "checked": "2026-11-21T19:32:02.475Z"
   },
   "compup.io": {
     "name": "CompUp",
@@ -1973,7 +1973,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:26.596Z"
+    "checked": "2026-11-21T19:32:03.001Z"
   },
   "primevault.com": {
     "name": "PrimeVault",
@@ -1981,7 +1981,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:27.814Z"
+    "checked": "2026-11-21T19:32:07.504Z"
   },
   "algotest.in": {
     "name": "AlgoTest",
@@ -1989,7 +1989,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:26.387Z"
+    "checked": "2026-11-21T19:32:17.306Z"
   },
   "flatx.co": {
     "name": "FlatX",
@@ -1997,7 +1997,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:29.068Z"
+    "checked": "2026-11-21T19:32:06.627Z"
   },
   "landeed.com": {
     "name": "Landeed",
@@ -2005,7 +2005,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:30.151Z"
+    "checked": "2026-11-21T19:32:09.172Z"
   },
   "getcone.io": {
     "name": "Cone",
@@ -2013,7 +2013,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:32.826Z"
+    "checked": "2026-11-21T19:32:08.571Z"
   },
   "drdroid.io": {
     "name": "DrDroid",
@@ -2021,7 +2021,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:31.904Z"
+    "checked": "2026-11-21T19:32:13.550Z"
   },
   "floworks.ai": {
     "name": "Floworks",
@@ -2029,7 +2029,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:34.448Z"
+    "checked": "2026-11-21T19:32:09.334Z"
   },
   "clickpe.ai": {
     "name": "ClickPe",
@@ -2037,7 +2037,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:30.549Z"
+    "checked": "2026-11-21T19:32:15.998Z"
   },
   "superkalam.com": {
     "name": "SuperKalam",
@@ -2045,7 +2045,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:31.976Z"
+    "checked": "2026-11-21T19:32:10.288Z"
   },
   "clueso.io": {
     "name": "Clueso",
@@ -2054,7 +2054,7 @@
     "slug": "clueso",
     "open": 3,
     "guessed": true,
-    "checked": "2026-10-21T17:18:32.213Z"
+    "checked": "2026-11-21T19:32:09.676Z"
   },
   "retape.ai": {
     "name": "Retape",
@@ -2062,7 +2062,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:33.867Z"
+    "checked": "2026-11-21T19:32:10.519Z"
   },
   "trysuperapi.com": {
     "name": "SuperAPI",
@@ -2070,7 +2070,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:35.874Z"
+    "checked": "2026-11-21T19:32:10.302Z"
   },
   "getcore.me": {
     "name": "CORE",
@@ -2078,7 +2078,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:40.611Z"
+    "checked": "2026-11-21T19:32:23.591Z"
   },
   "yenmo.in": {
     "name": "Yenmo",
@@ -2086,7 +2086,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:33.415Z"
+    "checked": "2026-11-21T19:32:11.114Z"
   },
   "infinityapp.in": {
     "name": "Infinity",
@@ -2094,7 +2094,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:35.535Z"
+    "checked": "2026-11-21T19:32:11.129Z"
   },
   "xpaycheckout.com": {
     "name": "xPay",
@@ -2102,7 +2102,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:35.915Z"
+    "checked": "2026-11-21T19:32:12.069Z"
   },
   "paasa.com": {
     "name": "Paasa",
@@ -2110,7 +2110,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:34.712Z"
+    "checked": "2026-11-21T19:32:12.654Z"
   },
   "surebright.com": {
     "name": "SureBright",
@@ -2118,7 +2118,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:37.393Z"
+    "checked": "2026-11-21T19:32:13.167Z"
   },
   "rowboatlabs.com": {
     "name": "Rowboat Labs",
@@ -2126,7 +2126,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:39.086Z"
+    "checked": "2026-11-21T19:32:13.388Z"
   },
   "optifye.ai": {
     "name": "Optifye.ai",
@@ -2134,7 +2134,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:41.070Z"
+    "checked": "2026-11-21T19:32:30.301Z"
   },
   "redapto.com": {
     "name": "Redapto",
@@ -2142,7 +2142,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:37.316Z"
+    "checked": "2026-11-21T19:32:13.851Z"
   },
   "perseus.computer": {
     "name": "Perseus",
@@ -2158,7 +2158,7 @@
     "ats": "ashby",
     "slug": "cardboard",
     "open": 7,
-    "checked": "2026-10-21T17:18:36.921Z"
+    "checked": "2026-11-21T19:32:14.429Z"
   },
   "ressl.ai": {
     "name": "Ressl AI",
@@ -2166,7 +2166,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:41.045Z"
+    "checked": "2026-11-21T19:32:15.129Z"
   },
   "bentolabs.ai": {
     "name": "BentoLabs AI",
@@ -2182,7 +2182,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:40.984Z"
+    "checked": "2026-11-21T19:32:14.954Z"
   },
   "waybill.to": {
     "name": "Waybill",
@@ -2190,7 +2190,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:39.685Z"
+    "checked": "2026-11-21T19:32:26.876Z"
   },
   "kailashlabs.com": {
     "name": "Kailash Labs",
@@ -2198,7 +2198,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:18:42.058Z"
+    "checked": "2026-11-21T19:32:15.679Z"
   },
   "gnani.ai": {
     "name": "Gnani",
@@ -2206,7 +2206,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:10.345Z"
+    "checked": "2026-11-21T19:30:10.570Z"
   },
   "uniphore.com": {
     "name": "Uniphore",
@@ -2214,7 +2214,7 @@
     "ats": "workday",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:11.801Z"
+    "checked": "2026-11-21T19:30:12.463Z"
   },
   "leena.ai": {
     "name": "Leena AI",
@@ -2222,16 +2222,16 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T17:16:12.771Z"
+    "checked": "2026-11-21T19:30:12.176Z"
   },
   "zeta.tech": {
     "name": "Zeta",
     "source": "seed list",
     "ats": "lever",
     "slug": "zeta",
-    "open": 26,
+    "open": 33,
     "guessed": true,
-    "checked": "2026-10-21T17:16:04.132Z"
+    "checked": "2026-11-21T19:30:10.997Z"
   },
   "haptik.ai": {
     "name": "Haptik",
@@ -2239,7 +2239,7 @@
     "ats": "freshteam",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T17:16:09.753Z"
+    "checked": "2026-11-21T19:30:12.936Z"
   },
   "sprinto.com": {
     "name": "Sprinto",
@@ -2247,7 +2247,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.608Z"
+    "checked": "2026-11-21T19:30:52.061Z"
   },
   "pando.ai": {
     "name": "Pando",
@@ -2255,7 +2255,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:29.527Z"
+    "checked": "2026-11-21T19:30:54.845Z"
   },
   "scrut.io": {
     "name": "Scrut",
@@ -2263,7 +2263,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:31.497Z"
+    "checked": "2026-11-21T19:30:53.615Z"
   },
   "loginext.com": {
     "name": "Loginext",
@@ -2271,7 +2271,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:33.540Z"
+    "checked": "2026-11-21T19:30:56.112Z"
   },
   "gocomet.com": {
     "name": "Gocomet",
@@ -2279,7 +2279,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:33.960Z"
+    "checked": "2026-11-21T19:30:59.602Z"
   },
   "shipway.com": {
     "name": "Shipway",
@@ -2287,7 +2287,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:35.184Z"
+    "checked": "2026-11-21T19:30:56.279Z"
   },
   "cleartax.in": {
     "name": "Cleartax",
@@ -2295,7 +2295,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:36.134Z"
+    "checked": "2026-11-21T19:30:59.242Z"
   },
   "razorpayx.com": {
     "name": "Razorpayx",
@@ -2303,7 +2303,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:38.132Z"
+    "checked": "2026-11-21T19:31:01.903Z"
   },
   "interakt.shop": {
     "name": "Interakt",
@@ -2311,7 +2311,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:38.480Z"
+    "checked": "2026-11-21T19:31:03.203Z"
   },
   "verloop.io": {
     "name": "Verloop",
@@ -2319,7 +2319,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.497Z"
+    "checked": "2026-11-21T19:31:01.088Z"
   },
   "fareye.com": {
     "name": "Fareye",
@@ -2327,7 +2327,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:41.335Z"
+    "checked": "2026-11-21T19:30:57.108Z"
   },
   "zenduty.com": {
     "name": "Zenduty",
@@ -2335,7 +2335,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:41.453Z"
+    "checked": "2026-11-21T19:30:54.530Z"
   },
   "corover.ai": {
     "name": "Corover",
@@ -2343,7 +2343,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:42.407Z"
+    "checked": "2026-11-21T19:31:07.068Z"
   },
   "limechat.ai": {
     "name": "Limechat",
@@ -2351,7 +2351,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:43.442Z"
+    "checked": "2026-11-21T19:31:00.983Z"
   },
   "kapture.cx": {
     "name": "Kapture",
@@ -2359,7 +2359,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:44.246Z"
+    "checked": "2026-11-21T19:31:11.777Z"
   },
   "mihup.ai": {
     "name": "Mihup",
@@ -2367,7 +2367,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:45.182Z"
+    "checked": "2026-11-21T19:31:04.153Z"
   },
   "skit.ai": {
     "name": "Skit",
@@ -2375,15 +2375,15 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:45.519Z"
+    "checked": "2026-11-21T19:31:04.474Z"
   },
   "wati.io": {
     "name": "Wati",
     "source": "seed list",
     "ats": "workable",
     "slug": "wati-dot-i-o",
-    "open": 108,
-    "checked": "2026-10-21T18:50:45.894Z"
+    "open": 26,
+    "checked": "2026-11-21T19:31:06.059Z"
   },
   "bitespeed.co": {
     "name": "Bitespeed",
@@ -2391,7 +2391,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:46.316Z"
+    "checked": "2026-11-21T19:31:00.711Z"
   },
   "salesken.ai": {
     "name": "Salesken",
@@ -2399,7 +2399,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:46.744Z"
+    "checked": "2026-11-21T19:31:03.680Z"
   },
   "rezo.ai": {
     "name": "Rezo",
@@ -2407,7 +2407,7 @@
     "ats": "zoho-recruit",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:47.739Z"
+    "checked": "2026-11-21T19:31:03.306Z"
   },
   "rephrase.ai": {
     "name": "Rephrase",
@@ -2415,7 +2415,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:49.036Z"
+    "checked": "2026-11-21T19:31:04.864Z"
   },
   "glib.ai": {
     "name": "Glib",
@@ -2423,7 +2423,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:49.697Z"
+    "checked": "2026-11-21T19:31:04.813Z"
   },
   "convin.ai": {
     "name": "Convin",
@@ -2431,7 +2431,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:49.723Z"
+    "checked": "2026-11-21T19:31:04.846Z"
   },
   "avaamo.ai": {
     "name": "Avaamo",
@@ -2439,7 +2439,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:50.962Z"
+    "checked": "2026-11-21T19:31:02.412Z"
   },
   "invideo.io": {
     "name": "Invideo",
@@ -2447,7 +2447,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:51.894Z"
+    "checked": "2026-11-21T19:31:08.867Z"
   },
   "masaischool.com": {
     "name": "Masaischool",
@@ -2455,7 +2455,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:51.909Z"
+    "checked": "2026-11-21T19:31:05.704Z"
   },
   "newtonschool.co": {
     "name": "Newtonschool",
@@ -2463,7 +2463,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:54.470Z"
+    "checked": "2026-11-21T19:31:07.149Z"
   },
   "testbook.com": {
     "name": "Testbook",
@@ -2471,7 +2471,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:55.564Z"
+    "checked": "2026-11-21T19:31:08.152Z"
   },
   "interviewbit.com": {
     "name": "Interviewbit",
@@ -2479,7 +2479,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:55.568Z"
+    "checked": "2026-11-21T19:31:06.739Z"
   },
   "codingninjas.com": {
     "name": "Codingninjas",
@@ -2487,15 +2487,15 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:56.619Z"
+    "checked": "2026-11-21T19:31:15.116Z"
   },
   "quizizz.com": {
     "name": "Quizizz",
     "source": "seed list",
     "ats": "lever",
     "slug": "Wayground",
-    "open": 8,
-    "checked": "2026-10-21T18:50:56.774Z"
+    "open": 9,
+    "checked": "2026-11-21T19:31:05.442Z"
   },
   "keka.com": {
     "name": "Keka",
@@ -2503,7 +2503,7 @@
     "ats": "keka",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:50:57.627Z"
+    "checked": "2026-11-21T19:31:10.899Z"
   },
   "greythr.com": {
     "name": "Greythr",
@@ -2511,7 +2511,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:58.809Z"
+    "checked": "2026-11-21T19:31:13.152Z"
   },
   "springworks.in": {
     "name": "Springworks",
@@ -2519,7 +2519,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:58.981Z"
+    "checked": "2026-11-21T19:31:08.518Z"
   },
   "hirequotient.com": {
     "name": "Hirequotient",
@@ -2527,7 +2527,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:50:59.748Z"
+    "checked": "2026-11-21T19:31:12.455Z"
   },
   "cutshort.io": {
     "name": "Cutshort",
@@ -2535,16 +2535,16 @@
     "ats": "freshteam",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:51:00.886Z"
+    "checked": "2026-11-21T19:31:12.198Z"
   },
   "coursera.org": {
     "name": "Coursera",
     "source": "seed list",
     "ats": "greenhouse",
     "slug": "coursera",
-    "open": 27,
+    "open": 34,
     "guessed": true,
-    "checked": "2026-10-21T18:51:02.249Z"
+    "checked": "2026-11-21T19:31:10.680Z"
   },
   "zimyo.com": {
     "name": "Zimyo",
@@ -2552,7 +2552,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:02.293Z"
+    "checked": "2026-11-21T19:31:10.106Z"
   },
   "instahyre.com": {
     "name": "Instahyre",
@@ -2567,9 +2567,9 @@
     "source": "seed list",
     "ats": "greenhouse",
     "slug": "truefoundry",
-    "open": 23,
+    "open": 20,
     "guessed": true,
-    "checked": "2026-10-21T18:51:04.439Z"
+    "checked": "2026-11-21T19:31:12.445Z"
   },
   "wellfound.com": {
     "name": "Wellfound",
@@ -2577,7 +2577,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:04.811Z"
+    "checked": "2026-11-21T19:31:11.390Z"
   },
   "qdrant.tech": {
     "name": "Qdrant",
@@ -2585,7 +2585,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:05.429Z"
+    "checked": "2026-11-21T19:31:13.520Z"
   },
   "hirist.tech": {
     "name": "Hirist",
@@ -2593,7 +2593,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:05.797Z"
+    "checked": "2026-11-21T19:31:17.012Z"
   },
   "peoplestrong.com": {
     "name": "Peoplestrong",
@@ -2601,7 +2601,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:06.422Z"
+    "checked": "2026-11-21T19:31:13.748Z"
   },
   "dyte.io": {
     "name": "Dyte",
@@ -2609,7 +2609,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:06.714Z"
+    "checked": "2026-11-21T19:31:15.131Z"
   },
   "directus.io": {
     "name": "Directus",
@@ -2617,7 +2617,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:07.478Z"
+    "checked": "2026-11-21T19:31:14.559Z"
   },
   "jusbid.in": {
     "name": "Jusbid",
@@ -2632,16 +2632,16 @@
     "source": "seed list",
     "ats": "lever",
     "slug": "100ms",
-    "open": 8,
-    "checked": "2026-10-21T18:51:07.853Z"
+    "open": 11,
+    "checked": "2026-11-21T19:31:17.354Z"
   },
   "infisical.com": {
     "name": "Infisical",
     "source": "seed list",
     "ats": "ashby",
     "slug": "infisical",
-    "open": 10,
-    "checked": "2026-10-21T18:51:08.889Z"
+    "open": 11,
+    "checked": "2026-11-21T19:31:14.271Z"
   },
   "nimblebox.ai": {
     "name": "Nimblebox",
@@ -2649,7 +2649,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:09.043Z"
+    "checked": "2026-11-21T19:31:13.391Z"
   },
   "nhost.io": {
     "name": "Nhost",
@@ -2657,7 +2657,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:10.104Z"
+    "checked": "2026-11-21T19:31:13.836Z"
   },
   "cerbos.dev": {
     "name": "Cerbos",
@@ -2665,7 +2665,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:10.925Z"
+    "checked": "2026-11-21T19:31:14.870Z"
   },
   "beagle.security": {
     "name": "Beagle",
@@ -2673,7 +2673,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.862Z"
+    "checked": "2026-11-21T19:31:15.309Z"
   },
   "budibase.com": {
     "name": "Budibase",
@@ -2681,15 +2681,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:12.978Z"
+    "checked": "2026-11-21T19:31:15.355Z"
   },
   "cloudsek.com": {
     "name": "Cloudsek",
     "source": "seed list",
     "ats": "greenhouse",
     "slug": "cloudsek",
-    "open": 16,
-    "checked": "2026-10-21T18:51:12.983Z"
+    "open": 19,
+    "checked": "2026-11-21T19:31:15.560Z"
   },
   "kloudle.com": {
     "name": "Kloudle",
@@ -2697,7 +2697,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:14.642Z"
+    "checked": "2026-11-21T19:31:14.947Z"
   },
   "akto.io": {
     "name": "Akto",
@@ -2705,7 +2705,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:15.139Z"
+    "checked": "2026-11-21T19:31:15.656Z"
   },
   "permit.io": {
     "name": "Permit",
@@ -2713,15 +2713,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:16.414Z"
+    "checked": "2026-11-21T19:31:15.171Z"
   },
   "signoz.io": {
     "name": "Signoz",
     "source": "seed list",
     "ats": "ashby",
     "slug": "SigNoz",
-    "open": 15,
-    "checked": "2026-10-21T18:51:17.072Z"
+    "open": 13,
+    "checked": "2026-11-21T19:31:16.144Z"
   },
   "last9.io": {
     "name": "Last9",
@@ -2729,15 +2729,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:17.106Z"
+    "checked": "2026-11-21T19:31:15.973Z"
   },
   "lazypay.in": {
     "name": "Lazypay",
     "source": "seed list",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T18:51:20.036Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:31:19.300Z"
   },
   "sectigo.com": {
     "name": "Sectigo",
@@ -2745,7 +2745,7 @@
     "ats": "smartrecruiters",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:51:20.742Z"
+    "checked": "2026-11-21T19:31:21.545Z"
   },
   "coralogix.com": {
     "name": "Coralogix",
@@ -2761,7 +2761,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:21.750Z"
+    "checked": "2026-11-21T19:31:17.266Z"
   },
   "ringapp.in": {
     "name": "Ringapp",
@@ -2769,7 +2769,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:36.512Z"
+    "checked": "2026-11-21T19:31:17.819Z"
   },
   "appknox.com": {
     "name": "Appknox",
@@ -2777,7 +2777,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:23.008Z"
+    "checked": "2026-11-21T19:31:20.835Z"
   },
   "fibe.in": {
     "name": "Fibe",
@@ -2785,23 +2785,23 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:23.254Z"
+    "checked": "2026-11-21T19:31:19.525Z"
   },
   "navi.com": {
     "name": "Navi",
     "source": "seed list",
-    "ats": "turbohire",
+    "ats": null,
     "slug": null,
-    "unread": true,
-    "checked": "2026-10-21T18:51:23.388Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:31:17.902Z"
   },
   "recurly.com": {
     "name": "Recurly",
     "source": "seed list",
     "ats": "workable",
     "slug": "recurly",
-    "open": 4,
-    "checked": "2026-10-21T18:51:23.956Z"
+    "open": 8,
+    "checked": "2026-11-21T19:31:17.617Z"
   },
   "site24x7.com": {
     "name": "Site24x7",
@@ -2809,15 +2809,15 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:24.015Z"
+    "checked": "2026-11-21T19:31:18.163Z"
   },
   "kissht.com": {
     "name": "Kissht",
     "source": "seed list",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T18:51:24.109Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:31:17.556Z"
   },
   "levo.ai": {
     "name": "Levo",
@@ -2825,7 +2825,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:24.578Z"
+    "checked": "2026-11-21T19:31:18.027Z"
   },
   "bharatpe.com": {
     "name": "Bharatpe",
@@ -2833,23 +2833,23 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:51:24.819Z"
+    "checked": "2026-11-21T19:31:19.705Z"
   },
   "pinelabs.com": {
     "name": "Pinelabs",
     "source": "seed list",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T18:51:25.455Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:31:21.573Z"
   },
   "paytm.com": {
     "name": "Paytm",
     "source": "seed list",
     "ats": "lever",
     "slug": "paytm",
-    "open": 192,
-    "checked": "2026-10-21T18:51:26.277Z"
+    "open": 199,
+    "checked": "2026-11-21T19:31:20.677Z"
   },
   "easebuzz.in": {
     "name": "Easebuzz",
@@ -2857,7 +2857,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:26.282Z"
+    "checked": "2026-11-21T19:31:24.173Z"
   },
   "jar.app": {
     "name": "Jar",
@@ -2865,7 +2865,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:35.804Z"
+    "checked": "2026-11-21T19:31:20.329Z"
   },
   "mobikwik.com": {
     "name": "Mobikwik",
@@ -2881,7 +2881,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:27.189Z"
+    "checked": "2026-11-21T19:31:23.316Z"
   },
   "hyperface.co": {
     "name": "Hyperface",
@@ -2889,7 +2889,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:27.669Z"
+    "checked": "2026-11-21T19:31:22.278Z"
   },
   "upstox.com": {
     "name": "Upstox",
@@ -2897,7 +2897,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:27.849Z"
+    "checked": "2026-11-21T19:31:24.048Z"
   },
   "kuvera.in": {
     "name": "Kuvera",
@@ -2905,7 +2905,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:28.044Z"
+    "checked": "2026-11-21T19:31:22.785Z"
   },
   "spenny.in": {
     "name": "Spenny",
@@ -2921,7 +2921,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:28.880Z"
+    "checked": "2026-11-21T19:31:21.862Z"
   },
   "grip.invest": {
     "name": "Grip",
@@ -2929,15 +2929,15 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:36.053Z"
+    "checked": "2026-11-21T19:31:26.722Z"
   },
   "stashfin.com": {
     "name": "Stashfin",
     "source": "seed list",
     "ats": null,
     "slug": null,
-    "reachable": true,
-    "checked": "2026-10-21T18:51:30.183Z"
+    "reachable": false,
+    "checked": "2026-11-21T19:31:20.611Z"
   },
   "scripbox.com": {
     "name": "Scripbox",
@@ -2945,7 +2945,7 @@
     "ats": "darwinbox",
     "slug": null,
     "unread": true,
-    "checked": "2026-10-21T18:51:30.872Z"
+    "checked": "2026-11-21T19:31:24.292Z"
   },
   "fintoo.in": {
     "name": "Fintoo",
@@ -2953,7 +2953,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:31.381Z"
+    "checked": "2026-11-21T19:31:24.165Z"
   },
   "stablemoney.in": {
     "name": "Stablemoney",
@@ -2961,7 +2961,7 @@
     "ats": null,
     "slug": null,
     "reachable": true,
-    "checked": "2026-10-21T18:51:32.836Z"
+    "checked": "2026-11-21T19:31:26.262Z"
   },
   "eko.in": {
     "name": "Eko",
@@ -2977,7 +2977,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:27:07.159Z"
+    "checked": "2026-11-21T19:31:53.061Z"
   },
   "bureau.id": {
     "name": "Bureau",
@@ -3034,7 +3034,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:36.466Z"
+    "checked": "2026-11-21T19:31:23.896Z"
   },
   "airmeet.com": {
     "name": "Airmeet",
@@ -3098,7 +3098,7 @@
     "ats": null,
     "slug": null,
     "reachable": false,
-    "checked": "2026-11-21T07:26:37.935Z"
+    "checked": "2026-11-21T19:32:25.311Z"
   },
   "ecomp.so": {
     "name": "Efficient Computation Inc.",

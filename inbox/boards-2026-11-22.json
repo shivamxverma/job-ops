@@ -1,0 +1,335 @@
+{
+  "pulled": "2026-11-22",
+  "scanned": 357,
+  "survived": 190,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/miratech/jobs/full-stack-engineer-go-and-react-851046494",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Miratech",
+      "title": "Full Stack Engineer (Go and React)",
+      "url": "https://himalayas.app/companies/miratech/jobs/full-stack-engineer-go-and-react-851046494?utm_source=api",
+      "posted": "2026-11-21T12:49:10.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer",
+        "Software-Engineer",
+        "Cloud-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kafka",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "react",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kafka, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137914",
+      "grade": "D",
+      "score": 35,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Quartermaster",
+      "title": "Quality Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-engineer-quartermaster-1137914",
+      "posted": "2026-11-20T16:00:18+00:00",
+      "location": "Arlington",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "design",
+        "sys admin",
+        "customer support",
+        "testing",
+        "travel",
+        "video",
+        "exec",
+        "ops"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, real-time",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/miratech/jobs/middleware-engineer-nice-cxone",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Miratech",
+      "title": "Middleware Engineer (NICE CXone)",
+      "url": "https://himalayas.app/companies/miratech/jobs/middleware-engineer-nice-cxone?utm_source=api",
+      "posted": "2026-11-21T17:56:04.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Middleware-Engineer",
+        "Integration-Engineer",
+        "API-Engineer",
+        "Software-Engineer",
+        "Contact-Center-Solutions-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/netapp/jobs/senior-software-engineer-golang-distributed-kubernetes-cloud-bangalore",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "NetApp",
+      "title": "Senior Software Engineer (Golang / Distributed / Kubernetes / Cloud) (Bangalore,",
+      "url": "https://himalayas.app/companies/netapp/jobs/senior-software-engineer-golang-distributed-kubernetes-cloud-bangalore?utm_source=api",
+      "posted": "2026-11-21T13:49:14.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Cloud-Engineer",
+        "DevOps-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "aws",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: node.js, docker, kubernetes",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/globalization-partners/jobs/senior-software-engineer-883333981",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Globalization Partners",
+      "title": "Senior Software Engineer",
+      "url": "https://himalayas.app/companies/globalization-partners/jobs/senior-software-engineer-883333981?utm_source=api",
+      "posted": "2026-11-21T12:07:36.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "AI-Engineer",
+        "Cloud-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "redis",
+          "rag"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "aws",
+          "backend",
+          "platform",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, redis, rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137900",
+      "grade": "F",
+      "score": 5,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Storyblok",
+      "title": "Senior Product Architect",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-architect-storyblok-1137900",
+      "posted": "2026-11-20T08:00:15+00:00",
+      "location": "Worldwide",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "product"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, remote",
+        "Architect-level title",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+      "grade": "F",
+      "score": 4,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "WelcomeHome Software",
+      "title": "Senior Software Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+      "posted": "Mon, 02 Nov 2026 15:51:54 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6677/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> Atlanta, Georgia <br /><strong>URL:</strong> <a href=\"https://www.welcomehomesoftware.com/homecarecrm?utm_term=home%20care%20software&amp;utm_campaign=Lead+Gen+-+Home+Care+-+Branded+%26+General&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=3279896849&amp;hsa_cam=22158696391&amp;hsa_grp=179100793812&amp;hsa_ad=730236934988&amp;hsa_s\">https://www.welcomehomesoftware.com/homecarecrm?utm_term=home%20care%20software&amp;utm_campaign=Lead+Gen+-+Home+Care+-+Branded+%26+General&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=3279896849&amp;hsa_cam=22158696391&amp;hsa_grp=179100793812&amp;hsa_ad=730236934988&amp;hsa_s</a> </p> <p><strong>About WelcomeHome</strong></p> <p>WelcomeHome is an Atlanta-based SaaS provider with the mission to build the best Customer Relationship Management (CRM) platform in the Senior Living and Home Care space. Since launch in 2019, we have sustained consistent and rapid growth, expanding from four to 100+ employees.</p> <p>To date, we’ve succeeded with a focused team that prioritizes client success over external / VC reporting and updates.</p> <p>WelcomeHome’s differentiation extends beyond providing the most technologically advanced, easy-to-use software in the space. Clients receive world class support, from the migration from their legacy CRM platform to ongoing day-to-day training and troubleshooting.</p> <p>&nbsp;</p> <p><strong>About the Role:</strong></p> <p>WelcomeHome is looking for Senior Ruby on Rails Engineers excited about building user-friendly software solutions. This role is fully remote (based in the U.S.), will report to our VP of Engineering (based in Las Vegas), and play an integral role in product development and have the opportunity to impact several areas of the business.</p> <p><strong>Tech Stack</strong></p> <ul> <li>Backend: Ruby on Rails 8 / Ruby 3.3 (currently upgrading to Ruby 4)</li> <li>Frontend: Haml, Stimulus, minimal React (where it earns its place)</li> <li>Testing: Minitest + Capybara, TDD throughout</li> <li>Data/Async: PostgreSQL, Redis, Sidekiq</li> <li>Infrastructure: AWS (Aurora, S3, EC2) via Cloud66</li> <li>AI: Pi, Codex, and Claude Code used in the daily dev workflow</li> </ul> <p>&nbsp;</p> <p><strong>A great candidate might have:</strong></p> <ul> <li>Deep experience with Ruby on Rails</li> <li>5+ years software engineering experience</li> <li>Passion for building high quality software focused on the user experience</li> <li>Ability to take ownership and work well with others</li> <li>Demonstrated ability to work independently to problem solve and offer solutions</li> <li>Experience using Claude Code (or comparable AI tools) as part of your daily development workflow</li> <li>Prior experience in a growth stage company or start-up</li> </ul> <p>&nbsp;</p> <p><strong>What You'll Get</strong></p> <p>WelcomeHome values all of its employees and strives to provide a competitive compensation package. Benefits include health, vision and dental coverage, 401(k) matching, paid parental leave, and unlimited PTO.</p> <p>But, on top of that, you'll be surrounded by awesome people who care deeply about what they do and will do whatever it takes to help you succeed</p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer\">https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "redis"
+        ],
+        "weak": [
+          "react",
+          "aws",
+          "s3",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: postgresql, redis",
+        "senior-titled",
+        "5+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/nagarro/jobs/staff-engineer-lead-power-platform-developer-technical-lead-copilot",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Nagarro",
+      "title": "Staff Engineer (Lead Power Platform Developer / Technical Lead – Copilot)",
+      "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-lead-power-platform-developer-technical-lead-copilot?utm_source=api",
+      "posted": "2026-11-21T18:01:45.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Staff-Engineer",
+        "Power-Platform-Developer",
+        "Technical-Lead",
+        "Copilot-Developer",
+        "Solutions-Architect"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, platform, automation",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

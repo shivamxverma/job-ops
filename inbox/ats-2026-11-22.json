@@ -1,0 +1,79 @@
+{
+  "pulled": "2026-11-22",
+  "scanned": 869,
+  "survived": 62,
+  "hits": [
+    {
+      "id": "ashby:apollo:ae3b5aae-8444-4b77-b4a8-046dd1d25b35",
+      "grade": "D",
+      "score": 42,
+      "source": "ashby (YC Winter 2022)",
+      "company": "Apollo",
+      "domain": "apollofirst.xyz",
+      "title": "Staff Software Engineer (Hybrid, Bangalore)",
+      "url": "https://jobs.ashbyhq.com/957bc158-d4c6-4bd6-aea2-a0dcf9cee4fc/ae3b5aae-8444-4b77-b4a8-046dd1d25b35",
+      "posted": "2026-09-10T11:27:04.469+00:00",
+      "location": "Hybrid - Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "mongodb",
+          "backend",
+          "platform",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:apollo:86993a6e-d243-4a9a-83cc-cbb70c62d6c3",
+      "grade": "F",
+      "score": 27,
+      "source": "ashby (YC Winter 2022)",
+      "company": "Apollo",
+      "domain": "apollofirst.xyz",
+      "title": "Senior Software Engineer II",
+      "url": "https://jobs.ashbyhq.com/957bc158-d4c6-4bd6-aea2-a0dcf9cee4fc/86993a6e-d243-4a9a-83cc-cbb70c62d6c3",
+      "posted": "2026-09-10T11:27:14.180+00:00",
+      "location": "Hybrid - Bangalore",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "redis",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, redis, docker, kubernetes",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based"
+      ]
+    }
+  ]
+}

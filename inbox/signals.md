@@ -11,6 +11,9 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Sarvam's Token Factory** — B | Sat, 21 Nov 2026 | Inc42: https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/ | why: sector: ai, artificial intelligence; funding: raises; ⚠ already in leads.md as "Sarvam"
+- [ ] **Exclusive: Celcius Logistics Eyes ₹100 Cr To Expand Cold Chain Network** — C | Sat, 21 Nov 2026 | Inc42: https://inc42.com/buzz/exclusive-celcius-logistics-eyes-%e2%82%b9100-cr-to-expand-cold-chain-network/ | why: stage: late-stage; funding: funding round
+
 - [ ] **From Dreamteam To Boba Bhai — Indian Startups** — C | Sat, 21 Nov 2026 | Inc42: https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/ | why: funding: raised
 
 - [ ] **Spacetech firm SatSure** — B | Fri, 20 Nov 2026 | YourStory: https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund | why: sector: ai; funding: raises

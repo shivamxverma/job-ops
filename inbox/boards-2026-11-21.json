@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-21",
-  "scanned": 361,
-  "survived": 201,
+  "scanned": 723,
+  "survived": 394,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/pavago/jobs/ai-engineer-ai-automation-specialist",
@@ -644,6 +644,134 @@
         "9+ years stated",
         "reachable: restrictions include India",
         "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/askable/jobs/software-engineer-ai-coding-tasks-contract-5812118603",
+      "grade": "B",
+      "score": 70,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Askable",
+      "title": "Software Engineer, AI Coding Tasks (Contract)",
+      "url": "https://himalayas.app/companies/askable/jobs/software-engineer-ai-coding-tasks-contract-5812118603?utm_source=api",
+      "posted": "2026-11-21T04:31:29.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Freelance-AI-Software-Engineer",
+        "Contract-Software-Engineer",
+        "Software-AI-Engineer",
+        "AI-Coding-Specialist",
+        "Software-Engineer",
+        "AI-Developer",
+        "Software-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "typescript",
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "c++",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, typescript, docker",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/gpu-programming-software-engineer",
+      "grade": "C",
+      "score": 60,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "GPU Programming Software Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/gpu-programming-software-engineer?utm_source=api",
+      "posted": "2026-11-20T17:20:37.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "GPU-Programming-Engineer",
+        "GPU-Software-Engineer",
+        "GPU-Software-Engineering",
+        "GPU-Programming-Specialist",
+        "GPU-Engineer",
+        "GPU-Computing-Engineer",
+        "GPU-Programmer",
+        "GPU-Software-Development"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "c++",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/secure-privacy/jobs/senior-product-engineer-net-c-angular-mongodb-gdpr-path-to-head-of-product",
+      "grade": "F",
+      "score": 5,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Secure Privacy",
+      "title": "Senior Product Engineer (NET/C#/Angular/MongoDB) – GDPR, Path to Head of Product",
+      "url": "https://himalayas.app/companies/secure-privacy/jobs/senior-product-engineer-net-c-angular-mongodb-gdpr-path-to-head-of-product?utm_source=api",
+      "posted": "2026-11-21T05:02:20.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Senior-Product-Engineer",
+        "Senior-Product-Engineering",
+        "Senior-Full-Stack-Engineer-(.NET-Angular)",
+        "Lead-Product-Engineer",
+        "Senior-Product-Developer",
+        "Product-Engineering-Lead",
+        "Senior-Full-Stack-Engineer-(.NET-C#-SQL)",
+        "Lead-Full-Stack-Engineer-(.NET-C#-SQL)"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "mongodb",
+          "full-stack",
+          "backend",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): mongodb, full-stack, backend",
+        "Head of-level title",
+        "location not stated (ask before investing)",
         "posted 0d ago"
       ]
     }

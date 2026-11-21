@@ -1,0 +1,85 @@
+{
+  "pulled": "2026-11-21",
+  "scanned": 549,
+  "survived": 10,
+  "hits": [
+    {
+      "id": 124160,
+      "grade": "B",
+      "score": 75,
+      "company": "MSPilot",
+      "batch": "F25",
+      "title": "Junior Software Engineer (New Grad)",
+      "location": "San Francisco, CA, US / Lviv, Lviv Oblast, UA / Kraków, Lesser Poland Voivodeship, PL / Remote",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "Any (new grads ok)",
+      "salaryRange": "$12K - $24K",
+      "equityRange": "",
+      "skills": [],
+      "oneLiner": "Turn AI adoption into a recurring revenue line.",
+      "createdAt": "about 7 hours",
+      "lastActive": null,
+      "teamSize": 3,
+      "stage": "Early",
+      "tags": [
+        "Generative AI",
+        "B2B",
+        "No-code",
+        "Infrastructure",
+        "AI"
+      ],
+      "website": "https://mspilot.io",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/mspilot/jobs/F6NaBxo-junior-software-engineer-new-grad",
+      "companyUrl": "https://www.ycombinator.com/companies/mspilot",
+      "why": [
+        "stack (weak): full stack, new grad, junior",
+        "3-person team",
+        "story fit (AI vocab only): ai",
+        "remote",
+        "junior/new-grad seat",
+        "0-1 years ok",
+        "posted about 7 hours ago"
+      ],
+      "source": "yc-grid"
+    },
+    {
+      "id": 124061,
+      "grade": "D",
+      "score": 33,
+      "company": "MSPilot",
+      "batch": "F25",
+      "title": "Forward Deployed Engineer",
+      "location": "Lviv, Lviv Oblast, UA / Kraków, Lesser Poland Voivodeship, PL / San Francisco, CA, US / Remote",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "3+ years",
+      "salaryRange": "$70K - $150K",
+      "equityRange": "0.50% - 1.00%",
+      "skills": [],
+      "oneLiner": "Turn AI adoption into a recurring revenue line.",
+      "createdAt": "about 11 hours",
+      "lastActive": null,
+      "teamSize": 3,
+      "stage": "Early",
+      "tags": [
+        "Generative AI",
+        "B2B",
+        "No-code",
+        "Infrastructure",
+        "AI"
+      ],
+      "website": "https://mspilot.io",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/mspilot/jobs/36UjX0m-forward-deployed-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/mspilot",
+      "why": [
+        "3-person team",
+        "story fit (AI vocab only): ai",
+        "remote",
+        "3+ years stated (stretch)",
+        "posted about 11 hours ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **From Dreamteam To Boba Bhai — Indian Startups** — C | Sat, 21 Nov 2026 | Inc42: https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/ | why: funding: raised
+
 - [ ] **Spacetech firm SatSure** — B | Fri, 20 Nov 2026 | YourStory: https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund | why: sector: ai; funding: raises
 - [ ] **Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round** — C | Fri, 20 Nov 2026 | Inc42: https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/ | why: funding: raised
 - [ ] **Urban Company** — C | Fri, 20 Nov 2026 | YourStory: https://yourstory.com/2026/11/urban-company-raises-rs-2500-cr-through-qip | why: funding: raises

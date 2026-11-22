@@ -1,0 +1,127 @@
+{
+  "pulled": "2026-11-23",
+  "scanned": 355,
+  "survived": 184,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/highlevel/jobs/lead-engineer-fullstack-affiliate-manager-loyalty-program",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "HighLevel",
+      "title": "Lead Engineer Fullstack (Affiliate Manager & Loyalty Program)",
+      "url": "https://himalayas.app/companies/highlevel/jobs/lead-engineer-fullstack-affiliate-manager-loyalty-program?utm_source=api",
+      "posted": "2026-11-22T09:53:50.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "full-stack",
+          "backend",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): full-stack, backend, platform",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/egnyte/jobs/senior-software-engineer-backend",
+      "grade": "F",
+      "score": 8,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Egnyte",
+      "title": "Senior Software Engineer - Backend",
+      "url": "https://himalayas.app/companies/egnyte/jobs/senior-software-engineer-backend?utm_source=api",
+      "posted": "2026-11-22T09:56:32.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Distributed-Systems-Engineer",
+        "Search-Infrastructure-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "linux",
+          "backend",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "6+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/akamai-technologies/jobs/principal-software-engineer-lead",
+      "grade": "F",
+      "score": -32,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Akamai Technologies",
+      "title": "Principal Software Engineer Lead",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/principal-software-engineer-lead?utm_source=api",
+      "posted": "2026-11-22T09:09:31.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Principal-Software-Engineer",
+        "Software-Engineer",
+        "Security-Engineer",
+        "Network-Security-Engineer",
+        "Software-Engineering-Manager"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "c++",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): python, c++, platform",
+        "Principal-level title",
+        "12+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

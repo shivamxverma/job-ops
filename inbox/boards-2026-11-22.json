@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-22",
-  "scanned": 357,
-  "survived": 190,
+  "scanned": 711,
+  "survived": 375,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/miratech/jobs/full-stack-engineer-go-and-react-851046494",
@@ -326,6 +326,369 @@
       "why": [
         "stack (weak): javascript, platform, automation",
         "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/gruve/jobs/atlassian-developer-python-jira-jsm-jpd",
+      "grade": "B",
+      "score": 73,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Gruve",
+      "title": "Atlassian Developer (Python) – Jira, JSM & JPD.",
+      "url": "https://himalayas.app/companies/gruve/jobs/atlassian-developer-python-jira-jsm-jpd?utm_source=api",
+      "posted": "2026-11-21T20:04:20.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Developer",
+        "Python-Developer",
+        "Atlassian-Developer",
+        "JIRA-Administrator",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "fastapi",
+          "postgresql",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "mongodb",
+          "ci/cd",
+          "backend",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: fastapi, postgresql, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/justplay-gmbh/jobs/backend-engineer-all-genders",
+      "grade": "B",
+      "score": 70,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "JustPlay GmbH",
+      "title": "Backend Engineer (all genders)",
+      "url": "https://himalayas.app/companies/justplay-gmbh/jobs/backend-engineer-all-genders?utm_source=api",
+      "posted": "2026-11-22T01:55:30.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Backend-Engineer",
+        "Product-Backend-Engineer",
+        "Backend-Platform-Engineer",
+        "Python-Backend-Engineer",
+        "Backend-Services-Engineer",
+        "Backend-Infrastructure-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "postgresql",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, postgresql, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1137924",
+      "grade": "C",
+      "score": 53,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Honeycomb.io",
+      "title": "Senior Software Engineer II - Agentic Intelligence",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
+      "posted": "2026-11-21T01:20:20+00:00",
+      "location": "Canada Only",
+      "reachability": {
+        "status": "open",
+        "reason": "fully distributed"
+      },
+      "tags": [
+        "programming"
+      ],
+      "matched": {
+        "strong": [
+          "developer tools"
+        ],
+        "weak": [
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: developer tools",
+        "story fit: CodeSM/Yuvro/Storix (developer tools)",
+        "senior-titled",
+        "reachable: fully distributed",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/smart-working/jobs/structured-data-engineer-ai-search-remote-full-time-hr226",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Smart Working",
+      "title": "Structured Data Engineer - AI Search (Remote, Full-Time) [HR226]",
+      "url": "https://himalayas.app/companies/smart-working/jobs/structured-data-engineer-ai-search-remote-full-time-hr226?utm_source=api",
+      "posted": "2026-11-22T06:07:55.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Structured-Data-Engineer",
+        "Search-Engineer",
+        "Backend-Engineer",
+        "E-Commerce-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, platform, real-time",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/ensemble-health-partners/jobs/engineer-ii-data-integration",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Ensemble Health Partners",
+      "title": "Engineer II, Data Integration",
+      "url": "https://himalayas.app/companies/ensemble-health-partners/jobs/engineer-ii-data-integration?utm_source=api",
+      "posted": "2026-11-21T23:42:18.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Data-Integration-Engineer",
+        "ETL-Engineer",
+        "Analytics-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation",
+          "etl",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation, etl",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/cyzerg/jobs/asp-net-developer-ai-driven-development",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Cyzerg",
+      "title": "ASP.NET Developer (AI-Driven Development)",
+      "url": "https://himalayas.app/companies/cyzerg/jobs/asp-net-developer-ai-driven-development?utm_source=api",
+      "posted": "2026-11-21T22:50:53.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Asp-Net-Developer",
+        "C++-Developer",
+        "Web-Application-Developer",
+        "Backend-Engineer",
+        "SaaS-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "c++",
+          "backend",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): c++, backend, platform",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/chabez-tech/jobs/sme-level-cobol-developer",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Chabez Tech",
+      "title": "SME-level COBOL Developer",
+      "url": "https://himalayas.app/companies/chabez-tech/jobs/sme-level-cobol-developer?utm_source=api",
+      "posted": "2026-11-22T06:41:41.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cobol-Developer",
+        "Software-Engineer",
+        "Mainframe-Developer",
+        "Application-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "linux",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): linux, remote",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/clera/jobs/freelance-engineer",
+      "grade": "F",
+      "score": 25,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Clera",
+      "title": "Freelance Engineer",
+      "url": "https://himalayas.app/companies/clera/jobs/freelance-engineer?utm_source=api",
+      "posted": "2026-11-22T01:14:28.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Freelance-Engineer",
+        "Freelance-Engineering",
+        "Engineering-Freelance",
+        "Engineering-Freelancer",
+        "Remote-Freelance-Engineer",
+        "Freelance-Engineering-Consultant",
+        "Freelance-Software-Engineer",
+        "Freelance-Mechanical-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "full-stack",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "5+ years stated",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/jumpcloud/jobs/principal-cloud-platform-engineer-india",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "JumpCloud",
+      "title": "Principal Cloud Platform Engineer - India",
+      "url": "https://himalayas.app/companies/jumpcloud/jobs/principal-cloud-platform-engineer-india?utm_source=api",
+      "posted": "2026-11-22T00:15:45.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Cloud-Platform-Engineer",
+        "Platform-Engineer",
+        "Site-Reliability-Engineer",
+        "DevOps-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, kubernetes",
+        "Principal-level title",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

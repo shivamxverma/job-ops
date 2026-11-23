@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-23",
-  "scanned": 355,
-  "survived": 184,
+  "scanned": 710,
+  "survived": 372,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/highlevel/jobs/lead-engineer-fullstack-affiliate-manager-loyalty-program",
@@ -121,6 +121,432 @@
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/mercor/jobs/agent-operations-engineer-fully-remote-upto-500-task-task-based-7547477866",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "mercor",
+      "title": "Agent Operations Engineer - Fully Remote | Upto $500/task Task based",
+      "url": "https://himalayas.app/companies/mercor/jobs/agent-operations-engineer-fully-remote-upto-500-task-task-based-7547477866?utm_source=api",
+      "posted": "2026-11-23T01:24:44.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Agent-Engineer",
+        "AI-Engineer",
+        "LLM-Engineer",
+        "Machine-Learning-Engineer",
+        "Site-Reliability-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/syd-life-ai/jobs/ai-research-engineer",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Syd Life AI",
+      "title": "AI Research Engineer",
+      "url": "https://himalayas.app/companies/syd-life-ai/jobs/ai-research-engineer?utm_source=api",
+      "posted": "2026-11-23T00:20:28.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "tags": [
+        "AI-Research-Engineer",
+        "AI-ML-Research-Engineer",
+        "ML-AI-Research-Engineer",
+        "Senior-AI-Research-Engineer",
+        "ML-Research-Engineer",
+        "AI-Research-Scientist",
+        "Entry-Level-AI-Research-Engineer",
+        "AI-LLM-Research-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: remote worldwide",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer",
+      "grade": "C",
+      "score": 58,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Syd Life AI",
+      "title": "Junior Software Engineer",
+      "url": "https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer?utm_source=api",
+      "posted": "2026-11-23T00:20:27.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Junior-Software-Engineer",
+        "Junior-Software-Engineer-Jobs",
+        "Junior-Software-Engineering",
+        "Junior-Software-Developer",
+        "Junior-Backend-Software-Engineer",
+        "Junior-Full-Stack-Software-Engineer",
+        "Junior-Software-Engineer-TypeScript",
+        "Junior-Software-Development"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "javascript",
+          "aws",
+          "full-stack",
+          "backend",
+          "real-time",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "junior/new-grad seat",
+        "2+ years stated",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Syd Life AI",
+      "title": "QA Engineer",
+      "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api",
+      "posted": "2026-11-23T00:20:28.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "tags": [
+        "QA-Engineer",
+        "QA-Test-Engineer",
+        "QA-QC-Engineer",
+        "Quality-Assurance-Engineer",
+        "Software-QA-Engineer",
+        "SQA-Engineer",
+        "Software-QA-and-Testing-Engineer",
+        "Quality-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): automation, remote",
+        "reachable: remote worldwide",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tolken/jobs/applied-scientist-applied-ml-engineer",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tolken ",
+      "title": "Applied Scientist / Applied ML Engineer",
+      "url": "https://himalayas.app/companies/tolken/jobs/applied-scientist-applied-ml-engineer?utm_source=api",
+      "posted": "2026-11-23T03:19:49.000Z",
+      "location": "India, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Applied-AI-ML-Scientist",
+        "Applied-Machine-Learning-Scientist",
+        "Applied-AI-ML-Engineer",
+        "Applied-AI-Scientist",
+        "Applied-Machine-Learning-Engineer",
+        "Applied-AI-Research-Scientist",
+        "Applied-AI-Engineer",
+        "Applied-ML-Researcher"
+      ],
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "real-time",
+          "etl",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: docker",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/micro1/jobs/math-programmer-lean-4",
+      "grade": "D",
+      "score": 35,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "micro1",
+      "title": "Math Programmer (Lean 4)",
+      "url": "https://himalayas.app/companies/micro1/jobs/math-programmer-lean-4?utm_source=api",
+      "posted": "2026-11-23T02:20:28.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Math-Developer",
+        "Mathematical-Software-Developer",
+        "Math-Libraries-Engineer",
+        "Developer",
+        "Programmer",
+        "Software-Engineer",
+        "Software-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "remote",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack (weak): remote, graduate",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+      "grade": "D",
+      "score": 34,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "DRFIRST COM INC",
+      "title": "Senior Software Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+      "posted": "Thu, 05 Nov 2026 13:22:33 +0000",
+      "location": "<p> <strong>Headquarters:</strong> United States <br /><strong>URL:</strong> <a href=\"https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3\">https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3</a> </p> <p><strong><span>Senior Software Engineer, eRx Enterprise and Gadget</span></strong></p><h1>About DrFirst</h1><p>For 25 years, DrFirst has empowered providers and patients to achieve better health through intelligent medication management. We improve healthcare workflows and help patients start and stay on therapy with end-to-end solutions that enhance prescription access, affordability, and adherence. Our solutions help 100 million patients a year and are used by more than 420,000 prescribers, 71,000 pharmacies, 270 EHRs and health information systems, and over 2,000 hospitals in the U.S. This is a great opportunity to be a part of a successful Healthcare IT company experiencing significant growth. Here you’ll get to work with some of the smartest and most interesting people around, solving unique and complex challenges in healthcare on a scale matched by few companies. If you get excited about stretching yourself in new ways, developing yourself to your fullest potential, and care about working with smart colleagues, we want to talk to you!</p><h1>Position Overview</h1><p>DrFirst is hiring a Senior Software Engineer for the eRx Enterprise and Gadget team. Your first focus is Gadget, our pharmacy agent. Over time you will extend your work into Rcopia, our ePrescribing platform, on Electronic Prescribing of Controlled Substances (EPCS) and Prescription Drug Monitoring Program (PDMP) workflows.</p><p>You will build cloud native, high performance services for an ePrescribing collaboration platform. The platform connects providers, patients, payers, pharmacies, and pharmaceutical companies in real time. You will design systems built for high load, with self healing, auto scaling, and full observability.</p><p>You bring strong judgment about AI. You know when AI speeds up delivery and when AI produces weak code. You apply AI to raise code quality, performance, and design standards across the team, and you solve real problems for the pharmacies and prescribers who rely on our platform.</p><h1>What You Will Work On</h1><div><ul><li>Build and improve Gadget, the DrFirst pharmacy agent, from design through production.</li><li>Contribute to Rcopia EPCS and PDMP capabilities as the team roadmap expands.</li><li>Design, develop, test, deploy, and maintain secure, scalable Java integration solutions.</li><li>Build cloud native microservices on AWS with auto scaling, fault tolerance, high availability, and self healing.</li><li>Develop and maintain integrations with major EHR platforms, including athenaOne, Epic, Oracle Health, Greenway, AdvancedMD, eMDs, and ModMed, using HL7, FHIR, web services, APIs, and Mirth Connect.</li><li>Build and maintain event driven architectures with Apache Kafka for reliable, efficient service communication.</li><li>Deliver high throughput and low latency across large, distributed platforms.</li><li>Partner with DevOps on CI/CD pipelines that automate testing, deployment, and monitoring.</li><li>Design AI powered automation frameworks for faster development cycles and automated regression testing.</li><li>Decide where AI adds value in the codebase and where human design must lead. Set review standards for AI assisted code.</li><li>Monitor, diagnose, and resolve performance issues with observability tools and logs.</li><li>Follow and enforce secure coding practices. Take part in security audits and reviews.</li><li>Lead code reviews, mentor junior developers, and contribute to architecture decisions.</li><li>Track industry trends and improve system performance, resilience, and developer productivity.</li></ul></div><h1>Qualifications</h1><h2>Required</h2><div><ul><li>Bachelor's degree in Computer Science or a related discipline.</li><li>5+ years of hands on Java development with deep knowledge of object oriented design and the Spring Framework, including Spring Boot and Spring Cloud.</li><li>3+ years designing and building cloud native applications on AWS, including S3, Valkey, Lambda, RDS, and EKS or ECS.</li><li>3+ years with distributed messaging systems such as Apache Kafka, with a solid grasp of event streaming.</li><li>Proven record building and integrating large scale, high performance, distributed systems with fault tolerance, scalability, and low latency.</li><li>AI first mindset, with daily hands on use of AI tools such as Claude and GitHub Copilot for coding, testing, debugging, and documentation.</li><li>Clear judgment on when and where AI improves engineering outcomes, and a record of keeping AI generated code from lowering quality, performance, or design.</li><li>Proficiency building and consuming RESTful APIs with JSON and XML.</li><li>Strong experience with relational or NoSQL databases, including schema design, performance tuning, and query optimization.</li><li>Hands on experience with CI/CD pipelines and tools such as GitLab CI and Jenkins.</li><li>Solid knowledge of application and data security, including authentication, authorization, and data protection.</li><li>Self motivated. You work well on your own in a fast paced, agile environment.</li><li>Fast learner who adapts to new technologies, teams, and environments.</li><li>Strong analytical and troubleshooting skills with a proactive, solution oriented approach.</li></ul></div><h2>Preferred</h2><div><ul><li>Experience building AI agents, LLM integrations, or agentic workflows in production.</li><li>Experience with large scale, mission critical systems in finance, brokerage, trading, or credit card processing, especially systems requiring low latency, high throughput, and high availability.</li><li>Experience with ePrescribing, EPCS, PDMP, NCPDP SCRIPT, or pharmacy systems.</li><li>Familiarity with front end technologies (HTML, CSS, JavaScript).</li></ul></div><h1>Physical Requirements</h1><div><ul><li>Primarily desk work in a remote, U.S. based setting.</li><li>Extended periods of computer use.</li></ul></div><p><strong><span>#LI-GF1 #LI-Remote</span></strong></p><h1>Benefits</h1><div><ul><li>Competitive compensation, with a base salary of $130,000 to $150,000 (Exact compensation may vary based on skills and experience)</li><li>Eligible for a Discretionary Performance-based bonus</li><li>Medical, dental, and vision insurance</li><li>401K eligible after 3 months of employment, with 50% company match up to first 5% of salary contributed to the plan with a 3-year vesting schedule</li><li>HSA for eligible employees enrolled in the HDHP, with a generous company contribution up to $500 for individual coverage and $1000 for family coverage per year</li><li>100% company paid short and long-term disability, AD&amp;D, and group life insurance</li><li>Accrued annual paid time off (PTO) of 18 days for the first 3 years of service, increasing thereafter and 7 paid holiday days</li><li>Employee Assistance Program</li><li>Continuing Education funds up to $1500 annually for eligible programs after 1 year of service</li><li>Voluntary benefits including FSA, Hospital indemnity, Accident and Critical Illness insurances</li></ul></div><p><br></p><p>DrFirst is committed to being a Remote-First company, creating a dynamic and flexible workplace where everyone thrives, no matter where they log in from. Check out our approach to remote work: <a href=\"https://drfirst.com/company/about-us/careers/\">https://drfirst.com/company/about-us/careers/</a></p><p>Our recruitment process at DrFirst is straightforward and secure. You will only be contacted by our recruitment team through an official @drfirst.com email address. We will never ask you for payment or sensitive personal information, such as your social security number or banking details, at any stage of the hiring process. Additionally, we will not request that you purchase equipment or accept e-checks or checks for deposit. If you encounter any communications claiming to be from DrFirst that seem suspicious, please contact our recruitment team directly at recruiter@drfirst.com to verify the message’s authenticity. Your security is important to us!</p><p>Learn more about our benefits and professional development opportunities: <a href=\"https://drfirst.com/company/about-us/careers/the-perks/\">https://drfirst.com/company/about-us/careers/the-perks/</a></p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer\">https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kafka",
+          "llm"
+        ],
+        "weak": [
+          "javascript",
+          "aws",
+          "s3",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "agentic",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kafka, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tolken/jobs/senior-full-stack-engineer-9022961838",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Tolken ",
+      "title": "Senior Full Stack Engineer",
+      "url": "https://himalayas.app/companies/tolken/jobs/senior-full-stack-engineer-9022961838?utm_source=api",
+      "posted": "2026-11-23T02:24:22.000Z",
+      "location": "India, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Development",
+        "¿Senior-Fullstack-Engineering",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Frontend-Full-Stack-Engineer",
+        "Full-Stack-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "node.js",
+          "fastapi",
+          "postgres",
+          "redis",
+          "kafka",
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, node.js, fastapi, postgres",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training-7373703440",
+      "grade": "F",
+      "score": 15,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i Inc.",
+      "title": "Senior Software Engineer, AI Training",
+      "url": "https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training-7373703440?utm_source=api",
+      "posted": "2026-11-23T02:02:21.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Senior-AI-Software-Engineer",
+        "Senior-Software-AI-Engineer",
+        "Senior-AI-Engineer",
+        "Senior-AI-Software-Developer",
+        "Senior-Lead-AI-Engineer",
+        "Senior-AI-Engineering",
+        "Senior-AI-ML-Engineer",
+        "Lead-AI-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+      "grade": "F",
+      "score": -16,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Secure Privacy",
+      "title": "Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) – AI-First, with GDPR Experience",
+      "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+      "posted": "Thu, 05 Nov 2026 12:39:27 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0017/0601/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> Europe (DK) <br /><strong>URL:</strong> <a href=\"https://secureprivacy.ai\">https://secureprivacy.ai</a> </p> <div><strong>Secure Privacy</strong> is expanding, and we’re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You’ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you’re passionate about clean, maintainable code, we’d love to hear from you!<br><br></div> <div><strong>What You’ll Do:</strong></div> <ul> <li>Develop and maintain backend services with C# and .NET.</li> <li>Develop and maintain frontend logic with Angular and Redux.</li> <li>Use AI coding tools (Cursor, Claude Code, or similar) as a core part of your daily workflow, and help the team get more out of them.</li> <li>Work closely with designers to bring high-quality, scalable, and maintainable solutions to life.</li> <li>Engage in all stages of the development process: planning, coding, testing, and deployment.</li> <li>Advocate for best practices and contribute to improving our development standards.</li> <li>Collaborate in a remote environment, primarily during European business hours.</li> </ul> <div><strong>What We’re Looking For:</strong></div> <ul> <li>5+ years of backend development experience, particularly with C# and .NET Framework.</li> <li>Hands-on, daily experience with AI coding tools such as Cursor or Claude Code on real projects, including giving agents good context and critically reviewing AI-generated code.</li> <li>Expertise in MongoDB, including complex operations (aggregations, compound indexes, transactions).</li> <li>Experience with GDPR, CCPA, or other data privacy compliance standards.</li> <li>Experience in Angular development, including NgRx or other Redux frameworks, is desirable.</li> <li>Experience with payment platforms such as Stripe.</li> <li>Strong Git skills, including modern branching strategies and ways of working.</li> <li>Familiarity with profiling web apps for high availability and scalability.</li> <li>Ability to make informed decisions between server-side and client-side code.</li> <li>Excellent communication skills and the ability to collaborate with non-engineers.</li> <li>A proactive approach to problem-solving, with a high level of discipline and independence.</li> <li>Startup experience.</li> </ul> <div><strong>Bonus Points If You Have:</strong></div> <div> <ul> <li>Experience building MCP servers.</li> <li>Open source contributions.</li> <li>StackOverflow or other community contributions.</li> <li>Mobile app or SDK experience.</li> </ul> </div> <div><strong>To apply, submit your CV and a short Loom video (max 2 minutes) introducing yourself and how you use AI to develop faster without compromising quality.</strong></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience\">https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "mongodb",
+          "full-stack",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): mongodb, full-stack, backend",
+        "senior-titled",
+        "5+ years stated",
+        "location not stated (ask before investing)"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-24",
-  "scanned": 355,
-  "survived": 184,
+  "scanned": 706,
+  "survived": 369,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/safetywing/jobs/product-engineer-186724217",
@@ -246,6 +246,506 @@
         "Staff-level title",
         "location not stated (ask before investing)",
         "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/skycell-ag/jobs/automation-qa-engineer",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "SkyCell AG",
+      "title": "Automation QA Engineer",
+      "url": "https://himalayas.app/companies/skycell-ag/jobs/automation-qa-engineer?utm_source=api",
+      "posted": "2026-11-24T00:12:31.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Automation-Engineer",
+        "Automation-Testing",
+        "Quality-Assurance-Engineer",
+        "Software-Test-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "playwright"
+        ],
+        "weak": [
+          "node",
+          "javascript",
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, playwright",
+        "story fit: Hireflow/klimb.io AI metering (playwright)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-inference-optimization-1530595301",
+      "grade": "B",
+      "score": 70,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Featherless AI",
+      "title": "Machine Learning Engineer — Inference Optimization",
+      "url": "https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-inference-optimization-1530595301?utm_source=api",
+      "posted": "2026-11-24T03:46:12.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "AI-Inference-Engineer",
+        "AI-Optimization-Engineer",
+        "AI-Performance-Optimization-Engineer",
+        "Machine-Learning-Engineer",
+        "Inference-Platform-Engineer",
+        "ML-Inference-Engineering",
+        "AI-ML-Engineer",
+        "ML-Infrastructure-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "llm"
+        ],
+        "weak": [
+          "infra",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote-contract-1794009161",
+      "grade": "C",
+      "score": 60,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Xperteez Technology",
+      "title": "ML Engineer, Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote-contract-1794009161?utm_source=api",
+      "posted": "2026-11-24T06:03:54.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "ML-Platform-Engineer",
+        "MLOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "platform",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-distillation-7150229143",
+      "grade": "C",
+      "score": 60,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Featherless AI",
+      "title": "Machine Learning Engineer — Distillation",
+      "url": "https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-distillation-7150229143?utm_source=api",
+      "posted": "2026-11-24T02:10:18.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "AI-ML-Engineer",
+        "Applied-Machine-Learning-Engineer",
+        "Machine-Learning-Research-Engineer",
+        "Machine-Learning-Developer",
+        "AI-Research-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/twilio/jobs/software-engineer-l3-7648295024",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "url": "https://himalayas.app/companies/twilio/jobs/software-engineer-l3-7648295024?utm_source=api",
+      "posted": "2026-11-24T00:33:06.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Cloud-Engineer",
+        "Backend-Engineer",
+        "Machine-Learning-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/ford/jobs/senior-ai-engineer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Ford",
+      "title": "Senior AI Engineer",
+      "url": "https://himalayas.app/companies/ford/jobs/senior-ai-engineer?utm_source=api",
+      "posted": "2026-11-24T08:49:56.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-ML-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "ML-Software-Engineer",
+        "LLM-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "react",
+          "python",
+          "backend",
+          "platform",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-multilingual-data-1973275583",
+      "grade": "C",
+      "score": 45,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Featherless AI",
+      "title": "Machine Learning Engineer — Multilingual Data",
+      "url": "https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-multilingual-data-1973275583?utm_source=api",
+      "posted": "2026-11-24T01:41:38.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Multilingual-AI-Data-Specialist",
+        "Machine-Learning-Data-Engineer",
+        "Machine-Translation-Engineer",
+        "Chinese-(Mandarin)-ML-Data-Specialist",
+        "Machine-Learning-Engineer",
+        "Data-ML-Engineer",
+        "AI-ML-Data-Engineer",
+        "Multilingual-AI-Specialist"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "infra",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/akamai-technologies/jobs/software-engineer-ii-9225922759",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Akamai Technologies",
+      "title": "Software Engineer II",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-engineer-ii-9225922759?utm_source=api",
+      "posted": "2026-11-24T01:13:04.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Java-Developer",
+        "Cloud-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "ci/cd",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: docker",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/cloudera/jobs/presales-solutions-engineer",
+      "grade": "F",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Cloudera",
+      "title": "Presales Solutions Engineer",
+      "url": "https://himalayas.app/companies/cloudera/jobs/presales-solutions-engineer?utm_source=api",
+      "posted": "2026-11-24T07:42:15.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Presales-Solutions-Engineer",
+        "Solutions-Engineer",
+        "Sales-Engineer",
+        "Technical-Consultant",
+        "Enterprise-Architect"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "linux",
+          "platform",
+          "etl"
+        ]
+      },
+      "why": [
+        "stack: kubernetes",
+        "non-eng title: Presales",
+        "non-engineering seat",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/labcorp/jobs/lead-automation-engineer",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Labcorp",
+      "title": "Lead Automation Engineer",
+      "url": "https://himalayas.app/companies/labcorp/jobs/lead-automation-engineer?utm_source=api",
+      "posted": "2026-11-24T03:47:22.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Automation-Engineer",
+        "Software-Engineer",
+        "DevOps-Engineer",
+        "Automation-Testing",
+        "Engineering-Lead"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, automation",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/g2i-inc/jobs/senior-fullstack-developer",
+      "grade": "F",
+      "score": 10,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "G2i Inc.",
+      "title": "Senior FullStack Developer",
+      "url": "https://himalayas.app/companies/g2i-inc/jobs/senior-fullstack-developer?utm_source=api",
+      "posted": "2026-11-24T00:09:16.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Senior-Full-Stack-Development",
+        "Full-Stack-Engineer",
+        "Full-Stack-Developer-React-Node.Js",
+        "¿Senior-Fullstack-Engineering",
+        "Full-Stack-Developer-(JavaScript-Python)",
+        "Full-Stack-Developer",
+        "Full-Stack-Engineering",
+        "Full-Stack-Web-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "prisma",
+          "full-stack",
+          "full stack",
+          "backend",
+          "real-time",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/labcorp/jobs/senior-lead-automation-engineer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Labcorp",
+      "title": "Senior Lead Automation Engineer",
+      "url": "https://himalayas.app/companies/labcorp/jobs/senior-lead-automation-engineer?utm_source=api",
+      "posted": "2026-11-24T04:47:35.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Automation-Engineer",
+        "Software-Engineering-Manager",
+        "Technical-Lead",
+        "Software-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, automation",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
       ]
     }
   ]

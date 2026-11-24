@@ -1,0 +1,252 @@
+{
+  "pulled": "2026-11-24",
+  "scanned": 355,
+  "survived": 184,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/safetywing/jobs/product-engineer-186724217",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "SafetyWing",
+      "title": "Product Engineer",
+      "url": "https://himalayas.app/companies/safetywing/jobs/product-engineer-186724217?utm_source=api",
+      "posted": "2026-11-23T18:00:43.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "fully distributed"
+      },
+      "tags": [
+        "Product-Engineer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Full-Stack-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "kubernetes"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "full-stack",
+          "backend",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: typescript, kubernetes",
+        "reachable: fully distributed",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/genesys/jobs/senior-software-engineer-sip-voip",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Genesys",
+      "title": "Senior Software Engineer (SIP / VOIP)",
+      "url": "https://himalayas.app/companies/genesys/jobs/senior-software-engineer-sip-voip?utm_source=api",
+      "posted": "2026-11-23T11:27:09.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Cloud-Engineer",
+        "Voip-Engineer",
+        "Systems-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems"
+        ],
+        "weak": [
+          "aws",
+          "linux",
+          "backend",
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/harris/jobs/sr-data-engineer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Harris",
+      "title": "Sr Data Engineer",
+      "url": "https://himalayas.app/companies/harris/jobs/sr-data-engineer?utm_source=api",
+      "posted": "2026-11-23T21:21:03.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Databricks-Engineer",
+        "Azure-Data-Engineer",
+        "Data-Platform-Engineer",
+        "Big-Data-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/kraftpixel-digital-solutions-private-limited/jobs/web-engineer-trainee-internship-track-full-stack",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "KraftPixel Digital Solutions Private Limited",
+      "title": "Web Engineer Trainee (Internship Track: Full Stack)",
+      "url": "https://himalayas.app/companies/kraftpixel-digital-solutions-private-limited/jobs/web-engineer-trainee-internship-track-full-stack?utm_source=api",
+      "posted": "2026-11-23T16:51:36.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Web-engineering",
+        "Fullstack-Development",
+        "Web-Development",
+        "Software-Engineering-Internship",
+        "PHP-Development"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "javascript",
+          "full stack",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, javascript, full stack",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/syfe/jobs/ai-engineer",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Syfe",
+      "title": "AI Engineer",
+      "url": "https://himalayas.app/companies/syfe/jobs/ai-engineer?utm_source=api",
+      "posted": "2026-11-23T15:20:01.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "LLM-Engineer",
+        "Backend-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "distributed systems",
+          "kafka",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, distributed systems, kafka, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1138066",
+      "grade": "F",
+      "score": 15,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "GitLab",
+      "title": "Staff Backend Engineer, Performance Enablement",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-performance-enablement-gitlab-1138066",
+      "posted": "2026-11-23T00:00:08+00:00",
+      "location": "Europe",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "programming"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer"
+        ],
+        "weak": [
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: backend engineer",
+        "Staff-level title",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    }
+  ]
+}

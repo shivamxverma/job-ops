@@ -11,6 +11,12 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Data Security Startup Matters.AI Nets ₹115 Cr From Tanglin Venture Partners, Others** — B | Mon, 23 Nov 2026 | Inc42: https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/ | why: sector: ai, platform; funding: raised; ⚠ already in leads.md as "Matters.AI"
+- [ ] **Enterprise data security startup Matters.AI** — B | Mon, 23 Nov 2026 | YourStory: https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round | why: sector: ai; funding: raises; ⚠ already in leads.md as "Matters.AI"
+- [ ] **Ionic Wealth** — B | Mon, 23 Nov 2026 | YourStory: https://yourstory.com/2026/11/ionic-wealth-secures-rs-177-cr-from-angel-one-others | why: sector: platform; funding: secures
+- [ ] **Congress Protests Against Meta's Content Moderation Practices, Political Bias** — C | Mon, 23 Nov 2026 | Inc42: https://inc42.com/buzz/meta-faces-scrutiny-in-india-over-content-moderation-practices-political-biasness/ | why: funding: raised
+- [ ] **Zavya Nets ₹22.6 Cr To Scale Everyday Silver Jewellery Biz** — D | Mon, 23 Nov 2026 | Inc42: https://inc42.com/buzz/zavya-nets-%e2%82%b922-6-cr-to-scale-everyday-silver-jewellery-biz/ | why: funding: raised
+
 - [ ] **Sarvam's Token Factory** — B | Sat, 21 Nov 2026 | Inc42: https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/ | why: sector: ai, artificial intelligence; funding: raises; ⚠ already in leads.md as "Sarvam"
 - [ ] **Exclusive: Celcius Logistics Eyes ₹100 Cr To Expand Cold Chain Network** — C | Sat, 21 Nov 2026 | Inc42: https://inc42.com/buzz/exclusive-celcius-logistics-eyes-%e2%82%b9100-cr-to-expand-cold-chain-network/ | why: stage: late-stage; funding: funding round
 

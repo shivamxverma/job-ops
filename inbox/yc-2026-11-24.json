@@ -1,0 +1,41 @@
+{
+  "pulled": "2026-11-24",
+  "scanned": 573,
+  "survived": 11,
+  "hits": [
+    {
+      "id": 124491,
+      "grade": "D",
+      "score": 42,
+      "company": "Akai Space Labs",
+      "batch": "W27",
+      "title": "Firmware Engineer (Embedded Linux and Cameras)",
+      "location": "Bengaluru, KA, IN / Bengaluru, Karnataka, IN / San Francisco, CA, US / Mumbai, MH, IN / Mumbai, Maharashtra, IN / Remote (Bengaluru, KA, IN; Bengaluru, Karnataka, IN; San Francisco, CA, US; Mumbai, MH, IN; Mumbai, Maharashtra, IN)",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "1+ years",
+      "salaryRange": "$11K - $16K",
+      "equityRange": "0.10% - 0.20%",
+      "skills": [
+        "Firmware"
+      ],
+      "oneLiner": "We build unified sensor-stack for embodied AI",
+      "createdAt": "about 12 hours",
+      "lastActive": "about 12 hours",
+      "teamSize": null,
+      "stage": null,
+      "tags": [],
+      "website": null,
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/akai-space-labs/jobs/PserJ8W-firmware-engineer-embedded-linux-and-cameras",
+      "companyUrl": "https://www.ycombinator.com/companies/akai-space-labs",
+      "why": [
+        "story fit (AI vocab only): ai",
+        "remote",
+        "India-based",
+        "0-1 years ok",
+        "posted about 12 hours ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

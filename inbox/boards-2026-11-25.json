@@ -1,0 +1,132 @@
+{
+  "pulled": "2026-11-25",
+  "scanned": 352,
+  "survived": 184,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/accuknox/jobs/ai-security-engineer-trainee",
+      "grade": "B",
+      "score": 78,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "AccuKnox",
+      "title": "AI Security Engineer Trainee",
+      "url": "https://himalayas.app/companies/accuknox/jobs/ai-security-engineer-trainee?utm_source=api",
+      "posted": "2026-11-24T09:15:15.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Security-Engineer",
+        "Security-Engineer",
+        "Cloud-Security-Engineer",
+        "Kubernetes-Security-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "kubernetes",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "linux",
+          "platform",
+          "pipeline",
+          "ai agent",
+          "agentic",
+          "remote",
+          "new grad"
+        ]
+      },
+      "why": [
+        "stack: kubernetes, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/quilr-inc/jobs/solutions-engineer-ai-identity-data-security",
+      "grade": "F",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Quilr Inc.",
+      "title": "Solutions Engineer (AI, Identity & Data Security)",
+      "url": "https://himalayas.app/companies/quilr-inc/jobs/solutions-engineer-ai-identity-data-security?utm_source=api",
+      "posted": "2026-11-24T10:20:05.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Sales-Engineer",
+        "Security-Solutions-Engineer",
+        "Solutions-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "pipeline",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "non-eng title: Solutions Engineer",
+        "non-engineering seat",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/thinkbridge/jobs/senior-software-engineer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "thinkbridge",
+      "title": "Senior Software Engineer",
+      "url": "https://himalayas.app/companies/thinkbridge/jobs/senior-software-engineer?utm_source=api",
+      "posted": "2026-11-24T21:50:05.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        ".NET-Developer",
+        "C++-Developer",
+        "Web-Developer",
+        "Software-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "c++",
+          "platform",
+          "ai agent",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): c++, platform, ai agent",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

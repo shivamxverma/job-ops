@@ -1,0 +1,148 @@
+{
+  "pulled": "2026-11-26",
+  "scanned": 860,
+  "survived": 60,
+  "hits": [
+    {
+      "id": "lever:paytm:7e33e30e-af1e-4f21-ae0c-b91881731bb7",
+      "grade": "B",
+      "score": 72,
+      "source": "lever (seed list)",
+      "company": "Paytm",
+      "domain": "paytm.com",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.lever.co/paytm/7e33e30e-af1e-4f21-ae0c-b91881731bb7",
+      "posted": "2026-10-23T07:50:45.649Z",
+      "location": "Bangalore, Karnataka / Noida, Uttar Pradesh",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "llm"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "ai agent"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "greenhouse:truefoundry:5484575008",
+      "grade": "B",
+      "score": 63,
+      "source": "greenhouse (seed list)",
+      "company": "Truefoundry",
+      "domain": "truefoundry.com",
+      "title": "Developer Relations Engineer",
+      "url": "https://app.careerpuck.com/job-board/truefoundry/job/5484575008?gh_jid=5484575008",
+      "posted": "2026-11-25T04:23:15-05:00",
+      "location": "Bengaluru, Karnataka, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes",
+          "llm"
+        ],
+        "weak": [
+          "aws",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "3+ years stated (stretch)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "lever:zeta:bf61238b-c630-4f34-a940-77398c388bb3",
+      "grade": "D",
+      "score": 33,
+      "source": "lever (seed list)",
+      "company": "Zeta",
+      "domain": "zeta.tech",
+      "title": "Manager Site Reliability Engineer",
+      "url": "https://jobs.lever.co/zeta/bf61238b-c630-4f34-a940-77398c388bb3",
+      "posted": "2026-11-24T08:20:52.478Z",
+      "location": "Mumbai",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "10+ years stated",
+        "reachable: India-based",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "greenhouse:razorpaysoftwareprivatelimited:4746998005",
+      "grade": "F",
+      "score": 23,
+      "source": "greenhouse (YC Winter 2015)",
+      "company": "Razorpay",
+      "domain": "razorpay.com",
+      "title": "Lead Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746998005",
+      "posted": "2026-11-25T05:31:14-05:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "python",
+          "full-stack",
+          "backend",
+          "platform",
+          "real-time",
+          "automation",
+          "ai agent",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

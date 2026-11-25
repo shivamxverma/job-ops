@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Lok Capital** — C | Wed, 25 Nov 2026 | Inc42: https://inc42.com/buzz/lok-capital-announces-first-close-of-fund-v-at-130-mn/ | why: funding: raised
+
 - [ ] **AidenAI Nets $32 Mn To Scale Enterprise AI Workflows** — B | Tue, 24 Nov 2026 | Inc42: https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/ | why: sector: ai; funding: raised
 - [ ] **Fintech startup Vegapay to raise Rs 38.4 Cr in Series A funding round led by Prosus** — B | Tue, 24 Nov 2026 | YourStory: https://yourstory.com/2026/11/vegapay-to-raise-rs-384-cr-series-a-funding-led-by-prosus | why: sector: fintech; funding: funding round
 - [ ] **Cosine Robots** — C | Tue, 24 Nov 2026 | Inc42: https://inc42.com/buzz/cosine-robots-bags-%e2%82%b922-4-cr-to-scale-robotics-hardware-production/ | why: funding: raised; 📍 bengaluru

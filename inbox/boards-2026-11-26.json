@@ -1,0 +1,232 @@
+{
+  "pulled": "2026-11-26",
+  "scanned": 359,
+  "survived": 188,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/full-stack-developer-ai",
+      "grade": "B",
+      "score": 74,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "EdgeQ Technologies Private Limited",
+      "title": "Full Stack Developer (AI)",
+      "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/full-stack-developer-ai?utm_source=api",
+      "posted": "2026-11-24T04:25:23.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Web-Developer",
+        "AI-Engineer",
+        "AI-Full-Stack-Developer",
+        "Full-Stack-AI-Developer",
+        "AI-Full-Stack-Engineer",
+        "Full-Stack-AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "express.js",
+          "typescript",
+          "fastapi",
+          "postgresql",
+          "docker",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "mongodb",
+          "aws",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "automation",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, express.js, typescript, fastapi",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "0-1 years ok",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/indigo-vc/jobs/full-stack-developer",
+      "grade": "C",
+      "score": 55,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Indigo VC",
+      "title": "Full Stack Developer",
+      "url": "https://himalayas.app/companies/indigo-vc/jobs/full-stack-developer?utm_source=api",
+      "posted": "2026-11-25T09:20:15.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Full-Stack-Software-Developer",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Engineer",
+        "Fullstack-Development",
+        "Full-Stack-JavaScript-Developer",
+        "Full-Stack",
+        "Full-Stack-Web-Development"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql",
+          "docker"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "javascript",
+          "linux",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgresql, docker",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "rok:1138096",
+      "grade": "D",
+      "score": 35,
+      "source": "remoteok.com",
+      "kind": "remote",
+      "company": "Dropbox",
+      "title": "Security Engineer, Offensive Security",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096",
+      "posted": "2026-11-24T11:00:04+00:00",
+      "location": "North America",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "devops"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "automation",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): automation, agentic",
+        "location not stated (ask before investing)",
+        "posted 1d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/software-engineer-java-kotlin-senior-auth",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Banco Plata, S.A., Institución de Banca Múltiple",
+      "title": "Software Engineer - Java/Kotlin Senior [Auth]",
+      "url": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/software-engineer-java-kotlin-senior-auth?utm_source=api",
+      "posted": "2026-11-25T18:52:35.000Z",
+      "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Armenia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bhutan, Bosnia and Herzegovina, Botswana, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Central African Republic, Chad, China, Comoros, Congo, Congo, The Democratic Republic of the, Croatia, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Guernsey, Guinea, Guinea-Bissau, Holy See (Vatican City State), Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Mongolia, Montenegro, Morocco, Mozambique, Myanmar, Namibia, Nepal, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Pakistan, Palestine, State of, Philippines, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Somalia, South Africa, South Korea, South Sudan, Spain, Sri Lanka, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Vietnam, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include British Indian Ocean Territory/India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Platform-Engineer",
+        "Authorization-Engineer",
+        "Cloud-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "redis",
+          "kafka"
+        ],
+        "weak": [
+          "aws",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: postgresql, redis, kafka",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include British Indian Ocean Territory/India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/tjx/jobs/staff-engineer-infrastructure-monitoring-observability",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "TJX",
+      "title": "Staff Engineer, Infrastructure Monitoring & Observability",
+      "url": "https://himalayas.app/companies/tjx/jobs/staff-engineer-infrastructure-monitoring-observability?utm_source=api",
+      "posted": "2026-11-25T16:20:25.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Infrastructure-Engineer",
+        "Observability-Engineer",
+        "Site-Reliability-Engineer",
+        "Monitoring-Engineer",
+        "Infrastructure-Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, automation",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

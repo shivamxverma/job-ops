@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-25",
-  "scanned": 352,
-  "survived": 184,
+  "scanned": 705,
+  "survived": 369,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/accuknox/jobs/ai-security-engineer-trainee",
@@ -123,6 +123,73 @@
         "stack (weak): c++, platform, ai agent",
         "senior-titled",
         "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
+      "grade": "F",
+      "score": -16,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "EPAM Systems",
+      "title": "Senior Web Application Security Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
+      "posted": "Thu, 05 Nov 2026 21:24:38 +0000",
+      "location": "<p> <strong>Headquarters:</strong> Armenia, Belarus, Georgia <br /><strong>URL:</strong> <a href=\"http://epam.com\">http://epam.com</a> </p> <div><p>We are looking for an experienced <strong>Senior Web Application Security Engineer</strong> to join and support the client's security team. The specialist will work closely with the broader security team, covering key areas of web application protection and security operations.</p><h3>Responsibilities</h3><ul><li>Configure, tune and maintain Web Application Firewall (WAF) rules and policies using Akamai</li><li>Participate in security incident handling, investigation and resolution related to web application threats</li><li>Conduct reviews of WAF configurations, security policies and web application security posture</li><li>Identify and analyze attack patterns, anomalies and vulnerabilities targeting web applications</li><li>Provide day-to-day support to the security team, sharing expertise and best practices in web app security</li><li>Support integration of security processes across the broader team environment</li></ul><h3>Requirements</h3><ul><li>5+ years of hands-on experience with Akamai (WAF, Kona Site Defender or similar Akamai security products)</li><li>Knowledge of web application security concepts such as OWASP Top 10, DDoS mitigation and bot management</li><li>Experience with WAF rule tuning, false positive management and security incident response</li><li>Capability to work independently and integrate quickly into an existing team</li><li>Proficiency in English communication skills</li></ul><h3>Nice to have</h3><ul><li>Experience with other WAF/CDN platforms such as Cloudflare, F5 and Imperva</li><li>Familiarity with API security</li><li>Security certifications (CISSP, CEH, GWAPT etc.)</li></ul></div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer\">https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "cloudflare",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): cloudflare, platform, remote",
+        "senior-titled",
+        "5+ years stated",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/evolent/jobs/sr-software-engineer-9501079731",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Evolent",
+      "title": "Sr Software Engineer",
+      "url": "https://himalayas.app/companies/evolent/jobs/sr-software-engineer-9501079731?utm_source=api",
+      "posted": "2026-11-25T06:40:42.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        ".NET-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, junior",
+        "senior-titled",
+        "6+ years stated",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

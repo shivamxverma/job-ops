@@ -1,0 +1,275 @@
+{
+  "pulled": "2026-11-27",
+  "scanned": 360,
+  "survived": 186,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/newsweek/jobs/ai-engineer-5371376589",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Newsweek",
+      "title": "AI Engineer",
+      "url": "https://himalayas.app/companies/newsweek/jobs/ai-engineer-5371376589?utm_source=api",
+      "posted": "2026-11-26T08:44:12.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Front-End-Software-Engineer",
+        "Frontend-Engineer",
+        "Front-End-Developer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "typescript"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, typescript",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/convatec/jobs/talkdesk-software-engineer",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Convatec",
+      "title": "Talkdesk Software Engineer",
+      "url": "https://himalayas.app/companies/convatec/jobs/talkdesk-software-engineer?utm_source=api",
+      "posted": "2026-11-26T16:47:29.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "CRM-Developer",
+        "Integration-Engineer",
+        "Contact-Center-Engineer",
+        "Technical-Support-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, platform, automation",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/description-ciklum/jobs/senior-full-stack-engineer-2125861020",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Description Ciklum",
+      "title": "Senior Full Stack Engineer",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-full-stack-engineer-2125861020?utm_source=api",
+      "posted": "2026-11-26T17:51:18.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "websocket"
+        ],
+        "weak": [
+          "react",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: docker, websocket",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/wex/jobs/software-development-engineer-3-1",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "wex",
+      "title": "Software Development Engineer 3-1",
+      "url": "https://himalayas.app/companies/wex/jobs/software-development-engineer-3-1?utm_source=api",
+      "posted": "2026-11-26T11:25:24.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Developer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Java-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "automation",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, automation, junior",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/wex/jobs/software-development-engineer-3-2",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "wex",
+      "title": "Software Development Engineer 3-2",
+      "url": "https://himalayas.app/companies/wex/jobs/software-development-engineer-3-2?utm_source=api",
+      "posted": "2026-11-26T10:42:55.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Java-Developer",
+        "Payments-Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "automation",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, automation, junior",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/icertis/jobs/lead-software-engineer-cloud-site-reliability-sre-6499010594",
+      "grade": "F",
+      "score": 13,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Icertis",
+      "title": "Lead Software Engineer, Cloud Site Reliability (SRE)",
+      "url": "https://himalayas.app/companies/icertis/jobs/lead-software-engineer-cloud-site-reliability-sre-6499010594?utm_source=api",
+      "posted": "2026-11-26T08:25:36.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Site-Reliability-Engineer",
+        "Cloud-Engineer",
+        "Software-Engineer",
+        "DevOps-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "infra",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): infra, platform",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/miratech/jobs/senior-genesys-routing-developer-with-amazon-connect",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Miratech",
+      "title": "Senior Genesys Routing Developer with Amazon Connect",
+      "url": "https://himalayas.app/companies/miratech/jobs/senior-genesys-routing-developer-with-amazon-connect?utm_source=api",
+      "posted": "2026-11-26T10:23:39.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Routing-Developer",
+        "Contact-Center-Developer",
+        "Genesys-Engineer",
+        "Amazon-Connect-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): ci/cd, platform, automation",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

@@ -11,6 +11,10 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Vegapay** — B | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/vegapay-raises-10m-in-series-a-round-co-led-by-vertex-ventures-prosus | why: sector: platform; funding: raises
+- [ ] **Capri Global** — C | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance | why: funding: raises
+- [ ] **Agnikul’s rocket ambitions gather pace, but commercial revenue yet to take off** — C | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/agnikuls-rocket-ambitions-gather-pace-but-commercial-revenue-is-yet-to-take-off | why: funding: fresh funding
+
 - [ ] **Green Aero** — A | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/green-aero-raises-usd-14m-as-india-pushes-for-indigenous-jet-propulsion | why: hiring mention (hire); funding: raises; also: Inc42
 - [ ] **XEBO.ai** — B | Thu, 26 Nov 2026 | Inc42: https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/ | why: sector: ai, platform; funding: raised; also: YourStory
 - [ ] **Vegapay** — B | Thu, 26 Nov 2026 | Inc42: https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/ | why: sector: fintech; funding: raised

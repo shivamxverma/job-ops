@@ -11,6 +11,13 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Green Aero** — A | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/green-aero-raises-usd-14m-as-india-pushes-for-indigenous-jet-propulsion | why: hiring mention (hire); funding: raises; also: Inc42
+- [ ] **XEBO.ai** — B | Thu, 26 Nov 2026 | Inc42: https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/ | why: sector: ai, platform; funding: raised; also: YourStory
+- [ ] **Vegapay** — B | Thu, 26 Nov 2026 | Inc42: https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/ | why: sector: fintech; funding: raised
+- [ ] **GIVA** — B | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/giva-raises-rs-90-crore-from-alternative-credit-platform-blacksoil | why: sector: platform; funding: raises
+- [ ] **Finnable Nets ₹405 Cr To Scale Digital Lending Business** — C | Thu, 26 Nov 2026 | Inc42: https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/ | why: stage: late-stage; funding: raised; 📍 bengaluru
+- [ ] **Finnable** — C | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending | why: stage: late-stage; funding: raises; 📍 bengaluru
+
 - [ ] **Lok Capital** — C | Wed, 25 Nov 2026 | Inc42: https://inc42.com/buzz/lok-capital-announces-first-close-of-fund-v-at-130-mn/ | why: funding: raised
 
 - [ ] **AidenAI Nets $32 Mn To Scale Enterprise AI Workflows** — B | Tue, 24 Nov 2026 | Inc42: https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/ | why: sector: ai; funding: raised

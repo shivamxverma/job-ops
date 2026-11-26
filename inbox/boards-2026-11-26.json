@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-26",
-  "scanned": 359,
-  "survived": 188,
+  "scanned": 715,
+  "survived": 372,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/full-stack-developer-ai",
@@ -224,6 +224,623 @@
         "stack (weak): platform, automation",
         "Staff-level title",
         "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/produktively/jobs/founding-engineer-contract-part-time-ai-products-for-real-estate",
+      "grade": "A",
+      "score": 90,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Produktively",
+      "title": "Founding Engineer (contract / part-time), AI products for real estate",
+      "url": "https://himalayas.app/companies/produktively/jobs/founding-engineer-contract-part-time-ai-products-for-real-estate?utm_source=api",
+      "posted": "2026-11-26T00:24:32.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Founding-AI-Engineer",
+        "Founding-Product-Engineer",
+        "Startup-AI-Engineer",
+        "Founding-ML-Engineer",
+        "Founding-Software-Engineer",
+        "AI-Product-Engineer",
+        "AI-Development-Engineer",
+        "Developer"
+      ],
+      "matched": {
+        "strong": [
+          "llm",
+          "rag",
+          "founding engineer"
+        ],
+        "weak": [
+          "python",
+          "backend",
+          "automation",
+          "pipeline",
+          "remote",
+          "graduate"
+        ]
+      },
+      "why": [
+        "stack: llm, rag, founding engineer",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "founding-eng seat",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/ivanti/jobs/site-reliability-engineer-night-shift-1-30am-to-10-30am-ist",
+      "grade": "B",
+      "score": 63,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Ivanti",
+      "title": "Site Reliability Engineer (Night Shift, 1:30am to 10:30am IST)",
+      "url": "https://himalayas.app/companies/ivanti/jobs/site-reliability-engineer-night-shift-1-30am-to-10-30am-ist?utm_source=api",
+      "posted": "2026-11-26T00:06:34.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Site-Reliability-Engineer",
+        "DevOps-Engineer",
+        "Cloud-Engineer",
+        "Infrastructure-Engineer",
+        "Platform-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql",
+          "redis",
+          "kafka",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "mongodb",
+          "aws",
+          "nginx",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: postgresql, redis, kafka, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (kafka)",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/miratech/jobs/full-stack-developer-desktop-engineering",
+      "grade": "C",
+      "score": 58,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Miratech",
+      "title": "Full Stack Developer (Desktop Engineering)",
+      "url": "https://himalayas.app/companies/miratech/jobs/full-stack-developer-desktop-engineering?utm_source=api",
+      "posted": "2026-11-25T23:10:35.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Web-Developer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "aws",
+          "s3",
+          "ci/cd",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/altera-digital-health/jobs/sr-data-engineer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Altera Digital Health",
+      "title": "Sr Data Engineer",
+      "url": "https://himalayas.app/companies/altera-digital-health/jobs/sr-data-engineer?utm_source=api",
+      "posted": "2026-11-25T23:19:58.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Data-Platform-Engineer",
+        "Big-Data-Engineer",
+        "Cloud-Data-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/infotrust/jobs/quality-engineer-automation",
+      "grade": "D",
+      "score": 38,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "InfoTrust",
+      "title": "Quality Engineer - Automation",
+      "url": "https://himalayas.app/companies/infotrust/jobs/quality-engineer-automation?utm_source=api",
+      "posted": "2026-11-26T07:53:14.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Quality-Engineer",
+        "QA-Automation-Engineer",
+        "Automation-Testing",
+        "Software-Quality-Engineer",
+        "SDET"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "ci/cd",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, ci/cd, automation",
+        "2+ years stated",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/alphasense/jobs/senior-software-engineer-8687377177",
+      "grade": "D",
+      "score": 33,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "AlphaSense",
+      "title": "Senior Software Engineer",
+      "url": "https://himalayas.app/companies/alphasense/jobs/senior-software-engineer-8687377177?utm_source=api",
+      "posted": "2026-11-26T00:46:02.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "kafka",
+          "docker",
+          "k8s",
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, kafka, docker, k8s",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems, kafka)",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required",
+      "grade": "D",
+      "score": 33,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Golden 1 Credit Union",
+      "title": "Web Applications Programmer II (Sitecore Development Required)",
+      "url": "https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required",
+      "posted": "Thu, 05 Nov 2026 21:24:38 +0000",
+      "location": "<p> <strong>Headquarters:</strong> 8945 Cal Center Dr, Sacramento, CA 95826, USA <br /><strong>URL:</strong> <a href=\"http://golden1.com\">http://golden1.com</a> </p> <div>JOB TITLE: Web Applications Programmer II Department: IT – Digital Platform Delivery&nbsp; STATUS: EXEMPT JOB CODE: 1711 PAY GRADE: 20S PAY SCALE: $102,050.00 - $115,000.00 Annually &nbsp; LOCATION: Remote in CA only&nbsp;&nbsp; GENERAL DESCRIPTION: The Web Applications Programmer is responsible for the programming and implementation of user interface, web service, and database applications for the external facing web site, employee Intranet and components that integrate third-party systems with our web applications and host system. &nbsp; This position also establishes and maintains the organization's Internet and Intranet technical architecture and functions. The Web Applications Programmer will analyze, design, and implement technical solutions for existing and new Internet/Intranet system. In addition, they will make recommendations for best practices including the proper production, technical and design technique specific to Internet/Intranet programming and has experience and skill with dominant applications to maintain and modify the organization's Internet/Intranet efforts including content, graphical and communications. &nbsp; TASKS, DUTIES, FUNCTIONS: Design, program and implement solutions programmed in .NET with attention to user experience and cross-browser support on both new and existing software projects. Requires working with other technical staff to understand platforms, integration points (APIs, services) and database structures. Research, analyze, design, document, create test plans and prototype enterprise web applications and solutions that integrate with third-party systems. Analyze, program, troubleshoot, debug, and implement enterprise web interface components using HTML, XHTML, XML, XSLT, JavaScript, ASP.NET, Visual C#.NET, SOAP, REST,jQuery, CSS, AJAX, JSON, and SQL. Assist in managing all web programming including integration of approved content on the site, file management and site maintenance, database management, archiving, and record management. Maintain a thorough understanding of state and federal laws and regulations related to credit union compliance including bank secrecy and anti-money laundering laws appropriate to the position. Work with other members of the Web Applications and IT Programming teams to program enterprise wide applications and integrate them with third-party systems. Responsible for interface programming and implementation and integration of web applications with backend databases. Responsible for quality assurance of all e applications, including unit testing and source code control for versioning and lifecycle management. Maintain knowledge of industry best practices, security standards and current technologies with regard to web programming, applying to all programming efforts. Provide guidance to less experienced team members. PHYSICAL SKILLS, ABILITIES, AND EXERTION UTILIZED IN THE PERFORMANCE OF THESE TASKS: Effective oral and written communication skills required to manage the implementation of web applications and solutions, prepare recommendations, perform analysis, and to accomplish other functions as listed. Must possess sufficient manual dexterity to skillfully operate an on-line computer terminal and other standard office equipment, such as financial calculators, personal computer, facsimile machine and telephone. ORGANIZATIONAL CONTACTS &amp; RELATIONSHIPS: INTERNAL:&nbsp;All levels of staff and management. EXTERNAL:&nbsp;Vendors, sales personnel, members and peers at other financial institutions. QUALIFICATIONS: EDUCATION: Bachelors in Computer Science or equivalent experience. EXPERIENCE: Minimum 7 years’ experience in web development and maintenance. Minimum of 4 years .NET/C# experience. Minimum 1 year Sitecore experience. KNOWLEDGE/SKILLS: Enterprise experience with Microsoft technologies (SQL Server, C#, WCF, ASP.NET, Entity Framework) and associated development environments (Visual Studio, TFS). Demonstrated expertise in developing, troubleshooting, and implementing software code that include at least the following: HTML, XHTML, XML, XSLT, JavaScript, SOAP, REST, jQuery, CSS, AJAX, JSON, and SQL. Must also have experience working with multi-tier software architecture, object oriented design, requirement gathering, Agile and Waterfall SDLC and have a thorough understanding of core systems infrastructure (operating systems, web server, database, etc.) PHYSICAL REQUIREMENTS: Prolonged sitting throughout the workday with occasional mobility required. Corrected vision within the normal range. Hearing within normal range.&nbsp; A device to enhance hearing will be provided if needed. Occasional movements throughout the department daily to interact with staff, accomplish tasks, etc. Moderate travel by car and/or public conveyance locally or to out-of-area locations or across the United States. Prolonged operation of a personal computer, which includes typing, operating a mouse and reading information on the monitor.&nbsp; May require unusually long work hours to accomplish tasks.&nbsp; May require travel during projects. Must be able to work under tight deadlines; may be required to work extended hours to complete projects. LICENSES/CERTIFICATIONS: Sitecore Professional Developer Certification Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. #LI-Remote THIS JOB DESCRIPTION PROVIDES AN OVERVIEW OF THE GENERAL SCOPE AND LEVEL OF WORK EXPECTED TO BE PERFORMED, BUT IT IS NOT AN EXHAUSTIVE LIST OF ALL DUTIES OR RESPONSIBILITIES ASSOCIATED WITH THE POSITION. THE CREDIT UNION RESERVES THE RIGHT TO MODIFY, ADD, OR REMOVE DUTIES AS NEEDED WITHOUT ADVANCE NOTICE. EMPLOYEES MAY BE REQUIRED TO PERFORM ADDITIONAL TASKS AND DUTIES AS DIRECTED BY THEIR SUPERVISOR, PROVIDED SUCH TASKS ARE WITHIN THE EMPLOYEE’S KNOWLEDGE, SKILLS, AND ABILITIES, OR CAN BE PERFORMED WITH REASONABLE TRAINING. NOTHING IN THIS JOB DESCRIPTION ALTERS THE AT-WILL EMPLOYMENT RELATIONSHIP OR LIMITS THE CREDIT UNION’S RIGHT TO ASSIGN OR REASSIGN DUTIES AND RESPONSIBILITIES TO THIS POSITION AT ANY TIME. REV. 1/9/2026 &nbsp;</div> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required\">https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, backend, platform",
+        "0-1 years ok",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/paralucent/jobs/software-developer-net-sharepoint-pl-828",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Paralucent",
+      "title": "Software Developer (.NET / SharePoint)(PL 828)",
+      "url": "https://himalayas.app/companies/paralucent/jobs/software-developer-net-sharepoint-pl-828?utm_source=api",
+      "posted": "2026-11-26T05:10:20.000Z",
+      "location": "Bangladesh, India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Developer",
+        ".NET-Developer",
+        "SharePoint-Developer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, platform, remote",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/twilio/jobs/staff-software-engineer-l4-7579390549",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Twilio",
+      "title": "Staff Software Engineer (L4)",
+      "url": "https://himalayas.app/companies/twilio/jobs/staff-software-engineer-l4-7579390549?utm_source=api",
+      "posted": "2026-11-26T03:35:14.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Cloud-Engineer",
+        "Site-Reliability-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/wikimedia-foundation/jobs/staff-site-reliability-engineer",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Wikimedia Foundation",
+      "title": "Staff Site Reliability Engineer",
+      "url": "https://himalayas.app/companies/wikimedia-foundation/jobs/staff-site-reliability-engineer?utm_source=api",
+      "posted": "2026-11-26T04:40:39.000Z",
+      "location": "Brazil, Canada, Colombia, Germany, Ghana, India, Indonesia, Italy, Kenya, Mexico, Morocco, Netherlands, Poland, Singapore, South Africa, Spain, Switzerland, United Kingdom, United States",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Site-Reliability-Engineer",
+        "DevOps-Engineer",
+        "Platform-Engineer",
+        "Infrastructure-Security-Engineer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "ci/cd",
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "Staff-level title",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+      "grade": "F",
+      "score": 14,
+      "source": "weworkremotely.com",
+      "kind": "remote",
+      "company": "Karat",
+      "title": "Software Engineer Interviewer",
+      "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+      "posted": "Fri, 06 Nov 2026 18:27:52 +0000",
+      "location": "<img src=\"https://we-work-remotely.imgix.net/logos/0171/6715/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress\" /> <p> <strong>Headquarters:</strong> Seattle <br /><strong>URL:</strong> <a href=\"https://karat.com/\">https://karat.com/</a> </p> <p></p> <p><strong>Come join Karat's</strong> <a href=\"https://karat.com/candidates/interview-engineers/\"><strong> </strong><strong>Interview Engineer</strong></a><strong> Community!</strong></p> <p>Karat is always seeking talented engineers accross the world to join our Community. If you are interested in being considered for a future Interview Engineer opportunity, please submit your application to this posting.</p> <h3>This is a <strong>contractor/freelancer</strong> opportunity, and work is compensated based on tasks performed once you complete onboarding. We hire worldwide and rotate which countries we recruit in. If you’re outside the U.S., check&nbsp;<a href=\"https://karat.com/become-an-interview-engineer/\">our website</a> to see which countries are currently open, and apply there when your country is listed.</h3> <hr> <h3><strong>What Interview Engineers do:</strong></h3> <p>Interview Engineers facilitate technical interviews with software developers around the world. As an Interview Engineer, you will create inclusive hiring processes by mitigating bias, improving hiring signals, and completing objective evaluations. These skills are critical to hiring and managing teams in startups and large enterprises. As a Karat Interview Engineer, you will:</p> <ul> <li><strong>Interview—</strong>Facilitate an interview through Karat's platform. Create an enjoyable candidate experience while you evaluate a candidate's fundamental coding skills and technical knowledge.</li> <li><strong>Evaluate—</strong>Provide input on the candidate's performance, coding style, communication skills, knowledge question answers, and coding approach.</li> <li><strong>Partner—</strong>Collaborate with Karat to test content, processes, and products.</li> </ul> <h3><strong>The experience you will bring:</strong></h3> <ul> <li>3+ years of experience as a Software Developer or Engineer</li> <li>Excellent English communication skills (written and oral) with a high level of professionalism and interpersonal skills</li> <li>Reliable access to a working webcam, microphone, and a stable Internet connection</li> <li>Experience conducting technical interviews is preferred (e.g., data structures, algorithms)</li> </ul> <p>While we review your application, learn more about <a href=\"https://youtu.be/NBHfCPapm6I\">life as an Interview Engineer</a> by watching this video!</p> <hr> <p></p> <p><strong>To apply:</strong> <a href=\"https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer\">https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer</a></p>",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, remote",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-7781459670",
+      "grade": "F",
+      "score": 3,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Akamai Technologies",
+      "title": "Senior Software Engineer",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-engineer-7781459670?utm_source=api",
+      "posted": "2026-11-25T23:04:09.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Platform-Engineer",
+        "Cloud-Infrastructure-Engineer",
+        "DevOps-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes"
+        ],
+        "weak": [
+          "python",
+          "linux",
+          "ci/cd",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/lingaro/jobs/bi-full-stack-developer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Lingaro",
+      "title": "BI Full Stack Developer",
+      "url": "https://himalayas.app/companies/lingaro/jobs/bi-full-stack-developer?utm_source=api",
+      "posted": "2026-11-26T08:06:47.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-BI-Developer",
+        "Business-Intelligence-Developer",
+        "Data-Engineer",
+        "Analytics-Engineer",
+        "Power-BI-Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "s3",
+          "full-stack",
+          "full stack",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): s3, full-stack, full stack",
+        "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/datacolor-ai/jobs/forward-deployed-engineer",
+      "grade": "F",
+      "score": -2,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Datacolor.ai",
+      "title": "Forward Deployed Engineer",
+      "url": "https://himalayas.app/companies/datacolor-ai/jobs/forward-deployed-engineer?utm_source=api",
+      "posted": "2026-11-25T19:55:23.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Forward-Deployed-Engineer",
+        "Data-Engineer",
+        "Cloud-Data-Engineer",
+        "BigQuery-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "ci/cd",
+          "platform",
+          "etl",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, aws, s3",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/hire-initiatives-inc/jobs/staff-machine-learning-engineer",
+      "grade": "F",
+      "score": -40,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Hire Initiatives, Inc.",
+      "title": "Staff Machine Learning Engineer",
+      "url": "https://himalayas.app/companies/hire-initiatives-inc/jobs/staff-machine-learning-engineer?utm_source=api",
+      "posted": "2026-11-25T23:08:20.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Machine-Learning-Engineer",
+        "Machine-Learning-Platform-Engineer",
+        "AI-Engineer",
+        "Applied-Scientist"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "platform",
+          "pipeline",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack (weak): platform, pipeline, remote",
+        "Staff-level title",
+        "10+ years stated",
+        "location not stated (ask before investing)",
         "board tags it Senior",
         "posted 0d ago"
       ]

@@ -1,0 +1,255 @@
+{
+  "pulled": "2026-11-28",
+  "scanned": 877,
+  "survived": 65,
+  "hits": [
+    {
+      "id": "lever:meesho:73db1822-f3de-4f9f-a2b3-944ea0b03702",
+      "grade": "A",
+      "score": 84,
+      "source": "lever (seed list)",
+      "company": "Meesho",
+      "domain": "meesho.com",
+      "title": "Software Engineer I - Backend  (Kirana Club)",
+      "url": "https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702",
+      "posted": "2026-11-18T11:54:54.336Z",
+      "location": "Bangalore, Karnataka",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "typescript",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack: typescript, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "junior/new-grad seat",
+        "0-1 years ok",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:bolna:dae9d4f0-fcef-478d-a774-86e80eb437ac",
+      "grade": "B",
+      "score": 73,
+      "source": "ashby (YC Fall 2025)",
+      "company": "Bolna AI",
+      "domain": "bolna.ai",
+      "title": "Product Engineer, Voice AI",
+      "url": "https://jobs.ashbyhq.com/bolna/dae9d4f0-fcef-478d-a774-86e80eb437ac",
+      "posted": "2026-11-27T14:20:04.225+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "redis",
+          "docker",
+          "kubernetes",
+          "websocket",
+          "message queue",
+          "llm"
+        ],
+        "weak": [
+          "aws",
+          "ci/cd",
+          "backend",
+          "platform",
+          "real-time",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, redis, docker, kubernetes",
+        "story fit: CodeSM/Yuvro/Storix (message queue)",
+        "2+ years stated",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "ashby:bolna:f7cc2d1d-5fae-494e-9c5f-06404f82f43b",
+      "grade": "C",
+      "score": 58,
+      "source": "ashby (YC Fall 2025)",
+      "company": "Bolna AI",
+      "domain": "bolna.ai",
+      "title": "Product Engineer, Backend",
+      "url": "https://jobs.ashbyhq.com/bolna/f7cc2d1d-5fae-494e-9c5f-06404f82f43b",
+      "posted": "2026-11-27T14:21:13.011+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "fastapi",
+          "postgresql",
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, fastapi, postgresql, docker",
+        "2+ years stated",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "lever:meesho:9ae5ca62-3b5f-4bc4-9986-5c475f597223",
+      "grade": "D",
+      "score": 42,
+      "source": "lever (seed list)",
+      "company": "Meesho",
+      "domain": "meesho.com",
+      "title": "Software Engineer II — Backend (Kirana Club)",
+      "url": "https://jobs.lever.co/meesho/9ae5ca62-3b5f-4bc4-9986-5c475f597223",
+      "posted": "2026-11-18T12:21:08.212Z",
+      "location": "Bangalore, Karnataka",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems",
+          "llm"
+        ],
+        "weak": [
+          "javascript",
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack: distributed systems, llm",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "5+ years stated",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "lever:meesho:1d628f96-a365-441f-967d-11e647d2f587",
+      "grade": "D",
+      "score": 38,
+      "source": "lever (seed list)",
+      "company": "Meesho",
+      "domain": "meesho.com",
+      "title": "Senior Software Engineer - Backend (Kirana Club)",
+      "url": "https://jobs.lever.co/meesho/1d628f96-a365-441f-967d-11e647d2f587",
+      "posted": "2026-11-27T11:50:56.816Z",
+      "location": "Bangalore, Karnataka",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "distributed systems"
+        ],
+        "weak": [
+          "javascript",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack: distributed systems",
+        "story fit: CodeSM/Yuvro/Storix (distributed systems)",
+        "senior-titled",
+        "4+ years stated (stretch)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "greenhouse:cloudsek:6200261004",
+      "grade": "D",
+      "score": 37,
+      "source": "greenhouse (seed list)",
+      "company": "Cloudsek",
+      "domain": "cloudsek.com",
+      "title": "SDE Intern - Frontend   ",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6200261004",
+      "posted": "2026-09-18T05:44:49-04:00",
+      "location": "Bengaluru, Karnataka, India",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "javascript",
+          "platform",
+          "real-time",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack (weak): javascript, platform, real-time",
+        "reachable: India-based"
+      ]
+    },
+    {
+      "id": "ashby:bolna:a95b26d8-00d6-496f-a9b3-290d09273de7",
+      "grade": "D",
+      "score": 33,
+      "source": "ashby (YC Fall 2025)",
+      "company": "Bolna AI",
+      "domain": "bolna.ai",
+      "title": "Senior Product Engineer, Backend",
+      "url": "https://jobs.ashbyhq.com/bolna/a95b26d8-00d6-496f-a9b3-290d09273de7",
+      "posted": "2026-11-27T14:21:13.149+00:00",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [
+          "backend engineer",
+          "fastapi",
+          "postgresql",
+          "redis",
+          "docker"
+        ],
+        "weak": [
+          "python",
+          "aws",
+          "ci/cd",
+          "backend",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: backend engineer, fastapi, postgresql, redis",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **Kabeer Biswas' M** — B | Fri, 27 Nov 2026 | Inc42: https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/ | why: sector: ai; funding: raises
+
 - [ ] **Vegapay** — B | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/vegapay-raises-10m-in-series-a-round-co-led-by-vertex-ventures-prosus | why: sector: platform; funding: raises
 - [ ] **Capri Global** — C | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance | why: funding: raises
 - [ ] **Agnikul’s rocket ambitions gather pace, but commercial revenue yet to take off** — C | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/agnikuls-rocket-ambitions-gather-pace-but-commercial-revenue-is-yet-to-take-off | why: funding: fresh funding

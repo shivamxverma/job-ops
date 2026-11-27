@@ -1,0 +1,437 @@
+{
+  "pulled": "2026-11-28",
+  "scanned": 356,
+  "survived": 181,
+  "hits": [
+    {
+      "id": "him:https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/ai-forward-deployed-engineer",
+      "grade": "B",
+      "score": 72,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Berry Virtual | MedVirtual | AI Virtual",
+      "title": "AI Forward Deployed Engineer",
+      "url": "https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/ai-forward-deployed-engineer?utm_source=api",
+      "posted": "2026-11-27T11:33:37.000Z",
+      "location": "Colombia, Honduras, India, Mexico, Philippines",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Forward-Deployed-AI-Engineer",
+        "Forward-Deployed-Engineer",
+        "AI-Engineer",
+        "Software-Engineer",
+        "Client-Solutions-Engineering"
+      ],
+      "matched": {
+        "strong": [
+          "llm"
+        ],
+        "weak": [
+          "python",
+          "c++",
+          "platform",
+          "automation",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "0-1 years ok",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/junior-full-stack-developer-ai-api-integration",
+      "grade": "B",
+      "score": 71,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Berry Virtual | MedVirtual | AI Virtual",
+      "title": "Junior Full-Stack Developer (AI & API Integration)",
+      "url": "https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/junior-full-stack-developer-ai-api-integration?utm_source=api",
+      "posted": "2026-11-27T12:47:58.000Z",
+      "location": "Colombia, Honduras, India, Mexico, Philippines",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Software-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript",
+          "postgresql"
+        ],
+        "weak": [
+          "node",
+          "python",
+          "full-stack",
+          "backend",
+          "remote",
+          "junior"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript, postgresql",
+        "junior/new-grad seat",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/werq-ai/jobs/fullstack-engineer",
+      "grade": "C",
+      "score": 53,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "WerQ AI",
+      "title": "Fullstack Engineer",
+      "url": "https://himalayas.app/companies/werq-ai/jobs/fullstack-engineer?utm_source=api",
+      "posted": "2026-11-27T17:51:46.000Z",
+      "location": "",
+      "reachability": {
+        "status": "open",
+        "reason": "remote worldwide"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Web-Developer",
+        "Backend-Engineer",
+        "Frontend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "postgresql"
+        ],
+        "weak": [
+          "next.js",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "automation",
+          "agentic",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: postgresql",
+        "reachable: remote worldwide",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/description-ciklum/jobs/senior-automation-qa-js-engineer",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Description Ciklum",
+      "title": "Senior Automation QA (JS) Engineer",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-automation-qa-js-engineer?utm_source=api",
+      "posted": "2026-11-27T13:11:56.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "QA-Automation-Engineer",
+        "Automation-Testing",
+        "Software-Engineer-in-Test",
+        "AI-Testing-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "platform engineer",
+          "llm"
+        ],
+        "weak": [
+          "ci/cd",
+          "backend",
+          "platform",
+          "automation",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: platform engineer, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/platinumlist/jobs/lead-ai-engineer-full-stack",
+      "grade": "C",
+      "score": 48,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Platinumlist",
+      "title": "Lead AI Engineer (Full-Stack)",
+      "url": "https://himalayas.app/companies/platinumlist/jobs/lead-ai-engineer-full-stack?utm_source=api",
+      "posted": "2026-11-27T13:27:10.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Engineer",
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript",
+          "docker",
+          "llm"
+        ],
+        "weak": [
+          "next.js",
+          "react",
+          "node",
+          "python",
+          "aws",
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "platform",
+          "pipeline"
+        ]
+      },
+      "why": [
+        "stack: typescript, docker, llm",
+        "story fit: Hireflow/klimb.io AI metering (llm)",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/pavago/jobs/full-stack-engineer-9544380624",
+      "grade": "D",
+      "score": 43,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Pavago",
+      "title": "Full Stack Engineer",
+      "url": "https://himalayas.app/companies/pavago/jobs/full-stack-engineer-9544380624?utm_source=api",
+      "posted": "2026-11-27T17:19:35.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Web-Developer",
+        "Backend-Engineer",
+        "Marketing-Technology-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "next.js",
+          "react",
+          "python",
+          "full-stack",
+          "full stack",
+          "backend",
+          "platform",
+          "automation",
+          "pipeline",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): next.js, react, python",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/xperteez-technology/jobs/sr-full-stack-software-engineer-global-remote-contract",
+      "grade": "F",
+      "score": 25,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Xperteez Technology",
+      "title": "Sr. Full-Stack Software Engineer | Global, Remote - Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/sr-full-stack-software-engineer-global-remote-contract?utm_source=api",
+      "posted": "2026-11-27T20:26:58.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Full-Stack-Developer",
+        "Web-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "node.js",
+          "typescript"
+        ],
+        "weak": [
+          "react",
+          "node",
+          "python",
+          "javascript",
+          "full-stack",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: node.js, typescript",
+        "senior-titled",
+        "location not stated (ask before investing)",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/avomind/jobs/senior-software-engineer",
+      "grade": "F",
+      "score": 23,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Avomind",
+      "title": "Senior Software Engineer",
+      "url": "https://himalayas.app/companies/avomind/jobs/senior-software-engineer?utm_source=api",
+      "posted": "2026-11-27T20:17:48.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer",
+        "Cloud-Software-Engineer",
+        ".NET-Developer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "docker"
+        ],
+        "weak": [
+          "aws",
+          "backend",
+          "platform",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker",
+        "senior-titled",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/lead-full-stack-engineer-voice-ai-integrations",
+      "grade": "F",
+      "score": -7,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Berry Virtual | MedVirtual | AI Virtual",
+      "title": "Lead Full-Stack Engineer - Voice AI & Integrations",
+      "url": "https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/lead-full-stack-engineer-voice-ai-integrations?utm_source=api",
+      "posted": "2026-11-27T20:59:10.000Z",
+      "location": "Colombia, Honduras, India, Mexico, Philippines",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Integration-Engineer",
+        "Backend-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "typescript"
+        ],
+        "weak": [
+          "python",
+          "javascript",
+          "ci/cd",
+          "full-stack",
+          "backend",
+          "platform",
+          "real-time"
+        ]
+      },
+      "why": [
+        "stack: typescript",
+        "senior-titled",
+        "7+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/akamai-technologies/jobs/senior-software-development-engineer-in-test-421917178",
+      "grade": "F",
+      "score": -17,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Akamai Technologies",
+      "title": "Senior Software Development Engineer in Test",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-development-engineer-in-test-421917178?utm_source=api",
+      "posted": "2026-11-27T19:26:03.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Software-Engineer-in-Test",
+        "Software-Test-Engineer",
+        "QA-Engineer",
+        "System-Software-Engineer",
+        "Infrastructure-Testing-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "linux",
+          "platform",
+          "automation"
+        ]
+      },
+      "why": [
+        "stack (weak): python, linux, platform",
+        "senior-titled",
+        "5+ years stated",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

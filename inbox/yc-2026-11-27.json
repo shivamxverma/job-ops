@@ -1,0 +1,43 @@
+{
+  "pulled": "2026-11-27",
+  "scanned": 528,
+  "survived": 11,
+  "hits": [
+    {
+      "id": 124787,
+      "grade": "F",
+      "score": -9,
+      "company": "Storylane",
+      "batch": "S21",
+      "title": "Senior Devops Engineer ",
+      "location": "IN / Remote (IN)",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "3+ years",
+      "salaryRange": "",
+      "equityRange": "",
+      "skills": [],
+      "oneLiner": "Build Interactive Product Demo in 10 mins for SaaS companies",
+      "createdAt": "3 days",
+      "lastActive": "about 3 hours",
+      "teamSize": 55,
+      "stage": "Early",
+      "tags": [
+        "SaaS",
+        "B2B"
+      ],
+      "website": "https://www.storylane.io/",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/storylane/jobs/2jBUKjt-senior-devops-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/storylane",
+      "why": [
+        "55-person team",
+        "remote",
+        "India-based",
+        "senior-titled",
+        "3+ years stated (stretch)",
+        "posted 3 days ago"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}

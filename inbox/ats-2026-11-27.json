@@ -1,0 +1,36 @@
+{
+  "pulled": "2026-11-27",
+  "scanned": 875,
+  "survived": 60,
+  "hits": [
+    {
+      "id": "lever:fampay:cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+      "grade": "D",
+      "score": 43,
+      "source": "lever (YC Summer 2019)",
+      "company": "FamPay",
+      "domain": "fampay.in",
+      "title": "Backend Engineering Intern",
+      "url": "https://jobs.lever.co/fampay/cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+      "posted": "2026-11-26T08:54:58.286Z",
+      "location": "Bengaluru",
+      "reachability": {
+        "status": "open",
+        "reason": "India-based"
+      },
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "backend"
+        ]
+      },
+      "why": [
+        "stack (weak): python, aws, backend",
+        "reachable: India-based",
+        "posted 0d ago"
+      ]
+    }
+  ]
+}

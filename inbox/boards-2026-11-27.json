@@ -1,7 +1,7 @@
 {
   "pulled": "2026-11-27",
-  "scanned": 360,
-  "survived": 186,
+  "scanned": 724,
+  "survived": 376,
   "hits": [
     {
       "id": "him:https://himalayas.app/companies/newsweek/jobs/ai-engineer-5371376589",
@@ -266,6 +266,184 @@
         "stack (weak): ci/cd, platform, automation",
         "senior-titled",
         "4+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "board tags it Senior",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/adfolks/jobs/azure-ai-engineer",
+      "grade": "B",
+      "score": 68,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Adfolks",
+      "title": "Azure AI Engineer",
+      "url": "https://himalayas.app/companies/adfolks/jobs/azure-ai-engineer?utm_source=api",
+      "posted": "2026-11-27T04:55:22.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Azure-AI-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "MLOps-Engineer",
+        "Cloud-AI-Engineer"
+      ],
+      "matched": {
+        "strong": [
+          "rag"
+        ],
+        "weak": [
+          "python",
+          "ci/cd",
+          "infra",
+          "platform",
+          "pipeline",
+          "agentic"
+        ]
+      },
+      "why": [
+        "stack: rag",
+        "story fit: Hireflow/klimb.io AI metering (rag)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/bjak/jobs/android-software-engineer-8158114032",
+      "grade": "F",
+      "score": 28,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Bjak",
+      "title": "Android Software Engineer",
+      "url": "https://himalayas.app/companies/bjak/jobs/android-software-engineer-8158114032?utm_source=api",
+      "posted": "2026-11-27T01:37:33.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "Android-Software-Engineer",
+        "Android-Engineer",
+        "Android-Software-Engineering",
+        "Mobile-Android-Engineer",
+        "Mobile-Engineer-(Android)",
+        "Android-Engineering",
+        "Software-Engineer",
+        "Developer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "backend",
+          "platform"
+        ]
+      },
+      "why": [
+        "stack (weak): backend, platform",
+        "3+ years stated (stretch)",
+        "reachable: restrictions include India",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/revenuebase-inc/jobs/data-engineer-930695090",
+      "grade": "F",
+      "score": 20,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "RevenueBase Inc",
+      "title": "Data Engineer",
+      "url": "https://himalayas.app/companies/revenuebase-inc/jobs/data-engineer-930695090?utm_source=api",
+      "posted": "2026-11-27T00:55:30.000Z",
+      "location": "",
+      "reachability": {
+        "status": "unknown",
+        "reason": "no location or authorization stated"
+      },
+      "tags": [
+        "Data-Engineer",
+        "Data-Engineering",
+        "Data-Engineering-Software-Engineer",
+        "Data-Engineer-Analyst",
+        "Data-Engineering-Analyst",
+        "Data-Engineering-Specialist",
+        "AI-Data-Engineer",
+        "Dataset-Engineer"
+      ],
+      "matched": {
+        "strong": [],
+        "weak": [
+          "python",
+          "aws",
+          "s3",
+          "platform",
+          "automation",
+          "etl",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack (weak): python, aws, s3",
+        "3+ years stated (stretch)",
+        "location not stated (ask before investing)",
+        "posted 0d ago"
+      ]
+    },
+    {
+      "id": "him:https://himalayas.app/companies/refold-ai/jobs/senior-ai-engineer-8135590082",
+      "grade": "F",
+      "score": 18,
+      "source": "himalayas.app",
+      "kind": "remote",
+      "company": "Refold AI",
+      "title": "Senior AI Engineer",
+      "url": "https://himalayas.app/companies/refold-ai/jobs/senior-ai-engineer-8135590082?utm_source=api",
+      "posted": "2026-11-27T03:54:41.000Z",
+      "location": "India",
+      "reachability": {
+        "status": "open",
+        "reason": "restrictions include India"
+      },
+      "tags": [
+        "AI-Engineer",
+        "AI-Engineering",
+        "Senior-Lead-AI-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "AI-ML-Engineer",
+        "Software-AI-Engineer",
+        "Applied-AI-Engineer",
+        "AI-Developer"
+      ],
+      "matched": {
+        "strong": [
+          "docker",
+          "kubernetes",
+          "llm",
+          "rag"
+        ],
+        "weak": [
+          "aws",
+          "platform",
+          "real-time",
+          "pipeline",
+          "ai agent",
+          "remote"
+        ]
+      },
+      "why": [
+        "stack: docker, kubernetes, llm, rag",
+        "story fit: Hireflow/klimb.io AI metering (llm, rag)",
+        "senior-titled",
+        "5+ years stated",
         "reachable: restrictions include India",
         "board tags it Senior",
         "posted 0d ago"

@@ -11,6 +11,8 @@ research  `[x]` = not pursuing. Set with:
   `node scripts/mark-processed.mjs "<Company>" --signals --skip`
 
 ## Active
+- [ ] **From Finnable To M — Indian Startups** — C | Sat, 28 Nov 2026 | Inc42: https://inc42.com/buzz/from-finnable-to-m-indian-startups-raised-about-147-mn-this-week/ | why: funding: raised
+
 - [ ] **Kabeer Biswas' M** — B | Fri, 27 Nov 2026 | Inc42: https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/ | why: sector: ai; funding: raises
 
 - [ ] **Vegapay** — B | Thu, 26 Nov 2026 | YourStory: https://yourstory.com/2026/11/vegapay-raises-10m-in-series-a-round-co-led-by-vertex-ventures-prosus | why: sector: platform; funding: raises

@@ -1,0 +1,48 @@
+{
+  "pulled": "2026-11-28",
+  "scanned": 567,
+  "survived": 13,
+  "hits": [
+    {
+      "id": 102876,
+      "grade": "B",
+      "score": 62,
+      "company": "Lab0",
+      "batch": "P26",
+      "title": "Founding Engineer",
+      "location": "Bengaluru, Karnataka, IN",
+      "visa": "US citizenship/visa not required",
+      "minExperience": "3+ years",
+      "salaryRange": "$30K - $60K",
+      "equityRange": "0.10% - 1.00%",
+      "skills": [
+        "Software Architecture",
+        "AI Agents"
+      ],
+      "oneLiner": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
+      "createdAt": "4 months",
+      "lastActive": "about 16 hours",
+      "teamSize": 10,
+      "stage": "Early",
+      "tags": [
+        "SaaS",
+        "B2B",
+        "Enterprise",
+        "AI"
+      ],
+      "website": "https://lab0.ai",
+      "hiringManager": null,
+      "jobUrl": "https://www.ycombinator.com/companies/lab0/jobs/hlPvGkT-founding-engineer",
+      "companyUrl": "https://www.ycombinator.com/companies/lab0",
+      "why": [
+        "stack: founding engineer",
+        "10-person team",
+        "founding-eng seat",
+        "story fit (AI vocab only): ai, ai agent, agents",
+        "India-based",
+        "3+ years stated (stretch)"
+      ],
+      "source": "yc-grid"
+    }
+  ]
+}
